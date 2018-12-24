@@ -1,0 +1,52 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+- title: Who We Are
+  url: /who-we-are/
+- title: Legislation
+  url: /legislation/
+- title: Guidelines
+  url: /guidelines/psmds/
+  sub-links:
+  - title: Definition of PSMDs
+    url: /guidelines/psmds/
+  - title: Definition of PSMs
+    url: /guidelines/psms/
+  - title: Regulatory Requirements
+    url: /guidelines/regulatory-requirements/
+  - title: Specific Guidance Material
+    url: /guidelines/specific-guidelines-material/
+  - title: Explanation on CCD and EDD
+    url: /guidelines/ccd-edd/
+  - title: Penalties
+    url: /guidelines/penalties/
+
+- title: E-Services
+  url: /left-nav-two/sub-page-C/
+  sub-links:
+  - title: Registration and Renewal
+    url: /left-nav-two/sub-page-C/
+  - title: Registered PSMDs
+    url: /left-nav-two/sub-page-D/
+  - title: Suspended/ Revoked PSMDs
+    url: /left-nav-two/sub-page-E/
+
+- title: News and Media
+  url: /news-and-media/
+  sub-links:
+  - title: All
+    url: /news-and-media/
+  - title: Press Releases
+    url: /news-and-media/press-releases/
+  - title: Events
+    url: /news-and-media/events/
+  - title: Publications
+    url: /news-and-media/publications/
+  - title: Circulars and Notices
+    url: /news-and-media/circulars-and-notices/
+
+- title: Stakeholders
+  url: /stakeholders/
