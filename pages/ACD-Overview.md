@@ -81,11 +81,11 @@ Under this regime, the requirements that apply to regulated dealers include, but
  * Perform customer due diligence measures for certain types of transactions that are prescribed by the PSMD Bill
  * File Suspicious Transaction Reports (STR) with the Suspicious Transaction Reporting Office (STRO) where there is suspicion of ML/TF 
  * File Cash Transaction Reports (CTR) with STRO for cash transactions exceeding $20,000
- * Keep records of the following:
- 	* transactions that have been prescribed by the PSMD Bill;
- 	* information obtained from customer due diligence;
- 	* CTRs that have been filed and 
- 	* STRs that have been filed
+   * Keep records of the following:
+   * transactions that have been prescribed by the PSMD Bill;
+   * information obtained from customer due diligence;
+   * CTRs that have been filed and 
+   * STRs that have been filed
  * Conduct risk assessments to determine the ML/TF risk posed by its customers and transactions
  * Put in place internal policies, procedures and controls to mitigate ML/TF risks
 <br>
@@ -100,39 +100,31 @@ Under this regime, the requirements that apply to regulated dealers include, but
 </colgroup>
   <tr>
     <th>Resources<br></th>
-    <th>Link to Website<br></th>
   </tr>
   <tr>
-    <td>Press Release for the PSMD Regime <br>(17 Jul’18)<br></td>
-    <td><a href="https://www.mlaw.gov.sg/content/minlaw/en/news/press-releases/strengthening-aml-cft-regulation-for-psmd-sector.html">https://www.mlaw.gov.sg/content/minlaw/en/news/press-releases/strengthening-aml-cft-regulation-for-psmd-sector.html</a></td>
+    <td><a href="https://www.mlaw.gov.sg/content/minlaw/en/news/press-releases/strengthening-aml-cft-regulation-for-psmd-sector.html">Press Release for the PSMD Regime <br>(17 Jul’18)<br></a></td>
   </tr>
   <tr>
-    <td>Consultation Paper for the PSMD Regime <br>(13 Sep’18)<br></td>
-    <td><a href="https://www.mlaw.gov.sg/content/minlaw/en/news/public-consultations/public-consultation-on-the-proposed-anti-money-laundering-and-co.html">https://www.mlaw.gov.sg/content/minlaw/en/news/public-consultations/public-consultation-on-the-proposed-anti-money-laundering-and-co.html</a></td>
+    <td><a href="https://www.mlaw.gov.sg/content/minlaw/en/news/public-consultations/public-consultation-on-the-proposed-anti-money-laundering-and-co.html">Consultation Paper for the PSMD Regime <br>(13 Sep’18)<br></a></td>
   </tr>
   <tr>
-    <td>Responses to Feedback received from Public Consultation <br>(27 Nov’18)  </td>
-    <td><a href="https://www.mlaw.gov.sg/content/minlaw/en/news/public-consultations/responses-feedback-public-consultation-aml-cft-regulatory-regime-for-psmds.html">https://www.mlaw.gov.sg/content/minlaw/en/news/public-consultations/responses-feedback-public-consultation-aml-cft-regulatory-regime-for-psmds.html</a><br></td>
+    <td><a href="https://www.mlaw.gov.sg/content/minlaw/en/news/public-consultations/responses-feedback-public-consultation-aml-cft-regulatory-regime-for-psmds.html">Responses to Feedback received from Public Consultation <br>(27 Nov’18) </a><br></td>
   </tr>
   <tr>
-    <td>Press Release for the PSMD Bill <br>(14 Jan’19)<br></td>
-    <td><a href="https://www.mlaw.gov.sg/content/minlaw/en/news/press-releases/new-bill-to-strengthen-prevention-of-money-laundering-terrorism-financing-PSMD-sector.html">https://www.mlaw.gov.sg/content/minlaw/en/news/press-releases/new-bill-to-strengthen-prevention-of-money-laundering-terrorism-financing-PSMD-sector.html</a><a href="https://www.mlaw.gov.sg/content/minlaw/en/news/press-releases/strengthening-aml-cft-regulation-for-psmd-sector.html%20%20%E2%80%8B">-prevention-of-money-laundering-terrorism-financing-PSMD-sector.html</a></td>
+    <td><a href="https://www.mlaw.gov.sg/content/minlaw/en/news/press-releases/new-bill-to-strengthen-prevention-of-money-laundering-terrorism-financing-PSMD-sector.html">Press Release for the PSMD Bill <br>(14 Jan’19)<br></a></td>
   </tr>
   <tr>
-    <td>Second Reading Speech of the PSMD Bill by Senior Minister of State for Law, Mr Edwin Tong <br>(11 Feb'19)</td>
-    <td><a href="https://www.mlaw.gov.sg/content/minlaw/en/news/parliamentary-speeches-and-responses/second-reading-speech-sms-edwin-tong-prevention-of-money-laundering-terrorism-financing-bill.html">https://www.mlaw.gov.sg/content/minlaw/en/news/parliamentary-speeches-and-responses/second-reading-speech-sms-edwin-tong-prevention-of-money-laundering-terrorism-financing-bill.html</a></td>
+    <td><a href="https://www.mlaw.gov.sg/content/minlaw/en/news/parliamentary-speeches-and-responses/second-reading-speech-sms-edwin-tong-prevention-of-money-laundering-terrorism-financing-bill.html">Second Reading Speech of the PSMD Bill by Senior Minister of State for Law, Mr Edwin Tong <br>(11 Feb'19)</a></td>
   </tr>
   <tr>
-    <td>The Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Bill</td>
-    <td><a href="https://www.parliament.gov.sg/docs/default-source/default-document-library/precious-stones-and-precious-metals-(prevention-of-money-laundering-and-terrorism-financing)-bill-1-2019.pdf">https://www.parliament.gov.sg/docs/default-source/default-document-library/precious-stones-and-precious-metals-(prevention-of-money-laundering-and-terrorism-financing)-bill-1-2019.pdf</a></td>
+    <td><a href="https://www.parliament.gov.sg/docs/default-source/default-document-library/precious-stones-and-precious-metals-(prevention-of-money-laundering-and-terrorism-financing)-bill-1-2019.pdf">The Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Bill</a></td>
   </tr>
   <tr>
-    <td>Cash Transaction Reporting Webpage<br></td>
-    <td><a href="https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office/cash-transaction-reporting">https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office/cash-transaction-reporting</a><br></td>
+    <td><a href="https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office/cash-transaction-reporting">Cash Transaction Reporting Webpage<br></a><br></td>
   </tr>
   <tr>
-    <td>Suspicious Transaction Reporting Webpage<br></td>
-    <td><a href="https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office/suspicious-transaction-reporting">https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office/suspicious-transaction-reporting</a><br></td>
+    <td></td>
+    <td><a href="https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office/suspicious-transaction-reporting">Suspicious Transaction Reporting Webpage<br></a><br></td>
   </tr>
 </table>
 <p align = "right"><a href="#top"><u>[back to top]</u></a></p>
