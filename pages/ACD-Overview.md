@@ -3,21 +3,21 @@ title: Overview of PSMD AML/CFT Regime
 permalink: /PSMD-Overview/
 breadcrumb: Overview of PSMD AMLCFT
 
-
 <b>
-<p align="center"><font size="=+10">Anti-Money Laundering / Countering the Financing of Terrorism Division (ACD)</font></p><br>
-<p align="center"><font size="+15">MINISTRY OF LAW</font></p>
+<p align="center"><font size="=+10">Anti-Money Laundering / Countering the Financing of Terrorism Division (ACD)</font></p>
+<p align="center"><font size="+12">MINISTRY OF LAW</font></p>
 </b>
-![PSMDs](/images/acdbanner.png)
 
-<div style ="text-align: center">
+<p align="center"><img src="https://raw.githubusercontent.com/isomerpages/mlaw-acd/master/images/acdbanner.png"></p>
+
+<p align="center">
 <a id="top"></a>
-<a href="#overview"><u>**Overview**</u></a> 
+<a href="#overview"><u><b>Overview</b></u></a> 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-<a href="#info"><u>**Information on the Regime**</u></a> 
+<a href="#info"><u><b>Information on the Regime</b></u></a> 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-<a href="#useful"><u>**Useful Links**</u></a> 
-</div>
+<a href="#useful"><u><b>Useful Links</b></u></a> 
+</p>
 <br><br><br>
 
 <p align="center"><b><a id="overview"> Overview </a> </b></p>
