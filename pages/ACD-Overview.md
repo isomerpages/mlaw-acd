@@ -4,10 +4,10 @@ permalink: /PSMD-Overview/
 breadcrumb: Overview of PSMD AMLCFT
 
 <div style ="text-align: center">
-
-### **Anti-Money Laundering / Countering the Financing of Terrorism Division (ACD)** 
-##  **MINISTRY OF LAW**
-
+<b>
+<font size="=+10">Anti-Money Laundering / Countering the Financing of Terrorism Division (ACD)</font><br>
+<font size="+15">MINISTRY OF LAW</font>
+</b>
 ![PSMDs](/images/acdbanner.png)
 
 <a id="top"></a>
