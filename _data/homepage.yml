@@ -5,15 +5,15 @@
 ##################################
 
 # Favicon
-favicon: /images/favicon-isomer.ico
+favicon: /images/mlawfavicon.ico
 
 # Agency logo
-agency-logo: /images/isomer-logo.svg
+agency-logo: /images/minlawlogo.png
 
 # Hero Banner
 hero-title: Hero title
 hero-subtitle: Hero subtitle
-hero-banner: /images/hero-banner.png
+hero-banner: /images/minlawhero.jpg
 
 #Call to Action Button
 button:
