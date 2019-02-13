@@ -50,13 +50,13 @@ A “regulated dealer” is any person who carries on a business:<br>
 (a)	selling, offering for sale, purchasing for the purpose of resale, importing for sale, possessing for sale, or manufacturing any “precious stone”, “precious metal” or “precious product”; or <br>
 (b)	selling or redeeming any “asset-backed token”. 
 
-<u>Examples</u><br>
+*Examples*
 Regulated dealers include, but are not limited to, jewellers, bullion traders, jewellery wholesalers, jewellery retailers and second-hand goods dealers. 
 Intermediaries for regulated dealing who are covered under the regime include, but are not limited to, auction houses and trading platforms. 
 Pawnbrokers are **not** regulated dealers as they are already subject to AML/CFT measures under the Pawnbrokers Act.
 
 <br>
-**What does the new regime cover?**<br>
+**What does the new regime cover?**
 “Precious stones” include diamonds, sapphires, rubies, emeralds, jade, and pearls <br>
 “Precious metals” include gold, silver, platinum, iridium, osmium, palladium, rhodium, ruthenium, and alloys with at least 2% in weight of any of the metals stated above.<br>
 “Precious products” include, but are not limited to, any jewellery, watch, apparel, accessory, ornament or other finished product that is:<br>
@@ -70,7 +70,7 @@ An “asset-backed token” is any token, certificate or instrument: <br>
 Asset-backed tokens **do not include** securities or derivative contracts within the meaning of the Securities and Futures Act, or commodity contracts within the meaning of the Commodity Trading Act. Securities contracts, derivative contracts and commodity contracts are **not** covered under the new regime.
 
 <br>
-**What do regulated dealers have to do?** <br>
+**What do regulated dealers have to do?**
 Under this regime, the requirements that apply to regulated dealers include, but are not limited to, the following:
 -	Register their business with the Ministry of Law
 -	Perform customer due diligence measures for certain types of transactions that are prescribed by the PSMD Bill
