@@ -7,9 +7,9 @@ breadcrumb: Overview of PSMD AMLCFT
 <p align="center"><font size="=+10">Anti-Money Laundering / Countering the Financing of Terrorism Division (ACD)</font></p>
 <p align="center"><font size="+12">MINISTRY OF LAW</font></p>
 </b>
-
+<br><br>
 <p align="center"><img src="https://raw.githubusercontent.com/isomerpages/mlaw-acd/master/images/acdbanner.png"></p>
-
+<br><br>
 <p align="center">
 <a id="top"></a>
 <a href="#overview"><u><b>Overview</b></u></a> 
@@ -18,7 +18,7 @@ breadcrumb: Overview of PSMD AMLCFT
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 <a href="#useful"><u><b>Useful Links</b></u></a> 
 </p>
-<br><br><br>
+<br><br>
 
 <p align="center"><b><a id="overview"> Overview </a> </b></p>
 
