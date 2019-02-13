@@ -92,9 +92,9 @@ Under this regime, the requirements that apply to regulated dealers include, but
 <br><br><br>
 <p align ="center"><b><a id="useful"> Useful Links </a> </b></p>
 
-<table style="undefined;table-layout: fixed; width: 700px">
+<table style="undefined;table-layout: fixed; width: 800px">
 <colgroup>
-<col style="width: 700px">
+<col style="width: 800px">
 </colgroup>
   <tr>
     <th>Resources<br></th>
