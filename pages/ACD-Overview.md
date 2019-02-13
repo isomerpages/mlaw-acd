@@ -81,7 +81,7 @@ Under this regime, the requirements that apply to regulated dealers include, but
  * Perform customer due diligence measures for certain types of transactions that are prescribed by the PSMD Bill
  * File Suspicious Transaction Reports (STR) with the Suspicious Transaction Reporting Office (STRO) where there is suspicion of ML/TF 
  * File Cash Transaction Reports (CTR) with STRO for cash transactions exceeding $20,000
-   * Keep records of the following:
+ * Keep records of the following:
    * transactions that have been prescribed by the PSMD Bill;
    * information obtained from customer due diligence;
    * CTRs that have been filed and 
@@ -101,19 +101,19 @@ Under this regime, the requirements that apply to regulated dealers include, but
     <th>Resources<br></th>
   </tr>
   <tr>
-    <td><a href="https://www.mlaw.gov.sg/content/minlaw/en/news/press-releases/strengthening-aml-cft-regulation-for-psmd-sector.html">Press Release for the PSMD Regime <br>(17 Jul’18)<br></a></td>
+    <td><a href="https://www.mlaw.gov.sg/content/minlaw/en/news/press-releases/strengthening-aml-cft-regulation-for-psmd-sector.html">Press Release for the PSMD Regime (17 Jul’18)<br></a></td>
   </tr>
   <tr>
-    <td><a href="https://www.mlaw.gov.sg/content/minlaw/en/news/public-consultations/public-consultation-on-the-proposed-anti-money-laundering-and-co.html">Consultation Paper for the PSMD Regime <br>(13 Sep’18)<br></a></td>
+    <td><a href="https://www.mlaw.gov.sg/content/minlaw/en/news/public-consultations/public-consultation-on-the-proposed-anti-money-laundering-and-co.html">Consultation Paper for the PSMD Regime (13 Sep’18)<br></a></td>
   </tr>
   <tr>
-    <td><a href="https://www.mlaw.gov.sg/content/minlaw/en/news/public-consultations/responses-feedback-public-consultation-aml-cft-regulatory-regime-for-psmds.html">Responses to Feedback received from Public Consultation <br>(27 Nov’18) </a><br></td>
+    <td><a href="https://www.mlaw.gov.sg/content/minlaw/en/news/public-consultations/responses-feedback-public-consultation-aml-cft-regulatory-regime-for-psmds.html">Responses to Feedback received from Public Consultation (27 Nov’18) </a><br></td>
   </tr>
   <tr>
-    <td><a href="https://www.mlaw.gov.sg/content/minlaw/en/news/press-releases/new-bill-to-strengthen-prevention-of-money-laundering-terrorism-financing-PSMD-sector.html">Press Release for the PSMD Bill <br>(14 Jan’19)<br></a></td>
+    <td><a href="https://www.mlaw.gov.sg/content/minlaw/en/news/press-releases/new-bill-to-strengthen-prevention-of-money-laundering-terrorism-financing-PSMD-sector.html">Press Release for the PSMD Bill (14 Jan’19)<br></a></td>
   </tr>
   <tr>
-    <td><a href="https://www.mlaw.gov.sg/content/minlaw/en/news/parliamentary-speeches-and-responses/second-reading-speech-sms-edwin-tong-prevention-of-money-laundering-terrorism-financing-bill.html">Second Reading Speech of the PSMD Bill by Senior Minister of State for Law, Mr Edwin Tong <br>(11 Feb'19)</a></td>
+    <td><a href="https://www.mlaw.gov.sg/content/minlaw/en/news/parliamentary-speeches-and-responses/second-reading-speech-sms-edwin-tong-prevention-of-money-laundering-terrorism-financing-bill.html">Second Reading Speech of the PSMD Bill by Senior Minister of State for Law, Mr Edwin Tong (11 Feb'19)</a></td>
   </tr>
   <tr>
     <td><a href="https://www.parliament.gov.sg/docs/default-source/default-document-library/precious-stones-and-precious-metals-(prevention-of-money-laundering-and-terrorism-financing)-bill-1-2019.pdf">The Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Bill</a></td>
