@@ -123,7 +123,6 @@ Under this regime, the requirements that apply to regulated dealers include, but
     <td><a href="https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office/cash-transaction-reporting">Cash Transaction Reporting Webpage<br></a><br></td>
   </tr>
   <tr>
-    <td></td>
     <td><a href="https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office/suspicious-transaction-reporting">Suspicious Transaction Reporting Webpage<br></a><br></td>
   </tr>
 </table>
