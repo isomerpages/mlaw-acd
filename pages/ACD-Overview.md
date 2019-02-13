@@ -21,7 +21,7 @@ breadcrumb: Overview of PSMD AMLCFT
 </p>
 <br><br>
 
-<p align="center"><b><a id="overview" style="text-decoration:none; text-decoration-color:black">Overview</a></b></p>
+<p align="center"><b><a id="overview" style="text-decoration:none">Overview</a></b></p>
 
 The Ministry of Law will put in place a new anti-money laundering and countering the financing of terrorism (“**AML/CFT**”) regulatory regime for precious stones and precious metals dealers (“**PSMDs**”) in Singapore. 
 
