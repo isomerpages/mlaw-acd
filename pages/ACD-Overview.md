@@ -95,7 +95,6 @@ Under this regime, the requirements that apply to regulated dealers include, but
 
 <table style="undefined;table-layout: fixed; width: 1396px">
 <colgroup>
-<col style="width: 379px">
 <col style="width: 1017px">
 </colgroup>
   <tr>
