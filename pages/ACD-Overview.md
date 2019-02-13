@@ -93,9 +93,9 @@ Under this regime, the requirements that apply to regulated dealers include, but
 <br><br><br>
 <p align ="center"><b><a id="useful"> Useful Links </a> </b></p>
 
-<table style="undefined;table-layout: fixed; width: 1396px">
+<table style="undefined;table-layout: fixed; width: 700px">
 <colgroup>
-<col style="width: 1017px">
+<col style="width: 700px">
 </colgroup>
   <tr>
     <th>Resources<br></th>
@@ -119,10 +119,10 @@ Under this regime, the requirements that apply to regulated dealers include, but
     <td><a href="https://www.parliament.gov.sg/docs/default-source/default-document-library/precious-stones-and-precious-metals-(prevention-of-money-laundering-and-terrorism-financing)-bill-1-2019.pdf">The Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Bill</a></td>
   </tr>
   <tr>
-    <td><a href="https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office/cash-transaction-reporting">Cash Transaction Reporting Webpage<br></a><br></td>
+    <td><a href="https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office/cash-transaction-reporting">Cash Transaction Reporting Webpage</a><br></td>
   </tr>
   <tr>
-    <td><a href="https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office/suspicious-transaction-reporting">Suspicious Transaction Reporting Webpage<br></a><br></td>
+    <td><a href="https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office/suspicious-transaction-reporting">Suspicious Transaction Reporting Webpage</a><br></td>
   </tr>
 </table>
 <p align = "right"><a href="#top"><u>[back to top]</u></a></p>
