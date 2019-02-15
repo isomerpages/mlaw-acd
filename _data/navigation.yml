@@ -4,8 +4,21 @@
 #                                #
 ##################################
 
-- title: Who We Are
-  url: /who-we-are/
+- title: About Us
+  url: https://www.mlaw.gov.sg/content/minlaw/en/about-us/our-mission-and-core-values.html
+- sub-links
+  - title: Our Vision, Mission and Core Values
+    url: https://www.mlaw.gov.sg/content/minlaw/en/about-us/our-mission-and-core-values.html
+  - title: Our Management
+    url: https://www.mlaw.gov.sg/content/minlaw/en/about-us/our-management.html
+  - title: Organisation Structure
+    url: https://www.mlaw.gov.sg/content/minlaw/en/about-us/organisation-structure.html
+  - title: What We Do
+    url: https://www.mlaw.gov.sg/content/minlaw/en/about-us/what-we-do.html
+  - title: Contact Us
+    url: https://www.mlaw.gov.sg/content/minlaw/en/about-us/contact-us.html
+ 
+    
 - title: Legislation
   url: /legislation/
 - title: Guidelines
