@@ -29,7 +29,7 @@ The new AML/CFT regime will mitigate these ML and TF risks, level up AML/CFT sta
 
 The Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Bill (“**PSMD Bill**”) was passed by Parliament on 11 February 2019. The new law is expected to take effect in the second quarter of 2019.
 
-![ML/TF Risks](/images/mltfrisks.png) ![Safeguarding](/images/safeguarding.png)
+![ML/TF Risks](/images/MoneyLaundering%26TerrorismFinancingRisks.jpg) ![Safeguarding](/images/SafeguardingPSMDsector.jpg)
 
 **Registration** <br>
 Regulated dealers are required to register their business with the Ministry of Law. More information on the registration process will be provided at a later date. The Ministry of Law will provide further guidance when the details have been finalised and will conduct outreach efforts to ensure that regulated dealers are well-placed to comply with the new regime. 
