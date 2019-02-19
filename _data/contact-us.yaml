@@ -8,8 +8,8 @@
 
 locations:
   # Ministry of Law Services Centre [REQUIRED]
-  - title:
-    address: 45 Maxwell Road<br>The URA Centre (East Wing), #07-11<br>Singapore 069118
+  - title: Ministry of Law Services Centre 
+    address: 45 Maxwell Road<br>#07-11, The URA Centre (East Wing)<br>Singapore 069118
     find-directions: https://www.google.com.sg/maps/place/The+URA+Centre+East+Wing/@1.280233,103.84344,17z/data=!3m1!4b1!4m5!3m4!1s0x31da190d44cd2a57:0x712fd67a8cd5acc7!8m2!3d1.280233!4d103.8456287  # Counter Operating Hours [OPTIONAL]
     operating-hours:
       - days: Mon - Fri
