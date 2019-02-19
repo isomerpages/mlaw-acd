@@ -11,8 +11,8 @@ favicon: /images/mlawfavicon.ico
 agency-logo: /images/minlawlogo.png
 
 # Hero Banner
-hero-title: Hero title
-hero-subtitle: Hero subtitle
+hero-title: Regulatory Regime for Precious Stones and Precious Metals Dealers
+hero-subtitle: Anti-Money Laundering and Counter-Terrorist Financing Regulation
 hero-banner: /images/minlawhero.jpg
 
 #Call to Action Button
@@ -21,12 +21,7 @@ button:
     url: /who-we-are/
     
 key-highlights:
-  - title: Highlight A
-    description: Important highlight A is important
-    url: https://google.com
-    external: true
-
-resources-title: Resources
-resources-subtitle: Be in the know
-resources-more-button: More Resources
-resources-more-button-url: resource-room/
+  - title: Ministry of Law Home
+    description: Return to the Ministry of Law homepage
+    url: https://www.mlaw.gov.sg/content/minlaw/en.html
+    external: false
