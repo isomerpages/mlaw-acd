@@ -1,10 +1,8 @@
----
-layout: leftnav-page-content
-title: Specific Guidelines Material
-permalink: /guidelines/specific-guidelines-material/
-breadcrumb: Specific Guidelines Material
-collection_name: guidelines
----
+//layout: leftnav-page-content
+//title: Specific Guidelines Material
+//permalink: /guidelines/specific-guidelines-material/
+//breadcrumb: Specific Guidelines Material
+//collection_name: guidelines
 
 #### Specific Guidelines Material
 
