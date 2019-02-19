@@ -14,11 +14,6 @@ agency-logo: /images/minlawlogo.png
 hero-title: Regulatory Regime for Precious Stones and Precious Metals Dealers
 hero-subtitle: Anti-Money Laundering and Counter-Terrorist Financing Regulation
 hero-banner: /images/minlawhero.jpg
-
-#Call to Action Button
-button:
-  - text: Learn More
-    url: /who-we-are/
     
 key-highlights:
   - title: Ministry of Law Home
