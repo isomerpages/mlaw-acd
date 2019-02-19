@@ -25,3 +25,8 @@ key-highlights:
     description: Return to the Ministry of Law homepage
     url: https://www.mlaw.gov.sg/content/minlaw/en.html
     external: false
+
+resources-title: News
+resources-subtitle: Stay Updated
+resources-more-button: More Information
+resources-more-button-url: /PSMD-Overview/
