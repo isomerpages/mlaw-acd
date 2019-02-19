@@ -15,8 +15,6 @@
     url: https://www.mlaw.gov.sg/content/minlaw/en/about-us/organisation-structure.html
   - title: What We Do
     url: https://www.mlaw.gov.sg/content/minlaw/en/about-us/what-we-do.html
-  - title: Contact Us
-    url: https://www.mlaw.gov.sg/content/minlaw/en/about-us/contact-us.html
 
 - title: Our Work
   url: https://www.mlaw.gov.sg/content/minlaw/en/our-work/legal-group.html
@@ -33,31 +31,8 @@
     url: https://www.mlaw.gov.sg/content/minlaw/en/our-work/intellectual-property-policy.html
   - title: Community Legal Services Group
     url: https://www.mlaw.gov.sg/content/minlaw/en/our-work/community-legal-services-group.html
-    
-- title: News
-  url: https://www.mlaw.gov.sg/content/minlaw/en/news.html
-  sub-links:
-  - title: Press releases
-    url: https://www.mlaw.gov.sg/content/minlaw/en/news/press-releases.html
-  - title: Announcements
-    url: https://www.mlaw.gov.sg/content/minlaw/en/news/announcements.html
-  - title: Replies
-    url: https://www.mlaw.gov.sg/content/minlaw/en/news/replies.html
-  - title: Speeches
-    url: https://www.mlaw.gov.sg/content/minlaw/en/news/speeches.html
-  - title: Parliamentary speeches and responses
-    url: https://www.mlaw.gov.sg/content/minlaw/en/news/parliamentary-speeches-and-responses.html
-  - title: Visits
-    url: https://www.mlaw.gov.sg/content/minlaw/en/news/visits.html
-  - title: Public consultations
-    url: https://www.mlaw.gov.sg/content/minlaw/en/news/public-consultations.html
-  - title: Legal Industry Newsletters
-    url: https://www.mlaw.gov.sg/content/minlaw/en/news/legal-industry-newsletters.html
-  - title: Others 
-    url: https://www.mlaw.gov.sg/content/minlaw/en/news/videos.html
-
-- title: Our Legal System
-  url: https://www.mlaw.gov.sg/content/minlaw/en/our-legal-system.html
+  - title: Our Legal System
+    url: https://www.mlaw.gov.sg/content/minlaw/en/our-legal-system.html    
 
 - title: Law Firms
   url: https://www.mlaw.gov.sg/content/minlaw/en/legal-industry/licensing-or-registration-of-law-practice-entities0/types-of-licence-or-registration.html
@@ -95,6 +70,30 @@
   - title: FAQ
     url: https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.html
 
+- title: News
+  url: https://www.mlaw.gov.sg/content/minlaw/en/news.html
+  sub-links:
+  - title: All
+    url: https://www.mlaw.gov.sg/content/minlaw/en/news.html
+  - title: Press Releases
+    url: https://www.mlaw.gov.sg/content/minlaw/en/news/press-releases.html
+  - title: Announcements
+    url: https://www.mlaw.gov.sg/content/minlaw/en/news/announcements.html
+  - title: Replies
+    url: https://www.mlaw.gov.sg/content/minlaw/en/news/replies.html
+  - title: Speeches
+    url: https://www.mlaw.gov.sg/content/minlaw/en/news/speeches.html
+  - title: Parliamentary Speeches
+    url: https://www.mlaw.gov.sg/content/minlaw/en/news/parliamentary-speeches-and-responses.html
+  - title: Visits
+    url: https://www.mlaw.gov.sg/content/minlaw/en/news/visits.html
+  - title: Public Consultations
+    url: https://www.mlaw.gov.sg/content/minlaw/en/news/public-consultations.html
+  - title: Legal Industry Newsletters
+    url: https://www.mlaw.gov.sg/content/minlaw/en/news/legal-industry-newsletters.html
+  - title: Others 
+    url: https://www.mlaw.gov.sg/content/minlaw/en/news/videos.html
+
 - title: E-Services
   url: https://www.mlaw.gov.sg/content/minlaw/en/eservices.html
   sub-links:
@@ -114,17 +113,6 @@
     url: https://www.mlaw.gov.sg/content/cmc/en/E-Services.html
   - title: Legal Aid Bureau
     url: https://www.mlaw.gov.sg/eservices/labesvc/
-    
-- title: Join Us
-  url: https://www.mlaw.gov.sg/content/minlaw/en/join-us/why-join-minlaw.html
-  sub-links:
-  - title: Why Join MinLaw
-    url: https://www.mlaw.gov.sg/content/minlaw/en/join-us/why-join-minlaw.html
-  - title: Career Opportunities
-    url: https://www.mlaw.gov.sg/content/minlaw/en/join-us/career-opportunities0.html
-  - title: Meet Our Colleagues
-    url: https://www.mlaw.gov.sg/content/minlaw/en/join-us/MeetOurColleagues.html
-  - title: MinLaw Internship Programme
-    url: https://www.mlaw.gov.sg/content/minlaw/en/join-us/career-opportunities01.html
-  - title: Meet Our Interns
-    url: https://www.mlaw.gov.sg/content/minlaw/en/join-us/MinLaw_Interns_Testimonial.html
+   
+- title: Contact Us
+  url: https://www.mlaw.gov.sg/content/minlaw/en/about-us/contact-us.html
