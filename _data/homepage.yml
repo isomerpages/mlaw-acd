@@ -25,13 +25,6 @@ key-highlights:
     description: Important highlight A is important
     url: https://google.com
     external: true
-  - title: Highlight B
-    description: Important highlight B is equally important
-    url: https://yahoo.com
-    external: true
-  - title: Page A
-    description: Page A is important too
-    url: /page-A/
 
 resources-title: Resources
 resources-subtitle: Be in the know
