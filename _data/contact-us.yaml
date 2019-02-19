@@ -30,7 +30,7 @@ column:
 
   - title: Contact Us @ OneMinLaw
     content:
-    - line: <a href="https://www.mlaw.gov.sg/content/minlaw/en/about-us/contact-us.html">https://www.mlaw.gov.sg/content/minlaw/en/about-us/contact-us.html</a>
+    - line: Have questions?<br><p align="center"><a href="https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx"><img src="https://raw.githubusercontent.com/isomerpages/mlaw-acd/minlawjh-patch-1/images/mlaw-faq.png"></p></a>
 
 # Image
 image-url:
