@@ -17,8 +17,10 @@
     url: https://www.mlaw.gov.sg/content/minlaw/en/about-us/what-we-do.html
 
 - title: Our Work
-  url: https://www.mlaw.gov.sg/content/minlaw/en/our-work/legal-group.html
+  url: /psmd-overview/
   sub-links:
+  - title: Anti-Money Laundering / Countering the Financing of Terrorism Division
+    url: /psmd-overview/
   - title: Legal Group
     url: https://www.mlaw.gov.sg/content/minlaw/en/our-work/legal-group.html
   - title: Legal Industry Division
@@ -32,7 +34,7 @@
   - title: Community Legal Services Group
     url: https://www.mlaw.gov.sg/content/minlaw/en/our-work/community-legal-services-group.html
   - title: Our Legal System
-    url: https://www.mlaw.gov.sg/content/minlaw/en/our-legal-system.html    
+    url: https://www.mlaw.gov.sg/content/minlaw/en/our-legal-system.html
 
 - title: Law Firms
   url: https://www.mlaw.gov.sg/content/minlaw/en/legal-industry/licensing-or-registration-of-law-practice-entities0/types-of-licence-or-registration.html
