@@ -11,9 +11,14 @@ favicon: /images/mlawfavicon.ico
 agency-logo: /images/minlawlogo.png
 
 # Hero Banner
-hero-title: Regulatory Regime for Precious Stones and Precious Metals Dealers
-hero-subtitle: Anti-Money Laundering and Counter-Terrorist Financing Regulation
-hero-banner: /images/minlawhero.jpg
+hero-title: New Regulatory Regime
+hero-subtitle: for Precious Stones and Precious Metals Sector
+hero-banner: /images/precious product.jpg
+    
+#Call to Action Button
+button:
+  - text: Learn More
+    url: /PSMD-Overview/
     
 key-highlights:
   - title: Ministry of Law Home
