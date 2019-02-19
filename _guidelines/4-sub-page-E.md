@@ -1,10 +1,8 @@
----
-layout: leftnav-page-content
-title: Explanation on CCD and EDD
-permalink: /guidelines/ccd-edd/
-breadcrumb: Explanation on CCD and EDD
-collection_name: guidelines
----
+//layout: leftnav-page-content
+//title: Explanation on CCD and EDD
+//permalink: /guidelines/ccd-edd/
+//breadcrumb: Explanation on CCD and EDD
+//collection_name: guidelines
 
 #### Explanation on CCD and EDD
 

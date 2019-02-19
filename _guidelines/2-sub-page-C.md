@@ -1,10 +1,8 @@
----
-layout: leftnav-page-content
-title: Overview of Regulatory Requirements
-permalink: /guidelines/regulatory-requirements/
-breadcrumb: Regulatory Requirements
-collection_name: guidelines
----
+//layout: leftnav-page-content
+//title: Overview of Regulatory Requirements
+//permalink: /guidelines/regulatory-requirements/
+//breadcrumb: Regulatory Requirements
+//collection_name: guidelines
 
 #### Overview of Regulatory Requirements
 

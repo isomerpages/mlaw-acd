@@ -1,10 +1,9 @@
----
-layout: leftnav-page-content
-title: Definition of PSMDs
-permalink: /guidelines/psmds/
-breadcrumb: Definition of PSMDs
-collection_name: guidelines
----
+//layout: leftnav-page-content
+//title: Definition of PSMDs
+//permalink: /guidelines/psmds/
+//breadcrumb: Definition of PSMDs
+//collection_name: guidelines
+
 
 #### Definition of PSMDs
 

@@ -1,10 +1,8 @@
----
-layout: leftnav-page-content
-title: Penalties
-permalink: /guidelines/penalties/
-breadcrumb: Penalties
-collection_name: guidelines
----
+//layout: leftnav-page-content
+//title: Penalties
+//permalink: /guidelines/penalties/
+//breadcrumb: Penalties
+//collection_name: guidelines
 
 #### Penalties
 

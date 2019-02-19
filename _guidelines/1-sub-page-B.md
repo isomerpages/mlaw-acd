@@ -1,10 +1,9 @@
----
-layout: leftnav-page-content
-title: Definition of PSMs
-permalink: /guidelines/psms/
-breadcrumb: Definition of PSMs
-collection_name: guidelines
----
+//layout: leftnav-page-content
+//title: Definition of PSMs
+//permalink: /guidelines/psms/
+//breadcrumb: Definition of PSMs
+//collection_name: guidelines
+
 
 #### Definition of PSMs
 
