@@ -33,7 +33,8 @@ The Precious Stones and Precious Metals (Prevention of Money Laundering and Terr
 ![ML/TF Risks](/images/MoneyLaundering%26TerrorismFinancingRisks.jpg) ![Safeguarding](/images/SafeguardingPSMDsector.jpg)
 
 **Registration** <br>
-Regulated dealers are required to register their business with the Ministry of Law and will have up to 6 months to register after the PSMD Bill takes effect. More information on the registration process will be provided at a later date. The Ministry of Law will provide further guidance when the details have been finalised and will conduct outreach efforts to ensure that regulated dealers are well-placed to comply with the new regime. 
+Regulated dealers are required to register their business with the Ministry of Law and will have up to 6 months to register after the PSMD Bill takes effect. More information on the registration process will be provided at a later date. <br><br>
+The Ministry of Law will provide further guidance when the details have been finalised and will conduct outreach efforts to ensure that regulated dealers are well-placed to comply with the new regime. 
 
 <p align = "right"><a href="#top"><u>[back to top]</u></a></p>
 <br><br><br>
@@ -52,9 +53,8 @@ A “regulated dealer” is any person who carries on a business:<br>
 
 **Examples** <br>
 Regulated dealers include, but are not limited to, jewellers, bullion traders, jewellery wholesalers, jewellery retailers and second-hand goods dealers. The regime also applies to regulated dealers who are based overseas but carry on a business of regulated dealing in Singapore.<br>
-Intermediaries for regulated dealing who are covered under the regime include, but are not limited to, auction houses and trading platforms.<br>
-Pawnbrokers are **not** regulated dealers as they are already subject to AML/CFT measures under the Pawnbrokers Act.<br>
-Importantly, the regime does not intend to cover individuals who make one-off purchases and subsequently decide to sell their items to a second-hand goods dealer.
+Intermediaries for regulated dealing who are covered under the regime include, but are not limited to, auction houses and trading platforms.<br><br>
+Importantly, the regime does **not** intend to cover individuals who make one-off purchases and subsequently decide to sell their items to a second-hand goods dealer. Further, pawnbrokers are **not** regulated dealers as they are already subject to AML/CFT measures under the Pawnbrokers Act.<br>
 <br>
 
 **What does the new regime cover?** <br>
@@ -77,8 +77,8 @@ Asset-backed tokens **do not include** securities or derivative contracts within
 Under this regime, the requirements that apply to regulated dealers include, but are not limited to, the following:
  * Register their business with the Ministry of Law within 6 months after the PSMD Bill takes effect
  * Perform customer due diligence measures for certain types of transactions that are prescribed by the PSMD Bill
- * File Suspicious Transaction Reports (STR) with the Suspicious Transaction Reporting Office (STRO) and the Ministry of Law where there is suspicion of ML/TF 
- * File Cash Transaction Reports (CTR) with STRO and the Ministry of Law for cash transactions exceeding $20,000
+ * File Suspicious Transaction Reports (**STR**) with the Suspicious Transaction Reporting Office (**STRO**) and the Ministry of Law where there is suspicion of ML/TF 
+ * File Cash Transaction Reports (**CTR**) with STRO and the Ministry of Law for cash transactions exceeding $20,000
  * Keep records of the following documents/information for a period of five years or such other prescribed period:
    * transactions that have been prescribed by the PSMD Bill;
    * information obtained from customer due diligence;
