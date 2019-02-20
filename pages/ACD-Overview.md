@@ -26,14 +26,14 @@ The Ministry of Law will put in place a new anti-money laundering and countering
 
 The PSMD sector is exposed to inherent money-laundering (“**ML**”) and terrorism financing (“**TF**”) risks, as precious stones and precious metals are good stores of value, easily transported and concealed, and easily convertible to cash. 
 
-The new AML/CFT regime will mitigate these ML and TF risks, level up AML/CFT standards and increase trust within the sector.
+The new AML/CFT regime will strengthen existing measures against ML/TF risks by establishing a comprehensive supervisory and regulatory regime that is risk-focused and which addresses the specific ML/TF risks in the PSMD sector. 
 
-The Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Bill (“**PSMD Bill**”) was passed by Parliament on 11 February 2019. The new law is expected to take effect in the second quarter of 2019.
+The Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Bill (“**PSMD Bill**”) was passed by Parliament on 11 February 2019. The PSMD Bill is now being reviewed by the President and is expected to take effect in the second quarter of 2019.
 
 ![ML/TF Risks](/images/MoneyLaundering%26TerrorismFinancingRisks.jpg) ![Safeguarding](/images/SafeguardingPSMDsector.jpg)
 
 **Registration** <br>
-Regulated dealers are required to register their business with the Ministry of Law. More information on the registration process will be provided at a later date. The Ministry of Law will provide further guidance when the details have been finalised and will conduct outreach efforts to ensure that regulated dealers are well-placed to comply with the new regime. 
+Regulated dealers are required to register their business with the Ministry of Law and will have up to 6 months to register after the PSMD Bill takes effect. More information on the registration process will be provided at a later date. The Ministry of Law will provide further guidance when the details have been finalised and will conduct outreach efforts to ensure that regulated dealers are well-placed to comply with the new regime. 
 
 <p align = "right"><a href="#top"><u>[back to top]</u></a></p>
 <br><br><br>
@@ -51,10 +51,10 @@ A “regulated dealer” is any person who carries on a business:<br>
 (b)	selling or redeeming any “asset-backed token”. 
 
 **Examples** <br>
-Regulated dealers include, but are not limited to, jewellers, bullion traders, jewellery wholesalers, jewellery retailers and second-hand goods dealers. 
-Intermediaries for regulated dealing who are covered under the regime include, but are not limited to, auction houses and trading platforms. 
-Pawnbrokers are **not** regulated dealers as they are already subject to AML/CFT measures under the Pawnbrokers Act.
-
+Regulated dealers include, but are not limited to, jewellers, bullion traders, jewellery wholesalers, jewellery retailers and second-hand goods dealers. The regime also applies to regulated dealers who are based overseas but carry on a business of regulated dealing in Singapore.<br>
+Intermediaries for regulated dealing who are covered under the regime include, but are not limited to, auction houses and trading platforms.<br>
+Pawnbrokers are **not** regulated dealers as they are already subject to AML/CFT measures under the Pawnbrokers Act.<br>
+Importantly, the regime does not intend to cover individuals who make one-off purchases and subsequently decide to sell their items to a second-hand goods dealer.
 <br>
 
 **What does the new regime cover?** <br>
@@ -75,17 +75,17 @@ Asset-backed tokens **do not include** securities or derivative contracts within
 **What do regulated dealers have to do?** <br>
 
 Under this regime, the requirements that apply to regulated dealers include, but are not limited to, the following:
- * Register their business with the Ministry of Law
+ * Register their business with the Ministry of Law within 6 months after the PSMD Bill takes effect
  * Perform customer due diligence measures for certain types of transactions that are prescribed by the PSMD Bill
- * File Suspicious Transaction Reports (STR) with the Suspicious Transaction Reporting Office (STRO) where there is suspicion of ML/TF 
- * File Cash Transaction Reports (CTR) with STRO for cash transactions exceeding $20,000
- * Keep records of the following:
+ * File Suspicious Transaction Reports (STR) with the Suspicious Transaction Reporting Office (STRO) and the Ministry of Law where there is suspicion of ML/TF 
+ * File Cash Transaction Reports (CTR) with STRO and the Ministry of Law for cash transactions exceeding $20,000
+ * Keep records of the following documents/information for a period of five years or such other prescribed period:
    * transactions that have been prescribed by the PSMD Bill;
    * information obtained from customer due diligence;
    * CTRs that have been filed and 
    * STRs that have been filed
  * Conduct risk assessments to determine the ML/TF risk posed by its customers and transactions
- * Put in place internal policies, procedures and controls to mitigate ML/TF risks
+ * Put in place internal policies, procedures and controls to mitigate the specific ML/TF risks identified by their risk assessments
 <br>
 <p align = "right"><a href="#top"><u>[back to top]</u></a></p>
 <br><br><br>
@@ -111,7 +111,8 @@ Under this regime, the requirements that apply to regulated dealers include, but
     <td><a href="https://www.mlaw.gov.sg/content/minlaw/en/news/press-releases/new-bill-to-strengthen-prevention-of-money-laundering-terrorism-financing-PSMD-sector.html">Press Release for the PSMD Bill (14 Jan’19)<br></a></td>
   </tr>
   <tr>
-    <td><a href="https://www.mlaw.gov.sg/content/minlaw/en/news/parliamentary-speeches-and-responses/second-reading-speech-sms-edwin-tong-prevention-of-money-laundering-terrorism-financing-bill.html">Second Reading Speech of the PSMD Bill by Senior Minister of State for Law, Mr Edwin Tong (11 Feb'19)</a></td>
+    <td><a href="https://www.mlaw.gov.sg/content/minlaw/en/news/parliamentary-speeches-and-responses/second-reading-speech-sms-edwin-tong-prevention-of-money-laundering-terrorism-financing-bill.html">Second Reading Speech of the PSMD Bill by Senior Minister of State for Law, Mr Edwin Tong (11 Feb'19)</a><
+      /td>
   </tr>
   <tr>
     <td><a href="https://www.parliament.gov.sg/docs/default-source/default-document-library/precious-stones-and-precious-metals-(prevention-of-money-laundering-and-terrorism-financing)-bill-1-2019.pdf">The Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Bill</a></td>
