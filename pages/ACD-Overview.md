@@ -76,11 +76,11 @@ Asset-backed tokens **do not include** securities or derivative contracts within
 
 Under this regime, the requirements that apply to regulated dealers include, but are not limited to, the following:
  * Register their business with the Ministry of Law within 6 months after the PSMD Bill takes effect
- * Perform customer due diligence measures for certain types of transactions that are prescribed by the PSMD Bill
+ * Perform customer due diligence measures under circumstances that are prescribed by the PSMD Bill
  * File Suspicious Transaction Reports (**STR**) with the Suspicious Transaction Reporting Office (**STRO**) and the Ministry of Law where there is suspicion of ML/TF 
  * File Cash Transaction Reports (**CTR**) with STRO and the Ministry of Law for cash transactions exceeding $20,000
  * Keep records of the following documents/information for a period of five years or such other prescribed period:
-   * transactions that have been prescribed by the PSMD Bill;
+   * transactions where customer due diligence was conducted;
    * information obtained from customer due diligence;
    * CTRs that have been filed and 
    * STRs that have been filed
