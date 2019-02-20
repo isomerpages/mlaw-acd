@@ -111,8 +111,7 @@ Under this regime, the requirements that apply to regulated dealers include, but
     <td><a href="https://www.mlaw.gov.sg/content/minlaw/en/news/press-releases/new-bill-to-strengthen-prevention-of-money-laundering-terrorism-financing-PSMD-sector.html">Press Release for the PSMD Bill (14 Jan’19)<br></a></td>
   </tr>
   <tr>
-    <td><a href="https://www.mlaw.gov.sg/content/minlaw/en/news/parliamentary-speeches-and-responses/second-reading-speech-sms-edwin-tong-prevention-of-money-laundering-terrorism-financing-bill.html">Second Reading Speech of the PSMD Bill by Senior Minister of State for Law, Mr Edwin Tong (11 Feb'19)</a><
-      /td>
+    <td><a href="https://www.mlaw.gov.sg/content/minlaw/en/news/parliamentary-speeches-and-responses/second-reading-speech-sms-edwin-tong-prevention-of-money-laundering-terrorism-financing-bill.html">Second Reading Speech of the PSMD Bill by Senior Minister of State for Law, Mr Edwin Tong (11 Feb'19)</a></td>
   </tr>
   <tr>
     <td><a href="https://www.parliament.gov.sg/docs/default-source/default-document-library/precious-stones-and-precious-metals-(prevention-of-money-laundering-and-terrorism-financing)-bill-1-2019.pdf">The Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Bill</a></td>
