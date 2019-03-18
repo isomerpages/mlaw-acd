@@ -40,10 +40,10 @@ custom_print_css_path: "/assets/css/print.css"
 
 
 collections:
-  about-us
+  about-us:
     output: true
-  information-for-regulated-dealers
+  information-for-regulated-dealers:
     output: true
-  information-for-customers
+  information-for-customers:
     output: true
 resources_name: news-and-media
