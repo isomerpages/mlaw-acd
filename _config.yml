@@ -42,8 +42,8 @@ custom_print_css_path: "/assets/css/print.css"
 collections:
   about-us
     output: true
-  registration:
+  information for regulated dealers:
     output: true
-  compliance:
+  information for the public:
     output: true
 resources_name: news-and-media
