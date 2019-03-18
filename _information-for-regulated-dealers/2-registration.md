@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: Registration
 permalink: /registration/
-breadcrumb: Registrartion
+breadcrumb: Registration
 collection_name: information-for-regulated-dealers
 ---
 
