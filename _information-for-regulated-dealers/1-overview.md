@@ -22,5 +22,6 @@ The new AML/CFT regime will strengthen existing measures against ML/TF risks by 
 
 The Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Bill (“**PSMD Bill**”) was passed by Parliament on 11 February 2019. The PSMD Bill is now being reviewed by the President and is expected to take effect in the second quarter of 2019.
 
-#### **old infographics, to be updated**
 ![ML/TF Risks](/images/MoneyLaundering%26TerrorismFinancingRisks.jpg) ![Safeguarding](/images/SafeguardingPSMDsector.jpg)
+
+#### **old infographics, to be updated**
