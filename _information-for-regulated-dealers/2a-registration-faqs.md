@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Registration FAQs
-permalink: /Registration FAQs/
+permalink: /registration-faq/
 breadcrumb: Registration FAQs
 collection_name: information-for-regulated-dealers
 second_nav_title: "Registration"
