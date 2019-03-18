@@ -46,6 +46,4 @@ collections:
     output: true
   compliance:
     output: true
-  news-and-media:
-    output: true
 resources_name: news-and-media
