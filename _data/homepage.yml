@@ -11,19 +11,27 @@ favicon: /images/mlawfavicon.ico
 agency-logo: /images/minlawlogo.png
 
 # Hero Banner
-hero-title: Registry of Regulated Dealers
+hero-title: New Regulatory Regime
 hero-subtitle: AML/CFT Regulation for Precious Stones and Precious Metals Dealers
 hero-banner: /images/precious product.jpg
     
 #Call to Action Button
 button:
-  - text: Learn More
-    url: /PSMD-Overview/
+  - text: Register Now!
+    url: /registration-overview/
     
 key-highlights:
   - title: Ministry of Law
     description: Return to the Ministry of Law homepage
     url: https://www.mlaw.gov.sg/content/minlaw/en.html
+    external: false
+  - title: What's happening?
+    description: Overview of the new regulations
+    url: /overview/
+    external: false
+  - title: Guidance by MinLaw
+    description: Brochures, handbooks, templates and checklists
+    url: /reg-req-overview/
     external: false
 
 resources-title: News
