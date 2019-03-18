@@ -30,10 +30,14 @@
     url: /about-the-regime/
  
 - title: News and Events
-  url: https://www.mlaw.gov.sg/content/minlaw/en/news.html
+  url: /news-and-media/
   sub-links:
   - title: All
-    url: https://www.mlaw.gov.sg/content/minlaw/en/news.html
+    url: /news-and-media/
+  - title: Press Releases
+    url: /news-and-media/press-releases/
+  - title: Events
+    url: /news-and-media/events/
 
 - title: Contact Us
   url: /contact-us/
