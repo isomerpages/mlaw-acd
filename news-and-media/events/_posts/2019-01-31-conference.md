@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Conference
-date:   2019-05-31
+date:   2019-01-31
 permalink: /news/events/conference
 ---
 
