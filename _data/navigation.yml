@@ -17,7 +17,12 @@
   sub-links:
   - title: Overview
     url: /overview/
+  - title: Registration
+    url: /registration/
+  - title: Regulatory Requirements
+    url: /regulatory-requirements/
   
+
 - title: Information for Customers
   url: /about-the-regime/
   sub-links:
@@ -29,3 +34,6 @@
   sub-links:
   - title: All
     url: https://www.mlaw.gov.sg/content/minlaw/en/news.html
+
+- title: Contact Us
+  url: /contact-us/
