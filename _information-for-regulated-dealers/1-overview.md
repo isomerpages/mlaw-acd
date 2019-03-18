@@ -5,33 +5,4 @@ permalink: /overview/
 breadcrumb: overview
 collection_name: information-for-regulated-dealers
 ---
-<p align="center"><font size="+2"><b>Anti-Money Laundering / Countering the Financing of Terrorism Division (ACD)</b></font></p>
-<p align="center"><font size="+2"><b>MINISTRY OF LAW</b></font></p>
-<br><br>
-<p align="center"><img src="https://raw.githubusercontent.com/isomerpages/mlaw-acd/master/images/acdbanner.png"></p>
-<br><br>
-<p align="center">
-  
-<p align="center"><b>Overview</b></p>
-
-The Ministry of Law will put in place a new anti-money laundering and countering the financing of terrorism (“**AML/CFT**”) regulatory regime for precious stones and precious metals dealers (“**PSMDs**”) in Singapore. 
-
-<br>
-
-The PSMD sector is exposed to inherent money-laundering (“**ML**”) and terrorism financing (“**TF**”) risks, as precious stones and precious metals are good stores of value, easily transported and concealed, and easily convertible to cash. 
-
-<br>
-
-The new AML/CFT regime will strengthen existing measures against ML/TF risks by establishing a comprehensive supervisory and regulatory regime that is risk-focused and which addresses the specific ML/TF risks in the PSMD sector. 
-
-<br>
-
-The Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Bill (“**PSMD Bill**”) was passed by Parliament on 11 February 2019. The PSMD Bill is now being reviewed by the President and is expected to take effect in the second quarter of 2019.
-
-<br>
-
-![ML/TF Risks](/images/MoneyLaundering%26TerrorismFinancingRisks.jpg) ![Safeguarding](/images/SafeguardingPSMDsector.jpg)
-
-<br>
-
-#### **old infographics, to be updated**
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
