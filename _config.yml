@@ -46,4 +46,4 @@ collections:
     output: true
   information-for-customers:
     output: true
-resources_name: news-and-media
+resources_name: news
