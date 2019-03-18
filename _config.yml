@@ -44,6 +44,6 @@ collections:
     output: true
   information-for-regulated-dealers:
     output: true
-  information-for-the-public:
+  information-for-customers:
     output: true
 resources_name: news-and-media
