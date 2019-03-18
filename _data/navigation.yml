@@ -7,114 +7,24 @@
 - title: About Us
   url: https://www.mlaw.gov.sg/content/minlaw/en/about-us/our-mission-and-core-values.html
   sub-links:
-  - title: Our Vision, Mission and Core Values
-    url: https://www.mlaw.gov.sg/content/minlaw/en/about-us/our-mission-and-core-values.html
-  - title: Our Management
-    url: https://www.mlaw.gov.sg/content/minlaw/en/about-us/our-management.html
-  - title: Organisation Structure
-    url: https://www.mlaw.gov.sg/content/minlaw/en/about-us/organisation-structure.html
-  - title: What We Do
-    url: https://www.mlaw.gov.sg/content/minlaw/en/about-us/what-we-do.html
-
-- title: Our Work
-  url: /psmd-overview/
+  - title: Our Work
+    url: /our-work/
+  - title: Contact Us
+    url: /contact-us/
+  
+- title: Information for Regulated Dealers
+  url: /overview/
   sub-links:
-  - title: Anti-Money Laundering / Countering the Financing of Terrorism Division
-    url: /psmd-overview/
-  - title: Legal Group
-    url: https://www.mlaw.gov.sg/content/minlaw/en/our-work/legal-group.html
-  - title: Legal Industry Division
-    url: https://www.mlaw.gov.sg/content/minlaw/en/our-work/legal-industry-division.html
-  - title: Legal Services Regulatory Authority
-    url: https://www.mlaw.gov.sg/content/minlaw/en/our-work/legal-services-regulatory-authority.html
-  - title: Land Policy & Administration
-    url: https://www.mlaw.gov.sg/content/minlaw/en/our-work/land-policy-administration.html
-  - title: Intellectual Property Policy
-    url: https://www.mlaw.gov.sg/content/minlaw/en/our-work/intellectual-property-policy.html
-  - title: Community Legal Services Group
-    url: https://www.mlaw.gov.sg/content/minlaw/en/our-work/community-legal-services-group.html
-  - title: Our Legal System
-    url: https://www.mlaw.gov.sg/content/minlaw/en/our-legal-system.html
-
-- title: Law Firms
-  url: https://www.mlaw.gov.sg/content/minlaw/en/legal-industry/licensing-or-registration-of-law-practice-entities0/types-of-licence-or-registration.html
-  sub-links:
-  - title: Search for a Law Practice Entity or a Lawyer
-    url: https://www.mlaw.gov.sg/eservices/lsra/search-lawyer-or-law-firm/
-  - title: Licensing or Registration of Law Practice Entities
-    url: https://www.mlaw.gov.sg/content/minlaw/en/legal-industry/licensing-or-registration-of-law-practice-entities0/types-of-licence-or-registration.html
-  - title: Registration of Individuals
-    url: https://www.mlaw.gov.sg/content/minlaw/en/legal-industry/registration-of-individuals/types-of-certificate-of-registration.html
-  - title: Other Services
-    url: https://www.mlaw.gov.sg/content/minlaw/en/legal-industry/other-services/apply-for-approval-to-hold-interests-in-a-law-practice-entity.html
-  - title: Relevant Legislation and Communications
-    url: https://www.mlaw.gov.sg/content/minlaw/en/legal-industry/relevant-legislation-and-communications.html
-  - title: Incentive and Exemption Schemes
-    url: https://www.mlaw.gov.sg/content/minlaw/en/legal-industry/incentive-and-exemption-schemes.html
-  - title: Other Useful Information
-    url: https://www.mlaw.gov.sg/content/minlaw/en/legal-industry/other-useful-information/relevant-organisations.html
-    
-- title: Admission to the Bar
-  url: https://www.mlaw.gov.sg/content/minlaw/en/practising-as-a-lawyer/AdmissionRequirements.html
-  sub-links:
-  - title: Admission Requirements
-    url: https://www.mlaw.gov.sg/content/minlaw/en/practising-as-a-lawyer/AdmissionRequirements.html
-  - title: Approved Universities
-    url: https://www.mlaw.gov.sg/content/minlaw/en/practising-as-a-lawyer/approved-universities.html
-  - title: Omitted Universities
-    url: https://www.mlaw.gov.sg/content/minlaw/en/practising-as-a-lawyer/omitted-universities.html
-  - title: Alternatives for Working in the Legal Field in Singapore
-    url: https://www.mlaw.gov.sg/content/minlaw/en/practising-as-a-lawyer/alternatives-for-working-in-the-legal-field-in-singapore.html
-  - title: Applications to the Minister for Law for Exemption
-    url: https://www.mlaw.gov.sg/content/minlaw/en/practising-as-a-lawyer/applications-to-the-minister-for-law-for-exemption.html
-  - title: Relevant Legislation
-    url: https://www.mlaw.gov.sg/content/minlaw/en/practising-as-a-lawyer/legis.html
-  - title: FAQ
-    url: https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.html
-
-- title: News
+  - title: Overview
+    url: /overview/
+  
+- title: Information for Customers
+  url: /about-the-regime/
+  - title: About the Regime
+    url: /about-the-regime/
+ 
+- title: News and Events
   url: https://www.mlaw.gov.sg/content/minlaw/en/news.html
   sub-links:
   - title: All
     url: https://www.mlaw.gov.sg/content/minlaw/en/news.html
-  - title: Press Releases
-    url: https://www.mlaw.gov.sg/content/minlaw/en/news/press-releases.html
-  - title: Announcements
-    url: https://www.mlaw.gov.sg/content/minlaw/en/news/announcements.html
-  - title: Replies
-    url: https://www.mlaw.gov.sg/content/minlaw/en/news/replies.html
-  - title: Speeches
-    url: https://www.mlaw.gov.sg/content/minlaw/en/news/speeches.html
-  - title: Parliamentary Speeches
-    url: https://www.mlaw.gov.sg/content/minlaw/en/news/parliamentary-speeches-and-responses.html
-  - title: Visits
-    url: https://www.mlaw.gov.sg/content/minlaw/en/news/visits.html
-  - title: Public Consultations
-    url: https://www.mlaw.gov.sg/content/minlaw/en/news/public-consultations.html
-  - title: Legal Industry Newsletters
-    url: https://www.mlaw.gov.sg/content/minlaw/en/news/legal-industry-newsletters.html
-  - title: Others 
-    url: https://www.mlaw.gov.sg/content/minlaw/en/news/videos.html
-
-- title: E-Services
-  url: https://www.mlaw.gov.sg/content/minlaw/en/eservices.html
-  sub-links:
-  - title: Insolvency Office
-    url: https://www.mlaw.gov.sg/eservices/io/
-  - title: Public Trustee's Office
-    url: https://www.mlaw.gov.sg/eservices/pto/
-  - title: Registry of Moneylenders
-    url: https://www.mlaw.gov.sg/eservices/rom/
-  - title: Registry of Pawnbrokers
-    url: https://www.mlaw.gov.sg/eservices/rop/
-  - title: Legal Services Regulatory Authority
-    url: https://www.mlaw.gov.sg/eservices/lsra/lsra-home/
-  - title: Exemptions (Singapore Bar/FPE)
-    url: https://www.mlaw.gov.sg/eservices/li/ems/application/exemption.aspx
-  - title: Application for Community Mediation
-    url: https://www.mlaw.gov.sg/content/cmc/en/E-Services.html
-  - title: Legal Aid Bureau
-    url: https://www.mlaw.gov.sg/eservices/labesvc/
-   
-- title: Contact Us
-  url: https://www.mlaw.gov.sg/content/minlaw/en/about-us/contact-us.html
