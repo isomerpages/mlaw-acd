@@ -40,8 +40,12 @@ custom_print_css_path: "/assets/css/print.css"
 
 
 collections:
-  guidelines:
+  about-us
     output: true
-  left-nav-two:
+  registration:
+    output: true
+  compliance:
+    output: true
+  news-and-media:
     output: true
 resources_name: news-and-media
