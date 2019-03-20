@@ -21,18 +21,19 @@ button:
     url: /registration-overview/
     
 key-highlights:
-  - title: Ministry of Law
-    description: Return to the Ministry of Law homepage
-    url: https://www.mlaw.gov.sg/content/minlaw/en.html
-    external: false
   - title: What's happening?
     description: Overview of the new regulations
     url: /overview/
     external: false
-  - title: Guidance by MinLaw
+  - title: How to Register
+    description: Registration instructions for dealers
+    url: /registration-overview/
+    external: false
+  - title: Guidelines by MinLaw
     description: Brochures, handbooks, templates and checklists
     url: /regreq-overview/
     external: false
+
 
 resources-title: News
 resources-subtitle: Stay Updated
