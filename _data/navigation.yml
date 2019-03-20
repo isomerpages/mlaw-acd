@@ -5,12 +5,12 @@
 ##################################
 
 - title: About Us
-  url: https://www.mlaw.gov.sg/content/minlaw/en/about-us/our-mission-and-core-values.html
+  url: /our-work/
   sub-links:
   - title: Our Work
     url: /our-work/
   
-- title: Information for Regulated Dealers
+- title: For Regulated Dealers
   url: /overview/
   sub-links:
   - title: Overview
@@ -21,7 +21,7 @@
     url: /regreq-overview/
   
 
-- title: Information for Customers
+- title: For Customers
   url: /about-the-regime/
   sub-links:
   - title: About the Regime
