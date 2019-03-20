@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Events for Regulated Dealers
-permalink: /overview/
+permalink: /event-overview/
 breadcrumb: Events for Regulated Dealers
 collection_name: information-for-regulated-dealers
 second_nav_title: Overview
