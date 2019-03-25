@@ -42,6 +42,4 @@ custom_print_css_path: "/assets/css/print.css"
 collections:
   information-for-regulated-dealers:
     output: true
-  information-for-customers:
-    output: true
-resources_name: news-and-media
+resources_name: Events
