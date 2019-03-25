@@ -19,10 +19,10 @@
     url: https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx
   - title: Contact Us
     url: https://www.mlaw.gov.sg/content/minlaw/en/about-us/contact-us.html
- 
- 
+  
+  
 - title: Regulatory Regime
-   url: /registration/
+  url: /registration/
   sub-links:
   - title: Registration of Regulated Dealers
     url: /registration/
@@ -34,10 +34,10 @@
     url: /amlcft-resources/
   - title: Useful Links
     url: /useful-links/
-
+  
 - title: List of Registered Dealers
   url: /list-of-registered-dealers/
- 
+  
 - title: News and Events
   url: /news-and-media/
   sub-links:
