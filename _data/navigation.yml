@@ -22,17 +22,18 @@
  
  
 - title: Regulatory Regime
-   url: /registration-overview/
+   url: /registration/
   sub-links:
-  - title: Registration for Regulated Dealers
-    url: /registration-overview/
+  - title: Registration of Regulated Dealers
+    url: /registration/
   - title: Regulatory Compliance
-    url: /regreq-overview/
+    url: /reg-compliance/
   - title: Guidance Materials
-    url: /regreq-overview/
+    url: /guidance-materials/
   - title: Other AML/CFT Resources
-    url: /regreq-overview/
-  
+    url: /amlcft-resources/
+  - title: Useful Links
+    url: /useful-links/
 
 - title: List of Registered Dealers
   url: /list-of-registered-dealers/
