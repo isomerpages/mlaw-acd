@@ -4,7 +4,6 @@ title: Overview
 permalink: /registration-overview/
 breadcrumb: Registration Overview
 collection_name: information-for-regulated-dealers
-second_nav_title: "Registration"
 ---
 
 ### Who is required to register?
