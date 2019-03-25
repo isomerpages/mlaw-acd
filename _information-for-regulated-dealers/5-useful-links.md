@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Other Links
-permalink: /other-links/
-breadcrumb: Other Links
+title: Useful Links
+permalink: /useful-links/
+breadcrumb: Useful Links
 collection_name: information-for-regulated-dealers
 ---
 
