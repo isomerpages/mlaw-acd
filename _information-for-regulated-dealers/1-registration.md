@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Overview
-permalink: /registration-overview/
-breadcrumb: Registration Overview
+title: Registration
+permalink: /registration/
+breadcrumb: Registration
 collection_name: information-for-regulated-dealers
 ---
 
