@@ -5,39 +5,44 @@
 ##################################
 
 - title: About Us
-  url: /our-work/
+  url: https://www.mlaw.gov.sg/content/minlaw/en/about-us/our-mission-and-core-values.html
   sub-links:
-  - title: Our Work
-    url: /our-work/
-  
-- title: For Regulated Dealers
-  url: /overview/
+  - title: Our Vision, Mission and Core Values
+    url: https://www.mlaw.gov.sg/content/minlaw/en/about-us/our-mission-and-core-values.html
+  - title: Our Management
+    url: https://www.mlaw.gov.sg/content/minlaw/en/about-us/our-management.html
+  - title: Organisation Structure
+    url: https://www.mlaw.gov.sg/content/minlaw/en/about-us/organisation-structure.html
+  - title: What We Do
+    url: https://www.mlaw.gov.sg/content/minlaw/en/about-us/what-we-do.html
+  - title: Contact Us
+    url: https://www.mlaw.gov.sg/content/minlaw/en/about-us/contact-us.html
+ 
+ 
+- title: Regulatory Regime
+   url: /registration-overview/
   sub-links:
-  - title: Overview
-    url: /overview/
-  - title: Registration
+  - title: Registration for Regulated Dealers
     url: /registration-overview/
-  - title: Regulatory Requirements
+  - title: Regulatory Compliance
+    url: /regreq-overview/
+  - title: Guidance Materials
+    url: /regreq-overview/
+  - title: Other AML/CFT Resources
     url: /regreq-overview/
   
 
-- title: For Customers
-  url: /about-the-regime/
-  sub-links:
-  - title: About the Regime
-    url: /about-the-regime/
-  - title: List of Registered Dealers
-    url: /list-of-registered-dealers/
+- title: List of Registered Dealers
+  url: /list-of-registered-dealers/
  
 - title: News and Events
   url: /news-and-media/
   sub-links:
   - title: All
     url: /news-and-media/
-  - title: Press Releases
+  - title: Onboading Conferences
     url: /news-and-media/press-releases/
-  - title: Events
+  - title: Onboarding Workshop
     url: /news-and-media/events/
-
-- title: Contact Us
-  url: /contact-us/
+  - title: AML/CFT Awareness Workshop
+    url: /news-and-media/events/
