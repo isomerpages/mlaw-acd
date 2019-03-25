@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Other AML/CFT Resources
-permalink: /amlcft-resources/
-breadcrumb: Other AML/CFT Resources
+title: Key Resources
+permalink: /key-resources/
+breadcrumb: Key Resources
 collection_name: information-for-regulated-dealers
 ---
 
