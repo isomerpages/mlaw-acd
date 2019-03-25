@@ -23,11 +23,11 @@ button:
 key-highlights:
   - title: Register Now!
     description: Regulated dealers to register with MinLaw
-    url: /Registration/
+    url: /registration/
     external: false
   - title: Guidance Materials
     description: Brochures, reference booklets and templates
-    url: /guidancematerials/
+    url: /guidance-materials/
     external: false
   - title: Onboarding Conferences
     description: Outreach by MinLaw to regulated dealers
