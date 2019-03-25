@@ -11,31 +11,31 @@ favicon: /images/mlawfavicon.ico
 agency-logo: /images/minlawlogo.png
 
 # Hero Banner
-hero-title: Anti-Money Laundering / Countering the Financing of Terrorism Division
-hero-subtitle: New Regulatory Regime
+hero-title: Regulatory Regime for Precious Stones and Precious Metals Dealers
+hero-subtitle: Anti-Money Laundering / Countering the Financing of Terrorism Division
 hero-banner: /images/precious product.jpg
     
 #Call to Action Button
 button:
   - text: Register Now!
-    url: /registration-overview/
+    url: /registration/
     
 key-highlights:
-  - title: What's happening?
-    description: Overview of the new regulations
-    url: /overview/
+  - title: Register Now!
+    description: Regulated dealers to register with MinaLaw
+    url: /Registration/
     external: false
-  - title: How to Register
-    description: Registration instructions for dealers
-    url: /registration-overview/
+  - title: Guidance Materials
+    description: Brochures, reference booklets, and templates
+    url: /guidancematerials/
     external: false
-  - title: Guidelines by MinLaw
-    description: Brochures, handbooks, templates and checklists
-    url: /regreq-overview/
+  - title: Onboarding Conferences
+    description: Outreach by MinLaw to regulated dealers
+    url: /events/onboardingconference/
     external: false
 
 
-resources-title: Events
-resources-subtitle: Workshops and Conferences for Regulated Dealers
+resources-title: Workshops and Conferences for Regulated Dealers
+resources-subtitle: Recent Events
 resources-more-button: Sign Up Now!
 resources-more-button-url: /events/
