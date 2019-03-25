@@ -39,13 +39,15 @@
   url: /list-of-registered-dealers/
   
 - title: News and Events
-  url: /news-and-media/
+  url: /events/
   sub-links:
-  - title: All
-    url: /news-and-media/
-  - title: Onboading Conferences
-    url: /news-and-media/press-releases/
+  - title: News
+    url: https://www.mlaw.gov.sg/content/minlaw/en/news.html
+  - title: Events
+    url: /events/
   - title: Onboarding Workshop
-    url: /news-and-media/events/
+    url: /events/onboardingworkshop/
+  - title: Onboarding Conference
+    url: /events/onboardingconference/
   - title: AML/CFT Awareness Workshop
-    url: /news-and-media/events/
+    url: /events/amlcftworkshop/
