@@ -17,13 +17,22 @@ You are required to register if you are a regulated dealer i.e. you carry on a b
 * trading platforms.
 If you are not certain whether you are required to register, you may wish to seek legal advice.
 <br>
-
 ### Register Now 
 You may apply to be registered as a regulated dealer via [LicenceOne](https://licence1.business.gov.sg/web/frontier/home). <br>
 If you are not sure how to complete the application form, you may wish to consult the [LicenceOne User Guide](https://licence1.business.gov.sg/web/frontier/help/apply-for-new-licence) or our FAQs on registration. <br>
 If you need assistance in completing your application form, you may also wish to contact the [LicenceOne Helpdesk](https://licence1.business.gov.sg/web/frontier/contact-us).<br>
-![LicenceOne Helpdesk](/images/licence1helpdesk2.png)
-
+<table>
+  <tr>
+    <th>Helpdesk No.</th>
+    <th>Email Address</th>
+    <th>Helpdesk Operating Hours<br></th>
+  </tr>
+  <tr>
+    <td>(+65) 67741430</td>
+    <td><a href="mailto:Licences-helpdesk@crimsonlogic.com">Licences-helpdesk@crimsonlogic.com</a></td>
+    <td>Monday to Friday 8:00am to 8:00pm<br>Saturdays: 8:00am to 2:00pm<br>Excluding public holidays</td>
+  </tr>
+</table>
 
 ### What You Need
 (table to be created based on FAQs)
