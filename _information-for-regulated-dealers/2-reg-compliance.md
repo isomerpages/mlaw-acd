@@ -5,15 +5,19 @@ permalink: /reg-compliance/
 breadcrumb: Regulatory Compliance
 collection_name: information-for-regulated-dealers
 ---
-
+### Summary of Regulatory Requirements
+----
 to insert updated infographic here
 
-Transaction-based Requirements
+
+#### Transaction-based Requirements
+----
 * CDD for X trxns
 * ECDD for high-risk trxns
 * SCDD for Y trxns
 * screening against sanctions list
 
-Entity-based Requirements
+#### Entity-based Requirements
+----
 * IPPC
 * compliance officers
