@@ -8,13 +8,13 @@ collection_name: information-for-regulated-dealers
 
 ### Who is required to register?
 You are required to register if you are a regulated dealer i.e. you carry on a business of regulated dealing in precious stones, precious metals and/or precious products (**PSMs**), or as an intermediary for regulated dealing in PSMs. Examples of regulated dealers who are required to register include, but are not limited to:
--jewellers; 
--bullion traders;
--jewellery wholesalers; 
--jewellery retailer; 
--second-hand goods dealers; 
--auction houses; and 
--trading platforms.
+* jewellers; 
+* bullion traders;
+* jewellery wholesalers; 
+* jewellery retailer; 
+* second-hand goods dealers; 
+* auction houses; and 
+* trading platforms.
 If you are not certain whether you are required to register, you may wish to seek legal advice.
 <br>
 
