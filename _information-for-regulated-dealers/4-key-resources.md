@@ -22,7 +22,7 @@ collection_name: information-for-regulated-dealers
     * The document is in PDF format, to view please click [here](https://github.com/isomerpages/mlaw-acd/raw/staging/images/Singapore%20NRA%20Report%202013_24032015.pdf).
   
  * Suspicious Transaction Reporting Office ("**STRO**")
-  * To learn more about STRO, please click [here](https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office).
-  * To learn more about Cash Transaction Reports, please click [here](https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office/cash-transaction-reporting#content).
-  * To learn more about Suspicious Transaction Reports, please click [here](https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office/suspicious-transaction-reporting#content).
-  * To access the STRO Online Notices and Reporting Platform, please click [here](https://www.police.gov.sg/e-services/report/stro-online-notices-and-reporting-platform).
+   * To learn more about STRO, please click [here](https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office).
+   * To learn more about Cash Transaction Reports, please click [here](https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office/cash-transaction-reporting#content).
+   * To learn more about Suspicious Transaction Reports, please click [here](https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office/suspicious-transaction-reporting#content).
+   * To access the STRO Online Notices and Reporting Platform, please click [here](https://www.police.gov.sg/e-services/report/stro-online-notices-and-reporting-platform).
