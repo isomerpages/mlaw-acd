@@ -19,9 +19,10 @@ You are required to register if you are a regulated dealer i.e. you carry on a b
 If you are not certain whether you are required to register, you may wish to seek legal advice.<br>
 
 ### Register Now 
-You may apply to be registered as a regulated dealer using the [LicenceOne portal](https://licence1.business.gov.sg/web/frontier/home). <br>
-If you are not sure how to complete the application form, you may wish to consult the [LicenceOne User Guide](https://licence1.business.gov.sg/web/frontier/help/apply-for-new-licence) or our FAQs on registration. <br>
-If you need assistance in completing your application form, you may also wish to contact the [LicenceOne Helpdesk](https://licence1.business.gov.sg/web/frontier/contact-us).<br>
+* You may apply to be registered as a regulated dealer using the [LicenceOne portal](https://licence1.business.gov.sg/web/frontier/home). 
+* If you are not sure how to complete the application form, you may wish to consult the [LicenceOne User Guide](https://licence1.business.gov.sg/web/frontier/help/apply-for-new-licence) or our FAQs on registration. <br>
+* If you need assistance in completing your application form, you may also wish to contact the [LicenceOne Helpdesk](https://licence1.business.gov.sg/web/frontier/contact-us).
+<br>
 <table>
   <tr>
     <th>Helpdesk No.</th>
