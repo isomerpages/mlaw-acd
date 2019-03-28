@@ -5,7 +5,7 @@ date:   2019-03-28
 permalink: /events/onboarding-conference/Onboarding-Conference-on-6-May-2019
 ---
 
-(insert Fauzi's poster here)
+(insert poster here)
 
 The Anti-Money Laundering / Countering the Financing of Terrorism Division ("**ACD**") of the Ministry of Law is pleased to announce that it will be conducting its first onboarding conference for regulated dealers on 6 May 2019.
 
