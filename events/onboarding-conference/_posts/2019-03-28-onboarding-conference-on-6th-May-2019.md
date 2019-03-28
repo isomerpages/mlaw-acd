@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Announcement: Onboarding Conference on 6 May 2019
-date:   2019-03-29
-permalink: /events/onboarding-conference/Announcement-Onboarding-Conference-on-6-May-2019
+title:  Onboarding Conference on 6 May 2019
+date:   2019-03-28
+permalink: /events/onboarding-conference/Onboarding-Conference-on-6-May-2019
 ---
 
 (insert Fauzi's poster here)
