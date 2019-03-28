@@ -19,5 +19,5 @@ The document is in PDF format. To view, please click [here](URL1).
 <br>
 #### 3. Notice for Customers from the Ministry of Law (the "**Notice for Customers**")
 
-<a href="https://github.com/isomerpages/mlaw-acd/raw/staging/images/Notice%20for%20Customers%20-%20PSPM%20Act.pdf"><img src="https://github.com/isomerpages/mlaw-acd/raw/staging/images/Notice%20for%20Customers%20-%20PSPM%20Act.png" width="250px"></a><br>
+<a href="https://github.com/isomerpages/mlaw-acd/raw/staging/images/Notice%20for%20Customers%20-%20PSPM%20Act.pdf"><img src="https://github.com/isomerpages/mlaw-acd/raw/staging/images/Notice%20for%20Customers%20-%20PSPM%20Act.png"></a><br>
 The document is in PDF format. To download, please click [here](/images/Notice%20for%20Customers%20-%20PSPM%20Act.pdf).
