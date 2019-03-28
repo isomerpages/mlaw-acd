@@ -17,12 +17,12 @@ Examples of regulated dealers who are required to register include, but are not 
 * auction houses; and 
 * trading platforms.
 
-If you are not certain whether you are required to register, you may wish to seek legal advice.<br><br>
+If you are not certain whether you are required to register, you may wish to seek legal advice.<br>
 
 ## Register Now! 
 * You may apply to be registered as a regulated dealer using the [LicenceOne portal](https://licence1.business.gov.sg/web/frontier/home). 
 * The applicant will need to log in to LicenceOne using [his CorpPass account](https://licence1.business.gov.sg/web/frontier/help/corppass-in-licenceone) (for businesses) or [his SingPass account](https://licence1.business.gov.sg/web/frontier/help/how-to-access-the-system-) (for individuals).
-  * Applicants without a CorpPass account may sign up for one [here](https://www.corppass.gov.sg/corppass/common/findoutmore). <br><br>
+  * Applicants without a CorpPass account may sign up for one [here](https://www.corppass.gov.sg/corppass/common/findoutmore).
 * Regulated dealers with no registered business entities overseas or in Singapore may [register for a LicenceOne ID on the LicenceOne Portal](https://licence1.business.gov.sg/web/frontier/help/registration-for-foreigners-without-singpass).
 
 ### Information you need for registration:
@@ -52,7 +52,7 @@ If you are not certain whether you are required to register, you may wish to see
     <td>1. Name of outlet manager / person in charge<br>2. ID type<br>3. ID no. of manager / person in charge<br>4. Contact no. of manager / person in charge<br>5. Name of outlet<br>6. Outlet address<br>7. Outlet contact no.</td>
   </tr>
 </table>
-<br><br>
+<br>
 
 ### I need help with the registration process.
 * If you are not sure how to complete the application form, you may wish to consult the [LicenceOne User Guide](https://licence1.business.gov.sg/web/frontier/help/apply-for-new-licence) or our FAQs on registration.
