@@ -8,8 +8,7 @@ collection_name: information-for-regulated-dealers
 ### Regulatory Compliance
 ----
 #### Summary of Regulatory Requirements
-to insert updated infographic here
-
+<a href="https://github.com/isomerpages/mlaw-acd/raw/staging/images/Safeguarding%20the%20Precious%20Stones%20and%20Precious%20Metals%20Dealers%20Sector.pdf"><img src="https://raw.githubusercontent.com/isomerpages/mlaw-acd/staging/images/Safeguarding%20the%20Precious%20Stones%20and%20Precious%20Metals%20Dealers%20Sector.png"></a>
 
 #### Transaction-based Requirements
 * Perform customer due diligence (**CDD**) under prescribed circumstances
