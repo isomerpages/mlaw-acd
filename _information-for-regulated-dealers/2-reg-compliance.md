@@ -12,11 +12,11 @@ to insert updated infographic here
 
 
 #### Transaction-based Requirements
-* CDD for X trxns
-* ECDD for high-risk trxns
-* SCDD for Y trxns
-* screening against sanctions list
+* Perform customer due diligence (**CDD**) under prescribed circumstances
+* File cash transaction reports for cash transactions exceeding S$20,000
+* File suspicious transaction reports where there is suspicion of money laundering or terrorism financing (**ML/TF**)
+* Keep records of documents and information relating to transactions where CDD was conducted
 
 #### Entity-based Requirements
-* IPPC
-* compliance officers
+* Conduct ML/TF risk assessments
+* Develop and implement internal policies, procedures and controls to monitor, manage and mitigate ML/TF risks
