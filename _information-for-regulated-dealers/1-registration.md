@@ -32,6 +32,10 @@ If you are not certain whether you are required to register, you may wish to see
     <td>Director<br>Managing director<br>Partner <br>Company secretary<br>Owner<br>Manager</td>
     <td>1. Name<br>2. Date of Birth<br>3. NRIC / Passport No. / FIN No.</td>
   </tr>
+    <tr>
+    <td>Compliance Officer
+    <td>1. Name<br>2. Date of Birth<br>3. NRIC / Passport No. / FIN No.</td>
+  </tr>
   <tr>
     <td>Substantial shareholders(if you represent a company)</td>
     <td>1. Name<br>2. NRIC / Passport No. / FIN No. / UEN No.<br>3. No. of Ordinary Shares<br>4. Ordinary Share %<br>5. Voting Share %</td>
