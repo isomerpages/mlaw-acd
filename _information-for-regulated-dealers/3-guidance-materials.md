@@ -15,4 +15,6 @@ collection_name: information-for-regulated-dealers
   * The document is in PDF format. To view, please click [here](URL1).
 
 * Notice for Customers from the Ministry of Law (the "**Notice for Customers**")
-  * To view, please click [here](URL1).
+
+<a href="https://github.com/isomerpages/mlaw-acd/raw/staging/images/Notice%20for%20Customers%20-%20PSPM%20Act.pdf"><img src="https://github.com/isomerpages/mlaw-acd/raw/staging/images/Notice%20for%20Customers%20-%20PSPM%20Act%20-%20Small.png"></a>
+  * The document is in PDF format. To download, please click [here](/images/Notice%20for%20Customers%20-%20PSPM%20Act.pdf).
