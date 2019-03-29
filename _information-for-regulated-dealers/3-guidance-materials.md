@@ -11,11 +11,11 @@ collection_name: information-for-regulated-dealers
 
 #### 1. Anti-Money Laundering and Countering the Financing of Terrorism Guidance for Precious Stones and Precious Metals Dealers (the "**AML / CFT Guidance Document**")
 
-The document is in PDF format. To view, please click [here](URL1).
+The document is in PDF format and is to be read together with the Reference Booklet. To view, please click [here](URL1).
 <br>
 #### 2. Reference Booklet for Precious Stones and Precious Metals Dealers (the "**Reference Booklet**")
 
-The document is in PDF format. To view, please click [here](URL1).
+The document is in PDF format and is to be read together with the AML / CFT Guidance Document. To view, please click [here](URL1).
 <br>
 #### 3. Notice for Customers from the Ministry of Law (the "**Notice for Customers**")
 
