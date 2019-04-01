@@ -11,7 +11,7 @@ collection_name: information-for-regulated-dealers
 
 #### [1. Anti-Money Laundering and Countering the Financing of Terrorism Guidance for Precious Stones and Precious Metals Dealers (the "**Guidance Document**")](URL1)
 <a id="guidance"></a>
-The Guidance Document is meant to help regulated dealers understand their obligations under the PSPM Act and PMLTF Regulations.<a href="footnote1"><sup>[1]</sup></a> It is not legally binding or meant to be exhaustive and may be amended from time to time.<br><br>
+The Guidance Document is meant to help regulated dealers understand their obligations under the PSPM Act and PMLTF Regulations.<a href="#footnote1"><sup>[1]</sup></a> It is not legally binding or meant to be exhaustive and may be amended from time to time.<br><br>
 The Guidance Document is in PDF format and is to be read together with the Reference Booklet (item 2 below). 
 <br>
 #### [2. Reference Booklet for Precious Stones and Precious Metals Dealers (the "**Reference Booklet**")](URL2)
@@ -25,4 +25,5 @@ The Notice for Customers is a flyer for regulated dealers to help educate custom
 
 <a href="https://github.com/isomerpages/mlaw-acd/raw/staging/images/Notice%20for%20Customers%20-%20PSPM%20Act.pdf"><img src="https://github.com/isomerpages/mlaw-acd/raw/staging/images/Notice%20for%20Customers%20-%20PSPM%20Act.png"></a><br><br>
 
-<a id="footnote1"><sup>[1]</sup></a> "PSPM Act" is an abbreviation for the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019. Similarly, "PSPM Regulations" is an abbreviation for the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations. Regulated dealers <p align="right"><a href="#guidance"><u>[back to footnote]</u></a></p>
+<a id="footnote1"><sup>[1]</sup></a> "PSPM Act" is an abbreviation for the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019. Similarly, "PSPM Regulations" is an abbreviation for the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations. Regulated dealers 
+<p align="right"><a href="#guidance"><u>[back to footnote]</u></a></p>
