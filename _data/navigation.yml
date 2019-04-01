@@ -26,6 +26,8 @@
   sub-links:
   - title: Registration of Regulated Dealers
     url: /registration/
+  - title: List of Registered Dealers
+    url: /list-of-registered-dealers/
   - title: Regulatory Compliance
     url: /reg-compliance/
   - title: Guidance Materials
@@ -34,9 +36,7 @@
     url: /key-resources/
   - title: Useful Links
     url: /useful-links/
-  
-- title: List of Registered Dealers
-  url: /list-of-registered-dealers/
+
   
 - title: News and Events
   url: /events/
