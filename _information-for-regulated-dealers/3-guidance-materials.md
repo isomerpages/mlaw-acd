@@ -25,5 +25,5 @@ The Notice for Customers is a flyer for regulated dealers to help educate custom
 
 <a href="https://github.com/isomerpages/mlaw-acd/raw/staging/images/Notice%20for%20Customers%20-%20PSPM%20Act.pdf"><img src="https://github.com/isomerpages/mlaw-acd/raw/staging/images/Notice%20for%20Customers%20-%20PSPM%20Act.png"></a><br><br>
 
-<a id="footnote1"><sup>[1]</sup></a> "PSPM Act" is an abbreviation for the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019. Similarly, "PSPM Regulations" is an abbreviation for the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations. Regulated dealers 
+<a id="footnote1"><sup>[1]</sup></a> "PSPM Act" is an abbreviation for the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019. Similarly, "PSPM Regulations" is an abbreviation for the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations. Regulated dealers are subject to regulatory requirements under the PSPM Act and PSPM Regulations.
 <p align="right"><a href="#guidance"><u>[back to footnote]</u></a></p>
