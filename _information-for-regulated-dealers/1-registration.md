@@ -10,11 +10,11 @@ collection_name: information-for-regulated-dealers
 You are required to register with the Registrar of Regulated Dealers if you are a regulated dealer i.e. you carry on a business of regulated dealing in precious stones, precious metals and/or precious products (**PSMs**), or as an intermediary for regulated dealing in PSMs. <br><br>
 Examples of regulated dealers who are required to register include, but are not limited to jewellers, bullion traders, jewellery wholesalers, jewellery retailers, second-hand goods dealers, auction houses, and trading platforms.
 
-If you are not certain whether you are required to register, you may wish to seek legal advice.<br>
+Please refer to the [PSPM Act](https://sso.agc.gov.sg/Acts-Supp/7-2019/Published/20190313?DocDate=20190313) and the [Guidance Materials](/guidance-materials/) for the official definitions. If you are not certain whether you are required to register, you can seek legal advice.<br>
 
 ## Register Now! 
 * You may apply to be registered as a regulated dealer using the [LicenceOne portal](https://licence1.business.gov.sg/web/frontier/home). 
-* You will need to log in to LicenceOne using [your CorpPass account](https://licence1.business.gov.sg/web/frontier/help/corppass-in-licenceone) (for businesses) or [your SingPass account](https://licence1.business.gov.sg/web/frontier/help/how-to-access-the-system-) (for individuals). If you do not have a CorpPass account may sign up for one [here](https://www.corppass.gov.sg/corppass/common/findoutmore). Your CorpPass Administrator should also create CorpPass User Accounts for your LicenceOne users and select "MinLaw E-Services (ACD)" during account creation.
+* You will need to log in to LicenceOne using [your CorpPass account](https://licence1.business.gov.sg/web/frontier/help/corppass-in-licenceone) (for businesses) or [your SingPass account](https://licence1.business.gov.sg/web/frontier/help/how-to-access-the-system-) (for individuals). If you do not have a CorpPass account may sign up for one [here](https://www.corppass.gov.sg/corppass/common/findoutmore). Your CorpPass Administrator should also create CorpPass User Accounts for your LicenceOne users and select "Ministry of Trade's LicenceOne" during account creation.
 * Regulated dealers with no registered business entities overseas or in Singapore may [register for a LicenceOne ID on the LicenceOne Portal](https://licence1.business.gov.sg/web/frontier/help/registration-for-foreigners-without-singpass).
 
 ### Information you need for registration:
@@ -25,7 +25,7 @@ If you are not certain whether you are required to register, you may wish to see
   </tr>
   <tr>
     <td>Director<br>Managing director<br>Partner <br>Company secretary<br>Owner<br>Manager</td>
-   <td><b>1. Name*</b><br><b>2. NRIC/Passport No./FIN No.*</b><br>3. Date of Birth<br><br>*Information is auto-populated for A.C.R.A. registered entities</td>
+   <td><b>1. Name*</b><br><b>2. NRIC/Passport No./FIN No.*</b><br>3. Date of Birth<br><br>*Information is auto-populated for ACRA registered entities</td>
   </tr>
     <tr>
     <td>Compliance Officer</td>
@@ -33,7 +33,7 @@ If you are not certain whether you are required to register, you may wish to see
   </tr>
   <tr>
     <td>Substantial shareholders (if you represent a company)</td>
-   <td><b>1. Name*</b><br><b>2. NRIC/Passport No./FIN No./UEN No.*</b><br><b>3. No. of Ordinary Shares*</b><br><b>4. Ordinary Share %*</b><br><b>5. Voting Share %*</b><br><br>*Information is auto-populated for A.C.R.A. registered entities</td>
+   <td><b>1. Name*</b><br><b>2. NRIC/Passport No./FIN No./UEN No.*</b><br><b>3. No. of Ordinary Shares*</b><br><b>4. Ordinary Share %*</b><br><b>5. Voting Share %*</b><br><br>*Information is auto-populated for ACRA registered entities</td>
   </tr>
   <tr>
     <td>Place(s) of business</td>
