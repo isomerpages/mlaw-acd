@@ -16,31 +16,6 @@ Please refer to the [PSPM Act](https://sso.agc.gov.sg/Acts-Supp/7-2019/Published
 * You will need to log in to LicenceOne using [your CorpPass account](https://licence1.business.gov.sg/web/frontier/help/corppass-in-licenceone) (for businesses) or [your SingPass account](https://licence1.business.gov.sg/web/frontier/help/how-to-access-the-system-) (for individuals). If you do not have a CorpPass account may sign up for one [here](https://www.corppass.gov.sg/corppass/common/findoutmore). Your CorpPass Administrator should also create CorpPass User Accounts for your LicenceOne users and select "Ministry of Trade's LicenceOne" during account creation.
 * Regulated dealers with no registered business entities overseas or in Singapore may [register for a LicenceOne ID on the LicenceOne Portal](https://licence1.business.gov.sg/web/frontier/help/registration-for-foreigners-without-singpass).
 
-### Information you need for registration:
-<table>
-  <tr>
-    <th>Entity</th>
-    <th>Information needed</th>
-  </tr>
-  <tr>
-    <td>Director<br>Managing director<br>Partner <br>Company secretary<br>Owner<br>Manager</td>
-   <td><b>1. Name*</b><br><b>2. NRIC/Passport No./FIN No.*</b><br>3. Date of Birth<br><br>*Information is auto-populated for ACRA registered entities</td>
-  </tr>
-    <tr>
-    <td>Compliance Officer</td>
-    <td>1. Name<br>2. NRIC/Passport No./FIN No.<br>3. Date of Birth</td>
-  </tr>
-  <tr>
-    <td>Substantial shareholders (if you represent a company)</td>
-   <td><b>1. Name*</b><br><b>2. NRIC/Passport No./FIN No./UEN No.*</b><br><b>3. No. of Ordinary Shares*</b><br><b>4. Ordinary Share %*</b><br><b>5. Voting Share %*</b><br><br>*Information is auto-populated for ACRA registered entities</td>
-  </tr>
-  <tr>
-    <td>Place(s) of business</td>
-    <td>1. Description of place of business<br>2. Address<br>3. Contact No.<br>4. Name of Outlet Manager<br>5. NRIC/Passport No./FIN No.<br>6. Contact No. of Outlet Manager</td>
-  </tr>
-</table>
-<br>
-
 ### The registration process
 <a href="https://github.com/isomerpages/mlaw-acd/raw/staging/images/Registration%20Process%20Flowchart.pdf"><img src="https://raw.githubusercontent.com/isomerpages/mlaw-acd/staging/images/registration%20process%20flowchart.PNG"></a>
 
@@ -67,11 +42,6 @@ An applicant may apply for a specific class of registration that will determine 
 
 For the avoidance of doubt, the Registrar retains the discretion of granting a different class of registration than the class of registration applied for.
 
-  <style type="text/css">
-  .tg  {border-collapse:collapse;border-spacing:0;}
-  .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-  .tg .tg-o4qx{background-color:#fffc9e;color:#333333;border-color:inherit;text-align:left}
-  </style>
 <table>
   <tr>
     <td>
@@ -115,6 +85,31 @@ Therefore, ABC Pte Ltd must pay a total of <b>$1,940</b>:
     </td>
   </tr>
 </table>
+
+### Information you need for registration:
+<table>
+  <tr>
+    <th>Entity</th>
+    <th>Information needed</th>
+  </tr>
+  <tr>
+    <td>Director<br>Managing director<br>Partner <br>Company secretary<br>Owner<br>Manager</td>
+   <td><b>1. Name*</b><br><b>2. NRIC/Passport No./FIN No.*</b><br>3. Date of Birth<br><br>*Information is auto-populated for ACRA registered entities</td>
+  </tr>
+    <tr>
+    <td>Compliance Officer</td>
+    <td>1. Name<br>2. NRIC/Passport No./FIN No.<br>3. Date of Birth</td>
+  </tr>
+  <tr>
+    <td>Substantial shareholders (if you represent a company)</td>
+   <td><b>1. Name*</b><br><b>2. NRIC/Passport No./FIN No./UEN No.*</b><br><b>3. No. of Ordinary Shares*</b><br><b>4. Ordinary Share %*</b><br><b>5. Voting Share %*</b><br><br>*Information is auto-populated for ACRA registered entities</td>
+  </tr>
+  <tr>
+    <td>Place(s) of business</td>
+    <td>1. Description of place of business<br>2. Address<br>3. Contact No.<br>4. Name of Outlet Manager<br>5. NRIC/Passport No./FIN No.<br>6. Contact No. of Outlet Manager</td>
+  </tr>
+</table>
+<br>
 
 ### I need help with registering.
 * If you are not sure how to complete the application form, you may wish to consult the [LicenceOne User Guide](https://licence1.business.gov.sg/web/frontier/help/apply-for-new-licence) or our [FAQs](https://va.ecitizen.gov.sg/cfp/customerpages/mlaw/explorefaq.aspx).
