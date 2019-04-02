@@ -5,7 +5,9 @@ permalink: /registration/
 breadcrumb: Registration
 collection_name: information-for-regulated-dealers
 ---
-
+## Registration
+---
+<a id="top"></a>
 <table>
   <tr>
     <th><span style="text-decoration:underline">Contents</span><br><a href="#who-is-required-to-register">1. Who is required to register</a><br><a href="#register-now">2. Register now!</a><br><a href="#information-you-need-for-registration">3. Information you need for registration</a><br><a href="#the-registration-process">4. The registration process</a><br><a href="#i-need-help-with-registering">5. I need help with registering</a></th>
@@ -19,10 +21,14 @@ Examples of regulated dealers who are required to register include, but are not 
 
 Please refer to the [PSPM Act](https://sso.agc.gov.sg/Acts-Supp/7-2019/Published/20190313?DocDate=20190313) for the official definitions. If you are not certain whether you are required to register, you can seek legal advice.<br>
 
+<p align = "right"><a href="#top"><u>[back to top]</u></a></p>
+
 ## Register Now! 
 * You may apply to be registered as a regulated dealer using the [LicenceOne portal](https://licence1.business.gov.sg/web/frontier/home). 
 * You will need to log in to LicenceOne using [your CorpPass account](https://licence1.business.gov.sg/web/frontier/help/corppass-in-licenceone) (for businesses) or [your SingPass account](https://licence1.business.gov.sg/web/frontier/help/how-to-access-the-system-) (for individuals). If you do not have a CorpPass account may sign up for one [here](https://www.corppass.gov.sg/corppass/common/findoutmore). Your CorpPass Administrator should also create CorpPass User Accounts for your LicenceOne users and select "Ministry of Trade's LicenceOne" during account creation.
 * Regulated dealers with no registered business entities overseas or in Singapore may [register for a LicenceOne ID on the LicenceOne Portal](https://licence1.business.gov.sg/web/frontier/help/registration-for-foreigners-without-singpass).
+
+<p align = "right"><a href="#top"><u>[back to top]</u></a></p>
 
 ### Information you need for registration:
 <table>
@@ -49,9 +55,12 @@ Please refer to the [PSPM Act](https://sso.agc.gov.sg/Acts-Supp/7-2019/Published
 </table>
 <br>
 
+<p align = "right"><a href="#top"><u>[back to top]</u></a></p>
+
 ### The registration process
 
 
+<p align = "right"><a href="#top"><u>[back to top]</u></a></p>
 
 ### I need help with registering.
 * If you are not sure how to complete the application form, you may wish to consult the [LicenceOne User Guide](https://licence1.business.gov.sg/web/frontier/help/apply-for-new-licence) or our [FAQs](https://va.ecitizen.gov.sg/cfp/customerpages/mlaw/explorefaq.aspx).
@@ -69,3 +78,6 @@ Please refer to the [PSPM Act](https://sso.agc.gov.sg/Acts-Supp/7-2019/Published
     <td>Monday to Friday 8:00am to 8:00pm<br>Saturdays: 8:00am to 2:00pm<br>Excluding public holidays</td>
   </tr>
 </table>
+
+
+<p align = "right"><a href="#top"><u>[back to top]</u></a></p>
