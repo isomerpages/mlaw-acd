@@ -77,26 +77,41 @@ Regulated dealer "ABC Pte Ltd" has two places of business:<br>
 
 ABC Pte Ltd applies for a Class 3 Certificate of Registration. <br> 
 Therefore, ABC Pte Ltd must pay a total of <b>$1,940</b>:
-      <table>
-        <tr>
-          <th>Type of Fee</th>
-          <th>Working</th>
-        </tr>
-        <tr>
-          <td>Application Fee</td>
-          <td><span style="font-weight:bold">S$140</span></td>
-        </tr>
-        <tr>
-          <td>Registration Fee for:<br>2 places of business<br>x 3 years of registration</td>
-          <td>S$300<span style="font-weight:bold"> </span><br>x 2 <br><span style="text decoration: underline">x 3</span><br><span style="font-weight:bold">S$2,400</span></td>
-        </tr>
-        <tr>
-          <td><span style="font-weight:bold">Grand Total:</span></td>
-          <td><span style="font-weight:bold">S$2,540</span></td>
-        </tr>
-      </table>
-      <table style="border-collapse:collapse;border-spacing:0;margin:0px auto" class="tg"><tr><th style="font-family:Arial, sans-serif;font-size:14px;font-weight:bold;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;background-color:#efefef;text-align:left">Type of Fee</th><th style="font-family:Arial, sans-serif;font-size:14px;font-weight:bold;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;background-color:#efefef;text-align:left">Working</th></tr><tr><td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:left">Application Fee</td><td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:left"><span style="font-weight:bold">S$140</span></td></tr><tr><td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:left;vertical-align:top">Registration Fee for:<br>4 places of business<br>x 2 years of registration</td><td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;text-align:left;vertical-align:top">S$300<span style="font-weight:bold"> </span><br>x 4 <br>x 2 =<br><span style="font-weight:bold">S$2,400</span></td></tr><tr><td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;font-weight:bold;background-color:#efefef;text-align:left;vertical-align:top">Grand Total:</td><td style="font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:inherit;font-weight:bold;text-decoration:underline;background-color:#efefef;text-align:left;vertical-align:top">S$2,540</td></tr></table>
-           
+      <style type="text/css">
+  .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+  .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+  .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+  .tg .tg-dvid{font-weight:bold;background-color:#efefef;border-color:inherit;text-align:left;vertical-align:top}
+  .tg .tg-1gim{font-weight:bold;background-color:#efefef;border-color:inherit;text-align:left}
+  .tg .tg-xldj{border-color:inherit;text-align:left}
+  .tg .tg-quj4{border-color:inherit;text-align:right}
+  .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+  .tg .tg-dvpl{border-color:inherit;text-align:right;vertical-align:top}
+  .tg .tg-8i46{font-weight:bold;text-decoration:underline;background-color:#efefef;border-color:inherit;text-align:right;vertical-align:top}
+  </style>
+  <table class="tg">
+    <tr>
+      <th class="tg-1gim">Type of Fee</th>
+      <th class="tg-1gim">Working</th>
+    </tr>
+    <tr>
+      <td class="tg-xldj">Application Fee</td>
+      <td class="tg-quj4"><span style="font-weight:bold">S$140</span></td>
+    </tr>
+    <tr>
+      <td class="tg-0pky">Registration Fee for:<br>2 places of business<br>3 years of registration</td>
+      <td class="tg-dvpl">S$300<span style="font-weight:bold"> </span><br>x 2 <br><span style="text-decoration:underline">x 3</span><br><span style="font-weight:bold">S$1,800</span></td>
+    </tr>
+    <tr>
+      <td class="tg-dvid">Grand Total:</td>
+      <td class="tg-8i46">S$1,940</td>
+     </td>
+  </tr>
+</table>
+    
+    
+    
+               
     </td>
   </tr>
 </table>
