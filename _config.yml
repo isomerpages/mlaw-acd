@@ -1,7 +1,7 @@
-title: Ministry of Law
-title-abbreviated: Ministry of Law
+title: Ministry of Law - Anti-Money Laundering / Countering the Financing of Terrorism Division
+title-abbreviated: MinLaw - ACD
 description: >- # this means to ignore newlines until "baseurl:"
-  Ministry of Law - ACD
+  ACD is a Division in the Ministry of Law in charge of supervising the precious stones and precious metals sector and mitigating Singapore's exposure to ML/TF risks.
 url: "https://mlaw-acd-prototype.netlify.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
