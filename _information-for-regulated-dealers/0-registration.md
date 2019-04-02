@@ -21,7 +21,6 @@ Please refer to the [PSPM Act](https://sso.agc.gov.sg/Acts-Supp/7-2019/Published
 
 ### Fees and period of registration
 <b>Fees</b><br>
-
 Regulated dealers must pay an application fee for each application to register with the Registrar.<br>
 If the Registrar provides in-principle approval for their application, regulated dealers must pay an additional registration fee calculated based on the number of outlets they operate and the period for which they register
 <table>
