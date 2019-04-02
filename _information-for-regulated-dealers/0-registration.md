@@ -106,7 +106,7 @@ Therefore, ABC Pte Ltd must pay a total of **$2,540**:
   </tr>
   <tr>
     <td>Grand Total:</td>
-    <td>S$2,540</td>
+    <td><b>S$2,540</b></td>
   </tr>
 </table>
 
