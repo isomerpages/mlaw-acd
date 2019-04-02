@@ -8,7 +8,7 @@ collection_name: information-for-regulated-dealers
 <a id="top"></a>
 <table>
   <tr>
-    <th><span style="text-decoration:underline">Contents</span><br><a href="#who-is-required-to-register">1. Who is required to register</a><br><a href="#register-now">2. Register now!</a><br><a href="#information-you-need-for-registration">3. Information you need for registration</a><br><a href="#the-registration-process">4. The registration process</a><br><a href="fees-and-duration-of-registration">5. Fees and duration of registration</a><br><a href="#i-need-help-with-registering">6. I need help with registering</a></th>
+    <th><span style="text-decoration:underline">Contents</span><br><a href="#who-is-required-to-register">1. Who is required to register</a><br><a href="#register-now">2. Register now!</a><br><a href="#information-you-need-for-registration">3. Information you need for registration</a><br><a href="#the-registration-process">4. The registration process</a><br><a href="duration-of-registration-and-fees">5. Duration of registration and fees</a><br><a href="#i-need-help-with-registering">6. I need help with registering</a></th>
   </tr>
 </table>
 
@@ -60,10 +60,55 @@ Please refer to the [PSPM Act](https://sso.agc.gov.sg/Acts-Supp/7-2019/Published
 
 <p align = "right"><a href="#top"><u>[back to top]</u></a></p>
 
-### Fees and duration of registration
+### Duration of registration and fees
+An applicant may apply for a specific class of registration that will determine the period of registration, i.e.:
+1.  Class 1 (1 year duration);
+2.  Class 2 (2 year duration); and
+3.  Class 3 (3 year duration).
 
+For the avoidance of doubt, the Registrar retains the discretion of granting a different class of registration than the class of registration applied for.
 
+**Fees**
+<table>
+  <tr>
+    <th></th>
+    <th>Application fee</th>
+    <th>Registration fee</th>
+  </tr>
+  <tr>
+    <td>Sum <br>payable</td>
+    <td>S$140 <br>per application</td>
+    <td>S$300 <br>per place of business<br>per year of registration</td>
+  </tr>
+</table>
 
+**Illustration:**
+Regulated dealer "ABC Pte Ltd" has four places of business:
+1.  one flagship jewellery outlet in Marina Bay Sands;
+2.  one jewellery outlet in Bugis;
+3.  one jewellery outlet in Jurong East; and
+4.  one jewellery outlet in Changi.
+
+ABC Pte Ltd applies for a Class 2 Certificate of Registration. <br> 
+Therefore, ABC Pte Ltd must pay a total of **$2,540**:
+<table>
+  <tr>
+    <th>Type of Fee</th>
+    <th>Working</th>
+  </tr>
+  <tr>
+    <td>Application Fee</td>
+    <td><span style="font-weight:bold">S$140</span></td>
+  </tr>
+  <tr>
+    <td>Registration Fee for:<br>4 places of business<br>x 2 years of registration</td>
+    <td>S$300<span style="font-weight:bold"> </span><br>x 4 <br>x 2 =<br><span style="font-weight:bold">S$2,400</span></td>
+  </tr>
+  <tr>
+    <td>Grand Total:</td>
+    <td>S$2,540</td>
+  </tr>
+</table>
 
 <p align = "right"><a href="#top"><u>[back to top]</u></a></p>
 
