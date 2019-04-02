@@ -20,7 +20,10 @@ Please refer to the [PSPM Act](https://sso.agc.gov.sg/Acts-Supp/7-2019/Published
 <a href="https://github.com/isomerpages/mlaw-acd/raw/staging/images/Registration%20Process%20Flowchart.pdf"><img src="https://raw.githubusercontent.com/isomerpages/mlaw-acd/staging/images/registration%20process%20flowchart.PNG"></a>
 
 ### Fees and period of registration
-<b>Fees</b>
+<b>Fees</b><br>
+
+Regulated dealers must pay an application fee for each application to register with the Registrar.<br>
+If the Registrar provides in-principle approval for their application, regulated dealers must pay an additional registration fee calculated based on the number of outlets they operate and the period for which they register
 <table>
   <tr>
     <th></th>
@@ -39,18 +42,18 @@ An applicant may apply for a specific class of registration that will determine 
 1.  Class 1 (1 year duration);
 2.  Class 2 (2 year duration); and
 3.  Class 3 (3 year duration).
-
+<br>
 For the avoidance of doubt, the Registrar retains the discretion of granting a different class of registration than the class of registration applied for.
 
 <table>
   <tr>
     <td>
 <b>Illustration:</b>
-Regulated dealer "ABC Pte Ltd" has two places of business:<br>
-1.  one flagship jewellery outlet in Marina Bay Sands; and<br>
-2.  one jewellery outlet in Bugis.<br>
-ABC Pte Ltd applies for a Class 3 Certificate of Registration. <br> 
-Therefore, ABC Pte Ltd must pay a total of <b>$1,940</b>:
+Regulated dealer "ABC Pte Ltd" has two places of business:<br><br>
+1.    one flagship jewellery outlet in Marina Bay Sands; and<br>
+2.    one jewellery outlet in Bugis.<br><br>
+ABC Pte Ltd applies for a Class 3 Certificate of Registration.<br><br> 
+Therefore, ABC Pte Ltd must pay a total of <b>$1,940</b>:<br>
       <style type="text/css">
   .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
   .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
@@ -112,7 +115,7 @@ Therefore, ABC Pte Ltd must pay a total of <b>$1,940</b>:
 <br>
 
 ### I need help with registering.
-* If you are not sure how to complete the application form, you may wish to consult the [LicenceOne User Guide](https://licence1.business.gov.sg/web/frontier/help/apply-for-new-licence) or our [FAQs](https://va.ecitizen.gov.sg/cfp/customerpages/mlaw/explorefaq.aspx).
+* If you are not sure how to complete the application form, you may wish to consult the [LicenceOne User Guide](https://licence1.business.gov.sg/web/frontier/help/apply-for-new-licence).
 * If you need assistance in completing your application form, you may also wish to contact the [LicenceOne Helpdesk](https://licence1.business.gov.sg/web/frontier/contact-us).
 <br>
 <table>
