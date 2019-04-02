@@ -37,7 +37,7 @@ If the Registrar provides in-principle approval for their application, regulated
   </tr>
 </table>
 
-<b>Period of registration</b>
+<b>Period of registration</b><br>
 An applicant may apply for a specific class of registration that will determine the period of registration, i.e.:
 1.  Class 1 (1 year duration);
 2.  Class 2 (2 year duration); and
