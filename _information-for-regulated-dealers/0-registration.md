@@ -67,19 +67,18 @@ An applicant may apply for a specific class of registration that will determine 
 
 For the avoidance of doubt, the Registrar retains the discretion of granting a different class of registration than the class of registration applied for.
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-o4qx{background-color:#fffc9e;color:#333333;border-color:inherit;text-align:left}
-</style>
+    <style type="text/css">
+    .tg  {border-collapse:collapse;border-spacing:0;}
+    .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+    .tg .tg-o4qx{background-color:#fffc9e;color:#333333;border-color:inherit;text-align:left}
+    </style>
 <table>
   <tr>
     <td>
 <b>Illustration:</b>
 Regulated dealer "ABC Pte Ltd" has two places of business:<br>
 1.  one flagship jewellery outlet in Marina Bay Sands; and<br>
-2.  one jewellery outlet in Bugis.
-
+2.  one jewellery outlet in Bugis.<br>
 ABC Pte Ltd applies for a Class 3 Certificate of Registration. <br> 
 Therefore, ABC Pte Ltd must pay a total of <b>$1,940</b>:
       <style type="text/css">
