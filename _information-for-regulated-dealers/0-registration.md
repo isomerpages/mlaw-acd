@@ -5,8 +5,6 @@ permalink: /registration/
 breadcrumb: Registration
 collection_name: information-for-regulated-dealers
 ---
-## Registration
----
 <a id="top"></a>
 <table>
   <tr>
