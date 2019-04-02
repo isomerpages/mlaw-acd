@@ -67,6 +67,11 @@ An applicant may apply for a specific class of registration that will determine 
 
 For the avoidance of doubt, the Registrar retains the discretion of granting a different class of registration than the class of registration applied for.
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-o4qx{background-color:#fffc9e;color:#333333;border-color:inherit;text-align:left}
+</style>
 <table>
   <tr>
     <td>
@@ -105,13 +110,9 @@ Therefore, ABC Pte Ltd must pay a total of <b>$1,940</b>:
     <tr>
       <td class="tg-dvid">Grand Total:</td>
       <td class="tg-8i46">S$1,940</td>
-     </td>
   </tr>
 </table>
-    
-    
-    
-               
+                   
     </td>
   </tr>
 </table>
