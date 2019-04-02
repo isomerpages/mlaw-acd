@@ -8,7 +8,7 @@ collection_name: information-for-regulated-dealers
 <a id="top"></a>
 <table>
   <tr>
-    <th><span style="text-decoration:underline">Contents</span><br><a href="#who-is-required-to-register">1. Who is required to register</a><br><a href="#register-now">2. Register now!</a><br><a href="#information-you-need-for-registration">3. Information you need for registration</a><br><a href="#the-registration-process-and-fees">4. The registration process and fees</a><br><a href="#i-need-help-with-registering">5. I need help with registering</a></th>
+    <th><span style="text-decoration:underline">Contents</span><br><a href="#who-is-required-to-register">1. Who is required to register</a><br><a href="#register-now">2. Register now!</a><br><a href="#information-you-need-for-registration">3. Information you need for registration</a><br><a href="#the-registration-process">4. The registration process</a><br><a href="fees-and-duration-of-registration">5. Fees and duration of registration</a><br><a href="#i-need-help-with-registering">6. I need help with registering</a></th>
   </tr>
 </table>
 
@@ -55,7 +55,14 @@ Please refer to the [PSPM Act](https://sso.agc.gov.sg/Acts-Supp/7-2019/Published
 
 <p align = "right"><a href="#top"><u>[back to top]</u></a></p>
 
-### The registration process and fees
+### The registration process
+<a href="https://github.com/isomerpages/mlaw-acd/raw/staging/images/Registration%20Process%20Flowchart.pdf"><img src="https://raw.githubusercontent.com/isomerpages/mlaw-acd/staging/images/registration%20process%20flowchart.PNG"></a>
+
+<p align = "right"><a href="#top"><u>[back to top]</u></a></p>
+
+### Fees and duration of registration
+
+
 
 
 <p align = "right"><a href="#top"><u>[back to top]</u></a></p>
