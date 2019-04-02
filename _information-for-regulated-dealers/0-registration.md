@@ -129,6 +129,3 @@ Therefore, ABC Pte Ltd must pay a total of <b>$1,940</b>:<br>
     <td>Monday to Friday 8:00am to 8:00pm<br>Saturdays: 8:00am to 2:00pm<br>Excluding public holidays</td>
   </tr>
 </table>
-
-
-<p align = "right"><a href="#top"><u>[back to top]</u></a></p>
