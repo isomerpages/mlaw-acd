@@ -4,6 +4,20 @@
 #                                #
 ##################################
 
+- title: Regulatory Regime
+  url: /reg-compliance/
+  sub-links:
+  - title: Registration of Regulated Dealers
+    url: /registration/
+  - title: List of Registered Dealers
+    url: /list-of-registered-dealers/
+  - title: Regulatory Compliance
+    url: /reg-compliance/
+  - title: Guidance Materials
+    url: /guidance-materials/
+  - title: Key Resources
+    url: /key-resources/
+
 - title: About Us
   url: https://www.mlaw.gov.sg/content/minlaw/en/about-us/our-mission-and-core-values.html
   sub-links:
@@ -19,21 +33,6 @@
     url: https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx
   - title: Contact Us
     url: https://www.mlaw.gov.sg/content/minlaw/en/about-us/contact-us.html
-  
-  
-- title: Regulatory Regime
-  url: /reg-compliance/
-  sub-links:
-  - title: Registration of Regulated Dealers
-    url: /registration/
-  - title: List of Registered Dealers
-    url: /list-of-registered-dealers/
-  - title: Regulatory Compliance
-    url: /reg-compliance/
-  - title: Guidance Materials
-    url: /guidance-materials/
-  - title: Key Resources
-    url: /key-resources/
   
 - title: News and Events
   url: /events/
