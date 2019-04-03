@@ -74,7 +74,7 @@ For the avoidance of doubt, the Registrar has the discretion to grant a differen
   <tr>
     <td>
 <b>Illustration:</b>
-Regulated dealer "ABC Pte Ltd" has two places of business:<br><br>
+<br>Regulated dealer "ABC Pte Ltd" has two places of business:<br><br>
 1.    one flagship jewellery outlet in Marina Bay Sands; and<br>
 2.    one jewellery outlet in Bugis.<br><br>
 ABC Pte Ltd applies for a Class 3 Certificate of Registration.<br><br> 
