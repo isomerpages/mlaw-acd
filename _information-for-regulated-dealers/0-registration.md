@@ -28,7 +28,7 @@ Please refer to the [PSPM Act](https://sso.agc.gov.sg/Acts-Supp/7-2019/Published
   </tr>
   <tr>
     <td>Director<br>Managing director<br>Partner <br>Company secretary<br>Owner<br>Manager</td>
-   <td><b>1. Name*</b><br><b>2. NRIC/Passport No./FIN No.*</b><br>3. Date of Birth<br>4. Declaration of:<br>&nbsp&nbsp&nbsp(a) any investigations or convictions for offences related to fraud, dishonesty, money laundering, or terrorism financing;<br>&nbsp&nbsp&nbsp(b) any bankruptcy, insolvency or liquidation;<br>&nbsp&nbsp&nbsp(c) any lawsuit the person was party to; and<br>&nbsp&nbsp&nbsp(d) any breach of AML/CFT requirements.<br><br><b>* Information is auto-populated for ACRA registered entities</b></td>
+   <td><b>1. Name*</b><br><b>2. NRIC/Passport No./FIN No.*</b><br>3. Date of Birth<br>4. Declaration of:<br>     (a) any investigations or convictions for offences related to fraud, dishonesty, money laundering, or terrorism financing;<br>     (b) any bankruptcy, insolvency or liquidation;<br>     (c) any lawsuit the person was party to; and<br>     (d) any breach of AML/CFT requirements.<br><br><b>* Information is auto-populated for ACRA registered entities</b></td>
   </tr>
     <tr>
     <td>Compliance Officer</td>
@@ -36,7 +36,7 @@ Please refer to the [PSPM Act](https://sso.agc.gov.sg/Acts-Supp/7-2019/Published
   </tr>
   <tr>
     <td>Substantial shareholders (if you represent a company)</td>
-   <td><b>1. Name*</b><br><b>2. NRIC/Passport No./FIN No./UEN No.*</b><br><b>3. No. of Ordinary Shares*</b><br><b>4. Ordinary Share %*</b><br><b>5. Voting Share %*</b><br>6. Declaration of:<br>&nbsp&nbsp&nbsp(a) any investigations or convictions for offences related to fraud, dishonesty, money laundering, or terrorism financing;<br>&nbsp&nbsp&nbsp(b) any bankruptcy, insolvency or liquidation;<br>&nbsp&nbsp&nbsp(c) any lawsuit the person was party to; and<br>&nbsp&nbsp&nbsp(d) any breach of AML/CFT requirements.<br><br><b>* Information is auto-populated for ACRA registered entities</b></td>
+   <td><b>1. Name*</b><br><b>2. NRIC/Passport No./FIN No./UEN No.*</b><br><b>3. No. of Ordinary Shares*</b><br><b>4. Ordinary Share %*</b><br><b>5. Voting Share %*</b><br>6. Declaration of:<br>     (a) any investigations or convictions for offences related to fraud, dishonesty, money laundering, or terrorism financing;<br>     (b) any bankruptcy, insolvency or liquidation;<br>     (c) any lawsuit the person was party to; and<br>     (d) any breach of AML/CFT requirements.<br><br><b>* Information is auto-populated for ACRA registered entities</b></td>
   </tr>
   <tr>
     <td>Place(s) of business</td>
