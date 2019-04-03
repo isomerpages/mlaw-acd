@@ -20,6 +20,7 @@ Please refer to the [PSPM Act](https://sso.agc.gov.sg/Acts-Supp/7-2019/Published
 <a href="https://github.com/isomerpages/mlaw-acd/raw/staging/images/Registration%20Process%20Flowchart.pdf"><img src="https://raw.githubusercontent.com/isomerpages/mlaw-acd/staging/images/registration%20process%20flowchart.PNG"></a>
 
 ### Information you need for registration:
+
 <table>
   <tr>
     <th>Entity</th>
@@ -40,6 +41,7 @@ Please refer to the [PSPM Act](https://sso.agc.gov.sg/Acts-Supp/7-2019/Published
   <tr>
     <td>Place(s) of business</td>
     <td>1. Description of place of business<br>2. Address<br>3. Contact No.<br>4. Name of Outlet Manager<br>5. NRIC/Passport No./FIN No.<br>6. Contact No. of Outlet Manager</td>
+  </tr>
 </table>
 <br>
 
