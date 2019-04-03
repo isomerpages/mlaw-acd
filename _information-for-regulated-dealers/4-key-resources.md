@@ -6,9 +6,6 @@ breadcrumb: Key Resources
 collection_name: information-for-regulated-dealers
 ---
 
-### Key Resources for Regulatory Compliance
----
-
 #### Legal Requirements
 
 * The Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019
