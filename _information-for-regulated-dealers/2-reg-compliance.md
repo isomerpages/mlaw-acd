@@ -11,8 +11,8 @@ The Precious Stones and Precious Metals (Prevention of Money Laundering and Terr
 The precious stones and precious metals sector is exposed to inherent money laundering (**"ML"**) and terrorism financing (**"TF"**) risks, as precious stones and precious metals are good stores of value, easily transported and concealed, and easily convertible to cash.<br>
 
 The new regime will mitigate these ML and TF risks, enhance the effectiveness of Singapore's AML/CFT regime, combat crime and improve security, both domestically and globally.
-
-#### Summary of Regulatory Requirements
+<br>
+#### Overview of the regulatory regime
 <a href="https://github.com/isomerpages/mlaw-acd/raw/staging/images/Money%20Laundering%20%26%20Terrorism%20Financing%20Risks%20in%20the%20Precious%20Stones%20and%20Precious%20Metals%20Dealers%20Sector.pdf"><img src="https://github.com/isomerpages/mlaw-acd/raw/staging/images/Money%20Laundering%20%26%20Terrorism%20Financing%20Risks%20in%20the%20Precious%20Stones%20and%20Precious%20Metals%20Dealers%20Sector.png"></a>
 <a href="https://github.com/isomerpages/mlaw-acd/raw/staging/images/Safeguarding%20the%20Precious%20Stones%20and%20Precious%20Metals%20Dealers%20Sector.pdf"><img src="https://raw.githubusercontent.com/isomerpages/mlaw-acd/staging/images/Safeguarding%20the%20Precious%20Stones%20and%20Precious%20Metals%20Dealers%20Sector.png"></a><br>
 
