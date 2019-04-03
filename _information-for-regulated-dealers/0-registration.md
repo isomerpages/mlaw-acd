@@ -68,7 +68,7 @@ An applicant may apply for a specific class of registration that will determine 
 2.  Class 2 (2 year duration); and
 3.  Class 3 (3 year duration).
 <br>
-For the avoidance of doubt, the Registrar retains the discretion of granting a different class of registration than the class of registration applied for.
+For the avoidance of doubt, the Registrar has the discretion to grant a different class of registration than the class of registration applied for.
 
 <table>
   <tr>
