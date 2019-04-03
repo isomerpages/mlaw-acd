@@ -78,7 +78,7 @@ For the avoidance of doubt, the Registrar has the discretion to grant a differen
 1.    one flagship jewellery outlet in Marina Bay Sands; and<br>
 2.    one jewellery outlet in Bugis.<br><br>
 ABC Pte Ltd applies for a Class 3 Certificate of Registration.<br><br> 
-Therefore, ABC Pte Ltd must pay a total of <b>$1,940</b>:<br>
+ABC Pte Ltd must pay a total of <b>$1,940</b>:<br>
       <style type="text/css">
   .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
   .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
