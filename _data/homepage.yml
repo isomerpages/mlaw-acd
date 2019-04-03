@@ -18,12 +18,12 @@ hero-banner: /images/bullion1.jpg
 #Call to Action Button
 button:
   - text: Register Now!
-    url: /registration/#register-now
+    url: /registration/
     
 key-highlights:
   - title: Register Now!
     description: Regulated dealers to register with MinLaw
-    url: /registration/#register-now
+    url: /registration/
     external: false
   - title: Guidance Materials
     description: Brochures, reference booklets and templates
