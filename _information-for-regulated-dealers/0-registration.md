@@ -19,6 +19,30 @@ Please refer to the [PSPM Act](https://sso.agc.gov.sg/Acts-Supp/7-2019/Published
 ### The registration process
 <a href="https://github.com/isomerpages/mlaw-acd/raw/staging/images/Registration%20Process%20Flowchart.pdf"><img src="https://raw.githubusercontent.com/isomerpages/mlaw-acd/staging/images/registration%20process%20flowchart.PNG"></a>
 
+### Information you need for registration:
+<table>
+  <tr>
+    <th>Entity</th>
+    <th>Information needed</th>
+  </tr>
+  <tr>
+    <td>Director<br>Managing director<br>Partner <br>Company secretary<br>Owner<br>Manager</td>
+   <td><b>1. Name*</b><br><b>2. NRIC/Passport No./FIN No.*</b><br>3. Date of Birth<br>4. Declaration of:<br>&nbsp&nbsp&nbsp(a) any investigations or convictions for offences related to fraud, dishonesty, money laundering, or terrorism financing;<br>&nbsp&nbsp&nbsp(b) any bankruptcy, insolvency or liquidation;<br>&nbsp&nbsp&nbsp(c) any lawsuit the person was party to; and<br>&nbsp&nbsp&nbsp(d) any breach of AML/CFT requirements.<br><br><b>* Information is auto-populated for ACRA registered entities</b></td>
+  </tr>
+    <tr>
+    <td>Compliance Officer</td>
+    <td>1. Name<br>2. NRIC/Passport No./FIN No.<br>3. Date of Birth</td>
+  </tr>
+  <tr>
+    <td>Substantial shareholders (if you represent a company)</td>
+   <td><b>1. Name*</b><br><b>2. NRIC/Passport No./FIN No./UEN No.*</b><br><b>3. No. of Ordinary Shares*</b><br><b>4. Ordinary Share %*</b><br><b>5. Voting Share %*</b><br>6. Declaration of:<br>&nbsp&nbsp&nbsp(a) any investigations or convictions for offences related to fraud, dishonesty, money laundering, or terrorism financing;<br>&nbsp&nbsp&nbsp(b) any bankruptcy, insolvency or liquidation;<br>&nbsp&nbsp&nbsp(c) any lawsuit the person was party to; and<br>&nbsp&nbsp&nbsp(d) any breach of AML/CFT requirements.<br><br><b>* Information is auto-populated for ACRA registered entities</b></td>
+  </tr>
+  <tr>
+    <td>Place(s) of business</td>
+    <td>1. Description of place of business<br>2. Address<br>3. Contact No.<br>4. Name of Outlet Manager<br>5. NRIC/Passport No./FIN No.<br>6. Contact No. of Outlet Manager</td>
+</table>
+<br>
+
 ### Fees and period of registration
 <b>Fees</b><br>
 Regulated dealers must pay an application fee for each application to register with the Registrar.<br>
@@ -87,31 +111,6 @@ Therefore, ABC Pte Ltd must pay a total of <b>$1,940</b>:<br>
     </td>
   </tr>
 </table>
-
-### Information you need for registration:
-<table>
-  <tr>
-    <th>Entity</th>
-    <th>Information needed</th>
-  </tr>
-  <tr>
-    <td>Director<br>Managing director<br>Partner <br>Company secretary<br>Owner<br>Manager</td>
-   <td><b>1. Name*</b><br><b>2. NRIC/Passport No./FIN No.*</b><br>3. Date of Birth<br><br>*Information is auto-populated for ACRA registered entities</td>
-  </tr>
-    <tr>
-    <td>Compliance Officer</td>
-    <td>1. Name<br>2. NRIC/Passport No./FIN No.<br>3. Date of Birth</td>
-  </tr>
-  <tr>
-    <td>Substantial shareholders (if you represent a company)</td>
-   <td><b>1. Name*</b><br><b>2. NRIC/Passport No./FIN No./UEN No.*</b><br><b>3. No. of Ordinary Shares*</b><br><b>4. Ordinary Share %*</b><br><b>5. Voting Share %*</b><br><br>*Information is auto-populated for ACRA registered entities</td>
-  </tr>
-  <tr>
-    <td>Place(s) of business</td>
-    <td>1. Description of place of business<br>2. Address<br>3. Contact No.<br>4. Name of Outlet Manager<br>5. NRIC/Passport No./FIN No.<br>6. Contact No. of Outlet Manager</td>
-  </tr>
-</table>
-<br>
 
 ### I need help with registering.
 * If you are not sure how to complete the application form, you may wish to consult the [LicenceOne User Guide](https://licence1.business.gov.sg/web/frontier/help/apply-for-new-licence).
