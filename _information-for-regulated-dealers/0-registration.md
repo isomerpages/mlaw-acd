@@ -47,7 +47,7 @@ Please refer to the [PSPM Act](https://sso.agc.gov.sg/Acts-Supp/7-2019/Published
 
 ### Fees and period of registration
 <b>Fees</b><br>
-Regulated dealers must pay an application fee for each application to register with the Registrar.Regulated dealers who <b>submit their application by 31 May 2019 will enjoy a $70 discount</b> off their application fee as an incentive for early registration.<br>
+Regulated dealers must pay an application fee for each application to register with the Registrar. Regulated dealers who <b>submit their application by 31 May 2019 will enjoy a $70 discount</b> off their application fee as an incentive for early registration.<br>
 If the Registrar provides in-principle approval for their application, regulated dealers must pay an additional registration fee calculated based on the number of outlets they operate and the period for which they register
 <table>
   <tr>
@@ -84,7 +84,7 @@ ABC Pte Ltd must pay a total of <b>$1,870</b>:<br>
   .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
   .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
   .tg .tg-dvid{font-weight:bold;background-color:#efefef;border-color:inherit;text-align:left;vertical-align:top}
-  .tg .tg-1gim{font-weight:bold;background-color:#efefef;border-color:inherit;text-align:centre}
+  .tg .tg-1gim{font-weight:bold;background-color:#efefef;border-color:inherit;text-align:center}
   .tg .tg-xldj{border-color:inherit;text-align:left}
   .tg .tg-quj4{border-color:inherit;text-align:right}
   .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
