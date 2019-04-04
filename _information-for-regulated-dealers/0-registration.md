@@ -97,7 +97,7 @@ ABC Pte Ltd must pay a total of <b>$1,870</b>:<br>
       <th class="tg-1gim">Working</th>
     </tr>
     <tr>
-      <td class="tg-xldj">Application Fee</td>
+      <td class="tg-xldj">Application Fee<br>with early application discount</td>
       <td class="tg-quj4">S$140<br><span style="text-decoration:underline">- S$70</span><br><span style="font-weight:bold">S$70</span></td>
     </tr>
     <tr>
