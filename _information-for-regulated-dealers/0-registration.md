@@ -12,7 +12,7 @@ Examples of regulated dealers who are required to register include, but are not 
 Please refer to the [PSPM Act](https://sso.agc.gov.sg/Acts-Supp/7-2019/Published/20190313?DocDate=20190313) for the official definitions. If you are not certain whether you are required to register, you can seek legal advice.<br>
 
 ## Register Now! Discounts for Early Application!
-* You may apply to be registered as a regulated dealer using the [LicenceOne portal](https://licence1.business.gov.sg/web/frontier/home). Regulated dealers who submit their application by 31 May 2019 will enjoy a $70 discount off their application fee as an incentive for early registration.
+* You may apply to be registered as a regulated dealer using the [LicenceOne portal](https://licence1.business.gov.sg/web/frontier/home). **Submit your application by 31 May 2019 to enjoy a $70 discount off your application fee!**
 * You will need to log in to LicenceOne using [your CorpPass account](https://licence1.business.gov.sg/web/frontier/help/corppass-in-licenceone) (for businesses) or [your SingPass account](https://licence1.business.gov.sg/web/frontier/help/how-to-access-the-system-) (for individuals). If you do not have a CorpPass account may sign up for one [here](https://www.corppass.gov.sg/corppass/common/findoutmore). Your CorpPass Administrator should also create CorpPass User Accounts for your LicenceOne users and select "Ministry of Trade's LicenceOne" during account creation.
 * Regulated dealers with no registered business entities overseas or in Singapore may [register for a LicenceOne ID on the LicenceOne Portal](https://licence1.business.gov.sg/web/frontier/help/registration-for-foreigners-without-singpass).
 
@@ -84,7 +84,7 @@ ABC Pte Ltd must pay a total of <b>$1,870</b>:<br>
   .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
   .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
   .tg .tg-dvid{font-weight:bold;background-color:#efefef;border-color:inherit;text-align:left;vertical-align:top}
-  .tg .tg-1gim{font-weight:bold;background-color:#efefef;border-color:inherit;text-align:right}
+  .tg .tg-1gim{font-weight:bold;background-color:#efefef;border-color:inherit;text-align:centre}
   .tg .tg-xldj{border-color:inherit;text-align:left}
   .tg .tg-quj4{border-color:inherit;text-align:right}
   .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
