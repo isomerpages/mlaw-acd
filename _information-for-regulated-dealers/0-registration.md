@@ -17,7 +17,7 @@ Please refer to the [PSPM Act](https://sso.agc.gov.sg/Acts-Supp/7-2019/Published
 * Regulated dealers with no registered business entities overseas or in Singapore may [register for a LicenceOne ID on the LicenceOne Portal](https://licence1.business.gov.sg/web/frontier/help/registration-for-foreigners-without-singpass).
 
 ### The registration process
-<a href="https://github.com/isomerpages/mlaw-acd/raw/master/images/Registration%20Process%20Flowchart.pdf"><img src="https://raw.githubusercontent.com/isomerpages/mlaw-acd/master/images/registration%20process%20flowchart.PNG"></a>
+<a href="https://github.com/isomerpages/mlaw-acd/raw/staging/images/Registration%20Flowchart%20(discount).pdf"><img src="https://github.com/isomerpages/mlaw-acd/raw/staging/images/Registration%20Flowchart%20(discount).png"></a>
 
 ### Information you need for registration:
 
@@ -47,7 +47,7 @@ Please refer to the [PSPM Act](https://sso.agc.gov.sg/Acts-Supp/7-2019/Published
 
 ### Fees and period of registration
 <b>Fees</b><br>
-Regulated dealers must pay an application fee for each application to register with the Registrar. Regulated dealers who <b>submit their application by 31 May 2019 will enjoy a $70 discount</b> off their application fee as an incentive for early registration.<br>
+Regulated dealers must pay an application fee for each application to register with the Registrar. Regulated dealers who <b>submit their application by 31 May 2019 will enjoy a $70 discount</b> off their application fee as an incentive for early registration.<br><br>
 If the Registrar provides in-principle approval for their application, regulated dealers must pay an additional registration fee calculated based on the number of outlets they operate and the period for which they register
 <table>
   <tr>
