@@ -13,8 +13,8 @@ The precious stones and precious metals sector is exposed to inherent money laun
 The new regime will mitigate these ML and TF risks, enhance the effectiveness of Singapore's AML/CFT regime, combat crime and improve security, both domestically and globally.
 <br>
 #### Overview of the regulatory regime
-<a href="https://github.com/isomerpages/mlaw-acd/raw/staging/images/Money%20Laundering%20%26%20Terrorism%20Financing%20Risks%20in%20the%20Precious%20Stones%20and%20Precious%20Metals%20Dealers%20Sector.pdf"><img src="https://github.com/isomerpages/mlaw-acd/raw/staging/images/Money%20Laundering%20%26%20Terrorism%20Financing%20Risks%20in%20the%20Precious%20Stones%20and%20Precious%20Metals%20Dealers%20Sector.png"></a>
-<a href="https://github.com/isomerpages/mlaw-acd/raw/staging/images/Safeguarding%20the%20Precious%20Stones%20and%20Precious%20Metals%20Dealers%20Sector.pdf"><img src="https://raw.githubusercontent.com/isomerpages/mlaw-acd/staging/images/Safeguarding%20the%20Precious%20Stones%20and%20Precious%20Metals%20Dealers%20Sector.png"></a><br>
+<a href="https://github.com/isomerpages/mlaw-acd/raw/master/images/Money%20Laundering%20%26%20Terrorism%20Financing%20Risks%20in%20the%20Precious%20Stones%20and%20Precious%20Metals%20Dealers%20Sector.pdf"><img src="https://github.com/isomerpages/mlaw-acd/raw/master/images/Money%20Laundering%20%26%20Terrorism%20Financing%20Risks%20in%20the%20Precious%20Stones%20and%20Precious%20Metals%20Dealers%20Sector.png"></a>
+<a href="https://github.com/isomerpages/mlaw-acd/raw/master/images/Safeguarding%20the%20Precious%20Stones%20and%20Precious%20Metals%20Dealers%20Sector.pdf"><img src="https://raw.githubusercontent.com/isomerpages/mlaw-acd/master/images/Safeguarding%20the%20Precious%20Stones%20and%20Precious%20Metals%20Dealers%20Sector.png"></a><br>
 
 #### Who does the new regime cover?
 The regime will cover regulated dealers.
