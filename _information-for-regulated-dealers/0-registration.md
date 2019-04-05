@@ -13,7 +13,7 @@ Please refer to the [PSPM Act](https://sso.agc.gov.sg/Acts-Supp/7-2019/Published
 
 ## Register Now! Discounts for Early Application!
 * You may apply to be registered as a regulated dealer using the [LicenceOne portal](https://licence1.business.gov.sg/web/frontier/home). **Submit your application by 31 May 2019 to enjoy a $70 discount off your application fee!**
-* You will need to log in to LicenceOne using [your CorpPass account](https://licence1.business.gov.sg/web/frontier/help/corppass-in-licenceone) (for businesses) or [your SingPass account](https://licence1.business.gov.sg/web/frontier/help/how-to-access-the-system-) (for individuals). If you do not have a CorpPass account may sign up for one [here](https://www.corppass.gov.sg/corppass/common/findoutmore). Your CorpPass Administrator should also create CorpPass User Accounts for your LicenceOne users and select "Ministry of Trade's LicenceOne" during account creation.
+* You will need to log in to LicenceOne using [your CorpPass account](https://licence1.business.gov.sg/web/frontier/help/corppass-in-licenceone) (for businesses) or [your SingPass account](https://licence1.business.gov.sg/web/frontier/help/how-to-access-the-system-) (for individuals). If you do not have a CorpPass account, you may sign up for one [here](https://www.corppass.gov.sg/corppass/common/findoutmore). Your CorpPass Administrator should also create CorpPass User Accounts for your LicenceOne users and select "Ministry of Trade's LicenceOne" during account creation.
 * Regulated dealers with no registered business entities overseas or in Singapore may [register for a LicenceOne ID on the LicenceOne Portal](https://licence1.business.gov.sg/web/frontier/help/registration-for-foreigners-without-singpass).
 
 ### The registration process
@@ -48,7 +48,7 @@ Please refer to the [PSPM Act](https://sso.agc.gov.sg/Acts-Supp/7-2019/Published
 ### Fees and period of registration
 <b>Fees</b><br>
 Regulated dealers must pay an application fee for each application to register with the Registrar. Regulated dealers who <b>submit their application by 31 May 2019 will enjoy a $70 discount</b> off their application fee as an incentive for early registration.<br><br>
-If the Registrar provides in-principle approval for their application, regulated dealers must pay an additional registration fee calculated based on the number of outlets they operate and the period for which they register
+If the Registrar provides in-principle approval for their application, regulated dealers must pay a registration fee calculated based on the number of outlets they operate and the period for which they register
 <table>
   <tr>
     <th></th>
