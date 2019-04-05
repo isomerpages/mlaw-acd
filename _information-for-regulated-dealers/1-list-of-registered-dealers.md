@@ -6,4 +6,4 @@ breadcrumb: List of Registered Dealers
 collection_name: information-for-regulated-dealers
 ---
 
-The Registrar of Registered Dealers will publish a list of registered dealers in due course.
+A list of registered dealers will be published in due course.
