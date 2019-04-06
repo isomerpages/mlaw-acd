@@ -57,7 +57,7 @@ If the Registrar provides in-principle approval for their application, regulated
   </tr>
   <tr>
     <td>Sum <br>payable</td>
-    <td>S$140 <br>per application</td>
+    <td>S$140 <br>per application<br><b>(S$70 before 31 May 2019)</b></td>
     <td>S$300 <br>per place of business<br>per year of registration</td>
   </tr>
 </table>
