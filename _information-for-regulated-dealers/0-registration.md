@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Registration
+title: Registration of Regulated DEalers
 permalink: /registration/
-breadcrumb: Registration
+breadcrumb: Registration of Regulated Dealers
 collection_name: information-for-regulated-dealers
 ---
 ### Who is required to register?
