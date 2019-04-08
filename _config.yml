@@ -1,8 +1,9 @@
 title: Anti-Money Laundering / Countering the Financing of Terrorism Division
 title-abbreviated: MinLaw - ACD
+email: admin@isomer.gov.sg
 description: >- # this means to ignore newlines until "baseurl:"
   ACD is a Division in the Ministry of Law in charge of supervising the precious stones and precious metals sector and mitigating Singapore's exposure to ML/TF risks.
-url: "https://mlaw-acd-prototype.netlify.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://acd.mlaw.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
@@ -32,7 +33,7 @@ feedback_form_url: "https://www.mlaw.gov.sg/eservices/enquiry/"
 
 # FAQ URL
 faq_url: "https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx"
-faq_url_external: false
+faq_url_external: true
 
 # Custom CSS file path
 custom_css_path: "/misc/custom.css"
@@ -43,3 +44,5 @@ collections:
   information-for-regulated-dealers:
     output: true
 resources_name: events
+
+exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]

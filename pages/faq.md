@@ -8,4 +8,4 @@ title: FAQ
 ### FAQ
 ---
 Have questions? <br>
-<a href="https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx"><img src="https://raw.githubusercontent.com/isomerpages/mlaw-acd/minlawjh-patch-1/images/mlaw-faq.png"></a>
+<a href="https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx"><img src="/images/mlaw-faq.png"></a>
