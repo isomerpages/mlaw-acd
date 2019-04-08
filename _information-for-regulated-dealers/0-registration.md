@@ -77,7 +77,7 @@ For the avoidance of doubt, the Registrar has the discretion to grant a differen
 <br>Regulated dealer "ABC Pte Ltd" has two places of business:<br><br>
 1.    one flagship jewellery outlet in Marina Bay Sands; and<br>
 2.    one jewellery outlet in Bugis.<br><br>
-ABC Pte Ltd applies for a Class 3 Certificate of Registration on 31 April 2019.<br><br> 
+ABC Pte Ltd applies for a Class 3 Certificate of Registration on 30 April 2019.<br><br> 
 ABC Pte Ltd must pay a total of <b>S$1,870</b>:<br>
       <style type="text/css">
   .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
