@@ -17,7 +17,7 @@ Please refer to the [PSPM Act](https://sso.agc.gov.sg/Acts-Supp/7-2019/Published
 * Regulated dealers with no registered business entities overseas or in Singapore may [register for a LicenceOne ID on the LicenceOne Portal](https://licence1.business.gov.sg/web/frontier/help/registration-for-foreigners-without-singpass).
 
 ### The registration process
-<a href="https://github.com/isomerpages/mlaw-acd/raw/staging/images/Registration%20Flowchart%20(LowerFee).pdf"><img src="https://github.com/isomerpages/mlaw-acd/raw/staging/images/Registration%20Flowchart%20(LowerFee).png"></a>
+<a href="https://github.com/isomerpages/mlaw-acd/raw/master/images/Registration%20Flowchart%20(LowerFee).pdf"><img src="https://github.com/isomerpages/mlaw-acd/raw/master/images/Registration%20Flowchart%20(LowerFee).png"></a>
 
 ### Information you need for registration:
 
