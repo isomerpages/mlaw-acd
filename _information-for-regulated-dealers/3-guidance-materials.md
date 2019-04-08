@@ -19,7 +19,7 @@ The Notice for Customers explains that regulated dealers are required to collect
 
 #### [3. Monetary Authority of Singapore's ("MAS") website - Lists of Designated Persons](http://www.mas.gov.sg/Regulations-and-Financial-Stability/Anti-Money-Laundering-Countering-The-Financing-Of-Terrorism-And-Targeted-Financial-Sanctions/Targeted-Financial-Sanctions/Lists-of-Designated-Individuals-and-Entities.aspx)
 
-MAS publishes lists of individuals and entities designated under the United Nations Act and the Terrorism (Suppresion of Financing) Act. Regulated dealers are required to screen their clients against the lists below before engaging in any business or commercial activity with them.<br><br><br>
+MAS publishes lists of individuals and entities designated under the United Nations Act and the Terrorism (Suppresion of Financing) Act. Regulated dealers are required to screen their customers against the lists below before engaging in any business or commercial activity with them.<br><br><br>
 
 <a id="footnote1"><sup>[1]</sup></a> "PSPM Act" is an abbreviation for the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019. <br> Similarly, "PMLTF Regulations" is an abbreviation for the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations. <br> Regulated dealers are subject to regulatory requirements under the PSPM Act and PMLTF Regulations.
 <p align="right"><a href="#guidance"><u>[back to top]</u></a></p>
