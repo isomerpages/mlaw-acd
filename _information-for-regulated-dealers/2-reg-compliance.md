@@ -6,9 +6,9 @@ breadcrumb: Regulatory Compliance
 collection_name: information-for-regulated-dealers
 ---
 #### Introduction
-The Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act (**PSPM Act**) will come into force on 10 April 2019. It introduces a supervisory and regulatory regime for precious stones and precious metals dealers.
+The Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act ("**PSPM Act**") will come into force on 10 April 2019. It introduces a supervisory and regulatory regime for precious stones and precious metals dealers.
 
-The precious stones and precious metals sector is exposed to inherent money laundering (**"ML"**) and terrorism financing (**"TF"**) risks, as precious stones and precious metals are good stores of value, easily transported and concealed, and easily convertible to cash.
+The precious stones and precious metals sector is exposed to inherent money laundering ("**ML**") and terrorism financing ("**TF**") risks, as precious stones and precious metals are good stores of value, easily transported and concealed, and easily convertible to cash.
 
 The new regime will mitigate these ML and TF risks, enhance the effectiveness of Singapore's AML/CFT regime, combat crime and improve security, both domestically and globally.
 
@@ -56,10 +56,10 @@ Under this regime, the requirements that apply to regulated dealers include, but
 
 * Register with the Registrar of Regulated Dealers within 6 months after the PSPM Act commences (i.e. by 9 October 2019);
 * Perform customer due diligence measures under circumstances that are prescribed by the PSPM Act;
-* File Suspicious Transaction Reports (**STR**) with the Suspicious Transaction Reporting Office (**STRO**) and ACD where there is suspicion of ML/TF;
-* File Cash Transaction Reports (**CTR**) with STRO and ACD for cash transactions exceeding S$20,000;
+* File Suspicious Transaction Reports ("**STR**") with the Suspicious Transaction Reporting Office ("**STRO**") and ACD where there is suspicion of ML/TF;
+* File Cash Transaction Reports ("**CTR**") with STRO and ACD for cash transactions exceeding S$20,000;
   * STRO will be revising the CTR for paper filing. **You will be required to use a revised CTR with effect from 10 April 2019 for paper filing**.
-  * For more informaton, please refer to [STRO's website](https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office/cash-transaction-reporting).
+  * For more information, please refer to [STRO's website](https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office/cash-transaction-reporting).
 * Keep records of the following documents/information for a period of 5 years or such other prescribed period:
   * transactions where customer due diligence was conducted;
   * information obtained from customer due diligence; and
