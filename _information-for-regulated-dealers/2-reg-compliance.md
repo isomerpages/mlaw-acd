@@ -54,13 +54,13 @@ Asset-backed tokens **do not include** securities or derivative contracts within
 #### What do regulated dealers have to do?
 Under this regime, the requirements that apply to regulated dealers include, but are not limited to, the following:
 
-* Register with the Registrar of Regulated Dealers within 6 months after the PSPM Act commences (i.e. by 9 October 2019)
-* Perform customer due diligence measures under circumstances that are prescribed by the PSPM Act
-* File Suspicious Transaction Reports (**STR**) with the Suspicious Transaction Reporting Office (**STRO**) and the Ministry of Law where there is suspicion of ML/TF 
-* File Cash Transaction Reports (**CTR**) with STRO and ACD for cash transactions exceeding $20,000
-* Keep records of the following documents/information for a period of five years or such other prescribed period:
+* Register with the Registrar of Regulated Dealers within 6 months after the PSPM Act commences (i.e. by 9 October 2019);
+* Perform customer due diligence measures under circumstances that are prescribed by the PSPM Act;
+* File Suspicious Transaction Reports (**STR**) with the Suspicious Transaction Reporting Office (**STRO**) and ACD where there is suspicion of ML/TF;
+* File Cash Transaction Reports (**CTR**) with STRO and ACD for cash transactions exceeding S$20,000;
+* Keep records of the following documents/information for a period of 5 years or such other prescribed period:
   * transactions where customer due diligence was conducted;
   * information obtained from customer due diligence; and
   * CTRs that have been filed. 
-* Conduct risk assessments to determine the ML/TF risk posed by its customers and transactions
-* Put in place internal policies, procedures and controls to mitigate the specific ML/TF risks identified by their risk assessments
+* Conduct risk assessments to determine the ML/TF risk posed by its customers and transactions; and
+* Put in place internal policies, procedures and controls to mitigate the specific ML/TF risks identified by their risk assessments.
