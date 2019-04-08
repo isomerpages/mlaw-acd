@@ -58,6 +58,8 @@ Under this regime, the requirements that apply to regulated dealers include, but
 * Perform customer due diligence measures under circumstances that are prescribed by the PSPM Act;
 * File Suspicious Transaction Reports (**STR**) with the Suspicious Transaction Reporting Office (**STRO**) and ACD where there is suspicion of ML/TF;
 * File Cash Transaction Reports (**CTR**) with STRO and ACD for cash transactions exceeding S$20,000;
+  * STRO will be revising the CTR for paper filing. **You will be required to use a revised CTR with effect from 10 April 2019 for paper filing**.
+  * For more informaton, please refer to [STRO's website](https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office/cash-transaction-reporting).
 * Keep records of the following documents/information for a period of 5 years or such other prescribed period:
   * transactions where customer due diligence was conducted;
   * information obtained from customer due diligence; and
