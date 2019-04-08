@@ -12,7 +12,7 @@ collection_name: information-for-regulated-dealers
   * To view, please click [here](https://sso.agc.gov.sg/Acts-Supp/7-2019/Published/20190313?DocDate=20190313).
 
 * Subsidiary legislation under the PSPM Act
-  * To view, please click [here]().
+  * To view, please click [here](http://www.egazette.com.sg/gazetteViewDetail.aspx?ct=sls&subscriber=0).
 
 * Monetary Authority of Singapore ("MAS") website - Lists of Designated Persons
   * To view, please click [here](http://www.mas.gov.sg/Regulations-and-Financial-Stability/Anti-Money-Laundering-Countering-The-Financing-Of-Terrorism-And-Targeted-Financial-Sanctions/Targeted-Financial-Sanctions/Lists-of-Designated-Individuals-and-Entities.aspx).
