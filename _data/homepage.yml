@@ -22,7 +22,7 @@ button:
     
 key-highlights:
   - title: Register Now!
-    description: Regulated dealers to register with MinLaw
+    description: Regulated dealers to register with MinLaw<br> <b>(Lower application fee before 31 May 2019)</b>
     url: /registration/
     external: false
   - title: Guidance Materials

@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Registration
+title: Registration of Regulated Dealers
 permalink: /registration/
-breadcrumb: Registration
+breadcrumb: Registration of Regulated Dealers
 collection_name: information-for-regulated-dealers
 ---
 ### Who is required to register?
@@ -11,13 +11,13 @@ Examples of regulated dealers who are required to register include, but are not 
 
 Please refer to the [PSPM Act](https://sso.agc.gov.sg/Acts-Supp/7-2019/Published/20190313?DocDate=20190313) for the official definitions. If you are not certain whether you are required to register, you can seek legal advice.<br>
 
-## Register Now! 
-* You may apply to be registered as a regulated dealer using the [LicenceOne portal](https://licence1.business.gov.sg/web/frontier/home). 
-* You will need to log in to LicenceOne using [your CorpPass account](https://licence1.business.gov.sg/web/frontier/help/corppass-in-licenceone) (for businesses) or [your SingPass account](https://licence1.business.gov.sg/web/frontier/help/how-to-access-the-system-) (for individuals). If you do not have a CorpPass account may sign up for one [here](https://www.corppass.gov.sg/corppass/common/findoutmore). Your CorpPass Administrator should also create CorpPass User Accounts for your LicenceOne users and select "Ministry of Trade's LicenceOne" during account creation.
+## Register Now! Lower Application Fee before 31 May 2019!
+* You may apply to be registered as a regulated dealer using the [LicenceOne portal](https://licence1.business.gov.sg/web/frontier/home). **Submit your application by 31 May 2019 for a lower application fee of S$70!**
+* You will need to log in to LicenceOne using [your CorpPass account](https://licence1.business.gov.sg/web/frontier/help/corppass-in-licenceone) (for businesses) or [your SingPass account](https://licence1.business.gov.sg/web/frontier/help/how-to-access-the-system-) (for individuals). If you do not have a CorpPass account, you may sign up for one [here](https://www.corppass.gov.sg/corppass/common/findoutmore). Your CorpPass Administrator should also create CorpPass User Accounts for your LicenceOne users and select "Ministry of Trade's LicenceOne" during account creation.
 * Regulated dealers with no registered business entities overseas or in Singapore may [register for a LicenceOne ID on the LicenceOne Portal](https://licence1.business.gov.sg/web/frontier/help/registration-for-foreigners-without-singpass).
 
 ### The registration process
-<a href="https://github.com/isomerpages/mlaw-acd/raw/master/images/Registration%20Process%20Flowchart.pdf"><img src="https://raw.githubusercontent.com/isomerpages/mlaw-acd/master/images/registration%20process%20flowchart.PNG"></a>
+<a href="https://github.com/isomerpages/mlaw-acd/raw/master/images/Registration%20Flowchart%20(LowerFee).pdf"><img src="https://github.com/isomerpages/mlaw-acd/raw/master/images/Registration%20Flowchart%20(LowerFee).png"></a>
 
 ### Information you need for registration:
 
@@ -47,8 +47,8 @@ Please refer to the [PSPM Act](https://sso.agc.gov.sg/Acts-Supp/7-2019/Published
 
 ### Fees and period of registration
 <b>Fees</b><br>
-Regulated dealers must pay an application fee for each application to register with the Registrar.<br>
-If the Registrar provides in-principle approval for their application, regulated dealers must pay an additional registration fee calculated based on the number of outlets they operate and the period for which they register
+Regulated dealers must pay an application fee for each application to register with the Registrar. Regulated dealers who <b>submit their application by 31 May 2019 will enjoy a lower application fee of S$70 as an incentive for early registration.</b><br><br>
+If the Registrar provides in-principle approval for their application, regulated dealers must pay a registration fee calculated based on the number of outlets they operate and the period for which they register
 <table>
   <tr>
     <th></th>
@@ -57,7 +57,7 @@ If the Registrar provides in-principle approval for their application, regulated
   </tr>
   <tr>
     <td>Sum <br>payable</td>
-    <td>S$140 <br>per application</td>
+    <td>S$140 <br>per application<br><b>(S$70 before 31 May 2019)</b></td>
     <td>S$300 <br>per place of business<br>per year of registration</td>
   </tr>
 </table>
@@ -77,14 +77,14 @@ For the avoidance of doubt, the Registrar has the discretion to grant a differen
 <br>Regulated dealer "ABC Pte Ltd" has two places of business:<br><br>
 1.    one flagship jewellery outlet in Marina Bay Sands; and<br>
 2.    one jewellery outlet in Bugis.<br><br>
-ABC Pte Ltd applies for a Class 3 Certificate of Registration.<br><br> 
-ABC Pte Ltd must pay a total of <b>$1,940</b>:<br>
+ABC Pte Ltd applies for a Class 3 Certificate of Registration on 31 April 2019.<br><br> 
+ABC Pte Ltd must pay a total of <b>S$1,870</b>:<br>
       <style type="text/css">
   .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
   .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
   .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
   .tg .tg-dvid{font-weight:bold;background-color:#efefef;border-color:inherit;text-align:left;vertical-align:top}
-  .tg .tg-1gim{font-weight:bold;background-color:#efefef;border-color:inherit;text-align:left}
+  .tg .tg-1gim{font-weight:bold;background-color:#efefef;border-color:inherit;text-align:center}
   .tg .tg-xldj{border-color:inherit;text-align:left}
   .tg .tg-quj4{border-color:inherit;text-align:right}
   .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
@@ -97,8 +97,8 @@ ABC Pte Ltd must pay a total of <b>$1,940</b>:<br>
       <th class="tg-1gim">Working</th>
     </tr>
     <tr>
-      <td class="tg-xldj">Application Fee</td>
-      <td class="tg-quj4"><span style="font-weight:bold">S$140</span></td>
+      <td class="tg-xldj">Lower application fee<br>before 31 May 2019</td>
+      <td class="tg-quj4"><span style="font-weight:bold">S$70</span></td>
     </tr>
     <tr>
       <td class="tg-0pky">Registration Fee for:<br>2 places of business<br>3 years of registration</td>
@@ -106,7 +106,7 @@ ABC Pte Ltd must pay a total of <b>$1,940</b>:<br>
     </tr>
     <tr>
       <td class="tg-dvid">Grand Total:</td>
-      <td class="tg-8i46">S$1,940</td>
+      <td class="tg-8i46">S$1,870</td>
   </tr>
 </table>
                    
@@ -115,7 +115,7 @@ ABC Pte Ltd must pay a total of <b>$1,940</b>:<br>
 </table>
 
 ### I need help with registering.
-* If you are not sure how to complete the application form, you may wish to consult the [LicenceOne User Guide](https://licence1.business.gov.sg/web/frontier/help/apply-for-new-licence).
+* If you are not sure how to complete the application form, you may wish to consult the [LicenceOne User Guide](https://licence1.business.gov.sg/web/frontier/help/apply-for-new-licence) or [our FAQs](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx).
 * If you need assistance in completing your application form, you may also wish to contact the [LicenceOne Helpdesk](https://licence1.business.gov.sg/web/frontier/contact-us).
 <br>
 <table>
