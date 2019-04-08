@@ -15,7 +15,7 @@ ACD will publish the Guidance Document by end April 2019.<br><br>
 
 The Notice for Customers explains that regulated dealers are required to collect identifying information from customers under the new regulatory regime. Regulated dealers may wish to consider using the Notice for Customers to educate their customers on the AML/CFT requirements.
 
-<a href="https://github.com/isomerpages/mlaw-acd/raw/master/images/Notice%20for%20Customers%20-%20PSPM%20Act.pdf"><img src="https://github.com/isomerpages/mlaw-acd/raw/master/images/Notice%20for%20Customers%20-%20PSPM%20Act.png"></a><br><br>
+<a href="https://github.com/isomerpages/mlaw-acd/raw/staging/images/Notice%20for%20Customers.pdf"><img src="https://github.com/isomerpages/mlaw-acd/raw/staging/images/Notice%20for%20Customers.png"></a><br><br>
 
 #### [3. Monetary Authority of Singapore's ("MAS") website - Lists of Designated Persons](http://www.mas.gov.sg/Regulations-and-Financial-Stability/Anti-Money-Laundering-Countering-The-Financing-Of-Terrorism-And-Targeted-Financial-Sanctions/Targeted-Financial-Sanctions/Lists-of-Designated-Individuals-and-Entities.aspx)
 
