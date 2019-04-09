@@ -139,4 +139,14 @@ You may appeal to the Minister of Law against the Registrar's decision to:
 
 You must send your notice of appeal to the Minister not later than 14 days after you are notified of the decision you are appealing against. The notice of appeal must be sent to the Minister using the enquiry form [here](https://www.mlaw.gov.sg/eservices/enquiry/).
 
-Please complete the [following word document] and attach any supporting documents to the enquiry form. The Minister will contact you if he requires further details.
+Your notice of appeal must contain the following information: 
+* the regulated dealer's name (i.e. your business' name as stated in your application/Certificate of Registration);
+* the address of your principal place of business;
+* your LicenceOne application number (if applicable); 
+* your registration number on your Certificate of Registration (if applicable);
+* your contact number; 
+* your email address;
+* the type of decision of the Registrar in respect of which you are appealing; and
+* the grounds on which you are appealing.
+
+Please attach any supporting documents to the enquiry form. The Ministry of Law will contact you if the Minister requires further details.
