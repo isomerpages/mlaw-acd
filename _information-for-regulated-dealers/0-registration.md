@@ -17,7 +17,7 @@ Please refer to the [PSPM Act](https://sso.agc.gov.sg/Acts-Supp/7-2019/Published
 * Regulated dealers with no registered business entities overseas or in Singapore may [register for a LicenceOne ID on the LicenceOne Portal](https://licence1.business.gov.sg/web/frontier/help/registration-for-foreigners-without-singpass).
 
 ### The registration process
-<a href="/images/Registration%20Flowchart%20(LowerFee).pdf"><img src="/images/Registration%20Flowchart%20(LowerFee).png"></a>
+<a href="/images/Registration%20Flowchart.pdf"><img src="/images/Registration%20Flowchart.png"></a>
 
 ### Information you need for registration:
 
@@ -130,3 +130,13 @@ ABC Pte Ltd must pay a total of <b>S$1,870</b>:<br>
     <td>Monday to Friday 8:00am to 8:00pm<br>Saturdays: 8:00am to 2:00pm<br>Excluding public holidays</td>
   </tr>
 </table>
+
+### Appeal to the Minister
+You may appeal to the Minister of Law against the Registrar's decision to:
+* refuse your application to register or to renew registration;
+* impose or add, vary or cancel any condition of registration; or
+* take regulatory action under section 10 of the PSPM Act.
+
+You must send your notice of appeal to the Minister not later than 14 days after you are notified of the decision you are appealing against. The notice of appeal must be sent to the Minister using the enquiry form [here](https://www.mlaw.gov.sg/eservices/enquiry/).
+
+Please complete the [following word document] and attach any supporting documents to the enquiry form. The Minister will contact you if he requires further details.
