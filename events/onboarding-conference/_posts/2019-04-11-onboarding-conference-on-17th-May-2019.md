@@ -16,7 +16,7 @@ The Anti-Money Laundering / Countering the Financing of Terrorism Division ("**A
   </tr>
   <tr>
     <td>17 May 2018<br>9.30am - 12.30pm</td>
-    <td>MND Auditorium<br>MND Building,<br>Annexe A, Level 2,<br>9 Maxwell Road,<br>Singapore 069112<br></td>
+    <td>MND Auditorium<br>MND Building,<br>Annex A, Level 2,<br>9 Maxwell Road,<br>Singapore 069112<br></td>
   </tr>
 </table>
 <br>
