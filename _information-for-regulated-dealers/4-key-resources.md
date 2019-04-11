@@ -9,10 +9,10 @@ collection_name: information-for-regulated-dealers
 #### Legal Requirements
 
 * The Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019 ("**PSPM Act**")
-  * To view, please click [here](https://sso.agc.gov.sg/Acts-Supp/7-2019/Published/20190313?DocDate=20190313).
+  * To view, please click [here](https://sso.agc.gov.sg/Act/PSPMPMLTFA2019).
 
 * Subsidiary legislation under the PSPM Act
-  * To view, please click [here](http://www.egazette.com.sg/gazetteViewDetail.aspx?ct=sls&subscriber=0).
+  * To view, please click [here](https://sso.agc.gov.sg/Act/PSPMPMLTFA2019?ViewType=Sl).
 
 * Monetary Authority of Singapore ("**MAS**") website - Lists of Designated Persons
   * To view, please click [here](http://www.mas.gov.sg/Regulations-and-Financial-Stability/Anti-Money-Laundering-Countering-The-Financing-Of-Terrorism-And-Targeted-Financial-Sanctions/Targeted-Financial-Sanctions/Lists-of-Designated-Individuals-and-Entities.aspx).
