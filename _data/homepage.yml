@@ -29,11 +29,12 @@ key-highlights:
     description: Guidelines and templates
     url: /guidance-materials/
     external: false
-  - title: Onboarding Conference
-    description: Stay tuned for more details
-    url: 
+  - title: Conferences
+    description: Sign up for the conference now!
+    url: /events/onboarding-conference/
     external: false
 
-
-resources-title: Workshops and Conferences for Regulated Dealers
-resources-subtitle: Stay tuned for more details!
+resources-title: Conferences for Regulated Dealers
+resources-subtitle: Starting May 2019! Sign up now!
+resources-more-button: More Events
+resources-more-button-url: /events/
