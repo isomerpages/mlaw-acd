@@ -4,7 +4,7 @@ title:  Onboarding Conference on 23 May 2019
 date:   2019-04-12
 permalink: /events/onboarding-conference/Onboarding-Conference-on-23-May-2019/
 ---
-<a href="/images/Flyer617M.pdf"><img src="/images/Flyer617M.png"></a><br>
+<a href="/images/Flyer23M.pdf"><img src="/images/Flyer23M.png"></a><br>
 
 The Anti-Money Laundering/Countering the Financing of Terrorism Division ("**ACD**") of the Ministry of Law will be conducting an onboarding conference for regulated dealers on **23 May 2019 (Thu)**. Details as follow:
 <br>
@@ -27,7 +27,7 @@ ACD will give an overview of the regulatory and registration requirements under 
 
 Regulated dealers who are interested in attending may sign up [here](https://form.gov.sg/5caf05dad0685a0010554589). You may also sign up using the QR code attached below.
 
-<p align="left"><img src="/images/QRC617M.png" style="width:129px;height:128px;"></p>
+<img src="/images/QRC617M.png" style="width:258px;height:256px;">
 
 Each regulated dealer may send up to **2 representatives**. You will receive confirmation of the sign up via email. There are limited slots available. Please sign up by **26 April 2019**.
 
