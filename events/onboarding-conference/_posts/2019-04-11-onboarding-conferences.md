@@ -5,7 +5,7 @@ date:   2019-04-11
 permalink: /events/onboarding-conference/Onboarding-Conferences/
 ---
 (flyer will go here)
-<a href="/images/Flyer.pdf"><img src="/images/Flyer.png"></a><br>
+<a href="/images/Flyer617M.pdf"><img src="/images/Flyer617M.png"></a><br>
 
 The Anti-Money Laundering/Countering the Financing of Terrorism Division ("**ACD**") of the Ministry of Law will be conducting onboarding conferences for regulated dealers on **6 May 2019 (Mon)** and **17 May 2019 (Fri)**. Details as follow:
 
@@ -25,14 +25,13 @@ The Anti-Money Laundering/Countering the Financing of Terrorism Division ("**ACD
 </table>
 
 <br>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d997.2058473770907!2d103.84532682917198!3d1.2795773407122166!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x57b19b34a1984ba2!2sMND+Complex+Annexe+A!5e0!3m2!1sen!2ssg!4v1554976608882!5m2!1sen!2ssg" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3988.8230131225905!2d103.84383631501258!3d1.2798193621523257!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da190d5f119e03%3A0xec6abeac873c7e09!2sMND+Auditorium!5e0!3m2!1sen!2ssg!4v1555037744202!5m2!1sen!2ssg" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 ACD will give an overview of the regulatory and registration requirements under the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019 ("**PSPM Act**").
 
 Regulated dealers who are interested in attending may sign up [here](https://form.gov.sg/5caf05dad0685a0010554589). You may also sign up using the QR code attached below.
 
-(QR code goes here)
-![QR Code for Signup](/images/QRC617may.png)
+![QR Code for Signup](/images/QRC617M.png)
 
 Each regulated dealer may send up to **2 representatives**. You will receive confirmation of the sign up via email. There are limited slots available. Please sign up by **26 April 2019**.
 
