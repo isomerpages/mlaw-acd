@@ -27,7 +27,7 @@ ACD will give an overview of the regulatory and registration requirements under 
 
 Regulated dealers who are interested in attending may sign up [here](https://form.gov.sg/5caf05dad0685a0010554589). You may also sign up using the QR code attached below.
 
-![QR Code for Sign Up](/images/QRC617M.png)
+<img src="/images/QRC617M.png" style="width:129px;height:128px;">	
 
 Each regulated dealer may send up to **2 representatives**. You will receive confirmation of the sign up via email. There are limited slots available. Please sign up by **13 May 2019**. If you are a member of an industry association, please sign up using the link shared through your industry association.
 
