@@ -11,6 +11,9 @@ collection_name: information-for-regulated-dealers
 * The Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019 ("**PSPM Act**")
   * To view, please click [here](https://sso.agc.gov.sg/Act/PSPMPMLTFA2019).
 
+* Video of the Parliamentary Debate for the PSPM Act (11 February 2019)
+  * To view, please click [here](https://www.channelnewsasia.com/news/parliament/videos/february/edwin-tong-on-new-rules-for-dealers-in-precious-stones-and-11229824)
+
 * Subsidiary legislation under the PSPM Act
   * To view, please click [here](https://sso.agc.gov.sg/Act/PSPMPMLTFA2019?ViewType=Sl).
 
