@@ -35,4 +35,4 @@ More conferences are planned for the months ahead. Please check this page for mo
 
 <br>
 
-<p align = "right"><i>Last updated on 12 April 2019</i></p>
+<p align = "right"><i>Last updated on 15 April 2019</i></p>
