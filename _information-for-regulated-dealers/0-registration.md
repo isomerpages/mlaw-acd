@@ -6,18 +6,18 @@ breadcrumb: Registration of Regulated Dealers
 collection_name: information-for-regulated-dealers
 ---
 ### Who is required to register?
-You are required to register with the Registrar of Regulated Dealers if you are a regulated dealer i.e. you carry on a business of regulated dealing in precious stones, precious metals and/or precious products (**PSMs**), or as an intermediary for regulated dealing in PSMs. <br><br>
+You are required to register with the Registrar of Regulated Dealers if you are a regulated dealer i.e. you carry on a business of regulated dealing in precious stones, precious metals and/or precious products ("**PSMs**"), or as an intermediary for regulated dealing in PSMs. <br><br>
 Examples of regulated dealers who are required to register include, but are not limited to jewellers, bullion traders, jewellery wholesalers, jewellery retailers, second-hand goods dealers, auction houses, and trading platforms.
 
 Please refer to the [PSPM Act](https://sso.agc.gov.sg/Acts-Supp/7-2019/Published/20190313?DocDate=20190313) for the official definitions. If you are not certain whether you are required to register, you can seek legal advice.<br>
 
-## Register Now! Lower Application Fee before 31 May 2019!
+## Register now! Lower application fee before 31 May 2019!
 * You may apply to be registered as a regulated dealer using the [LicenceOne portal](https://licence1.business.gov.sg/web/frontier/home). **Submit your application by 31 May 2019 for a lower application fee of S$70!**
 * You will need to log in to LicenceOne using [your CorpPass account](https://licence1.business.gov.sg/web/frontier/help/corppass-in-licenceone) (for businesses) or [your SingPass account](https://licence1.business.gov.sg/web/frontier/help/how-to-access-the-system-) (for individuals). If you do not have a CorpPass account, you may sign up for one [here](https://www.corppass.gov.sg/corppass/common/findoutmore). Your CorpPass Administrator should also create CorpPass User Accounts for your LicenceOne users and select "Ministry of Trade's LicenceOne" during account creation.
 * Regulated dealers with no registered business entities overseas or in Singapore may [register for a LicenceOne ID on the LicenceOne Portal](https://licence1.business.gov.sg/web/frontier/help/registration-for-foreigners-without-singpass).
 
 ### The registration process
-<a href="/images/Registration%20Flowchart%20(LowerFee).pdf"><img src="/images/Registration%20Flowchart%20(LowerFee).png"></a>
+<a href="/images/Registration%20Flowchart.pdf"><img src="/images/Registration%20Flowchart.png"></a>
 
 ### Information you need for registration:
 
@@ -48,7 +48,7 @@ Please refer to the [PSPM Act](https://sso.agc.gov.sg/Acts-Supp/7-2019/Published
 ### Fees and period of registration
 <b>Fees</b><br>
 Regulated dealers must pay an application fee for each application to register with the Registrar. Regulated dealers who <b>submit their application by 31 May 2019 will enjoy a lower application fee of S$70 as an incentive for early registration.</b><br><br>
-If the Registrar provides in-principle approval for their application, regulated dealers must pay a registration fee calculated based on the number of outlets they operate and the period for which they register
+If the Registrar provides in-principle approval for their application, regulated dealers must pay a registration fee calculated based on the number of outlets they operate and the period for which they register.
 <table>
   <tr>
     <th></th>
@@ -77,7 +77,7 @@ For the avoidance of doubt, the Registrar has the discretion to grant a differen
 <br>Regulated dealer "ABC Pte Ltd" has two places of business:<br><br>
 1.    one flagship jewellery outlet in Marina Bay Sands; and<br>
 2.    one jewellery outlet in Bugis.<br><br>
-ABC Pte Ltd applies for a Class 3 Certificate of Registration on 31 April 2019.<br><br> 
+ABC Pte Ltd applies for a Class 3 Certificate of Registration on 30 April 2019.<br><br> 
 ABC Pte Ltd must pay a total of <b>S$1,870</b>:<br>
       <style type="text/css">
   .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}

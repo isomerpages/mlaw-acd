@@ -26,14 +26,13 @@ key-highlights:
     url: /registration/
     external: false
   - title: Guidance Materials
-    description: Brochures, reference booklets and templates
+    description: Guidelines and templates
     url: /guidance-materials/
     external: false
-  - title: Onboarding Conference
-    description: Stay tuned for more details
-    url: /events/onboarding-conference/
-    external: false
+  - title: Conferences
+    description: Sign up for the conferences now!
 
-
-resources-title: Workshops and Conferences for Regulated Dealers
-resources-subtitle: Stay tuned for more details!
+resources-title: Events for Regulated Dealers
+resources-subtitle: Latest Conferences & Workshops
+resources-more-button: More Events
+resources-more-button-url: /events/

@@ -6,9 +6,9 @@ breadcrumb: Regulatory Compliance
 collection_name: information-for-regulated-dealers
 ---
 #### Introduction
-The Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act (**PSPM Act**) will come into force on 10 April 2019. It introduces a supervisory and regulatory regime for precious stones and precious metals dealers.
+The Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act ("**PSPM Act**") will come into force on 10 April 2019. It introduces a supervisory and regulatory regime for precious stones and precious metals dealers.
 
-The precious stones and precious metals sector is exposed to inherent money laundering (**"ML"**) and terrorism financing (**"TF"**) risks, as precious stones and precious metals are good stores of value, easily transported and concealed, and easily convertible to cash.
+The precious stones and precious metals sector is exposed to inherent money laundering ("**ML**") and terrorism financing ("**TF**") risks, as precious stones and precious metals are good stores of value, easily transported and concealed, and easily convertible to cash.
 
 The new regime will mitigate these ML and TF risks, enhance the effectiveness of Singapore's AML/CFT regime, combat crime and improve security, both domestically and globally.
 
@@ -54,13 +54,15 @@ Asset-backed tokens **do not include** securities or derivative contracts within
 #### What do regulated dealers have to do?
 Under this regime, the requirements that apply to regulated dealers include, but are not limited to, the following:
 
-* Register with the Registrar of Regulated Dealers within 6 months after the PSPM Act commences (i.e. by 9 October 2019)
-* Perform customer due diligence measures under circumstances that are prescribed by the PSPM Act
-* File Suspicious Transaction Reports (**STR**) with the Suspicious Transaction Reporting Office (**STRO**) and the Ministry of Law where there is suspicion of ML/TF 
-* File Cash Transaction Reports (**CTR**) with STRO and ACD for cash transactions exceeding $20,000
-* Keep records of the following documents/information for a period of five years or such other prescribed period:
+* Register with the Registrar of Regulated Dealers within 6 months after the PSPM Act commences (i.e. by 9 October 2019);
+* Perform customer due diligence measures under circumstances that are prescribed by the PSPM Act;
+* File Suspicious Transaction Reports ("**STR**") with the Suspicious Transaction Reporting Office ("**STRO**") and the Anti-Money Laundering / Countering the Financing of Terrorism Division ("**ACD**") where there is suspicion of ML/TF;
+* File Cash Transaction Reports ("**CTR**") with STRO and ACD for cash transactions exceeding S$20,000;
+  * STRO will be revising the CTR for paper filing. **You will be required to use a revised CTR with effect from 10 April 2019 for paper filing**.
+  * For more information, please refer to [STRO's website](https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office/cash-transaction-reporting).
+* Keep records of the following documents/information for a period of 5 years or such other prescribed period:
   * transactions where customer due diligence was conducted;
   * information obtained from customer due diligence; and
   * CTRs that have been filed. 
-* Conduct risk assessments to determine the ML/TF risk posed by its customers and transactions
-* Put in place internal policies, procedures and controls to mitigate the specific ML/TF risks identified by their risk assessments
+* Conduct risk assessments to determine the ML/TF risk posed by its customers and transactions; and
+* Put in place internal policies, procedures and controls to mitigate the specific ML/TF risks identified by their risk assessments.
