@@ -6,7 +6,7 @@ permalink: /events/onboarding-conference/Onboarding-Conference-by-ACD/
 ---
 <a href="/images/Flyer23MNQR.pdf"><img src="/images/Flyer23MNQR.png"></a><br>
 
-The Anti-Money Laundering/Countering the Financing of Terrorism Division ("**ACD**") of the Ministry of Law will be conducting an onboarding conference for regulated dealers on **23 May 2019 (Thu)**. Details as follow:
+The Anti-Money Laundering/Countering the Financing of Terrorism Division ("**ACD**") of the Ministry of Law will be conducting an onboarding conference for regulated dealers on **22 May 2019** (Wed). Details as follow:
 <br>
 <table>
   <tr>
@@ -14,7 +14,7 @@ The Anti-Money Laundering/Countering the Financing of Terrorism Division ("**ACD
     <th>Venue</th>
   </tr>
   <tr>
-    <td>23 May 2019 (Thu)<br>9.00am - 12.30pm</td>
+    <td>22 May 2019 (Wed)<br>9.00am - 12.30pm</td>
     <td>MND Auditorium,<br>9 Maxwell Road, <br>MND Building, <br>Annexe A,<br>Singapore 069112</td>
   </tr>
 </table>
