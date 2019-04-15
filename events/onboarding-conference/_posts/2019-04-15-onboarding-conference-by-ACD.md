@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Onboarding Conference on 23 May 2019
+title:  Onboarding Conference by ACD
 date:   2019-04-15
-permalink: /events/onboarding-conference/Onboarding-Conference-on-23-May-2019/
+permalink: /events/onboarding-conference/Onboarding-Conference-by-ACD/
 ---
 <a href="/images/Flyer23MNQR.pdf"><img src="/images/Flyer23MNQR.png"></a><br>
 
