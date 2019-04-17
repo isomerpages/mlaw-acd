@@ -49,7 +49,11 @@ You may apply to be registered as a regulated dealer using the [LicenceOne porta
     <td class="tg-0pky">Log onto LicenceOne using<br>LicenceOneID.</td>
   </tr>
 </table>
-<br>
+
+
+
+
+
 
 ### The registration process
 <a href="/images/Registration%20Flowchart.pdf"><img src="/images/Registration%20Flowchart.png"></a>
