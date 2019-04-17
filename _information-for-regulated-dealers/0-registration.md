@@ -41,18 +41,19 @@ You may apply to be registered as a regulated dealer using the [LicenceOne porta
   </tr>
   <tr>
     <td class="tg-sn4r">Singapore</td>
-    <td class="tg-de2y">Log onto LiceneOne using your CorpPass Account<sup>1</sup>.</td>
-    <td class="tg-de2y">Log onto LiceneOne<br>using your SingPass Account.</td>
+    <td class="tg-de2y">Log onto <a href="https://licence1.business.gov.sg/web/frontier/home">LiceneOne</a> using your <a href="https://licence1.business.gov.sg/web/frontier/help/corppass-in-licenceone">CorpPass Account</a><sup>1</sup>.</td>
+    <td class="tg-de2y">Log onto <a href="https://licence1.business.gov.sg/web/frontier/home">LiceneOne</a><br>using your <a href="https://licence1.business.gov.sg/web/frontier/help/how-to-access-the-system-">SingPass Account</a>.</td>
   </tr>
   <tr>
     <td class="tg-sn4r">Not Singapore<br><br><span style="font-weight:normal">Note: foreign dealer who carries on</span><br><span style="font-weight:normal">business for not more than 90 days</span><br><span style="font-weight:normal">a year in Singapore need </span><span style="font-weight:bold">NOT</span><br><span style="font-weight:normal">register</span><br></td>
-    <td class="tg-de2y">Log onto LicenceOne using your CorpPass Account<sup>1</sup>.<br><br>Business entities not registered in Singapore require<br>a Unique Entity Number (UEN) to transact. An entity may<br>obtain a UEN by registering itself with an appropriate UEN<br>Issuance agency as listed in www.uen.gov.sg under the link<br>"Who will issue UEN to me?"</td>
-    <td class="tg-de2y">Log onto LicenceOne using<br>LicenceOneID.</td>
+    <td class="tg-de2y">Log onto LicenceOne using your <a href="https://licence1.business.gov.sg/web/frontier/help/corppass-in-licenceone">CorpPass Account</a><sup>1</sup>.<br><br>Business entities not registered in Singapore require<br>a Unique Entity Number (UEN) to transact. An entity may<br>obtain a UEN by registering itself with an appropriate UEN<br>Issuance agency as listed in www.uen.gov.sg under the link<br>"Who will issue UEN to me?"</td>
+    <td class="tg-de2y">Log onto LicenceOne using<br><a href="https://licence1.business.gov.sg/web/frontier/help/registration-for-foreigners-without-singpass">LicenceOneID</a>.</td>
   </tr>
   <tr>
     <td class="tg-injz" colspan="3"><sup>1</sup>Your CorpPass Administrator should also create CorpPass User accounts for your LicenceOne users and select the entity’s e-Services “Ministry of Trade’s LicenceOne” during account creation.</td>
   </tr>
-</table><br><br>
+</table>
+<br>
 
 ### The registration process
 <a href="/images/Registration%20Flowchart.pdf"><img src="/images/Registration%20Flowchart.png"></a>
