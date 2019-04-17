@@ -14,7 +14,7 @@ Please refer to the [PSPM Act](https://sso.agc.gov.sg/Acts-Supp/7-2019/Published
 ## Register now! Lower application fee before 31 May 2019!
 You may apply to be registered as a regulated dealer using the [LicenceOne portal](https://licence1.business.gov.sg/web/frontier/home). **Submit your application by 31 May 2019 for a lower application fee of S$70!**
 
-<style type="text/css">
+  <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
@@ -25,7 +25,8 @@ You may apply to be registered as a regulated dealer using the [LicenceOne porta
 .tg .tg-7btt{font-weight:bold;border-color:inherit;text-align:center;vertical-align:top}
 .tg .tg-fymr{font-weight:bold;border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
+  </style>
+
 <table class="tg">
   <tr>
     <th class="tg-xldj" rowspan="3">Nationality or <br>Country of Registration and/or<br>Incorporation</th>
@@ -45,7 +46,7 @@ You may apply to be registered as a regulated dealer using the [LicenceOne porta
   </tr>
   <tr>
     <td class="tg-fymr">Not Singapore<br><br><span style="font-weight:normal">Note: foreign dealer who carries on</span><br><span style="font-weight:normal">business for not more than 90 days</span><br><span style="font-weight:normal">a year in Singapore need </span><span style="font-weight:bold">NOT</span><br><span style="font-weight:normal">register</span><br></td>
-    <td class="tg-0pky">Log onto LicenceOne using your CorpPass Account<sup>1</sup?.<br><br>Business entities not registered in Singapore require<br>a Unique Entity Number (UEN) to transact. An entity may<br>obtain a UEN by registering itself with an appropriate UEN<br>Issuance agency as listed in www.uen.gov.sg under the link<br>"Who will issue UEN to me?"</td>
+    <td class="tg-0pky">Log onto LicenceOne using your CorpPass Account<sup>1</sup>.<br><br>Business entities not registered in Singapore require<br>a Unique Entity Number (UEN) to transact. An entity may<br>obtain a UEN by registering itself with an appropriate UEN<br>Issuance agency as listed in www.uen.gov.sg under the link<br>"Who will issue UEN to me?"</td>
     <td class="tg-0pky">Log onto LicenceOne using<br>LicenceOneID.</td>
   </tr>
 </table>
@@ -119,7 +120,8 @@ For the avoidance of doubt, the Registrar has the discretion to grant a differen
 2.    one jewellery outlet in Bugis.<br><br>
 ABC Pte Ltd applies for a Class 3 Certificate of Registration on 30 April 2019.<br><br> 
 ABC Pte Ltd must pay a total of <b>S$1,870</b>:<br>
-      <style type="text/css">
+      
+  <style type="text/css">
   .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
   .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
   .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
@@ -131,6 +133,7 @@ ABC Pte Ltd must pay a total of <b>S$1,870</b>:<br>
   .tg .tg-dvpl{border-color:inherit;text-align:right;vertical-align:top}
   .tg .tg-8i46{font-weight:bold;text-decoration:underline;background-color:#efefef;border-color:inherit;text-align:right;vertical-align:top}
   </style>
+      
   <table class="tg">
     <tr>
       <th class="tg-1gim">Type of Fee</th>
