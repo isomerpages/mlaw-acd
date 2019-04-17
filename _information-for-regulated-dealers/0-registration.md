@@ -28,7 +28,7 @@ You may apply to be registered as a regulated dealer using the [LicenceOne porta
   </style>
 <table class="tg">
   <tr>
-    <th class="tg-6t1t" colspan="3"><span style="font-weight:bold;color:rgb(254, 0, 0)">Important Notice:</span><br><span style="font-weight:bold;text-decoration:underline;color:rgb(254, 0, 0)">Please log on with CorpPass</span><span style="font-weight:bold;color:rgb(254, 0, 0)"> </span><span style="color:rgb(254, 0, 0)">to ensure that the Certificate of Registration is correctly granted to your </span><span style="font-weight:bold;text-decoration:underline;color:rgb(254, 0, 0)">business entity</span><span style="color:rgb(254, 0, 0)"> that </span><br><span style="color:rgb(254, 0, 0)">is registered with ACRA or relevant UEN Issuance Agency, whether you are a sole proprietorship, partnership, company, </span><br><span style="color:rgb(254, 0, 0)">corporation, limited liability partnership or limited partnership.</span><br><br><span style="font-weight:bold;text-decoration:underline;color:rgb(254, 0, 0)">Do NOT log in with SingPass/LicenceOneID</span><span style="color:rgb(254, 0, 0)"> unless you are exempted from registration with ACRA, and are registering in</span><br><span style="color:rgb(254, 0, 0)">your personal capacity as an </span><span style="font-weight:bold;text-decoration:underline;color:rgb(254, 0, 0)">individual </span><span style="color:rgb(254, 0, 0)">dealer.</span></th>
+    <th class="tg-6t1t" colspan="3"><span style="font-weight:bold;color:rgb(254, 0, 0)">Important Notice:</span><br><span style="font-weight:bold;text-decoration:underline;color:rgb(254, 0, 0)">Please log on with CorpPass</span><span style="font-weight:bold;color:rgb(254, 0, 0)"> </span><span style="color:rgb(254, 0, 0)">to ensure that the Certificate of Registration is correctly granted to your </span><span style="font-weight:bold;text-decoration:underline;color:rgb(254, 0, 0)">business entity</span><span style="color:rgb(254, 0, 0)"> that </span><br><span style="color:rgb(254, 0, 0)">is registered with ACRA or relevant UEN Issuance Agency, whether you are a sole proprietorship, partnership, company, </span><br><span style="color:rgb(254, 0, 0)">corporation, limited liability partnership or limited partnership.</span><br><br><span style="font-weight:bold;text-decoration:underline;color:rgb(254, 0, 0)">Do NOT log in with SingPass/LicenceOneID</span><span style="color:rgb(254, 0, 0)"> unless you are exempted from registration with ACRA, and are registering in</span><br><span style="color:rgb(254, 0, 0)">your personal capacity as an </span><span style="font-weight:bold;text-decoration:underline;color:rgb(254, 0, 0)">individual </span><span style="color:rgb(254, 0, 0)">dealer.</span><br></th>
   </tr>
   <tr>
     <td class="tg-f4la" rowspan="2"><span style="font-weight:700">Nationality or </span><br><span style="font-weight:700">Country of Registration and/or</span><br><span style="font-weight:700">Incorporation</span></td>
@@ -40,20 +40,18 @@ You may apply to be registered as a regulated dealer using the [LicenceOne porta
   </tr>
   <tr>
     <td class="tg-sn4r">Singapore</td>
-    <td class="tg-de2y">Log onto LiceneOne using your CorpPass <br>Account.</td>
+    <td class="tg-de2y">Log onto LiceneOne using your CorpPass Account<sup>1</sup>.</td>
     <td class="tg-de2y">Log onto LiceneOne<br>using your SingPass Account.</td>
   </tr>
   <tr>
     <td class="tg-sn4r">Not Singapore<br><br><span style="font-weight:normal">Note: foreign dealer who carries on</span><br><span style="font-weight:normal">business for not more than 90 days</span><br><span style="font-weight:normal">a year in Singapore need </span><span style="font-weight:bold">NOT</span><br><span style="font-weight:normal">register</span><br></td>
-    <td class="tg-de2y">Log onto LicenceOne using your CorpPass Account1.<br><br>Business entities not registered in Singapore require<br>a Unique Entity Number (UEN) to transact. An entity may<br>obtain a UEN by registering itself with an appropriate UEN<br>Issuance agency as listed in www.uen.gov.sg under the link<br>"Who will issue UEN to me?"</td>
+    <td class="tg-de2y">Log onto LicenceOne using your CorpPass Account<sup>1</sup>.<br><br>Business entities not registered in Singapore require<br>a Unique Entity Number (UEN) to transact. An entity may<br>obtain a UEN by registering itself with an appropriate UEN<br>Issuance agency as listed in www.uen.gov.sg under the link<br>"Who will issue UEN to me?"</td>
     <td class="tg-de2y">Log onto LicenceOne using<br>LicenceOneID.</td>
   </tr>
 </table>
-<br><br><br>
-
-
-
-
+<br>
+<sup>1</sup> Your CorpPass Administrator should also create CorpPass User accounts for your LicenceOne users and select the entity's e-Services "Ministry of Trade's LicenceOne" during account creation.
+<br><br>
 
 ### The registration process
 <a href="/images/Registration%20Flowchart.pdf"><img src="/images/Registration%20Flowchart.png"></a>
