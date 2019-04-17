@@ -12,7 +12,7 @@ Examples of regulated dealers who are required to register include, but are not 
 Please refer to the [PSPM Act](https://sso.agc.gov.sg/Acts-Supp/7-2019/Published/20190313?DocDate=20190313) for the official definitions. If you are not certain whether you are required to register, you can seek legal advice.<br>
 
 ## Register now! Lower application fee before 31 May 2019!
-* You may apply to be registered as a regulated dealer using the [LicenceOne portal](https://licence1.business.gov.sg/web/frontier/home). **Submit your application by 31 May 2019 for a lower application fee of S$70!**
+You may apply to be registered as a regulated dealer using the [LicenceOne portal](https://licence1.business.gov.sg/web/frontier/home). **Submit your application by 31 May 2019 for a lower application fee of S$70!**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -49,7 +49,7 @@ Please refer to the [PSPM Act](https://sso.agc.gov.sg/Acts-Supp/7-2019/Published
     <td class="tg-0pky">Log onto LicenceOne using<br>LicenceOneID.</td>
   </tr>
 </table>
-
+<br>
 
 ### The registration process
 <a href="/images/Registration%20Flowchart.pdf"><img src="/images/Registration%20Flowchart.png"></a>
@@ -78,6 +78,7 @@ Please refer to the [PSPM Act](https://sso.agc.gov.sg/Acts-Supp/7-2019/Published
     <td>1. Description of place of business<br>2. Address<br>3. Contact No.<br>4. Name of Outlet Manager<br>5. NRIC/Passport No./FIN No.<br>6. Contact No. of Outlet Manager</td>
   </tr>
 </table>
+<br>
 <br>
 
 ### Fees and period of registration
