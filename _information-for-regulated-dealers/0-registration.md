@@ -13,8 +13,43 @@ Please refer to the [PSPM Act](https://sso.agc.gov.sg/Acts-Supp/7-2019/Published
 
 ## Register now! Lower application fee before 31 May 2019!
 * You may apply to be registered as a regulated dealer using the [LicenceOne portal](https://licence1.business.gov.sg/web/frontier/home). **Submit your application by 31 May 2019 for a lower application fee of S$70!**
-* You will need to log in to LicenceOne using [your CorpPass account](https://licence1.business.gov.sg/web/frontier/help/corppass-in-licenceone) (for businesses) or [your SingPass account](https://licence1.business.gov.sg/web/frontier/help/how-to-access-the-system-) (for individuals). If you do not have a CorpPass account, you may sign up for one [here](https://www.corppass.gov.sg/corppass/common/findoutmore). Your CorpPass Administrator should also create CorpPass User Accounts for your LicenceOne users and select "Ministry of Trade's LicenceOne" during account creation.
-* Regulated dealers with no registered business entities overseas or in Singapore may [register for a LicenceOne ID on the LicenceOne Portal](https://licence1.business.gov.sg/web/frontier/help/registration-for-foreigners-without-singpass).
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-88nc{font-weight:bold;border-color:inherit;text-align:center}
+.tg .tg-lqyu{color:#fe0000;border-color:inherit;text-align:left}
+.tg .tg-uys7{border-color:inherit;text-align:center}
+.tg .tg-xldj{border-color:inherit;text-align:left}
+.tg .tg-7btt{font-weight:bold;border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-fymr{font-weight:bold;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-xldj" rowspan="3">Nationality or <br>Country of Registration and/or<br>Incorporation</th>
+    <th class="tg-uys7" colspan="2"><span style="font-weight:bold">Entity Type</span></th>
+  </tr>
+  <tr>
+    <td class="tg-lqyu" colspan="2"><span style="font-weight:bold">Important Notice:</span><br><span style="font-weight:bold;text-decoration:underline">Please log on with CorpPass</span><span style="font-weight:bold"> </span>to ensure that the Certificate of Registration is correctly <br>granted to your <span style="font-weight:bold;text-decoration:underline">business entity</span> that is registered with ACRA or relevant UEN <br>Issuance Agency, whether you are a sole proprietorship, partnership, company, <br>corporation, limited liability partnership or limited partnership.<br><br><span style="font-weight:bold;text-decoration:underline">Do NOT log in with SingPass/LicenceOneID</span> unless you are exempted from <br>registration with ACRA, and are registering in your personal capacity as an <span style="font-weight:bold;text-decoration:underline">individual </span><br>dealer.</td>
+  </tr>
+  <tr>
+    <td class="tg-88nc">Business</td>
+    <td class="tg-7btt">Individual</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">Singapore</td>
+    <td class="tg-0pky">Log onto LiceneOne using your CorpPass <br>Account<sup>1</sup>.</td>
+    <td class="tg-0pky">Log onto LiceneOne<br>using your SingPass Account.</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">Not Singapore<br><br><span style="font-weight:normal">Note: foreign dealer who carries on</span><br><span style="font-weight:normal">business for not more than 90 days</span><br><span style="font-weight:normal">a year in Singapore need </span><span style="font-weight:bold">NOT</span><br><span style="font-weight:normal">register</span><br></td>
+    <td class="tg-0pky">Log onto LicenceOne using your CorpPass Account<sup>1</sup?.<br><br>Business entities not registered in Singapore require<br>a Unique Entity Number (UEN) to transact. An entity may<br>obtain a UEN by registering itself with an appropriate UEN<br>Issuance agency as listed in www.uen.gov.sg under the link<br>"Who will issue UEN to me?"</td>
+    <td class="tg-0pky">Log onto LicenceOne using<br>LicenceOneID.</td>
+  </tr>
+</table>
+
 
 ### The registration process
 <a href="/images/Registration%20Flowchart.pdf"><img src="/images/Registration%20Flowchart.png"></a>
