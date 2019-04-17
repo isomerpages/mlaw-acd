@@ -9,7 +9,7 @@ collection_name: information-for-regulated-dealers
 You are required to register with the Registrar of Regulated Dealers if you are a regulated dealer i.e. you carry on a business of regulated dealing in precious stones, precious metals and/or precious products ("**PSMs**"), or as an intermediary for regulated dealing in PSMs. <br><br>
 Examples of regulated dealers who are required to register include, but are not limited to jewellers, bullion traders, jewellery wholesalers, jewellery retailers, second-hand goods dealers, auction houses, and trading platforms.
 
-Please refer to the [PSPM Act](https://sso.agc.gov.sg/Acts-Supp/7-2019/Published/20190313?DocDate=20190313) for the official definitions. If you are not certain whether you are required to register, you can seek legal advice.<br>
+Please refer to the [PSPM Act](https://sso.agc.gov.sg/Act/PSPMPMLTFA2019) for the official definitions. If you are not certain whether you are required to register, you can seek legal advice.<br>
 
 ## Register now! Lower application fee before 31 May 2019!
 You may apply to be registered as a regulated dealer using the [LicenceOne portal](https://licence1.business.gov.sg/web/frontier/home). **Submit your application by 31 May 2019 for a lower application fee of S$70!**
@@ -51,6 +51,23 @@ You may apply to be registered as a regulated dealer using the [LicenceOne porta
   </tr>
   <tr>
     <td class="tg-injz" colspan="3"><sup>1</sup>Your CorpPass Administrator should also create CorpPass User accounts for your LicenceOne users and select the entity’s e-Services “Ministry of Trade’s LicenceOne” during account creation.</td>
+  </tr>
+</table>
+
+### I need help with registering.
+* If you are not sure how to complete the application form, you may wish to consult the [LicenceOne User Guide](https://licence1.business.gov.sg/web/frontier/help/apply-for-new-licence) or [our FAQs](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx).
+* If you need assistance in completing your application form, you may also wish to contact the [LicenceOne Helpdesk](https://licence1.business.gov.sg/web/frontier/contact-us).
+<br>
+<table>
+  <tr>
+    <th>Helpdesk No.</th>
+    <th>Email Address</th>
+    <th>Helpdesk Operating Hours<br></th>
+  </tr>
+  <tr>
+    <td>(+65) 67741430</td>
+    <td><a href="mailto:Licences-helpdesk@crimsonlogic.com">Licences-helpdesk@crimsonlogic.com</a></td>
+    <td>Monday to Friday 8:00am to 8:00pm<br>Saturdays: 8:00am to 2:00pm<br>Excluding public holidays</td>
   </tr>
 </table>
 
@@ -152,22 +169,5 @@ ABC Pte Ltd must pay a total of <b>S$1,870</b>:<br>
 </table>
                    
     </td>
-  </tr>
-</table>
-
-### I need help with registering.
-* If you are not sure how to complete the application form, you may wish to consult the [LicenceOne User Guide](https://licence1.business.gov.sg/web/frontier/help/apply-for-new-licence) or [our FAQs](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx).
-* If you need assistance in completing your application form, you may also wish to contact the [LicenceOne Helpdesk](https://licence1.business.gov.sg/web/frontier/contact-us).
-<br>
-<table>
-  <tr>
-    <th>Helpdesk No.</th>
-    <th>Email Address</th>
-    <th>Helpdesk Operating Hours<br></th>
-  </tr>
-  <tr>
-    <td>(+65) 67741430</td>
-    <td><a href="mailto:Licences-helpdesk@crimsonlogic.com">Licences-helpdesk@crimsonlogic.com</a></td>
-    <td>Monday to Friday 8:00am to 8:00pm<br>Saturdays: 8:00am to 2:00pm<br>Excluding public holidays</td>
   </tr>
 </table>
