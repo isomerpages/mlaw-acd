@@ -52,8 +52,7 @@ You may apply to be registered as a regulated dealer using the [LicenceOne porta
   <tr>
     <td class="tg-injz" colspan="3"><sup>1</sup>Your CorpPass Administrator should also create CorpPass User accounts for your LicenceOne users and select the entity’s e-Services “Ministry of Trade’s LicenceOne” during account creation.</td>
   </tr>
-</table>
-<br>
+</table><br>
 
 ### The registration process
 <a href="/images/Registration%20Flowchart.pdf"><img src="/images/Registration%20Flowchart.png"></a>
@@ -172,3 +171,23 @@ ABC Pte Ltd must pay a total of <b>S$1,870</b>:<br>
     <td>Monday to Friday 8:00am to 8:00pm<br>Saturdays: 8:00am to 2:00pm<br>Excluding public holidays</td>
   </tr>
 </table>
+
+### Appeal to the Minister
+You may appeal to the Minister of Law against the Registrar's decision to:
+* refuse your application to register or to renew registration;
+* impose or add, vary or cancel any condition of registration; or
+* take regulatory action under section 10 of the PSPM Act.
+
+You must send your notice of appeal to the Minister not later than 14 days after you are notified of the decision you are appealing against. The notice of appeal must be sent to the Minister using the enquiry form [here](https://www.mlaw.gov.sg/eservices/enquiry/).
+
+Your notice of appeal must contain the following information: 
+* the regulated dealer's name (i.e. your business' name as stated in your application/Certificate of Registration);
+* the address of your principal place of business;
+* your LicenceOne application number (if applicable); 
+* your registration number on your Certificate of Registration (if applicable);
+* your contact number; 
+* your email address;
+* the type of decision of the Registrar in respect of which you are appealing; and
+* the grounds on which you are appealing.
+
+Please attach any supporting documents to the enquiry form. The Ministry of Law will contact you if the Minister requires further details.
