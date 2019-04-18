@@ -9,12 +9,67 @@ collection_name: information-for-regulated-dealers
 You are required to register with the Registrar of Regulated Dealers if you are a regulated dealer i.e. you carry on a business of regulated dealing in precious stones, precious metals and/or precious products ("**PSMs**"), or as an intermediary for regulated dealing in PSMs. <br><br>
 Examples of regulated dealers who are required to register include, but are not limited to jewellers, bullion traders, jewellery wholesalers, jewellery retailers, second-hand goods dealers, auction houses, and trading platforms.
 
-Please refer to the [PSPM Act](https://sso.agc.gov.sg/Acts-Supp/7-2019/Published/20190313?DocDate=20190313) for the official definitions. If you are not certain whether you are required to register, you can seek legal advice.<br>
+Please refer to the [PSPM Act](https://sso.agc.gov.sg/Act/PSPMPMLTFA2019) for the official definitions. If you are not certain whether you are required to register, you can seek legal advice.<br>
 
 ## Register now! Lower application fee before 31 May 2019!
-* You may apply to be registered as a regulated dealer using the [LicenceOne portal](https://licence1.business.gov.sg/web/frontier/home). **Submit your application by 31 May 2019 for a lower application fee of S$70!**
-* You will need to log in to LicenceOne using [your CorpPass account](https://licence1.business.gov.sg/web/frontier/help/corppass-in-licenceone) (for businesses) or [your SingPass account](https://licence1.business.gov.sg/web/frontier/help/how-to-access-the-system-) (for individuals). If you do not have a CorpPass account, you may sign up for one [here](https://www.corppass.gov.sg/corppass/common/findoutmore). Your CorpPass Administrator should also create CorpPass User Accounts for your LicenceOne users and select "Ministry of Trade's LicenceOne" during account creation.
-* Regulated dealers with no registered business entities overseas or in Singapore may [register for a LicenceOne ID on the LicenceOne Portal](https://licence1.business.gov.sg/web/frontier/help/registration-for-foreigners-without-singpass).
+You may apply to be registered as a regulated dealer using the [LicenceOne portal](https://licence1.business.gov.sg/web/frontier/home). **Submit your application by 31 May 2019 for a lower application fee of S$70!**
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-6t1t{border-color:#333333;text-align:left}
+.tg .tg-injz{font-size:11px;border-color:#000000;text-align:left;vertical-align:top}
+.tg .tg-9ydz{font-weight:bold;border-color:#333333;text-align:center;vertical-align:top}
+.tg .tg-f4la{font-weight:bold;border-color:#333333;text-align:left}
+.tg .tg-opyc{color:#fe0000;border-color:#333333;text-align:center}
+.tg .tg-yddc{font-weight:bold;border-color:#333333;text-align:center}
+.tg .tg-sn4r{font-weight:bold;border-color:#333333;text-align:left;vertical-align:top}
+.tg .tg-de2y{border-color:#333333;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-6t1t" colspan="3"><span style="font-weight:bold;color:rgb(254, 0, 0)">Important Notice:</span><br><span style="font-weight:bold;text-decoration:underline;color:rgb(254, 0, 0)">Please log on with CorpPass</span><span style="color:rgb(254, 0, 0)"> to ensure that the Certificate of Registration is correctly granted to your </span><span style="font-weight:bold;text-decoration:underline;color:rgb(254, 0, 0)">business entity</span><span style="color:rgb(254, 0, 0)"> that </span><span style="color:rgb(254, 0, 0)">is registered with ACRA or relevant UEN Issuance Agency, whether you are a sole proprietorship, partnership, company, </span><span style="color:rgb(254, 0, 0)">corporation, limited liability partnership or limited partnership.</span><br><br><span style="font-weight:bold;text-decoration:underline;color:rgb(254, 0, 0)">Do NOT log on with SingPass/LicenceOneID</span><span style="color:rgb(254, 0, 0)"> unless you are exempted from registration with ACRA, and are registering in</span> <span style="color:rgb(254, 0, 0)">your personal capacity as an </span><span style="font-weight:bold;text-decoration:underline;color:rgb(254, 0, 0)">individual</span><span style="color:rgb(254, 0, 0)"> dealer.</span><br><br></th>
+  </tr>
+  <tr>
+    <td class="tg-f4la" rowspan="2"><span style="font-weight:700">Nationality or </span><br><span style="font-weight:700">Country of Registration and/or</span><br><span style="font-weight:700">Incorporation</span></td>
+    <td class="tg-opyc" colspan="2"><span style="font-weight:bold;color:rgb(51, 51, 51)">Entity Type</span></td>
+  </tr>
+  <tr>
+    <td class="tg-yddc"><span style="font-weight:normal;font-style:italic">Business</span></td>
+    <td class="tg-9ydz"><span style="font-weight:normal;font-style:italic">Individual</span></td>
+  </tr>
+  <tr>
+    <td class="tg-sn4r">Singapore</td>
+    <td class="tg-de2y">Log onto <a href="https://licence1.business.gov.sg/web/frontier/home">LicenceOne</a><br>using your <a href="https://licence1.business.gov.sg/web/frontier/help/corppass-in-licenceone">CorpPass Account</a><sup>1</sup>.</td>
+    <td class="tg-de2y">Log onto <a href="https://licence1.business.gov.sg/web/frontier/home">LicenceOne</a><br>using your <a href="https://licence1.business.gov.sg/web/frontier/help/how-to-access-the-system-">SingPass Account</a>.</td>
+  </tr>
+  <tr>
+    <td class="tg-sn4r">Not Singapore<br><br><span style="font-weight:normal">Note: a foreign dealer who carries on</span><br><span style="font-weight:normal">business for not more than 90 days</span><br><span style="font-weight:normal">a year in Singapore need  </span><span style="font-weight:bold">NOT</span><span style="font-weight:normal"><br>register.</span><br></td>
+    <td class="tg-de2y">Log onto <a href="https://licence1.business.gov.sg/web/frontier/home">LicenceOne</a><br>using your <a href="https://licence1.business.gov.sg/web/frontier/help/corppass-in-licenceone">CorpPass Account</a><sup>1</sup>.<br><br>Business entities not registered in Singapore require a<br>Unique Entity Number (UEN) to transact. An entity may<br>obtain a UEN by registering itself with an appropriate UEN<br>Issuance agency as listed in <a href="https://www.uen.gov.sg/ueninternet/faces/pages/admin/aboutUEN.jspx">www.uen.gov.sg</a> under the link<br>"Who will issue UEN to me?"</td>
+    <td class="tg-de2y">Log onto <a href="https://licence1.business.gov.sg/web/frontier/home">LicenceOne</a><br>using your <a href="https://licence1.business.gov.sg/web/frontier/help/registration-for-foreigners-without-singpass">LicenceOne ID</a>.</td>
+  </tr>
+  <tr>
+    <td class="tg-injz" colspan="3"><sup>1</sup>Your CorpPass Administrator should also create CorpPass User accounts for your LicenceOne users and select the entity’s e-Services “Ministry of Trade’s LicenceOne” during account creation.</td>
+  </tr>
+</table>
+
+### I need help with registering.
+* If you are not sure how to complete the application form, you may wish to consult the [LicenceOne User Guide](https://licence1.business.gov.sg/web/frontier/help/apply-for-new-licence) or [our FAQs](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx).
+* If you need assistance in completing your application form, you may also wish to contact the [LicenceOne Helpdesk](https://licence1.business.gov.sg/web/frontier/contact-us).
+<br>
+<table>
+  <tr>
+    <th>Helpdesk No.</th>
+    <th>Email Address</th>
+    <th>Helpdesk Operating Hours<br></th>
+  </tr>
+  <tr>
+    <td>(+65) 67741430</td>
+    <td><a href="mailto:Licences-helpdesk@crimsonlogic.com">Licences-helpdesk@crimsonlogic.com</a></td>
+    <td>Monday to Friday 8:00am to 8:00pm<br>Saturdays: 8:00am to 2:00pm<br>Excluding public holidays</td>
+  </tr>
+</table>
 
 ### The registration process
 <a href="/images/Registration%20Flowchart.pdf"><img src="/images/Registration%20Flowchart.png"></a>
@@ -43,6 +98,7 @@ Please refer to the [PSPM Act](https://sso.agc.gov.sg/Acts-Supp/7-2019/Published
     <td>1. Description of place of business<br>2. Address<br>3. Contact No.<br>4. Name of Outlet Manager<br>5. NRIC/Passport No./FIN No.<br>6. Contact No. of Outlet Manager</td>
   </tr>
 </table>
+<br>
 <br>
 
 ### Fees and period of registration
@@ -79,7 +135,8 @@ For the avoidance of doubt, the Registrar has the discretion to grant a differen
 2.    one jewellery outlet in Bugis.<br><br>
 ABC Pte Ltd applies for a Class 3 Certificate of Registration on 30 April 2019.<br><br> 
 ABC Pte Ltd must pay a total of <b>S$1,870</b>:<br>
-      <style type="text/css">
+      
+  <style type="text/css">
   .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
   .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
   .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
@@ -91,6 +148,7 @@ ABC Pte Ltd must pay a total of <b>S$1,870</b>:<br>
   .tg .tg-dvpl{border-color:inherit;text-align:right;vertical-align:top}
   .tg .tg-8i46{font-weight:bold;text-decoration:underline;background-color:#efefef;border-color:inherit;text-align:right;vertical-align:top}
   </style>
+      
   <table class="tg">
     <tr>
       <th class="tg-1gim">Type of Fee</th>
@@ -111,22 +169,5 @@ ABC Pte Ltd must pay a total of <b>S$1,870</b>:<br>
 </table>
                    
     </td>
-  </tr>
-</table>
-
-### I need help with registering.
-* If you are not sure how to complete the application form, you may wish to consult the [LicenceOne User Guide](https://licence1.business.gov.sg/web/frontier/help/apply-for-new-licence) or [our FAQs](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx).
-* If you need assistance in completing your application form, you may also wish to contact the [LicenceOne Helpdesk](https://licence1.business.gov.sg/web/frontier/contact-us).
-<br>
-<table>
-  <tr>
-    <th>Helpdesk No.</th>
-    <th>Email Address</th>
-    <th>Helpdesk Operating Hours<br></th>
-  </tr>
-  <tr>
-    <td>(+65) 67741430</td>
-    <td><a href="mailto:Licences-helpdesk@crimsonlogic.com">Licences-helpdesk@crimsonlogic.com</a></td>
-    <td>Monday to Friday 8:00am to 8:00pm<br>Saturdays: 8:00am to 2:00pm<br>Excluding public holidays</td>
   </tr>
 </table>
