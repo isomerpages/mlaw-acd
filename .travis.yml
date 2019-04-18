@@ -11,6 +11,7 @@ matrix:
       cache: bundler
 
     - language: node_js
+      dist: trusty
       node_js: "node"
       script: node travis-script.js
       cache: npm
