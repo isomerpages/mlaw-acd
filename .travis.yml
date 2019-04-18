@@ -16,4 +16,4 @@ matrix:
       script: node travis-script.js
       cache: npm
       addons:
-        chrome: beta
+        chrome: stable
