@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Onboarding Conference by ACD
-date:   2019-04-15
+date:   2019-04-22
 permalink: /events/onboarding-conference/Onboarding-Conference-by-ACD/
 ---
 <a href="/images/Flyer22M.pdf"><img src="/images/Flyer22M.png"></a><br>
@@ -35,4 +35,4 @@ More conferences are planned for the months ahead. Please check this page for mo
 
 <br>
 
-<p align = "right"><i>Last updated on 15 April 2019</i></p>
+<p align = "right"><i>Last updated on 22 April 2019</i></p>
