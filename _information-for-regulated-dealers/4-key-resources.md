@@ -17,6 +17,9 @@ collection_name: information-for-regulated-dealers
 * Monetary Authority of Singapore ("**MAS**") website - Lists of Designated Persons
   * To view, please click [here](http://www.mas.gov.sg/Regulations-and-Financial-Stability/Anti-Money-Laundering-Countering-The-Financing-Of-Terrorism-And-Targeted-Financial-Sanctions/Targeted-Financial-Sanctions/Lists-of-Designated-Individuals-and-Entities.aspx).
 
+* Parliamentary Debate for the PSPM Act (11 February 2019)
+  * To view, please click [here](https://sprs.parl.gov.sg/search/sprs3topic?reportid=bill-349)
+
 * Suspicious Transaction Reporting Office ("**STRO**")
   * To learn more about STRO, please click [here](https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office).
   * To learn more about Cash Transaction Reports, please click [here](https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office/cash-transaction-reporting#content).
