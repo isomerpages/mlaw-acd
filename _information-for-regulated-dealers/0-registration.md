@@ -99,6 +99,7 @@ You may apply to be registered as a regulated dealer using the [LicenceOne porta
   </tr>
 </table>
 <br>
+You may also refer to this [guide on the application process.](/images/LicenceOne%20Regulated%20Dealer%20Guide.pdf)
 <br>
 
 ### Fees and period of registration
