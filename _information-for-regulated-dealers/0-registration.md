@@ -82,7 +82,7 @@ You may apply to be registered as a regulated dealer using the [LicenceOne porta
     <th>Information needed</th>
   </tr>
   <tr>
-    <td>Director<br>Partner <br>Company secretary<br>Owner<br>Manager</td>
+    <td>Director<br>Partner<br>Manager<br>Company secretary<br>Person holding an analogous position involved in the management of the applicant<br>Outlet manager</td>
    <td><b>1. Name*</b><br><b>2. NRIC/Passport No./FIN No.*</b><br>3. Date of Birth<br>4. Declaration of:<br>     (a) any investigations or convictions for offences related to fraud, dishonesty, money laundering, or terrorism financing;<br>     (b) any bankruptcy, insolvency or liquidation;<br>     (c) any lawsuit the person was party to; and<br>     (d) any breach of AML/CFT requirements.<br><br><b>* Information is auto-populated for ACRA registered entities</b></td>
   </tr>
     <tr>
