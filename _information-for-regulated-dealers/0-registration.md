@@ -20,7 +20,7 @@ There are further benefits to early registration:
 * Applications received on or **before 31 May 19 enjoy a lower application fee of $70**.
 * **You will be alerted and invited to training and workshops** to help regulated dealers comply with regulatory requirements.<sup>2</sup>
 <br><br>
-**There is no disadvantage to registering early.** Even if you register early (e.g. in June 2019), the validity of your Certificate of Registration will only start from 9 October 2019.
+<b>There is no disadvantage to registering early.</b> Even if you register early (e.g. in June 2019), the validity of your Certificate of Registration will only start from 9 October 2019.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
