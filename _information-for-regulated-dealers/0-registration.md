@@ -95,7 +95,7 @@ You may apply to be registered as a regulated dealer using the [LicenceOne porta
 </table>
 
 ### The registration process
-<a href="/images/Registration%20Flowchart.pdf"><img src="/images/Registration%20Flowchart.png"></a>
+<a href="/images/Updated%20Registration%20Flowchart.pdf"><img src="/images/Updated%20Registration%20Flowchart.png"></a>
 
 ### Information you need for registration:
 
