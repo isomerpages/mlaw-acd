@@ -13,7 +13,7 @@ The LicenceOne Guide gives regulated dealers a step-by-step walkthrough of the a
 #### [2. Anti-Money Laundering and Countering the Financing of Terrorism Guidance for Precious Stones and Precious Metals Dealers ("**Guidelines**")](/images/Guidelines%20for%20regulated%20dealers_20190430.pdf)
 <a id="guidance"></a>
 The Guidelines are meant to help regulated dealers understand their obligations under the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act and Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations.<a href="#footnote1"><sup>[1]</sup></a><br><br> 
-The Guidelines also provide checklists and templates to assist regulated dealers in meeting their regulatory obligations.  <b>However, regulated dealers remain responsible for ensuring that their AML/CFT measures are appropriately designed for their business and commensurate with their ML/TF risk exposure.</b><br>
+The Guidelines also provide checklists and templates to assist regulated dealers in meeting their regulatory obligations.  <b>However, regulated dealers remain responsible for ensuring that their AML/CFT measures are appropriately designed for their business and commensurate with their ML/TF risk exposure.</b><br><br>
 The templates and checklists in the Annexes of the Guidelines are also available in [MS Word format](/images/Guidelines%20for%20regulated%20dealers_Annexes_20190430.docx) for ease of editing.
 <br><br>
 The Anti-Money Laundering / Countering the Financing of Terrorism Division ("**ACD**") will publish the Guidance Document by end April 2019.<br><br>
