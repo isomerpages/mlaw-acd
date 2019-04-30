@@ -13,7 +13,9 @@ The LicenceOne Guide gives regulated dealers a step-by-step walkthrough of the a
 #### 2. Anti-Money Laundering and Countering the Financing of Terrorism Guidance for Precious Stones and Precious Metals Dealers ("**Guidance Document**")
 <a id="guidance"></a>
 The Guidance Document is meant to help regulated dealers understand their obligations under the PSPM Act and PMLTF Regulations.<a href="#footnote1"><sup>[1]</sup></a><br><br> 
-The Guidance Document also provides checklists and templates to assist regulated dealers in meeting their regulatory obligations.  <b>However, regulated dealers remain responsible for ensuring that their AML/CFT measures are appropriately designed for their business and commensurate with their ML/TF risk exposure.</b><br><br>
+The Guidance Document also provides checklists and templates to assist regulated dealers in meeting their regulatory obligations.  <b>However, regulated dealers remain responsible for ensuring that their AML/CFT measures are appropriately designed for their business and commensurate with their ML/TF risk exposure.</b><br>
+The templates and checklists in the Annexes of the Guidance Document are also available in [MS Word format.]
+<br><br>
 The Anti-Money Laundering / Countering the Financing of Terrorism Division ("**ACD**") will publish the Guidance Document by end April 2019.<br><br>
 
 #### [3. Notice for Customers from the Ministry of Law ("**Notice for Customers**")](/images/Notice%20for%20Customers%20-%20PSPM%20Act.pdf)
