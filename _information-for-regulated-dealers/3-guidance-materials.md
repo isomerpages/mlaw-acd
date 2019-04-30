@@ -16,7 +16,6 @@ The Guidelines are meant to help regulated dealers understand their obligations 
 The Guidelines also provide checklists and templates to assist regulated dealers in meeting their regulatory obligations.  <b>However, regulated dealers remain responsible for ensuring that their AML/CFT measures are appropriately designed for their business and commensurate with their ML/TF risk exposure.</b><br><br>
 The templates and checklists in the Annexes of the Guidelines are also available in [MS Word format](/images/Guidelines%20for%20regulated%20dealers_Annexes_20190430.docx) for ease of editing.
 <br><br>
-The Anti-Money Laundering / Countering the Financing of Terrorism Division ("**ACD**") will publish the Guidance Document by end April 2019.<br><br>
 
 #### [3. Notice for Customers from the Ministry of Law ("**Notice for Customers**")](/images/Notice%20for%20Customers%20-%20PSPM%20Act.pdf)
 
