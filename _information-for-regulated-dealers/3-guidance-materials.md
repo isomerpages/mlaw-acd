@@ -10,7 +10,7 @@ collection_name: information-for-regulated-dealers
 The LicenceOne Guide gives regulated dealers a step-by-step walkthrough of the application process in LicenceOne. Regulated dealers will be shown how to login, which account to login with, and what information they need to register.<br><br> 
 
 
-#### [2. Anti-Money Laundering and Countering the Financing of Terrorism Guidance for Precious Stones and Precious Metals Dealers ("**Guidelines**")](/images/Guidelines%20for%20regulated%20dealers_20190430.pdf)
+#### [2. Guidelines for Regulated Dealers in the Precious Stones and Precious Metals Dealers Sector on Anti-Money Laundering/Countering the Financing of Terrorism ("**Guidelines**")](/images/Guidelines%20for%20regulated%20dealers_20190430.pdf)
 <a id="guidance"></a>
 The Guidelines are meant to help regulated dealers understand their obligations under the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act and Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations.<a href="#footnote1"></a><br><br> 
 The Guidelines also provide checklists and templates to assist regulated dealers in meeting their regulatory obligations.  <b>However, regulated dealers remain responsible for ensuring that their AML/CFT measures are appropriately designed for their business and commensurate with their ML/TF risk exposure.</b><br><br>
