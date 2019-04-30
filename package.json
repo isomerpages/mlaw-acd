@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/isomerpages/mlaw-acd#readme",
   "dependencies": {
-    "@isomerpages/isomerpages-travisci-scripts": "^1.4.6"
+    "@isomerpages/isomerpages-travisci-scripts": "^1.4.8"
   }
 }
