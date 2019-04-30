@@ -19,12 +19,18 @@ You should submit your registration application before **30 June 2019**, to ensu
 There are further benefits to early registration:
 * Applications received on or **before 31 May 19 enjoy a lower application fee of $70**.
 * **You will be alerted and invited to training and workshops** to help regulated dealers comply with regulatory requirements.<sup>2</sup>
-<br>
+<br><br>
 **There is no disadvantage to registering early.** Even if you register early (e.g. in June 2019), the validity of your Certificate of Registration will only start from 9 October 2019.
 
-<table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-xldj{border-color:inherit;text-align:left}
+</style>
+<table class="tg">
   <tr>
-    <th><span style="font-weight:inherit;font-style:inherit">Note:</span><br><span style="font-weight:inherit;font-style:inherit"><sup>1</sup> The Registrar may need to contact you to clarify particulars of your registration. Even if no clarifications are needed, you still need at least 7 days to review the conditions of registration that the Registrar may impose on you (if any) and to pay the registration fees, and 7 days for Registrar to prepare your registration certificate.</span><br><span style="font-weight:inherit;font-style:inherit"><sup>2</sup> The regulatory requirements in Part 3 of the PSPM Act have been in effect from 10 April 19.</span></th>
+    <th class="tg-xldj"><span style="font-weight:bold">Note:</span><br><span style="font-style:inherit">1 The Registrar may need to contact you to clarify particulars of your registration. Even if no clarifications are needed, you still need at least 7 days to review the conditions of registration that the Registrar may impose on you (if any) and to pay the registration fees, and 7 days for Registrar to prepare your registration certificate.</span><br><span style="font-style:inherit">2 The regulatory requirements in Part 3 of the PSPM Act have been in effect from 10 April 19.</span></th>
   </tr>
 </table>
 
