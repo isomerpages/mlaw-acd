@@ -11,6 +11,23 @@ Examples of regulated dealers who are required to register include, but are not 
 
 Please refer to the [PSPM Act](https://sso.agc.gov.sg/Act/PSPMPMLTFA2019) for the official definitions. If you are not certain whether you are required to register, you can seek legal advice.<br>
 
+### Why Register Early?
+If you are a dealer existing before 10 April 2019, if you act as a regulated dealer (or hold out as one) from **9 October 2019** without being registered or exempted, you may face criminal penalties of up to S$75,000 in fines and/or up 3 years’ imprisonment.<br>
+
+You should submit your registration application before **30 June 2019**, to ensure you receive your Certificate of Registration by 9 October 2019. This is to ensure sufficient processing time.<sup>1</sup>
+
+There are further benefits to early registration:
+* Applications received on or **before 31 May 19 enjoy a lower application fee of $70**.
+* **You will be alerted and invited to training and workshops** to help regulated dealers comply with regulatory requirements.<sup>2</sup>
+<br>
+**There is no disadvantage to registering early.** Even if you register early (e.g. in June 2019), the validity of your Certificate of Registration will only start from 9 October 2019.
+
+<table>
+  <tr>
+    <th><span style="font-weight:inherit;font-style:inherit">Note:</span><br><span style="font-weight:inherit;font-style:inherit"><sup>1</sup> The Registrar may need to contact you to clarify particulars of your registration. Even if no clarifications are needed, you still need at least 7 days to review the conditions of registration that the Registrar may impose on you (if any) and to pay the registration fees, and 7 days for Registrar to prepare your registration certificate.</span><br><span style="font-weight:inherit;font-style:inherit"><sup>2</sup> The regulatory requirements in Part 3 of the PSPM Act have been in effect from 10 April 19.</span></th>
+  </tr>
+</table>
+
 ## Register now! Lower application fee before 31 May 2019!
 You may apply to be registered as a regulated dealer using the [LicenceOne portal](https://licence1.business.gov.sg/web/frontier/home). **Submit your application by 31 May 2019 for a lower application fee of S$70!** You may also refer to this [guide on the application process.](/images/LicenceOne%20Regulated%20Dealer%20Guide.pdf)
 
