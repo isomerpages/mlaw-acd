@@ -30,7 +30,7 @@ There are further benefits to early registration:
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-xldj"><span style="font-weight:bold">Note:</span><br><span style="font-style:inherit">1 The Registrar may need to contact you to clarify particulars of your registration. Even if no clarifications are needed, you still need at least 7 days to review the conditions of registration that the Registrar may impose on you (if any) and to pay the registration fees, and 7 days for Registrar to prepare your registration certificate.</span><br><span style="font-style:inherit">2 The regulatory requirements in Part 3 of the PSPM Act have been in effect from 10 April 19.</span></th>
+    <th class="tg-xldj"><span style="font-weight:bold">Note:</span><br><span style="font-style:inherit"><sup>1</sup> The Registrar may need to contact you to clarify particulars of your registration. Even if no clarifications are needed, you still need at least 7 days to review the conditions of registration that the Registrar may impose on you (if any) and to pay the registration fees, and 7 days for Registrar to prepare your registration certificate.</span><br><span style="font-style:inherit"><sup>2</sup> The regulatory requirements in Part 3 of the PSPM Act have been in effect from 10 April 19.</span></th>
   </tr>
 </table>
 
