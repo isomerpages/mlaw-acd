@@ -16,9 +16,9 @@ If you are a dealer existing before 10 April 2019, if you act as a regulated dea
 
 You should submit your registration application before **30 June 2019**, to ensure you receive your Certificate of Registration by 9 October 2019. This is to ensure sufficient processing time.<sup>1</sup>
 
-There are further benefits to early registration:
-* Applications received on or **before 31 May 19 enjoy a lower application fee of $70**.
-* **You will be alerted and invited to training and workshops** to help regulated dealers comply with regulatory requirements.<sup>2</sup>
+**There are further benefits to early registration:**
+* Applications received on or **before 31 May 19 enjoy a lower application fee of S$70**.
+* **You will be alerted and invited to training and workshops** to help you comply with regulatory requirements.<sup>2</sup>
 <br><br>
 <b>There is no disadvantage to registering early.</b> Even if you register early (e.g. in June 2019), the validity of your Certificate of Registration will only start from 9 October 2019.
 
