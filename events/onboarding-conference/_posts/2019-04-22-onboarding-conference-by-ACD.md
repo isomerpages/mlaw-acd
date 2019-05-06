@@ -29,6 +29,6 @@ Regulated dealers who are interested in attending may sign up [here](https://for
 
 <img src="/images/QRC617M.png" style="width:129px;height:128px;">	
 
-Each regulated dealer may send up to **2 representatives**. There are limited slots available. Please sign up by **15 May 2019**.  You will receive confirmation of the sign up via email **after 15 May 2019**.  <br><br> If you are a member of an industry association, please sign up using the link shared through your industry association.
+Please sign up by **15 May 2019**.  You will receive confirmation of the sign up via email **after 15 May 2019**.  <br><br> If you are a member of an industry association, please sign up using the link shared through your industry association.
 
 More conferences are planned for the months ahead. Please check this page for more details.
