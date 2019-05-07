@@ -36,46 +36,36 @@ You should submit your registration application before **30 June 2019**, to ensu
 
 ## Register now! Lower application fee before 31 May 2019!
 You may apply to be registered as a regulated dealer using the [LicenceOne portal](https://licence1.business.gov.sg/web/frontier/home). **Submit your application by 31 May 2019 for a lower application fee of S$70!** You may also refer to this [guide on the application process.](/images/LicenceOne%20Regulated%20Dealer%20Guide.pdf)
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-6t1t{border-color:#333333;text-align:left}
-.tg .tg-injz{font-size:11px;border-color:#000000;text-align:left;vertical-align:top}
-.tg .tg-9ydz{font-weight:bold;border-color:#333333;text-align:center;vertical-align:top}
-.tg .tg-f4la{font-weight:bold;border-color:#333333;text-align:left}
-.tg .tg-opyc{color:#fe0000;border-color:#333333;text-align:center}
-.tg .tg-yddc{font-weight:bold;border-color:#333333;text-align:center}
-.tg .tg-sn4r{font-weight:bold;border-color:#333333;text-align:left;vertical-align:top}
-.tg .tg-de2y{border-color:#333333;text-align:left;vertical-align:top}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-s268{text-align:left}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-6t1t" colspan="3"><span style="font-weight:bold;color:rgb(254, 0, 0)">Important Notice:</span><br><span style="font-weight:bold;text-decoration:underline;color:rgb(254, 0, 0)">Please log on with CorpPass</span><span style="color:rgb(254, 0, 0)"> to ensure that the Certificate of Registration is correctly granted to your </span><span style="font-weight:bold;text-decoration:underline;color:rgb(254, 0, 0)">business entity</span><span style="color:rgb(254, 0, 0)"> that </span><span style="color:rgb(254, 0, 0)">is registered with ACRA or relevant UEN Issuance Agency, whether you are a sole proprietorship, partnership, company, </span><span style="color:rgb(254, 0, 0)">corporation, limited liability partnership or limited partnership.</span><br><br><span style="font-weight:bold;text-decoration:underline;color:rgb(254, 0, 0)">Do NOT log on with SingPass/LicenceOne ID</span><span style="color:rgb(254, 0, 0)"> unless you are exempted from registration with ACRA, and are registering in</span> <span style="color:rgb(254, 0, 0)">your personal capacity as an </span><span style="font-weight:bold;text-decoration:underline;color:rgb(254, 0, 0)">individual</span><span style="color:rgb(254, 0, 0)"> dealer.</span><br><br></th>
+    <th class="tg-s268" colspan="2"><span style="font-weight:bold;color:rgb(254, 0, 0)">Important Notice:</span><br><span style="font-weight:bold;text-decoration:underline;color:rgb(254, 0, 0)">Please log on with CorpPass</span><span style="font-weight:bold;color:rgb(254, 0, 0)"> </span><span style="color:rgb(254, 0, 0)">to ensure that the Certificate of Registration is correctly granted to your </span><span style="font-weight:bold;text-decoration:underline;color:rgb(254, 0, 0)">business entity</span><span style="color:rgb(254, 0, 0)"> that is registered with ACRA or relevant UEN Issuance Agency, whether you are a sole proprietorship, partnership, company, corporation, limited liability partnership and limited partnership. </span><br><br><br><span style="color:rgb(254, 0, 0)">There should be only </span><span style="font-weight:bold;color:rgb(254, 0, 0)">one application per business entity (</span><span style="font-weight:bold;text-decoration:underline;color:rgb(254, 0, 0)">i.e. one application per UEN</span><span style="font-weight:bold;color:rgb(254, 0, 0)">).</span></th>
   </tr>
   <tr>
-    <td class="tg-f4la" rowspan="2"><span style="font-weight:700">Nationality or </span><br><span style="font-weight:700">Country of Registration and/or</span><br><span style="font-weight:700">Incorporation</span></td>
-    <td class="tg-opyc" colspan="2"><span style="font-weight:bold;color:rgb(51, 51, 51)">Entity Type</span></td>
+    <td class="tg-1wig">Nationality or<br>Country of Registration<br>and/or Incorporation</td>
+    <td class="tg-amwm">How to apply for registration</td>
   </tr>
   <tr>
-    <td class="tg-yddc"><span style="font-weight:normal;font-style:italic">Business</span></td>
-    <td class="tg-9ydz"><span style="font-weight:normal;font-style:italic">Individual</span></td>
+    <td class="tg-1wig">Singapore</td>
+    <td class="tg-0lax">Log onto <a href="https://licence1.business.gov.sg/web/frontier/home">LicenceOne</a> using your <a href="https://licence1.business.gov.sg/web/frontier/help/corppass-in-licenceone">CorpPass Account</a><sup>1</sup>. </td>
   </tr>
   <tr>
-    <td class="tg-sn4r">Singapore</td>
-    <td class="tg-de2y">Log onto <a href="https://licence1.business.gov.sg/web/frontier/home">LicenceOne</a><br>using your <a href="https://licence1.business.gov.sg/web/frontier/help/corppass-in-licenceone">CorpPass Account</a><sup>1</sup>.</td>
-    <td class="tg-de2y">Log onto <a href="https://licence1.business.gov.sg/web/frontier/home">LicenceOne</a><br>using your <a href="https://licence1.business.gov.sg/web/frontier/help/how-to-access-the-system-">SingPass Account</a>.</td>
+    <td class="tg-0lax"><span style="font-weight:bold">Not Singapore</span> <br>Note: foreign dealer with not more than a total of 90 days a year in Singapore, need NOT register.</td>
+    <td class="tg-0lax">Log onto <a href="https://licence1.business.gov.sg/web/frontier/home">LicenceOne</a> using your <a href="https://licence1.business.gov.sg/web/frontier/help/corppass-in-licenceone">CorpPass Account</a><sup>1</sup>. Business entities not registered in Singapore require a Unique Entity Number (UEN) to transact. An entity may obtain a UEN by registering itself with an appropriate UEN Issuance agency as listed in www.uen.gov.sg under the link <a href="https://www.uen.gov.sg/ueninternet/faces/pages/admin/aboutUEN.jspx">“Who will issue UEN to me?”</a>. The entity may then apply for a CorpPass account.</td>
   </tr>
   <tr>
-    <td class="tg-sn4r">Not Singapore<br><br><span style="font-weight:normal">Note: a foreign dealer who carries on</span><br><span style="font-weight:normal">business for not more than 90 days</span><br><span style="font-weight:normal">a year in Singapore need  </span><span style="font-weight:bold">NOT</span><span style="font-weight:normal"><br>register.</span><br></td>
-    <td class="tg-de2y">Log onto <a href="https://licence1.business.gov.sg/web/frontier/home">LicenceOne</a><br>using your <a href="https://licence1.business.gov.sg/web/frontier/help/corppass-in-licenceone">CorpPass Account</a><sup>1</sup>.<br><br>Business entities not registered in Singapore require a<br>Unique Entity Number (UEN) to transact. An entity may<br>obtain a UEN by registering itself with an appropriate UEN<br>Issuance agency as listed in <a href="https://www.uen.gov.sg/ueninternet/faces/pages/admin/aboutUEN.jspx">www.uen.gov.sg</a> under the link<br>"Who will issue UEN to me?"</td>
-    <td class="tg-de2y">Log onto <a href="https://licence1.business.gov.sg/web/frontier/home">LicenceOne</a><br>using your <a href="https://licence1.business.gov.sg/web/frontier/help/registration-for-foreigners-without-singpass">LicenceOne ID</a>.</td>
-  </tr>
-  <tr>
-    <td class="tg-injz" colspan="3"><sup>1</sup>Your CorpPass Administrator should also create CorpPass User accounts for your LicenceOne users and select the entity’s e-Services “Ministry of Trade’s LicenceOne” during account creation.</td>
+    <td class="tg-0lax" colspan="2"><sup>1</sup>Your CorpPass Administrator should also create CorpPass User accounts for your LicenceOne users and select the entity’s e-Services “Ministry of Trade’s LicenceOne” during account creation.</td>
   </tr>
 </table>
+
 
 ### I need help with registering.
 * If you are not sure how to complete the application form, you may wish to consult the [LicenceOne User Guide](https://licence1.business.gov.sg/web/frontier/help/apply-for-new-licence) or [our FAQs](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx).
