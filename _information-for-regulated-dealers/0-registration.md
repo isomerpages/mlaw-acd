@@ -51,7 +51,7 @@ You may apply to be registered as a regulated dealer using the [LicenceOne porta
   </tr>
   <tr>
     <td class="tg-fymr" rowspan="2">Nationality or <br>Country of Registration <br>and/or Incorporation</td>
-    <td class="tg-7btt" colspan="2"> </td>
+    <td class="tg-7btt" colspan="2"> Entity Type</td>
   </tr>
   <tr>
     <td class="tg-7btt">Business</td>
