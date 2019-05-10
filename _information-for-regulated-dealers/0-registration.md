@@ -60,7 +60,7 @@ You may apply to be registered as a regulated dealer using the [LicenceOne porta
   <tr>
     <td class="tg-fymr">Singapore</td>
     <td class="tg-0pky">Log onto <a href="https://licence1.business.gov.sg/web/frontier/home">LicenceOne</a> using your <a href="https://licence1.business.gov.sg/web/frontier/help/corppass-in-licenceone">CorpPass Account</a><sup>1</sup>.</td>
-    <td class="tg-0pky" rowspan="2">If you are a <span style="font-weight:bold;text-decoration:underline">sole proprietor</span>, log onto <a href="https://licence1.business.gov.sg/web/frontier/home">LicenceOne</a> using your <a href="https://licence1.business.gov.sg/web/frontier/help/corppass-in-licenceone">CorpPass Account</a><sup>1</sup>.<br><br>If you are doing business in your personal capacity, contact ACD <a href="https://www.mlaw.gov.sg/content/minlaw/en/about-us/contact-us.html">here</a>.</td>
+    <td class="tg-0pky" rowspan="2">If you are a <span style="font-weight:bold;text-decoration:underline">sole proprietor</span>, log onto <a href="https://licence1.business.gov.sg/web/frontier/home">LicenceOne</a> using your <a href="https://licence1.business.gov.sg/web/frontier/help/corppass-in-licenceone">CorpPass Account</a><sup>1</sup>.<br><br>If you are conducting business in your personal capacity, contact ACD <a href="https://www.mlaw.gov.sg/content/minlaw/en/about-us/contact-us.html">here</a>.</td>
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-weight:bold">Not Singapore</span><br><br><br>Note: a foreign dealer who carries on business for not more than 90 days a year in Singapore need NOT register.</td>
