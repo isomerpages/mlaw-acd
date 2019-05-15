@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  Onboarding Conference by ACD (22 May)
+title:  Onboarding Conference by ACD (19 June)
 date:   2019-04-22
-permalink: /events/upcoming-events/Onboarding-Conference-by-ACD-(22-May)/
+permalink: /events/upcoming-events/Onboarding-Conference-by-ACD-(19-June)/
 ---
-<a href="/images/Flyer22M.pdf"><img src="/images/Flyer22M.png"></a><br>
+<a href="/images/JuneOBC.pdf"><img src="/images/JuneOBC.png"></a><br>
 
-The Anti-Money Laundering/Countering the Financing of Terrorism Division ("**ACD**") of the Ministry of Law will be conducting an onboarding conference for regulated dealers on **22 May 2019** (Wed). Details as follow:
+The Anti-Money Laundering/Countering the Financing of Terrorism Division ("**ACD**") of the Ministry of Law will be conducting an onboarding conference for regulated dealers on **19 June 2019** (Wed). Details as follow:
 <br>
 <table>
   <tr>
@@ -14,7 +14,7 @@ The Anti-Money Laundering/Countering the Financing of Terrorism Division ("**ACD
     <th>Venue</th>
   </tr>
   <tr>
-    <td>22 May 2019 (Wed)<br>9.00am - 12.30pm</td>
+    <td>19 June 2019 (Wed)<br>9.00am - 12.30pm</td>
     <td>MND Auditorium,<br>9 Maxwell Road, <br>MND Building, <br>Annexe A,<br>Singapore 069112</td>
   </tr>
 </table>
@@ -29,6 +29,6 @@ Regulated dealers who are interested in attending may sign up [here](https://for
 
 <img src="/images/QRC617M.png" style="width:129px;height:128px;">	
 
-Please sign up by **15 May 2019**.  You will receive confirmation of the sign up via email **after 15 May 2019**.<br><br>
+Sign-ups for the **22 May Conference** have closed. Please sign up for the **19 June Conference** by **11 June 2019**.  You will receive confirmation of the sign up via email **after 11 June 2019**.<br><br>
 
 More conferences are planned for the months ahead. Please check this page for more details.
