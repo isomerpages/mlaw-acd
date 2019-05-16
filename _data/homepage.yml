@@ -31,10 +31,10 @@ key-highlights:
     external: false
   - title: Conferences
     description: Sign up now!
-    url: /events/onboarding-conference/
+    url: /events/upcoming-events/
     external: false
 
 resources-title: Events for Regulated Dealers
-resources-subtitle: Latest Conferences & Workshops
-resources-more-button: More Events
+resources-subtitle: Latest Events
+resources-more-button: More Information
 resources-more-button-url: /events/
