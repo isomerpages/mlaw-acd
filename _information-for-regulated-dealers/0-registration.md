@@ -30,12 +30,12 @@ You should submit your registration application before **30 June 2019**, to ensu
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-xldj"><span style="font-weight:bold">Note:</span><br><span style="font-style:inherit"><sup>1</sup> The Registrar may need to contact you to clarify particulars of your registration. Even if no clarifications are needed, you still need at least 7 days to review the conditions of registration that the Registrar may impose on you (if any) and to pay the registration fees, and 7 days for  the Registrar to prepare your registration certificate.</span><br><span style="font-style:inherit"><sup>2</sup> The regulatory requirements in Part 3 of the PSPM Act have been in effect from 10 April 19.</span></th>
+    <th class="tg-xldj"><span style="font-weight:bold">Note:</span><br><span style="font-style:inherit"><sup>1</sup> The Registrar may need to contact you to clarify particulars of your registration. Even if no clarifications are needed, you still need at least 7 days to review the conditions of registration that the Registrar may impose on you (if any) and to pay the registration fees, and 7 days for  the Registrar to prepare your registration certificate.</span><br><span style="font-style:inherit"><sup>2</sup> The regulatory requirements in Part 3 of the PSPM Act have been in effect from 10 April 2019.</span></th>
   </tr>
 </table>
 
 ## Register now! Lower application fee before 31 May 2019!
-You may apply to be registered as a regulated dealer using the [LicenceOne portal](https://licence1.business.gov.sg/web/frontier/home). **Submit your application by 31 May 2019 for a lower application fee of S$70!** You may also refer to this [guide on the application process.](/images/LicenceOne%20Regulated%20Dealer%20Guide.pdf)
+You may apply to be registered as a regulated dealer using the [LicenceOne portal](https://licence1.business.gov.sg/web/frontier/home). **Submit your application by 31 May 2019 for a lower application fee of S$70!** You may also refer to the [LicenceOne Guide for Regulated Dealers.](/images/LicenceOne%20Regulated%20Dealer%20Guide.pdf)
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
@@ -72,8 +72,8 @@ You may apply to be registered as a regulated dealer using the [LicenceOne porta
 </table>
 
 ### I need help with registering.
-* If you need assistance in logging into LicenceOne, you may also wish to refer to the [LicenceOne User Guide](https://licence1.business.gov.sg/web/frontier/help/apply-for-new-licence) or contact the [LicenceOne Helpdesk](https://licence1.business.gov.sg/web/frontier/contact-us).
-* If you are not sure how to complete the application form, you may wish to refer to our [Licence One Step by Step User Guide](/images/LicenceOne%20Regulated%20Dealer%20Guide.pdf) or [our FAQs](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx).
+* If you need assistance in logging into LicenceOne, you may also wish to refer to the [LicenceOne webpage](https://licence1.business.gov.sg/web/frontier/help/apply-for-new-licence) or contact the [LicenceOne Helpdesk](https://licence1.business.gov.sg/web/frontier/contact-us).
+* If you are not sure how to complete the application form, you may wish to refer to our [LicenceOne Guide for Regulated Dealers (Step-by-Step with Screenshots)](/images/LicenceOne%20Regulated%20Dealer%20Guide.pdf) or [our FAQs](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx).
 
 <br>
 <table>
