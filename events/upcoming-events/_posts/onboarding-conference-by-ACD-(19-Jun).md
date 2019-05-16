@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Onboarding Conference by ACD (19 June 2019)
-date:   2019-04-22
+date:   
 permalink: /events/upcoming-events/Onboarding-Conference-by-ACD-(19-June-2019)/
 ---
 <a href="/images/JuneOBC.pdf"><img src="/images/JuneOBC.png"></a><br>
