@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Registration of Regulated Dealers
-permalink: /registration/
+permalink: /registration/1
 breadcrumb: Registration of Regulated Dealers
 collection_name: information-for-regulated-dealers
 ---
