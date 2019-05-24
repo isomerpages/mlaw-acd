@@ -33,7 +33,7 @@ collection_name: information-for-regulated-dealers
 * Financial Action Task Force Methodology for assessing compliance with the FATF Recommendations and the effectiveness of AML/CFT systems
   * To view, please click [here](http://www.fatf-gafi.org/publications/mutualevaluations/documents/fatf-methodology.html).
 
-* Financial Action Task Force – February 2019 Public Statement: High-risk and Non-cooperative Jurisdictions
+* Financial Action Task Force – February 2019 Public Statement: Jurisdictions which FATF has called for countermeasures or enhanced customer due diligence against
   * To view, please click [here](http://www.mas.gov.sg/Regulations-and-Financial-Stability/Anti-Money-Laundering-Countering-The-Financing-Of-Terrorism-And-Targeted-Financial-Sanctions/Anti-Money-Laundering-and-Countering-the-Financing-of-Terrorism/AMLCFT-Announcements/2019/February-2019-FATF-Statement.aspx).
 
 * Singapore National Risk Assessment Report 2013
