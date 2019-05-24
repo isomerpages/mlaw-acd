@@ -35,7 +35,7 @@ You should submit your registration application before **30 June 2019**, to ensu
 </table>
 
 ## Register now! Lower application fee before 31 May 2019!
-You may apply to be registered as a regulated dealer using the [LicenceOne portal](https://licence1.business.gov.sg/web/frontier/home). **Submit your application by 31 May 2019 for a lower application fee of S$70!** You may also refer to the [LicenceOne Guide for Regulated Dealers.](/images/LicenceOne%20Regulated%20Dealer%20Guide.pdf)
+You may apply to be registered as a regulated dealer using the [LicenceOne portal](https://licence1.business.gov.sg/web/frontier/home). **Submit your application by 31 May 2019 for a lower application fee of S$70!** You may also refer to the [LicenceOne Guide for Regulated Dealers.](/images/LicenceOne%20Guide%20for%20regulated%20dealers_20190516_V03Final.pdf)
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
@@ -73,7 +73,7 @@ You may apply to be registered as a regulated dealer using the [LicenceOne porta
 
 ### I need help with registering.
 * If you face any technical issues when using LicenceOne, you may wish to refer to the [LicenceOne webpage](https://licence1.business.gov.sg/web/frontier/help/apply-for-new-licence) or contact the [LicenceOne Helpdesk](https://licence1.business.gov.sg/web/frontier/contact-us).
-* If you are not sure how to complete the application form, you may wish to refer to our [LicenceOne Guide for Regulated Dealers (Step-by-Step with Screenshots)](/images/LicenceOne%20Regulated%20Dealer%20Guide.pdf) or [our FAQs for Precious Stones and Precious Metals Dealers](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx).
+* If you are not sure how to complete the application form, you may wish to refer to our [LicenceOne Guide for Regulated Dealers (Step-by-Step with Screenshots)](/images/LicenceOne%20Guide%20for%20regulated%20dealers_20190516_V03Final.pdf) or [our FAQs for Precious Stones and Precious Metals Dealers](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx).
 
 <br>
 <table>
