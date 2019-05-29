@@ -2,7 +2,7 @@
 layout: post
 title: Onboarding Conferences by ACD
 date: 2019-05-28
-permalink: /events/past-events/Onboarding-Conference-by-ACD-(6-May-2019)/
+permalink: /events/past-events/Onboarding-Conferences-by-ACD/
 ---
 
 Ministry of Law held the onboarding conference for the regulated dealers in the PSMD sector on 6 May 2019 and 22 May 2019.<br>
