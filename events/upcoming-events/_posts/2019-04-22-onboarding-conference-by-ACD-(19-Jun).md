@@ -30,6 +30,6 @@ Regulated dealers who are interested in attending may sign up [here](https://for
 
 <img src="/images/QR1906.png" style="width:129px;height:128px;">	
 
-Sign-ups for the **22 May 2019 Conference** have closed. Please sign up for the **19 June 2019 Conference** by **11 June 2019**.  You will receive confirmation of the sign up via email **after 11 June 2019**.<br><br>
+Please sign up for the **19 June 2019 Conference** by **11 June 2019**.  You will receive confirmation of the sign up via email **after 11 June 2019**.<br><br>
 
 More conferences are planned for the months ahead. Please check this page for more details.
