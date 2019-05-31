@@ -33,7 +33,7 @@ You should submit your registration application before **30 June 2019**, to ensu
 </table>
 
 ## Register now! 
-You may apply to be registered as a regulated dealer using the [LicenceOne portal](https://licence1.business.gov.sg/web/frontier/home). You may also refer to the [LicenceOne Guide for Regulated Dealers.](/images/LicenceOne%20Guide%20for%20regulated%20dealers_20190516_V03Final.pdf)
+You may apply to be registered as a regulated dealer using the [LicenceOne portal](https://licence1.business.gov.sg/web/frontier/home). You may refer to the [LicenceOne Guide for Regulated Dealers](/images/LicenceOne%20Guide%20for%20regulated%20dealers_20190516_V03Final.pdf) for a step-by-step guide to the application process.
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
