@@ -18,8 +18,7 @@ You should submit your registration application before **30 June 2019**, to ensu
 
 **There are further benefits to early registration:**
 * **You will be alerted and invited to training and workshops** to help you comply with regulatory requirements.<sup>2</sup>
-<br><br>
-<b>There is no disadvantage to registering early.</b> Even if you register early (e.g. in June 2019), the validity of your Certificate of Registration will only start from 9 October 2019.
+* **There is no disadvantage to registering early.** Even if you register early (e.g. in June 2019), the validity of your Certificate of Registration will only start from **9 October 2019**.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
