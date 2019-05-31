@@ -17,7 +17,6 @@ If you are a dealer existing before 10 April 2019, if you act as a regulated dea
 You should submit your registration application before **30 June 2019**, to ensure you receive your Certificate of Registration by 9 October 2019. This is to ensure sufficient processing time.<sup>1</sup>
 
 **There are further benefits to early registration:**
-* Applications received on or **before 31 May 2019 enjoy a lower application fee of S$70**.
 * **You will be alerted and invited to training and workshops** to help you comply with regulatory requirements.<sup>2</sup>
 <br><br>
 <b>There is no disadvantage to registering early.</b> Even if you register early (e.g. in June 2019), the validity of your Certificate of Registration will only start from 9 October 2019.
@@ -34,8 +33,8 @@ You should submit your registration application before **30 June 2019**, to ensu
   </tr>
 </table>
 
-## Register now! Lower application fee before 31 May 2019!
-You may apply to be registered as a regulated dealer using the [LicenceOne portal](https://licence1.business.gov.sg/web/frontier/home). **Submit your application by 31 May 2019 for a lower application fee of S$70!** You may also refer to the [LicenceOne Guide for Regulated Dealers.](/images/LicenceOne%20Guide%20for%20regulated%20dealers_20190516_V03Final.pdf)
+## Register now! 
+You may apply to be registered as a regulated dealer using the [LicenceOne portal](https://licence1.business.gov.sg/web/frontier/home). You may also refer to the [LicenceOne Guide for Regulated Dealers.](/images/LicenceOne%20Guide%20for%20regulated%20dealers_20190516_V03Final.pdf)
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
@@ -122,7 +121,7 @@ You may also refer to this [guide on the application process.](/images/LicenceOn
 
 ### Fees and period of registration
 <b>Fees</b><br>
-Regulated dealers must pay an application fee for each application to register with the Registrar. Regulated dealers who <b>submit their application by 31 May 2019 will enjoy a lower application fee of S$70 as an incentive for early registration.</b><br><br>
+Regulated dealers must pay an application fee of S$140 for each application to register with the Registrar. <br><br>
 If the Registrar provides in-principle approval for their application, regulated dealers must pay a registration fee calculated based on the number of outlets they operate and the period for which they register.
 <table>
   <tr>
@@ -132,7 +131,7 @@ If the Registrar provides in-principle approval for their application, regulated
   </tr>
   <tr>
     <td>Sum <br>payable</td>
-    <td>S$140 <br>per application<br><b>(S$70 before 31 May 2019)</b></td>
+    <td>S$140 <br>per application</td>
     <td>S$300 <br>per place of business<br>per year of registration</td>
   </tr>
 </table>
@@ -152,8 +151,8 @@ For the avoidance of doubt, the Registrar has the discretion to grant a differen
 <br>Regulated dealer "ABC Pte Ltd" has two places of business:<br><br>
 1.    one flagship jewellery outlet in Marina Bay Sands; and<br>
 2.    one jewellery outlet in Bugis.<br><br>
-ABC Pte Ltd applies for a Class 3 Certificate of Registration on 30 April 2019.<br><br> 
-ABC Pte Ltd must pay a total of <b>S$1,870</b>:<br>
+ABC Pte Ltd applies for a Class 3 Certificate of Registration on 30 June 2019.<br><br> 
+ABC Pte Ltd must pay a total of <b>S$1,940</b>:<br>
       
   <style type="text/css">
   .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
@@ -174,8 +173,8 @@ ABC Pte Ltd must pay a total of <b>S$1,870</b>:<br>
       <th class="tg-1gim">Working</th>
     </tr>
     <tr>
-      <td class="tg-xldj">Lower application fee<br>before 31 May 2019</td>
-      <td class="tg-quj4"><span style="font-weight:bold">S$70</span></td>
+      <td class="tg-xldj">Application fee</td>
+      <td class="tg-quj4"><span style="font-weight:bold">S$140</span></td>
     </tr>
     <tr>
       <td class="tg-0pky">Registration Fee for:<br>2 places of business<br>3 years of registration</td>
@@ -183,7 +182,7 @@ ABC Pte Ltd must pay a total of <b>S$1,870</b>:<br>
     </tr>
     <tr>
       <td class="tg-dvid">Grand Total:</td>
-      <td class="tg-8i46">S$1,870</td>
+      <td class="tg-8i46">S$1,940</td>
   </tr>
 </table>
                    
