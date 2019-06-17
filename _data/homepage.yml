@@ -17,7 +17,7 @@ hero-banner: /images/bullion1.jpg
     
 #Call to Action Button
 button:
-  - text: Register Now!
+  - text: Register Now! <br> Submit by 30 Jun
     url: /registration/
     
 key-highlights:
@@ -30,8 +30,8 @@ key-highlights:
     url: /guidance-materials/
     external: false
   - title: Conferences
-    description: Sign up now!
-    url: /events/upcoming-events/
+    description: Information packs from our conferences
+    url: /events/past-events/
     external: false
 
 resources-title: Events for Regulated Dealers
