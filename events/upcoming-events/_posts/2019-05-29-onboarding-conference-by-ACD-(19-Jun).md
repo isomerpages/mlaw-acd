@@ -25,11 +25,4 @@ The Anti-Money Laundering/Countering the Financing of Terrorism Division ("**ACD
 <br>
 ACD will give an overview of the regulatory and registration requirements under the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019 ("**PSPM Act**"). You may download the presentation slides [here](/images/Onboarding%20conference%20slides_20190506_V02Final.pdf).
 
-Regulated dealers who are interested in attending may sign up [here](https://form.gov.sg/5cdb92fdcac839001734b2e2
-). You may also sign up using the QR code attached below.
-
-<img src="/images/QR1906.png" style="width:129px;height:128px;">	
-
-Please sign up for the **19 June 2019 Conference** by **11 June 2019**.  You will receive confirmation of the sign up via email **after 11 June 2019**.<br><br>
-
-More conferences are planned for the months ahead. Please check this page for more details.
+Registration for this event is closed. You will receive confirmation of your sign up via email soon.
