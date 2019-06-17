@@ -17,7 +17,7 @@ hero-banner: /images/bullion1.jpg
     
 #Call to Action Button
 button:
-  - text: Register Now! <br> Submit by 30 June 2019
+  - text: Register Now! <br> Submit by 30 Jun
     url: /registration/
     
 key-highlights:
