@@ -9,28 +9,10 @@ collection_name: information-for-regulated-dealers
 You are required to register with the Registrar of Regulated Dealers if you are a regulated dealer i.e. you carry on a business of regulated dealing in precious stones, precious metals and/or precious products ("**PSPMs**"), or as an intermediary for regulated dealing in PSPMs. <br><br>
 Examples of regulated dealers who are required to register include, but are not limited to jewellers, bullion traders, jewellery wholesalers, jewellery retailers, second-hand goods dealers, auction houses, and trading platforms. Take this [questionnaire](http://form.gov.sg/5cd3efbbd64f830010e00ea9) to help you ascertain whether you are a regulated dealer.
 
-Please refer to the [PSPM Act](https://sso.agc.gov.sg/Act/PSPMPMLTFA2019) for the official definitions. If you are not certain whether you are required to register, you can seek legal advice.<br>
+Please refer to the [PSPM Act](https://sso.agc.gov.sg/Act/PSPMPMLTFA2019) for the official definitions. If you are not certain whether you are required to register, you can seek legal advice.
 
-### Why Register Early?
-If you are a dealer existing before 10 April 2019, if you act as a regulated dealer (or hold out as one) from **9 October 2019** without being registered or exempted, you may face criminal penalties of up to S$75,000 in fines and/or up 3 years’ imprisonment.<br>
-
-You should submit your registration application before **30 June 2019**, to ensure you receive your Certificate of Registration by 9 October 2019. This is to ensure sufficient processing time.<sup>1</sup>
-
-**There are further benefits to early registration:**
-* **You will be alerted and invited to training and workshops** to help you comply with regulatory requirements.<sup>2</sup>
-* **There is no disadvantage to registering early.** Even if you register early (e.g. in June 2019), the validity of your Certificate of Registration will only start from **9 October 2019**.
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-xldj{border-color:inherit;text-align:left}
-</style>
-<table class="tg">
-  <tr>
-    <th class="tg-xldj"><span style="font-weight:bold">Note:</span><br><span style="font-style:inherit"><sup>1</sup> The Registrar may need to contact you to clarify particulars of your registration. Even if no clarifications are needed, you still need at least 7 days to review the conditions of registration that the Registrar may impose on you (if any) and to pay the registration fees, and 7 days for  the Registrar to prepare your registration certificate.</span><br><span style="font-style:inherit"><sup>2</sup> The regulatory requirements in Part 3 of the PSPM Act have been in effect from 10 April 2019.</span></th>
-  </tr>
-</table>
+You are strongly encouraged to register early, as the approval of registration process may take about 3 months. Dealers who continue to perform business activity without a valid Certificate of Registration from 9 October 2019 may face criminal penalties of up to S$75,000 in fines and/or up to 3 years’ imprisonment
+<br>
 
 ### The registration process
 <a href="/images/Updated%20Registration%20Flowchart.pdf"><img src="/images/Updated%20Registration%20Flowchart.png"></a> <br>
