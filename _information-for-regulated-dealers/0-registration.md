@@ -104,7 +104,7 @@ ABC Pte Ltd must pay a total of <b>S$1,940</b>:<br>
                    
     </td>
   </tr>
-</table> <br>
+</table>
 
 ## Register now! 
 You may apply to be registered as a regulated dealer using the [LicenceOne portal](https://licence1.business.gov.sg/web/frontier/home). You may refer to the [LicenceOne Guide for Regulated Dealers](/images/LicenceOne%20Guide%20for%20regulated%20dealers_20190516_V03Final.pdf) for a step-by-step guide to the application process.
