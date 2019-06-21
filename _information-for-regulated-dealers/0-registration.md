@@ -11,7 +11,7 @@ Examples of regulated dealers who are required to register include, but are not 
 
 Please refer to the [PSPM Act](https://sso.agc.gov.sg/Act/PSPMPMLTFA2019) for the official definitions. If you are not certain whether you are required to register, you can seek legal advice.
 
-You are strongly encouraged to register early, as the approval of registration process may take about 3 months. Dealers who continue to perform business activity without a valid Certificate of Registration from 9 October 2019 may face criminal penalties of up to S$75,000 in fines and/or up to 3 years’ imprisonment
+You are strongly encouraged to register early, as the registration approval may take about 3 months. Dealers who continue to perform business activity without a valid Certificate of Registration from 9 October 2019 may face criminal penalties of up to S$75,000 in fines and/or up to 3 years’ imprisonment
 <br>
 
 ### The registration process
@@ -125,24 +125,6 @@ You may apply to be registered as a regulated dealer using the [LicenceOne porta
   </tr>
 </table>
 
-### I need help with registering.
-* If you face any technical issues when using LicenceOne, you may wish to refer to the [LicenceOne webpage](https://licence1.business.gov.sg/web/frontier/help/apply-for-new-licence) or contact the [LicenceOne Helpdesk](https://licence1.business.gov.sg/web/frontier/contact-us).
-* If you are not sure how to complete the application form, you may wish to refer to our [LicenceOne Guide for Regulated Dealers (Step-by-Step with Screenshots)](/images/LicenceOne%20Guide%20for%20regulated%20dealers_20190516_V03Final.pdf) or [our FAQs for Precious Stones and Precious Metals Dealers](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx).
-
-<br>
-<table>
-  <tr>
-    <th>Helpdesk No.</th>
-    <th>Email Address</th>
-    <th>Helpdesk Operating Hours<br></th>
-  </tr>
-  <tr>
-    <td>(+65) 67741430</td>
-    <td><a href="mailto:Licences-helpdesk@crimsonlogic.com">Licences-helpdesk@crimsonlogic.com</a></td>
-    <td>Monday to Friday 8:00am to 8:00pm<br>Saturdays: 8:00am to 2:00pm<br>Excluding public holidays</td>
-  </tr>
-</table>
-
 ### Information you need for registration:
 
 <table>
@@ -170,4 +152,21 @@ You may apply to be registered as a regulated dealer using the [LicenceOne porta
 <br>
 You may also refer to this [guide on the application process.](/images/LicenceOne%20Regulated%20Dealer%20Guide.pdf)
 
+### I need help with registering
+* If you face any technical issues when using LicenceOne, you may wish to refer to the [LicenceOne webpage](https://licence1.business.gov.sg/web/frontier/help/apply-for-new-licence) or contact the [LicenceOne Helpdesk](https://licence1.business.gov.sg/web/frontier/contact-us).
+* If you are not sure how to complete the application form, you may wish to refer to our [LicenceOne Guide for Regulated Dealers (Step-by-Step with Screenshots)](/images/LicenceOne%20Guide%20for%20regulated%20dealers_20190516_V03Final.pdf) or [our FAQs for Precious Stones and Precious Metals Dealers](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx).
+
+<br>
+<table>
+  <tr>
+    <th>Helpdesk No.</th>
+    <th>Email Address</th>
+    <th>Helpdesk Operating Hours<br></th>
+  </tr>
+  <tr>
+    <td>(+65) 67741430</td>
+    <td><a href="mailto:Licences-helpdesk@crimsonlogic.com">Licences-helpdesk@crimsonlogic.com</a></td>
+    <td>Monday to Friday 8:00am to 8:00pm<br>Saturdays: 8:00am to 2:00pm<br>Excluding public holidays</td>
+  </tr>
+</table>
 
