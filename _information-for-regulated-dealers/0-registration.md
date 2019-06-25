@@ -11,7 +11,7 @@ Examples of regulated dealers who are required to register include, but are not 
 
 Please refer to the [PSPM Act](https://sso.agc.gov.sg/Act/PSPMPMLTFA2019) for the official definitions. If you are not certain whether you are required to register, you can seek legal advice.
 
-You are strongly encouraged to register early, as the registration approval may take about 3 months. Dealers who continue to perform business activity without a valid Certificate of Registration from 9 October 2019 may face criminal penalties of up to S$75,000 in fines and/or up 3 years’ imprisonment
+You are strongly encouraged to register early, as the registration approval may take about 3 months. Dealers who continue to perform business activity without a valid Certificate of Registration from 9 October 2019 may face criminal penalties of up to S$75,000 in fines and/or up to 3 years’ imprisonment.
 <br>
 
 ### The registration process
