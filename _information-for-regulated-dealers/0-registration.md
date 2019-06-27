@@ -11,14 +11,15 @@ Examples of regulated dealers who are required to register include, but are not 
 
 Please refer to the [PSPM Act](https://sso.agc.gov.sg/Act/PSPMPMLTFA2019) for the official definitions. If you are not certain whether you are required to register, you can seek legal advice.
 
-### Why Register Early?
+### Why register now?
 If you are a dealer existing before 10 April 2019, if you act as a regulated dealer (or hold out as one) from **9 October 2019** without being registered or exempted, you may face criminal penalties of up to S$75,000 in fines and/or up 3 years’ imprisonment.<br>
 
-You should submit your registration application before **31 July 2019**, to ensure you receive your Certificate of Registration by 9 October 2019. This is to ensure sufficient processing time.<sup>1</sup>
+You should submit your registration application **now**, to ensure you receive your Certificate of Registration by 9 October 2019. This is to ensure sufficient processing time.<sup>1</sup>
 
-**There are further benefits to early registration:**
+**There are further benefits to registration now:**
 * **You will be alerted and invited to training and workshops** to help you comply with regulatory requirements.<sup>2</sup>
-* **There is no disadvantage to registering early.** Even if you register early (e.g. in July 2019), the validity of your Certificate of Registration will only start from **9 October 2019**.
+* **There is no disadvantage to registering now.** Even if you register now (e.g. in July 2019), the validity of your Certificate of Registration will only start from **9 October 2019**.
+* There will be a [List of Registered Dealers](https://acd.mlaw.gov.sg/list-of-registered-dealers/) on our website. The public may ascertain whether you are a registered dealer, based on this list.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -107,7 +108,7 @@ ABC Pte Ltd must pay a total of <b>S$1,940</b>:<br>
   </tr>
 </table>
 
-## Register now! 
+### Register now! 
 You may apply to be registered as a regulated dealer using the [LicenceOne portal](https://licence1.business.gov.sg/web/frontier/home). You may refer to the [LicenceOne Guide for Regulated Dealers](/images/LicenceOne%20Guide%20for%20regulated%20dealers_20190516_V03Final.pdf) for a step-by-step guide to the application process.
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
