@@ -144,7 +144,7 @@ You may apply to be registered as a regulated dealer using the [LicenceOne porta
   </tr>
 </table>
 
-### Information you need for registration:
+### Information you need for registration
 
 <table>
   <tr>
