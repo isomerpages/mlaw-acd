@@ -16,7 +16,7 @@ collection_name: information-for-regulated-dealers
 * Parliamentary Debate for the PSPM Act (11 February 2019)
   * To view, please click [here](https://sprs.parl.gov.sg/search/sprs3topic?reportid=bill-349)
 * Monetary Authority of Singapore ("**MAS**") website - Lists of Designated Persons
-  * To view, please click [here](http://www.mas.gov.sg/Regulations-and-Financial-Stability/Anti-Money-Laundering-Countering-The-Financing-Of-Terrorism-And-Targeted-Financial-Sanctions/Targeted-Financial-Sanctions/Lists-of-Designated-Individuals-and-Entities.aspx).
+  * To view, please click [here](https://www.mas.gov.sg/regulation/anti-money-laundering/targeted-financial-sanctions/lists-of-designated-individuals-and-entities).
 
 
 * Suspicious Transaction Reporting Office ("**STRO**")
@@ -34,7 +34,7 @@ collection_name: information-for-regulated-dealers
   * To view, please click [here](http://www.fatf-gafi.org/publications/mutualevaluations/documents/fatf-methodology.html).
 
 * Financial Action Task Force – February 2019 Public Statement: Jurisdictions which FATF has called for countermeasures or enhanced customer due diligence against
-  * To view, please click [here](http://www.mas.gov.sg/Regulations-and-Financial-Stability/Anti-Money-Laundering-Countering-The-Financing-Of-Terrorism-And-Targeted-Financial-Sanctions/Anti-Money-Laundering-and-Countering-the-Financing-of-Terrorism/AMLCFT-Announcements/2019/February-2019-FATF-Statement.aspx).
+  * To view, please click [here](https://www.fatf-gafi.org/publications/high-risk-and-other-monitored-jurisdictions/documents/public-statement-february-2019.html).
 
 * Singapore National Risk Assessment Report 2013
   * The document is in PDF format. To view, please click [here](/images/Singapore%20NRA%20Report%202013_24032015.pdf).
