@@ -16,7 +16,7 @@ If you are a dealer existing before 10 April 2019, if you act as a regulated dea
 
 You should submit your registration application **now**, to ensure you receive your Certificate of Registration by 9 October 2019. This is to ensure sufficient processing time.<sup>1</sup>
 
-**There are further benefits to registration now:**
+**There are further benefits to register now:**
 * **You will be alerted and invited to training and workshops** to help you comply with regulatory requirements.<sup>2</sup>
 * **There is no disadvantage to registering now.** Even if you register now (e.g. in July 2019), the validity of your Certificate of Registration will only start from **9 October 2019**.
 * There will be a [List of Registered Dealers](https://acd.mlaw.gov.sg/list-of-registered-dealers/) on our website. The public may ascertain whether you are a registered dealer, based on this list.
