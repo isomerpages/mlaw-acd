@@ -23,6 +23,6 @@ The Notice for Customers explains that regulated dealers are required to collect
 
 <a href="/images/Notice%20for%20Customers.pdf"><img src="/images/Notice%20for%20Customers.png"></a><br><br>
 
-#### [4. Monetary Authority of Singapore's ("**MAS**") website - Lists of Designated Persons](http://www.mas.gov.sg/Regulations-and-Financial-Stability/Anti-Money-Laundering-Countering-The-Financing-Of-Terrorism-And-Targeted-Financial-Sanctions/Targeted-Financial-Sanctions/Lists-of-Designated-Individuals-and-Entities.aspx)
+#### [4. Monetary Authority of Singapore's ("**MAS**") website - Lists of Designated Persons](https://www.mas.gov.sg/regulation/anti-money-laundering/targeted-financial-sanctions/lists-of-designated-individuals-and-entities)
 
 MAS publishes lists of individuals and entities designated under the United Nations Act and the Terrorism (Suppresion of Financing) Act. Regulated dealers are required to screen their customers against the lists below before engaging in any business or commercial activity with them.<br><br><br>
