@@ -8,36 +8,30 @@ collection_name: information-for-regulated-dealers
 
 #### Legal Requirements
 
-* The Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019 ("**PSPM Act**")
-  * To view, please click [here](https://sso.agc.gov.sg/Act/PSPMPMLTFA2019).
+* [The Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019 ("**PSPM Act**")](https://sso.agc.gov.sg/Act/PSPMPMLTFA2019)
 
-* Subsidiary legislation under the PSPM Act
-  * To view, please click [here](https://sso.agc.gov.sg/Act/PSPMPMLTFA2019?ViewType=Sl).
-* Parliamentary Debate for the PSPM Act (11 February 2019)
-  * To view, please click [here](https://sprs.parl.gov.sg/search/sprs3topic?reportid=bill-349)
-* Monetary Authority of Singapore ("**MAS**") website - Lists of Designated Persons
-  * To view, please click [here](https://www.mas.gov.sg/regulation/anti-money-laundering/targeted-financial-sanctions/lists-of-designated-individuals-and-entities).
+* [Subsidiary legislation under the PSPM Act](https://sso.agc.gov.sg/Act/PSPMPMLTFA2019?ViewType=Sl)
+  
+* [Parliamentary Debate for the PSPM Act (11 February 2019)](https://sprs.parl.gov.sg/search/sprs3topic?reportid=bill-349)
 
-
+* [Inter-Ministry Committee - Terrorist Designation (IMC-TD)](https://www.mha.gov.sg/inter-ministry-committee-terrorist-designation-(imc-td))
+  
+* [Monetary Authority of Singapore ("**MAS**") website - Lists of Designated Persons](https://www.mas.gov.sg/regulation/anti-money-laundering/targeted-financial-sanctions/lists-of-designated-individuals-and-entities)
+  
 * Suspicious Transaction Reporting Office ("**STRO**")
-  * To learn more about STRO, please click [here](https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office).
-  * To learn more about Cash Transaction Reports, please click [here](https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office/cash-transaction-reporting#content).
-  * To learn more about Suspicious Transaction Reports, please click [here](https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office/suspicious-transaction-reporting#content).
-  * To access the STRO Online Notices and Reporting Platform, please click [here](https://www.police.gov.sg/e-services/report/stro-online-notices-and-reporting-platform).
+  * Please select the following for more information regarding:
+    * [STRO](https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office)
+    * [Cash Transaction Reporting(CTR)(https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office/cash-transaction-reporting#content)
+    * [Suspicious Transaction Reporting(STR)](https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office/suspicious-transaction-reporting#content)
+    * [STRO Online Notices and Reporting Platform](https://www.police.gov.sg/e-services/report/stro-online-notices-and-reporting-platform)
 
 #### AML/CFT Resources
 
-* Financial Action Task Force - 40 Recommendations
-  * To view, please click [here](http://www.fatf-gafi.org/publications/fatfrecommendations/documents/fatf-recommendations.html).
+* [Financial Action Task Force - 40 Recommendations](http://www.fatf-gafi.org/publications/fatfrecommendations/documents/fatf-recommendations.html)
 
-* Financial Action Task Force Methodology for assessing compliance with the FATF Recommendations and the effectiveness of AML/CFT systems
-  * To view, please click [here](http://www.fatf-gafi.org/publications/mutualevaluations/documents/fatf-methodology.html).
+* [Financial Action Task Force Methodology for assessing compliance with the FATF Recommendations and the effectiveness of AML/CFT](http://www.fatf-gafi.org/publications/mutualevaluations/documents/fatf-methodology.html).
 
-* Financial Action Task Force – February 2019 Public Statement: Jurisdictions which FATF has called for countermeasures or enhanced customer due diligence against
-  * To view, please click [here](https://www.fatf-gafi.org/publications/high-risk-and-other-monitored-jurisdictions/documents/public-statement-february-2019.html).
+* [Financial Action Task Force – February 2019 Public Statement: Jurisdictions which FATF has called for countermeasures or enhanced customer due diligence against](https://www.fatf-gafi.org/publications/high-risk-and-other-monitored-jurisdictions/documents/public-statement-february-2019.html).
 
-* Singapore National Risk Assessment Report 2013
-  * The document is in PDF format. To view, please click [here](/images/Singapore%20NRA%20Report%202013_24032015.pdf).
+* [Singapore National Risk Assessment Report 2013](/images/Singapore%20NRA%20Report%202013_24032015.pdf).
 
-* Inter-Ministry Committee - Terrorist Designation (IMC-TD)
-  * To view, please click [here](https://www.mha.gov.sg/inter-ministry-committee-terrorist-designation-(imc-td)).
