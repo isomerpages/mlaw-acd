@@ -37,7 +37,7 @@ Importantly, the regime does **not** intend to cover individuals who make one-of
 
 **What does the new regime cover?** 
 
-“Precious stones” (natural or otherwise) include diamonds, sapphires, rubies, emeralds, jade(including nephrite and jadeite), and pearls.
+“Precious stones” (natural or otherwise) include diamonds, sapphires, rubies, emeralds, jade (including nephrite and jadeite), and pearls.
 
 “Precious metals” include gold, silver, platinum, iridium, osmium, palladium, rhodium, ruthenium, and alloys with at least 2% in weight of any of the metals stated above.
 
