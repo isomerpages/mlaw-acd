@@ -6,7 +6,7 @@ breadcrumb: Regulatory Compliance
 collection_name: information-for-regulated-dealers
 ---
 #### Introduction
-The Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act ("**PSPM Act**") is in effect since 10 April 2019. It introduces a supervisory and regulatory regime for precious stones and precious metals dealers.
+The Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act ("**PSPM Act**") has been in effect from 10 April 2019. It introduces a supervisory and regulatory regime for precious stones and precious metals dealers.
 
 The precious stones and precious metals sector is exposed to inherent money laundering ("**ML**") and terrorism financing ("**TF**") risks, as precious stones and precious metals are good stores of value, easily transported and concealed, and easily convertible to cash.
 
