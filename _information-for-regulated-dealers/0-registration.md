@@ -11,7 +11,26 @@ Examples of regulated dealers who are required to register include, but are not 
 
 Please refer to the [PSPM Act](https://sso.agc.gov.sg/Act/PSPMPMLTFA2019) for the official definitions. If you are not certain whether you are required to register, you can seek legal advice.
 
-You are strongly encouraged to register early, as the registration approval may take about 3 months. Dealers who continue to perform business activity without a valid Certificate of Registration from 9 October 2019 may face criminal penalties of up to S$75,000 in fines and/or up to 3 years’ imprisonment.
+### Why Register Early?
+If you are a dealer existing before 10 April 2019, if you act as a regulated dealer (or hold out as one) from **9 October 2019** without being registered or exempted, you may face criminal penalties of up to S$75,000 in fines and/or up 3 years’ imprisonment.<br>
+
+You should submit your registration application before **31 July 2019**, to ensure you receive your Certificate of Registration by 9 October 2019. This is to ensure sufficient processing time.<sup>1</sup>
+
+**There are further benefits to early registration:**
+* **You will be alerted and invited to training and workshops** to help you comply with regulatory requirements.<sup>2</sup>
+* **There is no disadvantage to registering early.** Even if you register early (e.g. in July 2019), the validity of your Certificate of Registration will only start from **9 October 2019**.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-xldj{border-color:inherit;text-align:left}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-xldj"><span style="font-weight:bold">Note:</span><br><span style="font-style:inherit"><sup>1</sup> The Registrar may need to contact you to clarify particulars of your registration. Even if no clarifications are needed, you still need at least 7 days to review the conditions of registration that the Registrar may impose on you (if any) and to pay the registration fees, and 7 days for  the Registrar to prepare your registration certificate.</span><br><span style="font-style:inherit"><sup>2</sup> The regulatory requirements in Part 3 of the PSPM Act have been in effect from 10 April 2019.</span></th>
+  </tr>
+</table>
 <br>
 
 ### The registration process
