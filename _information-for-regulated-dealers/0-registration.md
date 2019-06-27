@@ -172,8 +172,10 @@ You may apply to be registered as a regulated dealer using the [LicenceOne porta
 You may also refer to this [guide on the application process.](/images/LicenceOne%20Regulated%20Dealer%20Guide.pdf)
 
 ### I need help with registering
+<a href="/images/Helplines.pdf"><img src="/images/Helplines.png"></a>
+
 * If you face any technical issues when using LicenceOne, you may wish to refer to the [LicenceOne webpage](https://licence1.business.gov.sg/web/frontier/help/apply-for-new-licence) or contact the [LicenceOne Helpdesk](https://licence1.business.gov.sg/web/frontier/contact-us).
 * If you are not sure how to complete the application form, you may wish to refer to our [LicenceOne Guide for Regulated Dealers (Step-by-Step with Screenshots)](/images/LicenceOne%20Guide%20for%20regulated%20dealers_20190516_V03Final.pdf) or [our FAQs for Precious Stones and Precious Metals Dealers](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx).
 
-<a href="/images/Helplines.pdf"><img src="/images/Helplines.png"></a>
+
 
