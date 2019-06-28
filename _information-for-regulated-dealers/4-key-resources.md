@@ -21,9 +21,9 @@ collection_name: information-for-regulated-dealers
 * Suspicious Transaction Reporting Office ("**STRO**")
   * Please select the following for more information regarding:
     * [STRO](https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office)
-    * [Cash Transaction Report(CTR)](https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office/cash-transaction-reporting#content)
-    * [Suspicious Transaction Report(STR)](https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office/suspicious-transaction-reporting#content)
-    * [STRO Online Notices and Reporting Platform ("**SONAR**"](https://www.police.gov.sg/e-services/report/stro-online-notices-and-reporting-platform)
+    * [Cash Transaction Report("**CTR**")](https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office/cash-transaction-reporting#content)
+    * [Suspicious Transaction Report("**STR**")](https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office/suspicious-transaction-reporting#content)
+    * [STRO Online Notices and Reporting Platform ("**SONAR**")](https://www.police.gov.sg/e-services/report/stro-online-notices-and-reporting-platform)
 
 #### AML/CFT Resources
 
