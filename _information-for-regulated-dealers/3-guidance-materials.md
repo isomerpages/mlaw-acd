@@ -23,9 +23,9 @@ The Notice for Customers explains that regulated dealers are required to collect
 
 <a href="/images/Notice%20for%20Customers.pdf"><img src="/images/Notice%20for%20Customers.png"></a><br><br>
 
-#### [4. Ministry of Home Affairs's ("**MHA**") website - Terrorist Designation List](https://www.mha.gov.sg/inter-ministry-committee-terrorist-designation-(imc-td))
+#### [4. Inter-Ministry Committee - Terrorist Designation ("**IMC-TD**") website - Terrorist Designation List](https://www.mha.gov.sg/inter-ministry-committee-terrorist-designation-(imc-td))
 
-MHA publishes [list](https://www.mha.gov.sg/inter-ministry-committee-terrorist-designation-(imc-td)) of individuals and entities designated under the United Nations Security Council Resolution. Regulated dealers should subscribe to the IMC-TD mailing list to receive listings on terrorist designation (persons and entities designated as terrorists). Regulated dealers are required to screen their customers against the lists before engaging in any business or commercial activity with them.<br><br>
+Ministry of Home Affairs publishes [list](https://www.mha.gov.sg/inter-ministry-committee-terrorist-designation-(imc-td)) of individuals and entities designated under the United Nations Security Council Resolution. Regulated dealers should subscribe to the IMC-TD mailing list to receive listings on terrorist designation (persons and entities designated as terrorists). Regulated dealers are required to screen their customers against the lists before engaging in any business or commercial activity with them.<br><br>
 
 #### [5. Monetary Authority of Singapore's ("**MAS**") website - Financial Sanctions List](https://www.mas.gov.sg/regulation/anti-money-laundering/targeted-financial-sanctions/lists-of-designated-individuals-and-entities)
 
