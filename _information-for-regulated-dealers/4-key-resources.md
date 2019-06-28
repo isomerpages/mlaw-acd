@@ -14,7 +14,7 @@ collection_name: information-for-regulated-dealers
   
 * [Parliamentary Debate for the PSPM Act (11 February 2019)](https://sprs.parl.gov.sg/search/sprs3topic?reportid=bill-349)
 
-* [Inter-Ministry Committee - Terrorist Designation (IMC-TD)](https://www.mha.gov.sg/inter-ministry-committee-terrorist-designation-(imc-td))
+* [Inter-Ministry Committee - Terrorist Designation ("**IMC-TD**")](https://www.mha.gov.sg/inter-ministry-committee-terrorist-designation-(imc-td))
   
 * [Monetary Authority of Singapore ("**MAS**") website - Lists of Designated Persons](https://www.mas.gov.sg/regulation/anti-money-laundering/targeted-financial-sanctions/lists-of-designated-individuals-and-entities)
   
@@ -23,7 +23,7 @@ collection_name: information-for-regulated-dealers
     * [STRO](https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office)
     * [Cash Transaction Report(CTR)](https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office/cash-transaction-reporting#content)
     * [Suspicious Transaction Report(STR)](https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office/suspicious-transaction-reporting#content)
-    * [STRO Online Notices and Reporting Platform](https://www.police.gov.sg/e-services/report/stro-online-notices-and-reporting-platform)
+    * [STRO Online Notices and Reporting Platform ("**SONAR**"](https://www.police.gov.sg/e-services/report/stro-online-notices-and-reporting-platform)
 
 #### AML/CFT Resources
 
