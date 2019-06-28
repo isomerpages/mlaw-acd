@@ -12,13 +12,13 @@ Examples of regulated dealers who are required to register include, but are not 
 Please refer to the [PSPM Act](https://sso.agc.gov.sg/Act/PSPMPMLTFA2019) for the official definitions. If you are not certain whether you are required to register, you can seek legal advice.
 
 ### Why register now?
-If you are a dealer existing before 10 April 2019, if you act as a regulated dealer (or hold out as one) from **9 October 2019** without being registered or exempted, you may face criminal penalties of up to S$75,000 in fines and/or up 3 years’ imprisonment.<br>
+If you are a dealer existing before 10 April 2019, if you act as a regulated dealer (or hold out as one) from **9 October 2019** without being registered or exempted, you may face criminal penalties of up to S$75,000 in fines and/or up to 3 years’ imprisonment.<br>
 
 You should submit your registration application **now**, to ensure you receive your Certificate of Registration by 9 October 2019. This is to ensure sufficient processing time.<sup>1</sup>
 
 **There are further benefits to register now:**
 * **You will be alerted and invited to training and workshops** to help you comply with regulatory requirements.<sup>2</sup>
-* **There is no disadvantage to registering now.** Even if you register now (e.g. in July 2019), the validity of your Certificate of Registration will only start from **9 October 2019**.
+* **There is no disadvantage to registering now.** Even if you register today, the validity of your Certificate of Registration will only start from **9 October 2019**.
 * There will be a [List of Registered Dealers](https://acd.mlaw.gov.sg/list-of-registered-dealers/) on our website. The public may ascertain whether you are a registered dealer, based on this list.
 
 <style type="text/css">
