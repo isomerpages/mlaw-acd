@@ -9,16 +9,17 @@ collection_name: information-for-regulated-dealers
 You are required to register with the Registrar of Regulated Dealers if you are a regulated dealer i.e. you carry on a business of regulated dealing in precious stones, precious metals and/or precious products ("**PSPMs**"), or as an intermediary for regulated dealing in PSPMs. <br><br>
 Examples of regulated dealers who are required to register include, but are not limited to jewellers, bullion traders, jewellery wholesalers, jewellery retailers, second-hand goods dealers, auction houses, and trading platforms. Take this [questionnaire](http://form.gov.sg/5cd3efbbd64f830010e00ea9) to help you ascertain whether you are a regulated dealer.
 
-Please refer to the [PSPM Act](https://sso.agc.gov.sg/Act/PSPMPMLTFA2019) for the official definitions. If you are not certain whether you are required to register, you can seek legal advice.<br>
+Please refer to the [PSPM Act](https://sso.agc.gov.sg/Act/PSPMPMLTFA2019) for the official definitions. If you are not certain whether you are required to register, you can seek legal advice.
 
-### Why Register Early?
-If you are a dealer existing before 10 April 2019, if you act as a regulated dealer (or hold out as one) from **9 October 2019** without being registered or exempted, you may face criminal penalties of up to S$75,000 in fines and/or up 3 years’ imprisonment.<br>
+### Why register now?
+If you are a dealer existing before 10 April 2019, if you act as a regulated dealer (or hold out as one) from **9 October 2019** without being registered or exempted, you may face criminal penalties of up to S$75,000 in fines and/or up to 3 years’ imprisonment.<br>
 
-You should submit your registration application before **30 June 2019**, to ensure you receive your Certificate of Registration by 9 October 2019. This is to ensure sufficient processing time.<sup>1</sup>
+You should submit your registration application **now**, to ensure you receive your Certificate of Registration by 9 October 2019. This is to ensure sufficient processing time.<sup>1</sup>
 
-**There are further benefits to early registration:**
+**There are further benefits to register now:**
 * **You will be alerted and invited to training and workshops** to help you comply with regulatory requirements.<sup>2</sup>
-* **There is no disadvantage to registering early.** Even if you register early (e.g. in June 2019), the validity of your Certificate of Registration will only start from **9 October 2019**.
+* **There is no disadvantage to registering now.** Even if you register today, the validity of your Certificate of Registration will only start from **9 October 2019**.
+* There will be a [List of Registered Dealers](https://acd.mlaw.gov.sg/list-of-registered-dealers/) on our website. The public may ascertain whether you are a registered dealer, based on this list.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -32,91 +33,8 @@ You should submit your registration application before **30 June 2019**, to ensu
   </tr>
 </table>
 
-## Register now! 
-You may apply to be registered as a regulated dealer using the [LicenceOne portal](https://licence1.business.gov.sg/web/frontier/home). You may refer to the [LicenceOne Guide for Regulated Dealers](/images/LicenceOne%20Guide%20for%20regulated%20dealers_20190516_V03Final.pdf) for a step-by-step guide to the application process.
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-lqyu{color:#fe0000;border-color:inherit;text-align:left}
-.tg .tg-fymr{font-weight:bold;border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-7btt{font-weight:bold;border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-  <tr>
-    <th class="tg-lqyu" colspan="3"><span style="font-weight:600">Important Notice: </span><br><br><span style="font-weight:bold;text-decoration:underline">Please log on with CorpPass</span> to ensure that the Certificate of Registration is correctly granted to your <span style="font-weight:bold;text-decoration:underline">business entity</span> that is registered with ACRA or relevant UEN Issuance Agency, whether you are a sole proprietorship, partnership, company, corporation, limited liability partnership and limited partnership.<br><br>There should be <span style="font-weight:bold">only one application per business entity (i.e. one application per UEN).</span><br></th>
-  </tr>
-  <tr>
-    <td class="tg-fymr" rowspan="2">Nationality or <br>Country of Registration <br>and/or Incorporation</td>
-    <td class="tg-7btt" colspan="2"> Entity Type</td>
-  </tr>
-  <tr>
-    <td class="tg-7btt">Business</td>
-    <td class="tg-7btt">Individual</td>
-  </tr>
-  <tr>
-    <td class="tg-fymr">Singapore</td>
-    <td class="tg-0pky">Log onto <a href="https://licence1.business.gov.sg/web/frontier/home">LicenceOne</a> using your <a href="https://licence1.business.gov.sg/web/frontier/help/corppass-in-licenceone">CorpPass Account</a><sup>1</sup>.</td>
-    <td class="tg-0pky" rowspan="2">If you are a <span style="font-weight:bold;text-decoration:underline">sole proprietor</span>, log onto <a href="https://licence1.business.gov.sg/web/frontier/home">LicenceOne</a> using your <a href="https://licence1.business.gov.sg/web/frontier/help/corppass-in-licenceone">CorpPass Account</a><sup>1</sup>.<br><br>If you are conducting business in your personal capacity, contact ACD <a href="https://www.mlaw.gov.sg/content/minlaw/en/about-us/contact-us.html">here</a>.</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"><span style="font-weight:bold">Not Singapore</span><br><br><br>Note: a foreign dealer who carries on business for not more than 90 days a year in Singapore need NOT register.</td>
-    <td class="tg-0pky">Log onto <a href="https://licence1.business.gov.sg/web/frontier/home">LicenceOne</a> using your <a href="https://licence1.business.gov.sg/web/frontier/help/corppass-in-licenceone">CorpPass Account</a><sup>1</sup>.<br><br><br>Business entities not registered in Singapore require a Unique Entity Number (UEN) to transact. An entity may obtain a UEN by registering itself with an appropriate UEN Issuance agency as listed in www.uen.gov.sg under the link <a href="https://www.uen.gov.sg/ueninternet/faces/pages/admin/aboutUEN.jspx">"Who will issue UEN to me?"</a></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky" colspan="3"><sup>1</sup>Your CorpPass Administrator should also create CorpPass User accounts for your LicenceOne users and select the entity’s e-Services “Ministry of Trade’s LicenceOne” during account creation.</td>
-  </tr>
-</table>
-
-### I need help with registering.
-* If you face any technical issues when using LicenceOne, you may wish to refer to the [LicenceOne webpage](https://licence1.business.gov.sg/web/frontier/help/apply-for-new-licence) or contact the [LicenceOne Helpdesk](https://licence1.business.gov.sg/web/frontier/contact-us).
-* If you are not sure how to complete the application form, you may wish to refer to our [LicenceOne Guide for Regulated Dealers (Step-by-Step with Screenshots)](/images/LicenceOne%20Guide%20for%20regulated%20dealers_20190516_V03Final.pdf) or [our FAQs for Precious Stones and Precious Metals Dealers](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx).
-
-<br>
-<table>
-  <tr>
-    <th>Helpdesk No.</th>
-    <th>Email Address</th>
-    <th>Helpdesk Operating Hours<br></th>
-  </tr>
-  <tr>
-    <td>(+65) 67741430</td>
-    <td><a href="mailto:Licences-helpdesk@crimsonlogic.com">Licences-helpdesk@crimsonlogic.com</a></td>
-    <td>Monday to Friday 8:00am to 8:00pm<br>Saturdays: 8:00am to 2:00pm<br>Excluding public holidays</td>
-  </tr>
-</table>
-
 ### The registration process
-<a href="/images/Updated%20Registration%20Flowchart.pdf"><img src="/images/Updated%20Registration%20Flowchart.png"></a>
-
-### Information you need for registration:
-
-<table>
-  <tr>
-    <th>Entity</th>
-    <th>Information needed</th>
-  </tr>
-  <tr>
-    <td>Director<br>Partner<br>Manager<br>Company secretary<br>Person holding an analogous position involved in the management of the applicant<br>Outlet manager</td>
-   <td><b>1. Name*</b><br><b>2. NRIC/Passport No./FIN No.*</b><br>3. Date of Birth<br>4. Declaration of:<br>     (a) any investigations or convictions for offences related to fraud, dishonesty, money laundering, or terrorism financing;<br>     (b) any bankruptcy, insolvency or liquidation;<br>     (c) any lawsuit the person was party to; and<br>     (d) any breach of AML/CFT requirements.<br><br><b>* Information is auto-populated for ACRA registered entities</b></td>
-  </tr>
-    <tr>
-    <td>Compliance Officer</td>
-    <td>1. Name<br>2. NRIC/Passport No./FIN No.<br>3. Date of Birth</td>
-  </tr>
-  <tr>
-    <td>Substantial shareholders (if you represent a company)</td>
-   <td><b>1. Name*</b><br><b>2. NRIC/Passport No./FIN No./UEN No.*</b><br><b>3. No. of Ordinary Shares*</b><br><b>4. Ordinary Share %*</b><br><b>5. Voting Share %*</b><br>6. Declaration of:<br>     (a) any investigations or convictions for offences related to fraud, dishonesty, money laundering, or terrorism financing;<br>     (b) any bankruptcy, insolvency or liquidation;<br>     (c) any lawsuit the person was party to; and<br>     (d) any breach of AML/CFT requirements.<br><br><b>* Information is auto-populated for ACRA registered entities</b></td>
-  </tr>
-  <tr>
-    <td>Place(s) of business</td>
-    <td>1. Description of place of business<br>2. Address<br>3. Contact No.<br>4. Name of Outlet Manager<br>5. NRIC/Passport No./FIN No.<br>6. Contact No. of Outlet Manager</td>
-  </tr>
-</table>
-<br>
-You may also refer to this [guide on the application process.](/images/LicenceOne%20Regulated%20Dealer%20Guide.pdf)
-<br>
+<a href="/images/Updated%20Registration%20Flowchart.pdf"><img src="/images/Updated%20Registration%20Flowchart.png"></a> <br>
 
 ### Fees and period of registration
 <b>Fees</b><br>
@@ -188,3 +106,76 @@ ABC Pte Ltd must pay a total of <b>S$1,940</b>:<br>
     </td>
   </tr>
 </table>
+
+### Register now! 
+You may apply to be registered as a regulated dealer using the [LicenceOne portal](https://licence1.business.gov.sg/web/frontier/home). You may refer to the [LicenceOne Guide for Regulated Dealers](/images/LicenceOne%20Guide%20for%20regulated%20dealers_20190516_V03Final.pdf) for a step-by-step guide to the application process.
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-lqyu{color:#fe0000;border-color:inherit;text-align:left}
+.tg .tg-fymr{font-weight:bold;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-7btt{font-weight:bold;border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-lqyu" colspan="3"><span style="font-weight:600">Important Notice: </span><br><br><span style="font-weight:bold;text-decoration:underline">Please log on with CorpPass</span> to ensure that the Certificate of Registration is correctly granted to your <span style="font-weight:bold;text-decoration:underline">business entity</span> that is registered with ACRA or relevant UEN Issuance Agency, whether you are a sole proprietorship, partnership, company, corporation, limited liability partnership and limited partnership.<br><br>There should be <span style="font-weight:bold">only one application per business entity (i.e. one application per UEN).</span><br></th>
+  </tr>
+  <tr>
+    <td class="tg-fymr" rowspan="2">Nationality or <br>Country of Registration <br>and/or Incorporation</td>
+    <td class="tg-7btt" colspan="2"> Entity Type</td>
+  </tr>
+  <tr>
+    <td class="tg-7btt">Business</td>
+    <td class="tg-7btt">Individual</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">Singapore</td>
+    <td class="tg-0pky">Log onto <a href="https://licence1.business.gov.sg/web/frontier/home">LicenceOne</a> using your <a href="https://licence1.business.gov.sg/web/frontier/help/corppass-in-licenceone">CorpPass Account</a><sup>1</sup>.</td>
+    <td class="tg-0pky" rowspan="2">If you are a <span style="font-weight:bold;text-decoration:underline">sole proprietor</span>, log onto <a href="https://licence1.business.gov.sg/web/frontier/home">LicenceOne</a> using your <a href="https://licence1.business.gov.sg/web/frontier/help/corppass-in-licenceone">CorpPass Account</a><sup>1</sup>.<br><br>If you are conducting business in your personal capacity, contact ACD <a href="https://www.mlaw.gov.sg/content/minlaw/en/about-us/contact-us.html">here</a>.</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><span style="font-weight:bold">Not Singapore</span><br><br><br>Note: a foreign dealer who carries on business for not more than 90 days a year in Singapore need NOT register.</td>
+    <td class="tg-0pky">Log onto <a href="https://licence1.business.gov.sg/web/frontier/home">LicenceOne</a> using your <a href="https://licence1.business.gov.sg/web/frontier/help/corppass-in-licenceone">CorpPass Account</a><sup>1</sup>.<br><br><br>Business entities not registered in Singapore require a Unique Entity Number (UEN) to transact. An entity may obtain a UEN by registering itself with an appropriate UEN Issuance agency as listed in www.uen.gov.sg under the link <a href="https://www.uen.gov.sg/ueninternet/faces/pages/admin/aboutUEN.jspx">"Who will issue UEN to me?"</a></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky" colspan="3"><sup>1</sup>Your CorpPass Administrator should also create CorpPass User accounts for your LicenceOne users and select the entity’s e-Services “Ministry of Trade’s LicenceOne” during account creation.</td>
+  </tr>
+</table>
+
+### Information you need for registration
+
+<table>
+  <tr>
+    <th>Entity</th>
+    <th>Information needed</th>
+  </tr>
+  <tr>
+    <td>Director<br>Partner<br>Manager<br>Company secretary<br>Person holding an analogous position involved in the management of the applicant<br>Outlet manager</td>
+   <td><b>1. Name*</b><br><b>2. NRIC/Passport No./FIN No.*</b><br>3. Date of Birth<br>4. Declaration of:<br>     (a) any investigations or convictions for offences related to fraud, dishonesty, money laundering, or terrorism financing;<br>     (b) any bankruptcy, insolvency or liquidation;<br>     (c) any lawsuit the person was party to; and<br>     (d) any breach of AML/CFT requirements.<br><br><b>* Information is auto-populated for ACRA registered entities</b></td>
+  </tr>
+    <tr>
+    <td>Compliance Officer</td>
+    <td>1. Name<br>2. NRIC/Passport No./FIN No.<br>3. Date of Birth</td>
+  </tr>
+  <tr>
+    <td>Substantial shareholders (if you represent a company)</td>
+   <td><b>1. Name*</b><br><b>2. NRIC/Passport No./FIN No./UEN No.*</b><br><b>3. No. of Ordinary Shares*</b><br><b>4. Ordinary Share %*</b><br><b>5. Voting Share %*</b><br>6. Declaration of:<br>     (a) any investigations or convictions for offences related to fraud, dishonesty, money laundering, or terrorism financing;<br>     (b) any bankruptcy, insolvency or liquidation;<br>     (c) any lawsuit the person was party to; and<br>     (d) any breach of AML/CFT requirements.<br><br><b>* Information is auto-populated for ACRA registered entities</b></td>
+  </tr>
+  <tr>
+    <td>Place(s) of business</td>
+    <td>1. Description of place of business<br>2. Address<br>3. Contact No.<br>4. Name of Outlet Manager<br>5. NRIC/Passport No./FIN No.<br>6. Contact No. of Outlet Manager</td>
+  </tr>
+</table>
+<br>
+You may also refer to this [guide on the application process.](/images/LicenceOne%20Regulated%20Dealer%20Guide.pdf)
+
+### I need help with registering
+<a href="/images/Helplines.pdf"><img src="/images/Helplines.png"></a>
+
+* If you face any technical issues when using LicenceOne, you may wish to refer to the [LicenceOne webpage](https://licence1.business.gov.sg/web/frontier/help/apply-for-new-licence) or contact the [LicenceOne Helpdesk](https://licence1.business.gov.sg/web/frontier/contact-us).
+* If you are not sure how to complete the application form, you may wish to refer to our [LicenceOne Guide for Regulated Dealers (Step-by-Step with Screenshots)](/images/LicenceOne%20Guide%20for%20regulated%20dealers_20190516_V03Final.pdf) or [our FAQs for Precious Stones and Precious Metals Dealers](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx).
+
+
+

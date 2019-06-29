@@ -6,7 +6,7 @@ breadcrumb: Regulatory Compliance
 collection_name: information-for-regulated-dealers
 ---
 #### Introduction
-The Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act ("**PSPM Act**") will come into force on 10 April 2019. It introduces a supervisory and regulatory regime for precious stones and precious metals dealers.
+The Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act ("**PSPM Act**") has been in effect from 10 April 2019. It introduces a supervisory and regulatory regime for precious stones and precious metals dealers.
 
 The precious stones and precious metals sector is exposed to inherent money laundering ("**ML**") and terrorism financing ("**TF**") risks, as precious stones and precious metals are good stores of value, easily transported and concealed, and easily convertible to cash.
 
@@ -37,13 +37,14 @@ Importantly, the regime does **not** intend to cover individuals who make one-of
 
 **What does the new regime cover?** 
 
-“Precious stones” include diamonds, sapphires, rubies, emeralds, jade, and pearls.
+“Precious stones” (natural or otherwise) include diamonds, sapphires, rubies, emeralds, jade (including nephrite and jadeite), and pearls.
 
 “Precious metals” include gold, silver, platinum, iridium, osmium, palladium, rhodium, ruthenium, and alloys with at least 2% in weight of any of the metals stated above.
 
 “Precious products” include, but are not limited to, any jewellery, watch, apparel, accessory, ornament or other finished product that is: <br>
 (a) made up of, contains or has attached to it any precious stone or metal or both; and<br>
-(b) derives at least 50% of its value is attributable to the precious stone or precious metal or both.
+(b) derives at least 50% of its value which is attributable to the precious stone or precious metal or both.<br>
+(c) determined by the ratio of the market value of the precious stones and precious metals component to the selling price of the product.
 
 An “asset-backed token” is any token, certificate or instrument: <br>
 (i) backed by one or more “precious stone”, “precious metal” or “precious product”; and <br>
@@ -54,7 +55,7 @@ Asset-backed tokens **do not include** securities or derivative contracts within
 #### What do regulated dealers have to do?
 Under this regime, the requirements that apply to regulated dealers include, but are not limited to, the following:
 
-* Register with the Registrar of Regulated Dealers within 6 months after the PSPM Act commences (i.e. by 9 October 2019);
+* Register with the Registrar of Regulated Dealers;
 * Perform customer due diligence measures under circumstances that are prescribed by the PSPM Act;
 * File Suspicious Transaction Reports ("**STR**") with the Suspicious Transaction Reporting Office ("**STRO**") and the Anti-Money Laundering / Countering the Financing of Terrorism Division ("**ACD**") where there is suspicion of ML/TF;
 * File Cash Transaction Reports ("**CTR**") with STRO and ACD for cash transactions exceeding S$20,000;

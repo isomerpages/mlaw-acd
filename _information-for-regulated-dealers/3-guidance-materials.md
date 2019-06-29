@@ -7,7 +7,7 @@ collection_name: information-for-regulated-dealers
 ---
 #### [1. LicenceOne Guide for Precious Stones and Precious Metals Dealers ("**LicenceOne Guide**")](/images/LicenceOne%20Guide%20for%20regulated%20dealers_20190516_V03Final.pdf)
 <a id="guidance"></a>
-The LicenceOne Guide gives regulated dealers a step-by-step walkthrough of the application process in LicenceOne. Regulated dealers will be shown how to login, which account to login with, and what information they need to register.<br><br> 
+The [LicenceOne Guide](/images/LicenceOne%20Guide%20for%20regulated%20dealers_20190516_V03Final.pdf) gives regulated dealers a step-by-step walkthrough of the application process in LicenceOne. Regulated dealers will be shown how to login, which account to login with, and what information they need to register.<br><br> 
 
 
 #### [2. Guidelines for Regulated Dealers in the Precious Stones and Precious Metals Dealers Sector on Anti-Money Laundering/Countering the Financing of Terrorism ("**Guidelines**")](/images/Guidelines%20for%20regulated%20dealers_20190430.pdf)
@@ -23,6 +23,10 @@ The Notice for Customers explains that regulated dealers are required to collect
 
 <a href="/images/Notice%20for%20Customers.pdf"><img src="/images/Notice%20for%20Customers.png"></a><br><br>
 
-#### [4. Monetary Authority of Singapore's ("**MAS**") website - Lists of Designated Persons](http://www.mas.gov.sg/Regulations-and-Financial-Stability/Anti-Money-Laundering-Countering-The-Financing-Of-Terrorism-And-Targeted-Financial-Sanctions/Targeted-Financial-Sanctions/Lists-of-Designated-Individuals-and-Entities.aspx)
+#### [4. Inter-Ministry Committee - Terrorist Designation ("**IMC-TD**") website - Terrorist Designation List](https://www.mha.gov.sg/inter-ministry-committee-terrorist-designation-(imc-td))
 
-MAS publishes lists of individuals and entities designated under the United Nations Act and the Terrorism (Suppresion of Financing) Act. Regulated dealers are required to screen their customers against the lists below before engaging in any business or commercial activity with them.<br><br><br>
+Ministry of Home Affairs publishes [list](https://www.mha.gov.sg/inter-ministry-committee-terrorist-designation-(imc-td)) of individuals and entities designated under the United Nations Security Council Resolution. Regulated dealers should subscribe to the IMC-TD mailing list to receive listings on terrorist designation (persons and entities designated as terrorists). Regulated dealers are required to screen their customers against the lists before engaging in any business or commercial activity with them.<br><br>
+
+#### [5. Monetary Authority of Singapore's ("**MAS**") website - Financial Sanctions List](https://www.mas.gov.sg/regulation/anti-money-laundering/targeted-financial-sanctions/lists-of-designated-individuals-and-entities)
+
+MAS publishes [list](https://www.mas.gov.sg/regulation/anti-money-laundering/targeted-financial-sanctions/lists-of-designated-individuals-and-entities) of individuals and entities designated under the United Nations Act and the Terrorism (Suppresion of Financing) Act. Regulated dealers are required to screen their customers against the lists before engaging in any business or commercial activity with them.<br><br>
