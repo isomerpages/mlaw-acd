@@ -19,6 +19,7 @@ You should submit your registration application **now**, to ensure you receive y
 **There are further benefits to register now:**
 * **You will be alerted and invited to training and workshops** to help you comply with regulatory requirements.<sup>2</sup>
 * **There is no disadvantage to registering now.** Even if you register today, the validity of your Certificate of Registration will only start from **9 October 2019**.
+<br>
 There will be a [List of Registered Dealers](https://acd.mlaw.gov.sg/list-of-registered-dealers/) on our website. The public may ascertain whether you are a registered dealer, based on this list.
 
 <style type="text/css">
