@@ -12,7 +12,7 @@ You may download the information packs and the conference presentation slides be
 
 [Conference Presentation Slides (PDF)](/images/Onboarding%20Conference%20Slides%2020190619_V01Final.pdf)<br>
 [Registration Brochure (PDF)](/images/Registration brochure%20for%20regulated dealers_20190408_V01Final.pdf)<br>
-[Registration Leaflet (PDF)](/images/Registration%20Leaflet_20190508.pdf)<br>
+[Registration Leaflet (PDF)](/images/Registration Leaflet_20190701_V04Final.pdf)<br>
 [LicenceOne Guide for Regulated Dealers (PDF)](/images/LicenceOne%20Guide%20for%20regulated%20dealers_20190516_V03Final.pdf)<br>
 [Notice for Customers (PDF)](/images/Notice%20for%20Customers%20-%20PSPM%20Act.pdf)<br>
 [Guidelines for Regulated Dealers (PDF)](/images/Guidelines%20for%20regulated%20dealers_20190430.pdf)<br>
