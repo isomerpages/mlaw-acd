@@ -18,7 +18,9 @@ collection_name: information-for-regulated-dealers
   
 * [Monetary Authority of Singapore ("**MAS**") website - Lists of Designated Persons](https://www.mas.gov.sg/regulation/anti-money-laundering/targeted-financial-sanctions/lists-of-designated-individuals-and-entities)
   
-* Suspicious Transaction Reporting Office ("**STRO**"), please select the following for more information regarding:
+* Suspicious Transaction Reporting Office ("**STRO**")
+
+Please select the following for more information regarding:
   * [STRO](https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office)
   * [Cash Transaction Report ("**CTR**")](https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office/cash-transaction-reporting#content)
   * [Suspicious Transaction Report ("**STR**")](https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office/suspicious-transaction-reporting#content)
