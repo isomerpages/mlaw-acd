@@ -7,7 +7,7 @@ collection_name: information-for-regulated-dealers
 ---
 ### Who is required to register?
 You are required to register with the Registrar of Regulated Dealers if you are a regulated dealer i.e. you carry on a business of regulated dealing in precious stones, precious metals and/or precious products ("**PSPMs**"), or as an intermediary for regulated dealing in PSPMs. <br><br>
-Examples of regulated dealers who are required to register include, but are not limited to jewellers, bullion traders, jewellery wholesalers, jewellery retailers, second-hand goods dealers, auction houses, and trading platforms. Take this [questionnaire](http://form.gov.sg/5cd3efbbd64f830010e00ea9) to help you ascertain whether you are a regulated dealer.
+Examples of regulated dealers who are required to register include, but are not limited to jewellers, bullion traders, jewellery wholesalers, jewellery retailers, second-hand goods dealers, auction houses, and trading platforms. Take this [questionnaire](https://form.gov.sg/5cd3efbbd64f830010e00ea9) to help you ascertain whether you are a regulated dealer.
 
 Please refer to the [PSPM Act](https://sso.agc.gov.sg/Act/PSPMPMLTFA2019) for the official definitions. If you are not certain whether you are required to register, you can seek legal advice.
 
@@ -19,7 +19,9 @@ You should submit your registration application **now**, to ensure you receive y
 **There are further benefits to register now:**
 * **You will be alerted and invited to training and workshops** to help you comply with regulatory requirements.<sup>2</sup>
 * **There is no disadvantage to registering now.** Even if you register today, the validity of your Certificate of Registration will only start from **9 October 2019**.
-* There will be a [List of Registered Dealers](https://acd.mlaw.gov.sg/list-of-registered-dealers/) on our website. The public may ascertain whether you are a registered dealer, based on this list.
+<br>
+
+There will be a [List of Registered Dealers](https://acd.mlaw.gov.sg/list-of-registered-dealers/) on our website. The public may ascertain whether you are a registered dealer, based on this list.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
