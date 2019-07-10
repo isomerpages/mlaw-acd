@@ -61,7 +61,7 @@ Under this regime, the requirements that apply to regulated dealers include, but
   * File your STR via [STRO Online Notices and Reporting Platform ("SONAR")](https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office/suspicious-transaction-reporting#content);
 * File Cash Transaction Reports ("**CTR**") with STRO and ACD for cash transactions exceeding S$20,000. 
   * File your CTR via [SONAR](https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office/cash-transaction-reporting#content) using CTR form (Form NP 759);
-  * For transactions relating to cash redemption of asset-backed tokens and cash purchases of PSPM for the purposes of resale, **you will be required to use a revised CTR form (Form NP 784) with effect from 10 April 2019 for paper filing**.
+  * For transactions relating to asset-backed tokens and cash purchases of PSPM for the purposes of resale, **you will be required to use a revised CTR form (Form NP 784) with effect from 10 April 2019 for paper filing**.
   * For more information, please refer to [STRO's website](https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office/cash-transaction-reporting).
 * Keep records of the following documents/information for a period of 5 years or such other prescribed period:
   * transactions where customer due diligence was conducted;
