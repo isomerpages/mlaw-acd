@@ -55,7 +55,7 @@ Asset-backed tokens **do not include** securities or derivative contracts within
 #### What do regulated dealers have to do?
 Under this regime, the requirements that apply to regulated dealers include, but are not limited to, the following:
 
-* Register with the Registrar of Regulated Dealers. [Register **now**!](/registration/)
+* Register with the Registrar of Regulated Dealers. [Register now!](/registration/)
 * Perform customer due diligence measures under circumstances that are prescribed by the PSPM Act;
 * File Suspicious Transaction Reports ("**STR**") with the Suspicious Transaction Reporting Office ("**STRO**") and the Anti-Money Laundering / Countering the Financing of Terrorism Division ("**ACD**") where there is suspicion of ML/TF. File your STR via [STRO Online Notices and Reporting Platform ("SONAR")](https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office/suspicious-transaction-reporting#content);
 * File Cash Transaction Reports ("**CTR**") with STRO and ACD for cash transactions exceeding S$20,000. File your CTR via [SONAR](https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office/cash-transaction-reporting#content) using CTR form (Form NP 759);
