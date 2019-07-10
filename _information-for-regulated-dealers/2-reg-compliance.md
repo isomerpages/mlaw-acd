@@ -64,8 +64,8 @@ Under this regime, the requirements that apply to regulated dealers include, but
   * For transactions relating to asset-backed tokens and cash purchases of PSPM for the purposes of resale, **you will be required to use a revised CTR form (Form NP 784) with effect from 10 April 2019 for paper filing**.
   * For more information, please refer to [STRO's website](https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office/cash-transaction-reporting).
 * Keep records of the following documents/information for a period of 5 years or such other prescribed period:
-  * transactions where customer due diligence was conducted;
-  * information obtained from customer due diligence; and
+  * Transactions where customer due diligence was conducted;
+  * Information obtained from customer due diligence; and
   * CTRs that have been filed. 
 * Conduct risk assessments to determine the ML/TF risk posed by its customers and transactions; and
 * Put in place internal policies, procedures and controls to mitigate the specific ML/TF risks identified by their risk assessments.
