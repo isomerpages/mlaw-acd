@@ -10,7 +10,7 @@ Ministry of Law held the onboarding conference for the regulated dealers in the 
 <br><a href="/images/6MayOnboardingConferenceEDM_Finalv1.pdf"><img src="/images/6MayOnboardingConferenceEDM_Finalv1.png"></a>
 You may download the information packs and the conference presentation slides below:
 
-[Conference Presentation Slides (PDF)](/images/Onboarding%20Conference%20Slides%2020190619_V01Final.pdf)<br>
+[Conference Presentation Slides (PDF)](/images/OBC_Slides_20190710.pdf)<br>
 [Registration Brochure (PDF)](/images/Registration brochure%20for%20regulated dealers_20190408_V01Final.pdf)<br>
 [Registration Leaflet (PDF)](/images/Registration Leaflet_20190701_V04Final.pdf)<br>
 [LicenceOne Guide for Regulated Dealers (PDF)](/images/LicenceOne%20Guide%20for%20regulated%20dealers_20190516_V03Final.pdf)<br>
