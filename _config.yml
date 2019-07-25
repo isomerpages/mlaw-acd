@@ -7,7 +7,7 @@ url: "https://acd.mlaw.gov.sg" # the base hostname & protocol for your site, e.g
 
 # Build settings
 markdown: kramdown
-remote_theme: isomerpages/isomerpages-template
+remote_theme: isomerpages/isomerpages-template@staging
 safe: false
 
 plugins:
