@@ -7,3 +7,8 @@ collection_name: information-for-regulated-dealers
 ---
 
 A list of registered dealers will be published in due course.
+
+#Call to Action Button
+button:
+  - text: Register Now!
+    url: /registration/
