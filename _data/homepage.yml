@@ -38,13 +38,3 @@ resources-title: Events for Regulated Dealers
 resources-subtitle: Latest Events
 resources-more-button: More Information
 resources-more-button-url: /events/
-
-#Call to Action Button
-button:
-  - text: Subscribe to us!
-    url: /registration/
-    
-# Call to Action Dropdown
-i-want-to:
-  - title: register
-    url: /www.google.com
