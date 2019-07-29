@@ -11,7 +11,7 @@ Ministry of Law held the onboarding conference for the regulated dealers in the 
 You may download the information packs and the conference presentation slides below:
 
 [Conference Presentation Slides (PDF)](/images/OBC_Slides_20190710.pdf)<br>
-[Registration Brochure (PDF)](/images/Registration brochure%20for%20regulated dealers_20190408_V01Final.pdf)<br>
+[Registration Brochure (PDF)](/images/Registration%20brochure%20for%20Regulated%20Dealers.pdf)<br>
 [Registration Leaflet (PDF)](/images/Registration Leaflet_20190701_V04Final.pdf)<br>
 [LicenceOne Guide for Regulated Dealers (PDF)](/images/LicenceOne%20Guide%20for%20regulated%20dealers_20190516_V03Final.pdf)<br>
 [Notice for Customers (PDF)](/images/Notice%20for%20Customers%20-%20PSPM%20Act.pdf)<br>

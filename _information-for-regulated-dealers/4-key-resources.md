@@ -27,6 +27,8 @@ collection_name: information-for-regulated-dealers
 
 #### AML/CFT Resources
 
+* [Financial Action Task Force Guidance on the Risk-Based Approach for Dealers in Precious Metals and Stones](https://www.fatf-gafi.org/documents/documents/fatfguidanceontherisk-basedapproachfordealersinpreciousmetalsandstones.html)
+
 * [Financial Action Task Force - 40 Recommendations](http://www.fatf-gafi.org/publications/fatfrecommendations/documents/fatf-recommendations.html)
 
 * [Financial Action Task Force – February 2019 Public Statement: Jurisdictions which FATF has called for countermeasures or enhanced customer due diligence against](https://www.fatf-gafi.org/publications/high-risk-and-other-monitored-jurisdictions/documents/public-statement-february-2019.html)
