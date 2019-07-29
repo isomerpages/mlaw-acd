@@ -29,4 +29,4 @@ Ministry of Home Affairs publishes [list](https://www.mha.gov.sg/inter-ministry-
 
 #### [5. Monetary Authority of Singapore's ("**MAS**") website - Financial Sanctions List](https://www.mas.gov.sg/regulation/anti-money-laundering/targeted-financial-sanctions/lists-of-designated-individuals-and-entities)
 
-MAS publishes [list](https://www.mas.gov.sg/regulation/anti-money-laundering/targeted-financial-sanctions/lists-of-designated-individuals-and-entities) of individuals and entities designated under the United Nations Act and the Terrorism (Suppresion of Financing) Act. Regulated dealers are required to screen their customers against the lists before engaging in any business or commercial activity with them.<br><br>
+MAS publishes [list](https://www.mas.gov.sg/regulation/anti-money-laundering/targeted-financial-sanctions/lists-of-designated-individuals-and-entities) of individuals and entities designated under the United Nations Act and the Terrorism (Suppression of Financing) Act. Regulated dealers are required to screen their customers against the lists before engaging in any business or commercial activity with them.<br><br>
