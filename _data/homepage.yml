@@ -24,6 +24,10 @@ button:
     url: /list-of-registered-dealers/
     
 key-highlights:
+ - title: Subscribe
+    description: Latest updates on Act, Regulations and Guidelines
+    url: /www.google.com/
+    external: true
   - title: Register Now!
     description: Regulated dealers to register with MinLaw
     url: /registration/
