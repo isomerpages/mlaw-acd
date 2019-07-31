@@ -36,7 +36,7 @@ key-highlights:
   - title: Subscribe!
     description: Receive latest updates on Act, Regulations and Guidelines
     url: wwww.google.com
-    external: false
+    external: true
     
 resources-title: Events for Regulated Dealers
 resources-subtitle: Latest Events
