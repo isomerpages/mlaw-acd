@@ -20,8 +20,8 @@ button:
   - text: Register Now!
     url: /registration/
     
-  - text: Subscribe
-    url: /registration/
+  - text: Subscribe!
+    url: /list of registered dealers/
     
 key-highlights:
   - title: Register Now!
