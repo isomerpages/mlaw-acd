@@ -19,6 +19,7 @@ hero-banner: /images/bullion1.jpg
 button:
   - text: Register Now!
     url: /registration/
+    
   - text: Subscribe
     url: /registration/
     
