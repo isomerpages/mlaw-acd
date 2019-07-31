@@ -21,10 +21,6 @@ button:
     url: /registration/
     
 key-highlights:
-  - title: Subscribe
-    description: Receive latest updates on Act, Regulations and Guidelines
-    url: /events/past-events/
-    external: false
   - title: Register Now!
     description: Regulated dealers to register with MinLaw
     url: /registration/
@@ -37,7 +33,7 @@ key-highlights:
     description: Information packs from our conferences
     url: /events/past-events/
     external: false
-  - title: Subscribe Now!
+  - title: Subscribe!
     description: Receive latest updates on Act, Regulations and Guidelines
     url: /events/past-events/
     external: false
