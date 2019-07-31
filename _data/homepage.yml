@@ -20,6 +20,10 @@ button:
   - text: Register Now!
     url: /registration/
     
+button:
+  - text: Subscribe
+    url: /registration/
+    
 key-highlights:
   - title: Register Now!
     description: Regulated dealers to register with MinLaw
