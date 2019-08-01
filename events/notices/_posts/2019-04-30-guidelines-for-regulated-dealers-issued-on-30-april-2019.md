@@ -9,6 +9,4 @@ The Guidelines for Regulated Dealers in the Precious Stones and Precious Metals 
 
 The Guidelines are meant to help regulated dealers understand the regulatory requirements under the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act  2019 and Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations. However, regulated dealers remain responsible for ensuring that their AML/CFT measures are appropriately designed for their business and commensurate with their ML/TF risk exposure.
 
-You may refer to the Guidelines and other materials under the [Guidance Materials section](/guidance-materials/).
-
-The Guidelines are available in PDF format [here](/images/Guidelines%20for%20regulated%20dealers_20190430.pdf).
+You may refer to the [Guidelines](/images/Guidelines%20for%20regulated%20dealers_20190430.pdf) and revelant materials under the [Guidance Materials section](/guidance-materials/).
