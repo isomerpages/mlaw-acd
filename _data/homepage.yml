@@ -33,10 +33,6 @@ key-highlights:
     description: Information packs from our conferences
     url: /events/past-events/
     external: false
-  - title: Subscribe!
-    description: Receive latest updates on Act, Regulations and Guidelines
-    url: https://www.google.com
-    external: true
     
 resources-title: Events for Regulated Dealers
 resources-subtitle: Latest Events
