@@ -35,6 +35,9 @@ feedback_form_url: "https://www.mlaw.gov.sg/eservices/enquiry/"
 faq_url: "https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx"
 faq_url_external: true
 
+# Subscribe
+subscribe_url: "www.google.com"
+
 # Custom CSS file path
 custom_css_path: "/misc/custom.css"
 custom_print_css_path: "/assets/css/print.css"
