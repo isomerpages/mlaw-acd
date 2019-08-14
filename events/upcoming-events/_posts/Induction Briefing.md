@@ -1,3 +1,10 @@
+---
+layout: resources-alt
+title: Upcoming Events
+permalink: /events/upcoming-events/
+breadcrumb: Upcoming Events
+---
+
 The Anti-Money Laundering/Countering the Financing of Terrorism Division ("**ACD**") of the Ministry of Law will be organising an induction briefing for the registered dealers in the precious stones and precious metals dealers sector on **9 September 2019** (Mon). Details as follow:
 <br>
 <table>
