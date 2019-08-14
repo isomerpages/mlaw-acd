@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Induction Briefing (9 September 2019)
+title: Induction Briefing
 date: 2019-08-14
-permalink: /events/upcoming-events/Induction-Briefing-09-Sep-2019/
+permalink: /events/upcoming-events/Induction-Briefing/
 ---
 The Anti-Money Laundering/Countering the Financing of Terrorism Division ("**ACD**") of the Ministry of Law will be organising an induction briefing for the registered dealers in the precious stones and precious metals dealers sector. Each registered dealer may send up to 2 representatives. <br>
 
