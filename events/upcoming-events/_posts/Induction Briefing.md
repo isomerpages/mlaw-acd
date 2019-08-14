@@ -2,9 +2,6 @@
 layout: post
 title: Induction Briefing by ACD (9 September 2019)
 date: 2019-08-14
-permalink: /events/upcoming-events/Onboarding-Conference-by-ACD-(19-June-2019)/
----
-<a href="/images/JuneOBC.pdf"><img src="/images/JuneOBC.png"></a><br>
 
 The Anti-Money Laundering/Countering the Financing of Terrorism Division ("**ACD**") of the Ministry of Law will be conducting an induction briefing for registered dealers on **9 September 2019** (Mon). Details as follow:
 <br>
