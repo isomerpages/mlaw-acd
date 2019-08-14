@@ -12,7 +12,7 @@ The Anti-Money Laundering/Countering the Financing of Terrorism Division ("**ACD
 </table>
 <br>
 
-Please complete the following form to [sign up])https://go.gov.sg/inductionbriefing). Each registered dealer may send up to 2 representatives.
+Please complete the following form to [sign up](https://go.gov.sg/inductionbriefing). Each registered dealer may send up to 2 representatives.
 
 The aim of the briefing is to provide an overview of the Precious Stones and Precious Metals (PSPM) Act 2019. 
 
