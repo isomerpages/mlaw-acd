@@ -1,4 +1,4 @@
-The Anti-Money Laundering/Countering the Financing of Terrorism Division ("**ACD**") of the Ministry of Law will be conducting an induction briefing for registered dealers on **9 September 2019** (Mon). Details as follow:
+The Anti-Money Laundering/Countering the Financing of Terrorism Division ("**ACD**") of the Ministry of Law will be organising an induction briefing for the registered dealers in the precious stones and precious metals dealers sector on **9 September 2019** (Mon). Details as follow:
 <br>
 <table>
   <tr>
@@ -12,7 +12,7 @@ The Anti-Money Laundering/Countering the Financing of Terrorism Division ("**ACD
 </table>
 <br>
 
-The Induction Briefing is organized for the registered dealers in the precious stones and precious metals dealers sector. Please complete the following form to sign up. Each registered dealer may send up to 2 representatives.
+Please complete the following form to sign up[https://go.gov.sg/inductionbriefing]. Each registered dealer may send up to 2 representatives.
 
 The aim of the briefing is to provide an overview of the Precious Stones and Precious Metals (PSPM) Act 2019. 
 
