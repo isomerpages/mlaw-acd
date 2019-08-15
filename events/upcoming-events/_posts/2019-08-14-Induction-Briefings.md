@@ -8,6 +8,6 @@ The Anti-Money Laundering/Countering the Financing of Terrorism Division ("**ACD
 
 The aim of the briefing is to provide an overview of the Precious Stones and Precious Metals Act 2019 ("**PSPM Act**").
 
-An invitation email from ACD will be sent to registered dealers to sign up for the induction briefing. Registered dealers may refer to the ["**FAQs**"](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx){:target="_blank"} under the Precious Stones and Precious Metals Dealers section for Frequenctly Asked Questions relating to the regulatory regime.
+An invitation email from ACD will be sent to registered dealers to sign up for the induction briefing. Registered dealers may refer to the ["**FAQs**"](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx){:target="_blank"} under the Precious Stones and Precious Metals Dealers section for Frequently Asked Questions relating to the regulatory regime.
 
 For further queries, please click [here](https://www.mlaw.gov.sg/eservices/enquiry/){:target="_blank"}.
