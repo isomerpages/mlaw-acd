@@ -16,4 +16,4 @@ Please note that each registered dealer may send up to 2 representaives.
 
 We hope to see you there!
 
-For further queries, please click [here](www.mlaw.gov.sg/eservices/enquiry/OnlineEquiry.aspx) to submit a new enquiry.
+For further queries, please click [here](https://www.mlaw.gov.sg/eservices/enquiry/) to submit a new enquiry.
