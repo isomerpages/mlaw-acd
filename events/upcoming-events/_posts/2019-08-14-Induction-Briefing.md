@@ -4,22 +4,16 @@ title: Induction Briefing
 date: 2019-08-14
 permalink: /events/upcoming-events/Induction-Briefing/
 ---
-The Anti-Money Laundering/Countering the Financing of Terrorism Division ("**ACD**") of the Ministry of Law will be organising an induction briefing for the registered dealers in the precious stones and precious metals dealers sector. Each registered dealer may send up to 2 representatives. <br>
+The Anti-Money Laundering/Countering the Financing of Terrorism Division ("**ACD**") of the Ministry of Law will be organising an induction briefing for the registered dealers in the precious stones and precious metals dealers sector in the upcoming months.
 
-The aim of the briefing is to provide an overview of the Precious Stones and Precious Metals (PSPM) Act 2019. <br>
+The aim of the briefing is to provide an overview of the Precious Stones and Precious Metals (PSPM) Act 2019.
 
-Details as follow:
-<br>
-<table>
-  <tr>
-    <th>Date &amp; Time</th>
-    <th>Venue</th>
-  </tr>
-  <tr>
-    <td>9 September 2019 (Mon)<br>9.30am - 11.30am</td>
-    <td>MND Auditorium,<br>9 Maxwell Road, <br>MND Building, <br>Annexe A,<br>Singapore 069112</td>
-  </tr>
-</table>
-<br>
+An invitation email from ACD will be sent to registered dealers to register.
 
-Please sign up [here](https://go.gov.sg/inductionbriefing) by 01 September 2019. You will receive the confirmation of the sign up via email after 05 September 2019.
+Successful registrants will recieve a confirmation email with more details on the briefing.
+
+Please note that each registered dealer may send up to 2 representaives.
+
+We hope to see you there!
+
+For further queries, please click [here](www.mlaw.gov.sg/eservices/enquiry/OnlineEquiry.aspx) to submit a new enquiry.
