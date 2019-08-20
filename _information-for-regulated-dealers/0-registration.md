@@ -41,7 +41,7 @@ There will be a [List of Registered Dealers](https://acd.mlaw.gov.sg/list-of-reg
 </table>
 
 ### The registration process
-<a href="/images/Overview%20of%20registration%20process.pdf"><img src="/images/Overview%20of%20registration%20process.PNG"></a> <br>
+<a href="/images/Overview%20of%20Reg%20Process.pdf"><img src="/images/Overview%20of%20Reg%20Process.png"></a> <br>
 
 ### Fees and period of registration
 <b>Fees</b><br>
