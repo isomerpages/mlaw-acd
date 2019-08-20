@@ -12,7 +12,8 @@ Examples of regulated dealers who are required to register include, but are not 
 Please refer to the [PSPM Act](https://sso.agc.gov.sg/Act/PSPMPMLTFA2019) for the official definitions. If you are not certain whether you are required to register, you can seek legal advice.
 
 ### Why register now?
-If you are a regulated dealer <u>existing before 10 April 2019</u> and intend to continue a business as a regulated dealer, you should submit your application to register <u><b>immediately</b></u>. **After 9 October 2019, it will be an offence if you continue to act as or hold out to be a regulated dealer without being registered or exempted.**
+If you are a regulated dealer <u>existing before 10 April 2019</u> and intend to continue a business as a regulated dealer, you should submit your application to register <u>immediately</u>. 
+> **After 9 October 2019, it will be an offence if you continue to act as or hold out to be a regulated dealer without being registered or exempted.**
 
 If you are a <u>new</u> regulated dealer, you must apply for registration <b><u>before</u> you commence any regulated dealing.</b>
 
