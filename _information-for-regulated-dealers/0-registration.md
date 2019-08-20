@@ -13,7 +13,7 @@ Please refer to the [PSPM Act](https://sso.agc.gov.sg/Act/PSPMPMLTFA2019) for th
 
 ### Why register now?
 If you are a regulated dealer <u>existing before 10 April 2019</u> and intend to continue a business as a regulated dealer, you should submit your application to register <u>immediately</u>. 
-> **After 9 October 2019, it will be an offence if you continue to act as or hold out to be a regulated dealer without being registered or exempted.**
+>>> **After 9 October 2019, it will be an offence if you continue to act as or hold out to be a regulated dealer without being registered or exempted.**
 
 If you are a <u>new</u> regulated dealer, you must apply for registration <b><u>before</u> you commence any regulated dealing.</b>
 
