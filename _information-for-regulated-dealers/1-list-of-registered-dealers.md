@@ -8,12 +8,10 @@ collection_name: information-for-regulated-dealers
 
 Click [here] to view the complete list of registered dealers* in Singapore as at DD MMM YYYY.
 
-Note:
-*Registered dealers are regulated by the Registrar of Regulated Dealers for compliance with measures to prevent regulated dealing from being used to facilitate money laundering or terrorism financing.
-
-*If you are a dealer existing before 10 April 2019, you have a transition period of 6 months i.e. 9 October 2019 to receive your Certificate of Registration.
-
-*If you have received In-Principle Approval but your organisation name does not appear on the list, you are required to pay the prescribed registration fees. Please log in to [LicenceOne portal] to make your make of the registration fees.
+Note:<br>
+* Registered dealers are regulated by the Registrar of Regulated Dealers for compliance with measures to prevent regulated dealing from being used to facilitate money laundering or terrorism financing.
+* If you are a dealer existing before 10 April 2019, you have a transition period of 6 months i.e. 9 October 2019 to receive your Certificate of Registration.
+* If you have received In-Principle Approval but your organisation name does not appear on the list, you are required to pay the prescribed registration fees. Please log in to [LicenceOne portal] to make your make of the registration fees.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
