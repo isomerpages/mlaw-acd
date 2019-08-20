@@ -12,11 +12,11 @@ Click [here] to view the complete list of registered dealers* in Singapore as at
 .tg  {border-collapse:collapse;border-spacing:0;border:none;margin:0px auto;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
-.tg .tg-pzib{font-size:15px;border-color:#000000;text-align:left;vertical-align:middle}
+.tg .tg-grz4{font-size:15px;background-color:#ffffff;color:#333333;border-color:#000000;text-align:left;vertical-align:middle}
 @media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;margin: auto 0px;}}</style>
 <div class="tg-wrap"><table class="tg">
   <tr>
-    <td class="tg-pzib"><span style="font-weight:bold">Note:</span><br> • Registered dealers are regulated by the Registrar of Regulated Dealers for compliance with measures to prevent regulated dealing from being used to facilitate money laundering or terrorism financing.<br> • If you are a dealer existing before 10 April 2019, you have a transition period of 6 months i.e. 9 October 2019 to receive your Certificate of Registration.<br> • If you have received <span style="font-weight:bold">In-Principle Approval</span> but your organisation name does not appear on the list, you are required to pay the prescribed registration fees. Please log in to <a href="https://licence1.business.gov.sg/web/frontier/home">LicenceOne portal</a> to make your make of the registration fees.<br></td>
+    <td class="tg-grz4"><span style="font-weight:bold">Note:</span><br> • Registered dealers are regulated by the Registrar of Regulated Dealers for compliance with measures to prevent regulated dealing from being used to facilitate money laundering or terrorism financing.<br> • If you are a dealer existing before 10 April 2019, you have a transition period of 6 months i.e. 9 October 2019 to receive your Certificate of Registration.<br> • If you have received <span style="font-weight:bold">In-Principle Approval</span> but your organisation name does not appear on the list, you are required to pay the prescribed registration fees. Please log in to <a href="https://licence1.business.gov.sg/web/frontier/home">LicenceOne portal</a> to make your make of the registration fees.<br></td>
   </tr>
 </table></div>
 <br>
