@@ -12,11 +12,10 @@ Examples of regulated dealers who are required to register include, but are not 
 Please refer to the [PSPM Act](https://sso.agc.gov.sg/Act/PSPMPMLTFA2019) for the official definitions. If you are not certain whether you are required to register, you can seek legal advice.
 
 ### Why register now?
-* If you are a regulated dealer existing before 10 April 2019 and intend to continue a business as a regulated dealer, you shuld submit your application to register <u><b>immediately</b></u>. **After 9 October 2019, it will be an offence if you continue to act as or hold out to be a regulated dealer without being registered or exempted.**
-
-If you are a dealer existing before 10 April 2019 and act as a regulated dealer (or hold out as one) after **9 October 2019** without being registered or exempted, you may face criminal penalties of up to S$75,000 in fine and/or up to 3 years’ imprisonment.<br>
-
-You should submit your registration application **now**, to ensure you receive your Certificate of Registration by 9 October 2019. This is to ensure sufficient processing time.<sup>1</sup>
+* <u>If you are a regulated dealer existing before 10 April 2019</u> and intend to continue a business as a regulated dealer, you should submit your application to register <u><b>immediately</b></u>. **After 9 October 2019, it will be an offence if you continue to act as or hold out to be a regulated dealer without being registered or exempted.**
+* <u>If you are a new regulated dealer, you must apply for registration <b><u>before</u> you commence any regulated dealing.</b>
+* <b>Enforcement actions will be conducted to detect unregistered dealers.</b> Any person who acts as or holds out to be a regulated dealer without being registered or exempted, may face criminal penalties of up to S$75,000 in fine and/or up to 3 years' imprisonment.
+* It takes around 6 weeks<sup>1</sup> to process an application to register as a regulated dealer. It may take longer if additional information is required. You are therefore advised to submit an application <u>immediately</u>, especially if you are an existing regulated dealer and intend to continue a business as a regulated dealer.
 
 **There are further benefits to register now:**
 * **You will be alerted and invited to training and workshops** to help you comply with regulatory requirements.<sup>2</sup>
