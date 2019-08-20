@@ -5,9 +5,9 @@ permalink: /guidance-materials/
 breadcrumb: Guidance Materials
 collection_name: information-for-regulated-dealers
 ---
-#### [1. LicenceOne Guide for Precious Stones and Precious Metals Dealers ("**LicenceOne Guide**")](/images/LicenceOne%20Guide%20for%20regulated%20dealers_20190516_V03Final.pdf)
+#### [1. LicenceOne Guide for Precious Stones and Precious Metals Dealers ("**LicenceOne Guide**")](/images/LicenceOne%20Guide%20for%20regulated%20dealers_20190820_V04Final.pdf)
 <a id="guidance"></a>
-The [LicenceOne Guide](/images/LicenceOne%20Guide%20for%20regulated%20dealers_20190516_V03Final.pdf) gives regulated dealers a step-by-step walkthrough of the application process in LicenceOne. Regulated dealers will be shown how to login, which account to login with, and what information they need to register.<br><br> 
+The [LicenceOne Guide](/images/LicenceOne%20Guide%20for%20regulated%20dealers_20190820_V04Final.pdf) gives regulated dealers a step-by-step walkthrough of the application process in LicenceOne. Regulated dealers will be shown how to login, which account to login with, and what information they need to register.<br><br> 
 
 
 #### [2. Guidelines for Regulated Dealers in the Precious Stones and Precious Metals Dealers Sector on Anti-Money Laundering/Countering the Financing of Terrorism ("**Guidelines**")](/images/Guidelines%20for%20regulated%20dealers_20190430.pdf)
