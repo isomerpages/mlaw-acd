@@ -35,7 +35,7 @@ It takes around 6 weeks to process an application to register as a regulated dea
 * **There is no disadvantage to registering now.** Even if you register today, the validity of your Certificate of Registration will only start after **9 October 2019**.<sup>2</sup>
 <br>
 
-The public may assess the [List of Registered Dealers](https://acd.mlaw.gov.sg/list-of-registered-dealers/).
+The public may access the [List of Registered Dealers](https://acd.mlaw.gov.sg/list-of-registered-dealers/).
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
