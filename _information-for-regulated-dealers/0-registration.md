@@ -10,7 +10,6 @@ You are required to register with the Registrar of Regulated Dealers if you are 
 Examples of regulated dealers who are required to register include, but are not limited to jewellers, bullion traders, jewellery wholesalers, jewellery retailers, second-hand goods dealers, auction houses, and trading platforms. Take this [questionnaire](https://form.gov.sg/5cd3efbbd64f830010e00ea9) to help you ascertain whether you are a regulated dealer.
 
 Please refer to the [PSPM Act](https://sso.agc.gov.sg/Act/PSPMPMLTFA2019) for the official definitions. If you are not certain whether you are required to register, you can seek legal advice.
-
 ### Why register now?
 If you are a regulated dealer <u>existing before 10 April 2019</u> and intend to continue a business as a regulated dealer, you should submit your application to register <u>immediately</u>. 
 <style type="text/css">
@@ -48,11 +47,8 @@ The public may assess the [List of Registered Dealers](https://acd.mlaw.gov.sg/l
     <th class="tg-xldj"><span style="font-weight:bold">Note:</span><br><span style="font-style:inherit"><sup>1</sup> The regulatory requirements in Part 3 of the PSPM Act have been in effect from 10 April 2019.</span><br><span style="font-style:inherit"><sup>2</sup> Applicable for regulated dealers existing before 10 April 2019.</span></th>
   </tr>
 </table>
-<br>
-
 ### The registration process
 <a href="/images/Overview%20of%20Reg%20Process.pdf"><img src="/images/Overview%20of%20Reg%20Process.png"></a> <br>
-
 ### Fees and period of registration
 <b>Fees</b><br>
 Regulated dealers must pay an application fee of S$140 for each application to register with the Registrar. <br><br>
@@ -123,7 +119,6 @@ ABC Pte Ltd must pay a total of <b>S$1,940</b>:<br>
     </td>
   </tr>
 </table>
-
 ### Register now! 
 You may apply to be registered as a regulated dealer using the [LicenceOne portal](https://licence1.business.gov.sg/web/frontier/home). You may refer to the [LicenceOne Guide for Regulated Dealers](/images/LicenceOne%20Guide%20for%20regulated%20dealers_20190820_V04Final.pdf) for a step-by-step guide to the application process.
 <style type="text/css">
@@ -160,7 +155,6 @@ You may apply to be registered as a regulated dealer using the [LicenceOne porta
     <td class="tg-0pky" colspan="3"><sup>1</sup>Your CorpPass Administrator should also create CorpPass User accounts for your LicenceOne users and select the entity’s e-Services “Ministry of Trade’s LicenceOne” during account creation.</td>
   </tr>
 </table>
-
 ### Information you need for registration
 
 <table>
@@ -185,11 +179,8 @@ You may apply to be registered as a regulated dealer using the [LicenceOne porta
     <td>1. Description of place of business<br>2. Address<br>3. Contact No.<br>4. Name of Outlet Manager<br>5. NRIC/Passport No./FIN No.<br>6. Contact No. of Outlet Manager</td>
   </tr>
 </table>
-<br>
-
 ### I need help with registering
 <a href="/images/Helplines.pdf"><img src="/images/Helplines.png"></a>
-
 * If you face any technical issues when using LicenceOne, you may wish to refer to the [LicenceOne webpage](https://licence1.business.gov.sg/web/frontier/help/apply-for-new-licence) or contact the [LicenceOne Helpdesk](https://licence1.business.gov.sg/web/frontier/contact-us).
 * If you are not sure how to complete the application form, you may wish to refer to our [LicenceOne Guide for Regulated Dealers (Step-by-Step with Screenshots)](/images/LicenceOne%20Guide%20for%20regulated%20dealers_20190820_V04Final.pdf) or [our FAQs for Precious Stones and Precious Metals Dealers](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx).
 
