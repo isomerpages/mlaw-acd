@@ -26,7 +26,7 @@ If you are a regulated dealer <u>existing before 10 April 2019</u> and intend to
 </table></div>
 If you are a <u>new</u> regulated dealer, you must apply for registration <u>before</u> you commence any regulated dealing.
 
-<b>Enforcement actions will be conducted to detect unregistered dealers.</b> Any person who acts as or holds out to be a regulated dealer without being registered or exempted, may face criminal penalties of up to S$75,000 in fine and/or up to 3 years' imprisonment.
+**Enforcement actions will be conducted to detect unregistered dealers.** Any person who acts as or holds out to be a regulated dealer without being registered or exempted, may face criminal penalties of up to S$75,000 in fine and/or up to 3 years' imprisonment.
 
 It takes around 6 weeks to process an application to register as a regulated dealer. It may take longer if additional information is required. You are therefore advised to submit an application <u>immediately</u>, especially if you are an existing regulated dealer and intend to continue a business as a regulated dealer.
 
