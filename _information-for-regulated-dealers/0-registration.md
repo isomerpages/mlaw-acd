@@ -13,7 +13,18 @@ Please refer to the [PSPM Act](https://sso.agc.gov.sg/Act/PSPMPMLTFA2019) for th
 
 ### Why register now?
 If you are a regulated dealer <u>existing before 10 April 2019</u> and intend to continue a business as a regulated dealer, you should submit your application to register <u>immediately</u>. 
-  > After 9 October 2019, it will be an offence if you continue to act as or hold out to be a regulated dealer without being registered or exempted.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;border:none;margin:0px auto;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 0px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 0px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
+.tg .tg-nxxb{font-size:22px;color:#b20820;border-color:inherit;text-align:left;vertical-align:top}
+@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;margin: auto 0px;}}</style>
+<div class="tg-wrap"><table class="tg">
+  <tr>
+    <td class="tg-nxxb"><span style="color:rgb(178, 8, 37)">After 9 October 2019, it will be an </span><span style="color:rgb(164, 9, 53)">offence</span><span style="color:rgb(178, 8, 37)"> if you continue to act as or hold out to be a regulated dealer without being registered or exempted.</span><br></td>
+  </tr>
+</table></div>
 
 If you are a <u>new</u> regulated dealer, you must apply for registration <u>before</u> you commence any regulated dealing.
 
