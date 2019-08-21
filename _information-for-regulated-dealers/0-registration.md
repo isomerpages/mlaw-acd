@@ -22,11 +22,11 @@ If you are a <u>new</u> regulated dealer, you must apply for registration <u>bef
 It takes around 6 weeks to process an application to register as a regulated dealer. It may take longer if additional information is required. You are therefore advised to submit an application <u>immediately</u>, especially if you are an existing regulated dealer and intend to continue a business as a regulated dealer.
 
 **There are further benefits to register now:**
-* **You will be alerted and invited to training and workshops** to help you comply with regulatory requirements.<sup>1</sup>
-* **There is no disadvantage to registering now.** Even if you register today, the validity of your Certificate of Registration will only start after **9 October 2019**.
+* **You will be alerted and invited to workshops** to help you comply with regulatory requirements.<sup>1</sup>
+* **There is no disadvantage to registering now.** Even if you register today, the validity of your Certificate of Registration will only start after **9 October 2019**.<sup>2</sup>
 <br>
 
-There will be a [List of Registered Dealers](https://acd.mlaw.gov.sg/list-of-registered-dealers/) on our website. The public may ascertain whether you are a registered dealer, based on this list.
+The public may assess the [List of Registered Dealers](https://acd.mlaw.gov.sg/list-of-registered-dealers/).
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -36,7 +36,7 @@ There will be a [List of Registered Dealers](https://acd.mlaw.gov.sg/list-of-reg
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-xldj"><span style="font-weight:bold">Note:</span><br><span style="font-style:inherit"><sup>1</sup> The regulatory requirements in Part 3 of the PSPM Act have been in effect from 10 April 2019.</span></th>
+    <th class="tg-xldj"><span style="font-weight:bold">Note:</span><br><span style="font-style:inherit"><sup>1</sup> The regulatory requirements in Part 3 of the PSPM Act have been in effect from 10 April 2019.<span style="font-style:inherit"><sup>2</sup> Applicable for regulated dealers existing before 10 April 2019.</span></th>
   </tr>
 </table>
 
@@ -176,7 +176,6 @@ You may apply to be registered as a regulated dealer using the [LicenceOne porta
   </tr>
 </table>
 <br>
-You may also refer to this [guide on the application process.](/images/LicenceOne%20Guide%20for%20regulated%20dealers_20190820_V04Final.pdf)
 
 ### I need help with registering
 <a href="/images/Helplines.pdf"><img src="/images/Helplines.png"></a>
