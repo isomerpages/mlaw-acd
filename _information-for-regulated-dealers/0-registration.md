@@ -45,9 +45,10 @@ The public may assess the [List of Registered Dealers](https://acd.mlaw.gov.sg/l
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-xldj"><span style="font-weight:bold">Note:</span><br><span style="font-style:inherit"><sup>1</sup> The regulatory requirements in Part 3 of the PSPM Act have been in effect from 10 April 2019.<span style="font-style:inherit"><sup>2</sup> Applicable for regulated dealers existing before 10 April 2019.</span></th>
+    <th class="tg-xldj"><span style="font-weight:bold">Note:</span><br><span style="font-style:inherit"><sup>1</sup> The regulatory requirements in Part 3 of the PSPM Act have been in effect from 10 April 2019.</span><br><span style="font-style:inherit"><sup>2</sup> Applicable for regulated dealers existing before 10 April 2019.</span></th>
   </tr>
 </table>
+<br>
 
 ### The registration process
 <a href="/images/Overview%20of%20Reg%20Process.pdf"><img src="/images/Overview%20of%20Reg%20Process.png"></a> <br>
