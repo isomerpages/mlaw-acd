@@ -14,7 +14,7 @@ Click [here](www.google.com) to view the complete list of registered dealers<sup
 
 * If you are a dealer existing before 10 April 2019, you have a transition period of 6 months up to i.e. 9 October 2019 to obtain your Certificate of Registration.
 
-* If you have received the **In-Principle Approval** email notification, you are reminded to pay the registration fees by the stipulated payment due date. Please log in to [LicenceOne portal](https://licence1.business.gov.sg/web/frontier/home) to make your make of the registration fees.
+* If you have received the **In-Principle Approval** email notification, you are reminded to pay the registration fees by the stipulated payment due date. Please log in to [LicenceOne portal](https://licence1.business.gov.sg/web/frontier/home) to make payment of the registration fees.
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border-width:1px;border-style:solid;border-color:black;margin:0px auto;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 0px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
