@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Onboarding Workshops
-date: 2019-08-15
+date: 2019-08-22
 permalink: /events/upcoming-events/Onboarding-Workshops/
 ---
 
