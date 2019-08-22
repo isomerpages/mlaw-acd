@@ -24,7 +24,7 @@ If you are a regulated dealer <u>existing before 10 April 2019</u> and intend to
     <td class="tg-2pdv"><span style="color:rgb(178, 8, 56)">After 9 October 2019, it will be an offence if you continue to act as or hold out to be a regulated dealer without being registered or exempted.</span><br></td>
   </tr>
 </table></div>
-If you are a <u>new</u> regulated dealer, you must apply for registration <u>before</u> you commence any regulated dealing.
+If you are a <u>new</u> regulated dealer, you must be registered <u>before</u> you commence any regulated dealing.
 
 **Enforcement actions will be conducted to detect unregistered dealers.** Any person who acts as or holds out to be a regulated dealer without being registered or exempted, may face criminal penalties of up to S$75,000 in fine and/or up to 3 years' imprisonment.
 
