@@ -12,16 +12,30 @@ Examples of regulated dealers who are required to register include, but are not 
 Please refer to the [PSPM Act](https://sso.agc.gov.sg/Act/PSPMPMLTFA2019) for the official definitions. If you are not certain whether you are required to register, you can seek legal advice.
 
 ### Why register now?
-If you are a dealer existing before 10 April 2019 and act as a regulated dealer (or hold out as one) after **9 October 2019** without being registered or exempted, you may face criminal penalties of up to S$75,000 in fines and/or up to 3 years’ imprisonment.<br>
+If you are a regulated dealer <u>existing before 10 April 2019</u> and intend to continue a business as a regulated dealer, you should submit your application to register <u>immediately</u>. 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;border:none;margin:0px auto;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 0px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 0px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
+.tg .tg-2pdv{font-size:24px;color:#b20820;border-color:inherit;text-align:left;vertical-align:top}
+@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;margin: auto 0px;}}</style>
+<div class="tg-wrap"><table class="tg">
+  <tr>
+    <td class="tg-2pdv"><span style="color:rgb(178, 8, 56)">After 9 October 2019, it will be an offence if you continue to act as or hold out to be a regulated dealer without being registered or exempted.</span><br></td>
+  </tr>
+</table></div>
+If you are a <u>new</u> regulated dealer, you must apply for registration <u>before</u> you commence any regulated dealing.
 
-You should submit your registration application **now**, to ensure you receive your Certificate of Registration by 9 October 2019. This is to ensure sufficient processing time.<sup>1</sup>
+**Enforcement actions will be conducted to detect unregistered dealers.** Any person who acts as or holds out to be a regulated dealer without being registered or exempted, may face criminal penalties of up to S$75,000 in fine and/or up to 3 years' imprisonment.
+
+It takes around 6 weeks to process an application to register as a regulated dealer. It may take longer if additional information is required. You are therefore advised to submit an application <u>immediately</u>, especially if you are an existing regulated dealer and intend to continue a business as a regulated dealer.
 
 **There are further benefits to register now:**
-* **You will be alerted and invited to training and workshops** to help you comply with regulatory requirements.<sup>2</sup>
-* **There is no disadvantage to registering now.** Even if you register today, the validity of your Certificate of Registration will only start after **9 October 2019**.
+* **You will be alerted and invited to workshops** to help you comply with regulatory requirements.<sup>1</sup>
+* **There is no disadvantage to registering now.** Even if you register today, the validity of your Certificate of Registration will only start after **9 October 2019**.<sup>2</sup>
 <br>
 
-There will be a [List of Registered Dealers](https://acd.mlaw.gov.sg/list-of-registered-dealers/) on our website. The public may ascertain whether you are a registered dealer, based on this list.
+The public may access the [List of Registered Dealers](https://acd.mlaw.gov.sg/list-of-registered-dealers/).
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -31,12 +45,12 @@ There will be a [List of Registered Dealers](https://acd.mlaw.gov.sg/list-of-reg
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-xldj"><span style="font-weight:bold">Note:</span><br><span style="font-style:inherit"><sup>1</sup> The Registrar may need to contact you to clarify particulars of your registration. Even if no clarifications are needed, you still need at least 7 days to review the conditions of registration that the Registrar may impose on you (if any) and to pay the registration fees, and 7 days for  the Registrar to prepare your registration certificate.</span><br><span style="font-style:inherit"><sup>2</sup> The regulatory requirements in Part 3 of the PSPM Act have been in effect from 10 April 2019.</span></th>
+    <th class="tg-xldj"><span style="font-weight:bold">Note:</span><br><span style="font-style:inherit"><sup>1</sup> The regulatory requirements in Part 3 of the PSPM Act have been in effect from 10 April 2019.</span><br><span style="font-style:inherit"><sup>2</sup> Applicable for regulated dealers existing before 10 April 2019.</span></th>
   </tr>
 </table>
 
 ### The registration process
-<a href="/images/Overview%20of%20registration%20process.pdf"><img src="/images/Overview%20of%20registration%20process.PNG"></a> <br>
+<a href="/images/Overview%20of%20Reg%20Process.pdf"><img src="/images/Overview%20of%20Reg%20Process.png"></a> <br>
 
 ### Fees and period of registration
 <b>Fees</b><br>
@@ -110,7 +124,7 @@ ABC Pte Ltd must pay a total of <b>S$1,940</b>:<br>
 </table>
 
 ### Register now! 
-You may apply to be registered as a regulated dealer using the [LicenceOne portal](https://licence1.business.gov.sg/web/frontier/home). You may refer to the [LicenceOne Guide for Regulated Dealers](/images/LicenceOne%20Guide%20for%20regulated%20dealers_20190516_V03Final.pdf) for a step-by-step guide to the application process.
+You may apply to be registered as a regulated dealer using the [LicenceOne portal](https://licence1.business.gov.sg/web/frontier/home). You may refer to the [LicenceOne Guide for Regulated Dealers](/images/LicenceOne%20Guide%20for%20regulated%20dealers_20190820_V04Final.pdf) for a step-by-step guide to the application process.
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
@@ -170,14 +184,11 @@ You may apply to be registered as a regulated dealer using the [LicenceOne porta
     <td>1. Description of place of business<br>2. Address<br>3. Contact No.<br>4. Name of Outlet Manager<br>5. NRIC/Passport No./FIN No.<br>6. Contact No. of Outlet Manager</td>
   </tr>
 </table>
-<br>
-You may also refer to this [guide on the application process.](/images/LicenceOne%20Regulated%20Dealer%20Guide.pdf)
 
 ### I need help with registering
 <a href="/images/Helplines.pdf"><img src="/images/Helplines.png"></a>
-
 * If you face any technical issues when using LicenceOne, you may wish to refer to the [LicenceOne webpage](https://licence1.business.gov.sg/web/frontier/help/apply-for-new-licence) or contact the [LicenceOne Helpdesk](https://licence1.business.gov.sg/web/frontier/contact-us).
-* If you are not sure how to complete the application form, you may wish to refer to our [LicenceOne Guide for Regulated Dealers (Step-by-Step with Screenshots)](/images/LicenceOne%20Guide%20for%20regulated%20dealers_20190516_V03Final.pdf) or [our FAQs for Precious Stones and Precious Metals Dealers](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx).
+* If you are not sure how to complete the application form, you may wish to refer to our [LicenceOne Guide for Regulated Dealers (Step-by-Step with Screenshots)](/images/LicenceOne%20Guide%20for%20regulated%20dealers_20190820_V04Final.pdf) or [our FAQs for Precious Stones and Precious Metals Dealers](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx).
 
 
 
