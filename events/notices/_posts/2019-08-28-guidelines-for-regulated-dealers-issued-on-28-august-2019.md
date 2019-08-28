@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Amendments to the Guidelines for Regulated Dealers with effect from 28 Aug 2019 (Version 1.1)
+title: Amendments to the Guidelines for Regulated Dealers with effect from 28 Aug 2019 (Ver 1.1)
 date: 2019-08-28
 permalink: /events/notices/guidelines-issued-28-august-2019
 ---
