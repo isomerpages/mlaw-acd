@@ -59,9 +59,8 @@ Under this regime, the requirements that apply to regulated dealers include, but
 * Perform customer due diligence measures under circumstances that are prescribed by the PSPM Act.
 * File [Suspicious Transaction Reports](https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office/suspicious-transaction-reporting#content) ("**STR**") with the Suspicious Transaction Reporting Office ("**STRO**") and the Anti-Money Laundering / Countering the Financing of Terrorism Division ("**ACD**") where there is suspicion of ML/TF. 
   * File your STR via [STRO Online Notices and Reporting Platform ("SONAR")](https://www.police.gov.sg/e-services/report/stro-online-notices-and-reporting-platform).
-* File [Cash Transaction Reports](https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office/cash-transaction-reporting) ("**CTR**") with STRO and ACD for cash transactions exceeding S$20,000. 
-  * File your CTR via [SONAR](https://www.police.gov.sg/e-services/report/stro-online-notices-and-reporting-platform) using CTR form (Form NP 759).
-  * For transactions relating to asset-backed tokens and cash purchases of PSPM for the purposes of resale, **you will be required to use a revised CTR form ([Form NP 784](/images/spf-commercial-affairs-dept-NP784-english 100419v3 (1).pdf) ) with effect from 10 April 2019 for paper filing**.
+* File [Cash Transaction Reports](https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office/cash-transaction-reporting) ("**CTR**") with STRO for cash transactions exceeding S$20,000.
+  * File your CTR via [SONAR](https://www.police.gov.sg/e-services/report/stro-online-notices-and-reporting-platform) using CTR form (Form NP 784).
 * Keep records of the following documents/information for a period of 5 years or such other prescribed period:
   * Transactions where customer due diligence was conducted;
   * Information obtained from customer due diligence; and
