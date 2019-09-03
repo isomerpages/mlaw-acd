@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Onboarding Workshop
+title: Onboarding Workshops
 date: 2019-09-03
 permalink: /events/upcoming-events/Onboarding-Workshop/
 ---
