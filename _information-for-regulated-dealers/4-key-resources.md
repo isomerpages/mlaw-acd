@@ -16,7 +16,7 @@ collection_name: information-for-regulated-dealers
 
 * [Inter-Ministry Committee - Terrorist Designation ("**IMC-TD**")](https://www.mha.gov.sg/inter-ministry-committee-terrorist-designation-(imc-td))
   
-* [Monetary Authority of Singapore ("**MAS**") website - Lists of Designated Persons](https://www.mas.gov.sg/regulation/anti-money-laundering/targeted-financial-sanctions/lists-of-designated-individuals-and-entities)
+* [Monetary Authority of Singapore ("**MAS**") website - List of Designated Individuals and Entities](https://www.mas.gov.sg/regulation/anti-money-laundering/targeted-financial-sanctions/lists-of-designated-individuals-and-entities)
   
 * Suspicious Transaction Reporting Office ("**STRO**")
   * Please select the following for more information regarding:
