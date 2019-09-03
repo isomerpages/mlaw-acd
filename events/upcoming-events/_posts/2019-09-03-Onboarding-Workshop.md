@@ -9,9 +9,9 @@ The Anti-Money Laundering/Countering the Financing of Terrorism Division ("**ACD
 
 The Onboarding Workshop aims to enable your compliance officer to:
 
-(a)Perform an assessment of the money laundering ("ML") and terrorism financing ("TF") risks faced by your business; and
+(a) Perform an assessment of the money laundering ("ML") and terrorism financing ("TF") risks faced by your business; and
 
-(b)Develop internal policies, procedures and controls to manage and effectively mitigate the ML/TF risks.
+(b) Develop internal policies, procedures and controls to manage and effectively mitigate the ML/TF risks.
 
 An invitation email from ACD will be sent to registered dealers to sign up for the onboarding workshop. Registered dealers may refer to the ["**FAQs**"](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx){:target="_blank"} under the Precious Stones and Precious Metals Dealers section for Frequently Asked Questions relating to the regulatory regime.
 
