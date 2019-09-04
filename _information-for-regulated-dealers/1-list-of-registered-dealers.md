@@ -6,7 +6,7 @@ breadcrumb: List of Registered Dealers
 collection_name: information-for-regulated-dealers
 ---
 
-Click [here](/images/List%of%Registered Dealers 20190831.pdf) to view the complete list of registered dealers<sup>1</sup> in Singapore.
+Click [here](/images/List%20of%20Registered Dealers%2020190831.pdf){:target="_blank"} to view the complete list of registered dealers<sup>1</sup> in Singapore.
 
 **Note:**
 
