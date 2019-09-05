@@ -10,7 +10,7 @@ Click [here](/images/List%20of%20Registered Dealers%2020190831.pdf){:target="_bl
 
 **Note:**
 
-* The registered dealers in the list are regulated by the Registrar of Regulated Dealers for Anti-Money Laundering and Countering the Financing of Terrorism in their business of regulated dealing<sup>2</sup> or business as intermediaries for regulated dealing.
+* The registered dealers in the list are regulated by the Registrar of Regulated Dealers for anti-money laundering and countering the financing of terrorism in their business of regulated dealing<sup>2</sup> or business as intermediaries for regulated dealing.
 
 * If you are a regulated dealer existing before 10 April 2019, you have a transition period of 6 months to obtain your Certificate of Registration by 9 October 2019. (If you have applied to register with the Registrar of Regulated Dealers, and are not in the list of registered dealers, contact us at [www.mlaw.gov.sg/eservices/enquiry/](https://www.mlaw.gov.sg/eservices/enquiry/){:target="_blank"}).
 
