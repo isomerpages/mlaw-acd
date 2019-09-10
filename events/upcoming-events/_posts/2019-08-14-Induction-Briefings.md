@@ -10,7 +10,7 @@ The aim of the briefing is to provide an overview of the Precious Stones and Pre
 
 An invitation email from ACD will be sent to registered dealers to sign up for the induction briefing. Registered dealers may refer to the ["**FAQs**"](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx){:target="_blank"} under the Precious Stones and Precious Metals Dealers section for Frequently Asked Questions relating to the regulatory regime.
 
-You may download the presentation slides [here](/images/IB_Slides_20190909_V01Final.pdf).
+You may download the presentation slides [here](/images/IB_Slides_20190909_V01Final.pdf).<br>
 For additional useful materials, please refer to the [Guidance Materials section](/guidance-materials/).
 
 For further queries, please click [here](https://www.mlaw.gov.sg/eservices/enquiry/){:target="_blank"}.
