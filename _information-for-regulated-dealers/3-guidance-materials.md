@@ -10,11 +10,11 @@ collection_name: information-for-regulated-dealers
 The [LicenceOne Guide](/images/LicenceOne%20Guide%20for%20regulated%20dealers_20190820_V04Final.pdf) gives regulated dealers a step-by-step walkthrough of the application process in LicenceOne. Regulated dealers will be shown how to login, which account to login with, and what information they need to register.<br><br> 
 
 
-#### [2. Guidelines for Regulated Dealers in the Precious Stones and Precious Metals Dealers Sector on Anti-Money Laundering/Countering the Financing of Terrorism ("**Guidelines**")](/images/Guidelines for regulated dealers_20190828_V1.1Final.pdf)
+#### [2. Guidelines for Regulated Dealers in the Precious Stones and Precious Metals Dealers Sector on Anti-Money Laundering/Countering the Financing of Terrorism ("**Guidelines**")](/images/Guidelines%20for%20regulated%20dealers_20190828_V1.1Final.pdf)
 <a id="guidance"></a>
-The [Guidelines](/images/Guidelines for regulated dealers_20190828_V1.1Final.pdf) are meant to help regulated dealers understand the regulatory requirements under the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act and Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations.<a href="#footnote1"></a><br><br> 
+The [Guidelines](/images/Guidelines%20for%20regulated%20dealers_20190828_V1.1Final.pdf) are meant to help regulated dealers understand the regulatory requirements under the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act and Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations.<a href="#footnote1"></a><br><br> 
 The Guidelines also provide sample forms and checklists to assist regulated dealers in meeting their regulatory obligations.  <b>However, regulated dealers remain responsible for ensuring that their AML/CFT measures are appropriately designed for their business and commensurate with their ML/TF risk exposure.</b><br><br>
-The sample forms and checklists in the Annexes of the Guidelines are also available in [MS Word format](/images/Guidelines for regulated dealers_Annexes_20190828_V1.1Final.docx) for ease of editing.
+The sample forms and checklists in the Annexes of the Guidelines are also available in [MS Word format](/images/Guidelines%20for%20regulated%20dealers_Annexes_20190828_V1.1Final.docx) for ease of editing.
 <br><br>
 
 #### [3. Notice for Customers from the Ministry of Law ("**Notice for Customers**")](/images/Notice%20for%20Customers%20-%20PSPM%20Act.pdf)
