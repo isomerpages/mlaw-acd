@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Onboarding Workshop
+title: Onboarding Workshops for Compliance Officer
 date: 2019-09-03
-permalink: /events/upcoming-events/Onboarding-Workshop/
+permalink: /events/upcoming-events/Onboarding-Workshops-for-Compliance-Officer/
 ---
 
 The Anti-Money Laundering/Countering the Financing of Terrorism Division ("**ACD**") of the Ministry of Law will be organising Onboarding Workshops for the registered dealers in the Precious Stones and Precious Metals Dealers sector in the upcoming months. 
