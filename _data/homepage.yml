@@ -17,7 +17,7 @@ hero-banner: /images/bullion1.jpg
     
 #Call to Action Button
 button:
-  - text: 23 days to end of transition period!
+  - text: 23 days to <br>end of transition period!
     url: /registration/
     
 key-highlights:
