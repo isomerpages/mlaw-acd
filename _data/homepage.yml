@@ -17,7 +17,7 @@ hero-banner: /images/bullion1.jpg
     
 #Call to Action Button
 button:
-  - text: 23 days left!<br>Register Now!
+  - text: 23 days left!<br>Register Now!<br>Application processing time required.
     url: /registration/
     
 key-highlights:
