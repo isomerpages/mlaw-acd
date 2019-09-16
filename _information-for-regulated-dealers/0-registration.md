@@ -25,7 +25,7 @@ You will be alerted and invited to workshops to help you comply with regulatory 
 
 **Enforcement actions will be conducted to detect unregistered dealers.** Any person who acts as or holds out to be a regulated dealer without being registered or exempted, may face criminal penalties of up to S$75,000 in fine and/or up to 3 years' imprisonment.
 
-It takes around 4 to 6 weeks to process an application to register as a regulated dealer. It may take longer if additional information is required. You are therefore advised to submit an application <u>immediately</u>, especially if you are an existing regulated dealer and intend to continue a business as a regulated dealer.
+It takes around <u>4 to 6 weeks</u> to process an application to register as a regulated dealer. It may take longer if additional information is required. You are therefore advised to submit an application <u>immediately</u>, especially if you are an existing regulated dealer and intend to continue a business as a regulated dealer.
 
 The public may access the [List of Registered Dealers](https://acd.mlaw.gov.sg/list-of-registered-dealers/).
 
