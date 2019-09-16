@@ -52,7 +52,7 @@ Please refer to the [PSPM Act](https://sso.agc.gov.sg/Act/PSPMPMLTFA2019) for th
 ### The registration process
 <a href="/images/Overview%20of%20Reg%20Process.pdf"><img src="/images/Overview%20of%20Reg%20Process.png"></a> <br>
 
-You may apply to be registered as a regulated dealer via the [LicenceOne portal](https://licence1.business.gov.sg/web/frontier/home). You may refer to the [LicenceOne Guide for Regulated Dealers](/images/LicenceOne%20Guide%20for%20regulated%20dealers_20190820_V04Final.pdf) for a step-by-step guide to the application process.
+You may submit your application via the [LicenceOne portal](https://licence1.business.gov.sg/web/frontier/home). You may refer to the [LicenceOne Guide for Regulated Dealers](/images/LicenceOne%20Guide%20for%20regulated%20dealers_20190820_V04Final.pdf) for a step-by-step guide to the application process.
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
