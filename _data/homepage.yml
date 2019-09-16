@@ -10,6 +10,11 @@ favicon: /images/mlawfavicon.ico
 # Agency logo
 agency-logo: /images/minlawlogo.png
 
+
+# Google analytics
+
+google-analytics: UA-10405444-19
+
 # Hero Banner
 hero-title: Regulatory Regime for Precious Stones and Precious Metals Dealers
 hero-subtitle: Anti-Money Laundering / Countering the Financing of Terrorism Division
