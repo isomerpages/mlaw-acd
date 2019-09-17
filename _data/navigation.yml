@@ -38,6 +38,6 @@
   url: /events/
   sub-links:
   - title: News
-    url: /newNews/
+    url: https://www.mlaw.gov.sg/content/minlaw/en/news.html
   - title: Events
     url: /events/
