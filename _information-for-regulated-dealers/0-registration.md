@@ -5,6 +5,21 @@ permalink: /registration/
 breadcrumb: Registration of Regulated Dealers
 collection_name: information-for-regulated-dealers
 ---
+<style>
+ol{
+    list-style: none;
+    margin-left: 0;
+  }
+li{
+    display: inline;
+  }
+</style>
+<ol>
+  <li><a href="#Who is required to register?">Who is required to register? </a></li>
+  <li>|</li>
+  <li><a href="#The registration process">The registration process </a></li>
+  <li>|</li>
+</ol><br>
 ### 13 DAYS to end of transition period!
 If you are a regulated dealer <u>existing before 10 April 2019</u> and intend to continue a business as a regulated dealer, you should submit your application to register <u>immediately</u> via the [LicenceOne portal](https://licence1.business.gov.sg/web/frontier/home). 
 <style type="text/css">
@@ -42,14 +57,14 @@ The public may access the [List of Registered Dealers](https://acd.mlaw.gov.sg/l
 </table>
 
 
-### Who is required to register?
+### <a id="Who is required to register?"></a> Who is required to register?
 You are required to register with the Registrar of Regulated Dealers if you are a regulated dealer i.e. you carry on a business of regulated dealing in precious stones, precious metals and/or precious products ("**PSPMs**"), or as an intermediary for regulated dealing in PSPMs. <br><br>
 Examples of regulated dealers who are required to register include, but are not limited to jewellers, bullion traders, jewellery wholesalers, jewellery retailers, second-hand goods dealers, auction houses, and trading platforms. Take this [questionnaire](https://form.gov.sg/5cd3efbbd64f830010e00ea9) to help you ascertain whether you are a regulated dealer.
 
 Please refer to the [PSPM Act](https://sso.agc.gov.sg/Act/PSPMPMLTFA2019) for the official definitions. If you are not certain whether you are required to register, you can seek legal advice.
 
 
-### The registration process
+### <a id="The registration process"></a> The registration process
 <a href="/images/Overview%20of%20Reg%20Process.pdf"><img src="/images/Overview%20of%20Reg%20Process.png"></a> <br>
 
 You may submit your application via the [LicenceOne portal](https://licence1.business.gov.sg/web/frontier/home). You may refer to the [LicenceOne Guide for Regulated Dealers](/images/LicenceOne%20Guide%20for%20regulated%20dealers_20190820_V04Final.pdf) for a step-by-step guide to the application process.
