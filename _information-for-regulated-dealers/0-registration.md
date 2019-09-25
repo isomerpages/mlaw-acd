@@ -19,7 +19,13 @@ li{
   <li>|</li>
   <li><a href="#The registration process">The registration process </a></li>
   <li>|</li>
-</ol><br>
+  <li><a href="#Information you need for registration">Information you need for registration </a></li>
+  <li>|</li>
+  <li><a href="#Fees and period of registration">Fees and period of registration </a></li>
+  <li>|</li>
+  <li><a href="#I need help with registering">I need help with registering </a></li>
+  <li>|</li>
+</ol>
 ### 13 DAYS to end of transition period!
 If you are a regulated dealer <u>existing before 10 April 2019</u> and intend to continue a business as a regulated dealer, you should submit your application to register <u>immediately</u> via the [LicenceOne portal](https://licence1.business.gov.sg/web/frontier/home). 
 <style type="text/css">
@@ -104,7 +110,7 @@ You may submit your application via the [LicenceOne portal](https://licence1.bus
 </table>
 
 
-### Information you need for registration
+### <a id="Information you need for registration"></a>Information you need for registration
 
 <table>
   <tr>
@@ -130,7 +136,7 @@ You may submit your application via the [LicenceOne portal](https://licence1.bus
 </table>
 
 
-### Fees and period of registration
+### <a id="Fees and period of registration"></a> Fees and period of registration
 <b>Fees</b><br>
 Regulated dealers must pay an application fee of S$140 for each application to register with the Registrar. All payment must be made through [LicenceOne portal](https://licence1.business.gov.sg/web/frontier/home) using the following e-payment methods: PayPal, VISA, MasterCard, American Express and Discover.<br><br>
 If the Registrar provides in-principle approval for their application, regulated dealers must pay a registration fee of S$300 per place of business per year calculated based on the number of outlets they operate and the period for which they register.
@@ -202,7 +208,7 @@ ABC Pte Ltd must pay a total of <b>S$1,940</b>:<br>
 </table>
 
 
-### I need help with registering
+### <a id="I need help with registering"></a>I need help with registering
 <a href="/images/Helplines.pdf"><img src="/images/Helplines.png"></a>
 * If you face any technical issues when using LicenceOne, you may wish to refer to the [LicenceOne webpage](https://licence1.business.gov.sg/web/frontier/help/apply-for-new-licence) or contact the [LicenceOne Helpdesk](https://licence1.business.gov.sg/web/frontier/contact-us).
 * If you are not sure how to complete the application form, you may wish to refer to our [LicenceOne Guide for Regulated Dealers (Step-by-Step with Screenshots)](/images/LicenceOne%20Guide%20for%20regulated%20dealers_20190820_V04Final.pdf) or [our FAQs for Precious Stones and Precious Metals Dealers](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx).
