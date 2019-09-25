@@ -24,7 +24,6 @@ li{
   <li><a href="#Fees and period of registration">Fees and period of registration </a></li>
   <li>|</li>
   <li><a href="#I need help with registering">I need help with registering </a></li>
-  <li>|</li>
 </ol>
 ### 13 DAYS to end of transition period!
 If you are a regulated dealer <u>existing before 10 April 2019</u> and intend to continue a business as a regulated dealer, you should submit your application to register <u>immediately</u> via the [LicenceOne portal](https://licence1.business.gov.sg/web/frontier/home). 
