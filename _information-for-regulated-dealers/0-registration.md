@@ -10,6 +10,10 @@ ol{
     list-style: none;
     margin-left: 0;
   }
+ul{
+    list-style-type: circle;
+    margin-left: 0;
+  }
 li{
     display: inline;
   }
@@ -206,9 +210,9 @@ ABC Pte Ltd must pay a total of <b>S$1,940</b>:<br>
   </tr>
 </table>
 
-
+<ul>
 ### <a id="I need help with registering"></a>I need help with registering
 <a href="/images/Helplines.pdf"><img src="/images/Helplines.png"></a>
-• If you face any technical issues when using LicenceOne, you may wish to refer to the [LicenceOne webpage](https://licence1.business.gov.sg/web/frontier/help/apply-for-new-licence) or contact the [LicenceOne Helpdesk](https://licence1.business.gov.sg/web/frontier/contact-us).<br>
-• If you are not sure how to complete the application form, you may wish to refer to our [LicenceOne Guide for Regulated Dealers (Step-by-Step with Screenshots)](/images/LicenceOne%20Guide%20for%20regulated%20dealers_20190820_V04Final.pdf) or [our FAQs for Precious Stones and Precious Metals Dealers](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx).
-
+<li>If you face any technical issues when using LicenceOne, you may wish to refer to the [LicenceOne webpage](https://licence1.business.gov.sg/web/frontier/help/apply-for-new-licence) or contact the [LicenceOne Helpdesk](https://licence1.business.gov.sg/web/frontier/contact-us).</li>
+<li>If you are not sure how to complete the application form, you may wish to refer to our [LicenceOne Guide for Regulated Dealers (Step-by-Step with Screenshots)](/images/LicenceOne%20Guide%20for%20regulated%20dealers_20190820_V04Final.pdf) or [our FAQs for Precious Stones and Precious Metals Dealers](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx).</li>
+</ul>
