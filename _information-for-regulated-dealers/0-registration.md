@@ -5,20 +5,8 @@ permalink: /registration/
 breadcrumb: Registration of Regulated Dealers
 collection_name: information-for-regulated-dealers
 ---
-<style>
-ul.a {
-    list-style-type: disc;
-    margin-left: 0;
-  }
-ol.b {
-    list-style: disc;
-    margin-left: 0;
-  }
-li{
-    display: inline;
-  }
-</style>
-<ol class="b">
+
+<ol>
   <li><a href="#Who is required to register?">Who is required to register? </a></li>
   <li>|</li>
   <li><a href="#The registration process">The registration process </a></li>
@@ -213,7 +201,6 @@ ABC Pte Ltd must pay a total of <b>S$1,940</b>:<br>
 
 ### <a id="I need help with registering"></a>I need help with registering
 <a href="/images/Helplines.pdf"><img src="/images/Helplines.png"></a>
-<ul class="a">
-<li>If you face any technical issues when using LicenceOne, you may wish to refer to the [LicenceOne webpage](https://licence1.business.gov.sg/web/frontier/help/apply-for-new-licence) or contact the [LicenceOne Helpdesk](https://licence1.business.gov.sg/web/frontier/contact-us).</li>
-<li>If you are not sure how to complete the application form, you may wish to refer to our [LicenceOne Guide for Regulated Dealers (Step-by-Step with Screenshots)](/images/LicenceOne%20Guide%20for%20regulated%20dealers_20190820_V04Final.pdf) or [our FAQs for Precious Stones and Precious Metals Dealers](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx).</li>
-</ul>
+
+* If you face any technical issues when using LicenceOne, you may wish to refer to the [LicenceOne webpage](https://licence1.business.gov.sg/web/frontier/help/apply-for-new-licence) or contact the [LicenceOne Helpdesk](https://licence1.business.gov.sg/web/frontier/contact-us).
+* If you are not sure how to complete the application form, you may wish to refer to our [LicenceOne Guide for Regulated Dealers (Step-by-Step with Screenshots)](/images/LicenceOne%20Guide%20for%20regulated%20dealers_20190820_V04Final.pdf) or [our FAQs for Precious Stones and Precious Metals Dealers](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx).
