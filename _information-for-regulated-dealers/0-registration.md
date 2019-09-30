@@ -11,7 +11,7 @@ ul.a {
     margin-left: 0;
   }
 ol.b {
-    list-style: none;
+    list-style: disc;
     margin-left: 0;
   }
 li{
