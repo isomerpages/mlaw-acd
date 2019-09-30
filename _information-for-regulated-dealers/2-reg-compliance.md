@@ -73,15 +73,15 @@ Asset-backed tokens **do not include** securities or derivative contracts within
 #### <a id="What do regulated dealers have to do?"></a>What do regulated dealers have to do?
 Under this regime, the requirements that apply to regulated dealers include, but are not limited to, the following:
 
-• [Register](/registration/) with the Registrar of Regulated Dealers.<br>
-• Perform customer due diligence measures under circumstances that are prescribed by the PSPM Act.<br>
-• File [Suspicious Transaction Reports](https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office/suspicious-transaction-reporting#content) ("**STR**") with the Suspicious Transaction Reporting Office ("**STRO**") and the Anti-Money Laundering / Countering the Financing of Terrorism Division ("**ACD**") where there is suspicion of ML/TF.<br>
-  ○ File your STR via [STRO Online Notices and Reporting Platform ("SONAR")](https://www.police.gov.sg/e-services/report/stro-online-notices-and-reporting-platform).<br>
-• File [Cash Transaction Reports](https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office/cash-transaction-reporting) ("**CTR**") with STRO for cash transactions exceeding S$20,000.<br>
-  ○ File your CTR via [SONAR](https://www.police.gov.sg/e-services/report/stro-online-notices-and-reporting-platform) using CTR form (Form NP 784).<br>
-• Keep records of the following documents/information for a period of 5 years or such other prescribed period:<br>
-  ○ Transactions where customer due diligence was conducted;<br>
-  ○ Information obtained from customer due diligence; and<br>
-  ○ CTRs that have been filed.<br>
-• Conduct risk assessments to determine the ML/TF risk posed by its customers and transactions.<br>
-• Put in place internal policies, procedures and controls to mitigate the specific ML/TF risks identified by their risk assessments.<br>
+* [Register](/registration/) with the Registrar of Regulated Dealers.
+* Perform customer due diligence measures under circumstances that are prescribed by the PSPM Act.
+* File [Suspicious Transaction Reports](https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office/suspicious-transaction-reporting#content) ("**STR**") with the Suspicious Transaction Reporting Office ("**STRO**") and the Anti-Money Laundering / Countering the Financing of Terrorism Division ("**ACD**") where there is suspicion of ML/TF.
+  * File your STR via [STRO Online Notices and Reporting Platform ("SONAR")](https://www.police.gov.sg/e-services/report/stro-online-notices-and-reporting-platform).
+* File [Cash Transaction Reports](https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office/cash-transaction-reporting) ("**CTR**") with STRO for cash transactions exceeding S$20,000.
+  * File your CTR via [SONAR](https://www.police.gov.sg/e-services/report/stro-online-notices-and-reporting-platform) using CTR form (Form NP 784).
+* Keep records of the following documents/information for a period of 5 years or such other prescribed period:
+  * Transactions where customer due diligence was conducted;
+  * Information obtained from customer due diligence; and
+  * CTRs that have been filed.
+* Conduct risk assessments to determine the ML/TF risk posed by its customers and transactions.
+* Put in place internal policies, procedures and controls to mitigate the specific ML/TF risks identified by their risk assessments.
