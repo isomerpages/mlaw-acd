@@ -5,27 +5,8 @@ permalink: /registration/
 breadcrumb: Registration of Regulated Dealers
 collection_name: information-for-regulated-dealers
 ---
-<style>
-ol{
-    list-style: none;
-    margin-left: 0;
-  }
-li{
-    display: inline;
-  }
-</style>
-<ol>
-  <li><a href="#Who is required to register?">Who is required to register? </a></li>
-  <li>|</li>
-  <li><a href="#The registration process">The registration process </a></li>
-  <li>|</li>
-  <li><a href="#Information you need for registration">Information you need for registration </a></li>
-  <li>|</li>
-  <li><a href="#Fees and period of registration">Fees and period of registration </a></li>
-  <li>|</li>
-  <li><a href="#I need help with registering">I need help with registering </a></li>
-</ol>
-### 9 DAYS to end of transition period!
+<a href="#Who is required to register?">Who is required to register? </a> | <a href="#The registration process">The registration process </a> | <a href="#Information you need for registration">Information you need for registration </a> | <a href="#Fees and period of registration">Fees and period of registration </a> | <a href="#I need help with registering">I need help with registering </a>
+### 8 DAYS to end of transition period!
 If you are a regulated dealer <u>existing before 10 April 2019</u> and intend to continue a business as a regulated dealer, you should submit your application to register <u>immediately</u> via the [LicenceOne portal](https://licence1.business.gov.sg/web/frontier/home). 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border:none;margin:0px auto;}
@@ -209,8 +190,6 @@ ABC Pte Ltd must pay a total of <b>S$1,940</b>:<br>
 
 ### <a id="I need help with registering"></a>I need help with registering
 <a href="/images/Helplines.pdf"><img src="/images/Helplines.png"></a>
+
 * If you face any technical issues when using LicenceOne, you may wish to refer to the [LicenceOne webpage](https://licence1.business.gov.sg/web/frontier/help/apply-for-new-licence) or contact the [LicenceOne Helpdesk](https://licence1.business.gov.sg/web/frontier/contact-us).
 * If you are not sure how to complete the application form, you may wish to refer to our [LicenceOne Guide for Regulated Dealers (Step-by-Step with Screenshots)](/images/LicenceOne%20Guide%20for%20regulated%20dealers_20190820_V04Final.pdf) or [our FAQs for Precious Stones and Precious Metals Dealers](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx).
-
-
-

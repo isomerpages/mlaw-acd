@@ -5,24 +5,7 @@ permalink: /reg-compliance/
 breadcrumb: Regulatory Compliance
 collection_name: information-for-regulated-dealers
 ---
-<style>
-ol{
-    list-style: none;
-    margin-left: 0;
-  }
-li{
-    display: inline;
-  }
-</style>
-<ol>
-  <li><a href="#Introduction">Introduction </a></li>
-  <li>|</li>
-  <li><a href="#Overview of the regulatory regime">Overview of the regulatory regime </a></li>
-  <li>|</li>
-  <li><a href="#Who does the new regime cover?">Who does the new regime cover? </a></li>
-  <li>|</li>
-  <li><a href="#What do regulated dealers have to do?">What do regulated dealers have to do? </a></li>
-</ol>
+<a href="#Introduction">Introduction </a> | <a href="#Overview of the regulatory regime">Overview of the regulatory regime </a> | <a href="#Who does the new regime cover?">Who does the new regime cover? </a>| <a href="#What do regulated dealers have to do?">What do regulated dealers have to do? </a>
 #### <a id="Introduction"></a>Introduction
 The Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act ("**PSPM Act**") has been in effect from 10 April 2019. It introduces a supervisory and regulatory regime for precious stones and precious metals dealers.
 
@@ -75,13 +58,13 @@ Under this regime, the requirements that apply to regulated dealers include, but
 
 * [Register](/registration/) with the Registrar of Regulated Dealers.
 * Perform customer due diligence measures under circumstances that are prescribed by the PSPM Act.
-* File [Suspicious Transaction Reports](https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office/suspicious-transaction-reporting#content) ("**STR**") with the Suspicious Transaction Reporting Office ("**STRO**") and the Anti-Money Laundering / Countering the Financing of Terrorism Division ("**ACD**") where there is suspicion of ML/TF. 
+* File [Suspicious Transaction Reports](https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office/suspicious-transaction-reporting#content) ("**STR**") with the Suspicious Transaction Reporting Office ("**STRO**") and the Anti-Money Laundering / Countering the Financing of Terrorism Division ("**ACD**") where there is suspicion of ML/TF.
   * File your STR via [STRO Online Notices and Reporting Platform ("SONAR")](https://www.police.gov.sg/e-services/report/stro-online-notices-and-reporting-platform).
 * File [Cash Transaction Reports](https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office/cash-transaction-reporting) ("**CTR**") with STRO for cash transactions exceeding S$20,000.
   * File your CTR via [SONAR](https://www.police.gov.sg/e-services/report/stro-online-notices-and-reporting-platform) using CTR form (Form NP 784).
 * Keep records of the following documents/information for a period of 5 years or such other prescribed period:
   * Transactions where customer due diligence was conducted;
   * Information obtained from customer due diligence; and
-  * CTRs that have been filed. 
+  * CTRs that have been filed.
 * Conduct risk assessments to determine the ML/TF risk posed by its customers and transactions.
 * Put in place internal policies, procedures and controls to mitigate the specific ML/TF risks identified by their risk assessments.
