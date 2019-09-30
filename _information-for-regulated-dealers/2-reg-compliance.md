@@ -5,24 +5,7 @@ permalink: /reg-compliance/
 breadcrumb: Regulatory Compliance
 collection_name: information-for-regulated-dealers
 ---
-<style>
-ol{
-    list-style: none;
-    margin-left: 0;
-  }
-li{
-    display: inline;
-  }
-</style>
-<ol>
-  <li><a href="#Introduction">Introduction </a></li>
-  <li>|</li>
-  <li><a href="#Overview of the regulatory regime">Overview of the regulatory regime </a></li>
-  <li>|</li>
-  <li><a href="#Who does the new regime cover?">Who does the new regime cover? </a></li>
-  <li>|</li>
-  <li><a href="#What do regulated dealers have to do?">What do regulated dealers have to do? </a></li>
-</ol>
+<a href="#Introduction">Introduction </a> | <a href="#Overview of the regulatory regime">Overview of the regulatory regime </a> | <a href="#Who does the new regime cover?">Who does the new regime cover? </a>| <a href="#What do regulated dealers have to do?">What do regulated dealers have to do? </a>
 #### <a id="Introduction"></a>Introduction
 The Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act ("**PSPM Act**") has been in effect from 10 April 2019. It introduces a supervisory and regulatory regime for precious stones and precious metals dealers.
 
