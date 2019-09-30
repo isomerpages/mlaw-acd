@@ -212,7 +212,7 @@ ABC Pte Ltd must pay a total of <b>S$1,940</b>:<br>
 
 <style>
 ul{
-    list-style: content: "•";
+    list-style: disc;
   }
 li{
     display: inline
