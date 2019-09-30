@@ -7,15 +7,7 @@ collection_name: information-for-regulated-dealers
 ---
 
 <ol>
-  <li><a href="#Who is required to register?">Who is required to register? </a></li>
-  <li>|</li>
-  <li><a href="#The registration process">The registration process </a></li>
-  <li>|</li>
-  <li><a href="#Information you need for registration">Information you need for registration </a></li>
-  <li>|</li>
-  <li><a href="#Fees and period of registration">Fees and period of registration </a></li>
-  <li>|</li>
-  <li><a href="#I need help with registering">I need help with registering </a></li>
+  <li><a href="#Who is required to register?">Who is required to register? </a></li> | <a href="#The registration process">The registration process </a> | <a href="#Information you need for registration">Information you need for registration </a> | <a href="#Fees and period of registration">Fees and period of registration </a> | <a href="#I need help with registering">I need help with registering </a></li>
 </ol>
 ### 9 DAYS to end of transition period!
 If you are a regulated dealer <u>existing before 10 April 2019</u> and intend to continue a business as a regulated dealer, you should submit your application to register <u>immediately</u> via the [LicenceOne portal](https://licence1.business.gov.sg/web/frontier/home). 
