@@ -37,7 +37,15 @@
 - title: News
   url: /news/
   sub-links:
-  - title: News
-    url: https://www.mlaw.gov.sg/content/minlaw/en/news.html
-  - title: News
+  - title: All
     url: /news/
+  - title: Notices
+    url: /news/
+  - title: Press Releases
+    url: /news/
+  - title: Upcoming Events
+    url: /news/
+  - title: Past Events
+    url: /news/
+  - title: Minlaw News
+    url: https://www.mlaw.gov.sg/content/minlaw/en/news.html
