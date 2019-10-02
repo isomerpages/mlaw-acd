@@ -36,10 +36,10 @@ key-highlights:
     external: false
   - title: Conferences
     description: Information packs from our conferences
-    url: /events/past-events/
+    url: /news/past-events/
     external: false
     
 resources-title: News for Regulated Dealers
 resources-subtitle: Latest News
 resources-more-button: More Information
-resources-more-button-url: /events/
+resources-more-button-url: /news/
