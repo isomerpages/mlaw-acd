@@ -10,6 +10,8 @@ favicon: /images/mlawfavicon.ico
 # Agency logo
 agency-logo: /images/minlawlogo.png
 
+# AskJamie
+ask-jamie: non-empty string
 
 # Google analytics
 
@@ -22,7 +24,7 @@ hero-banner: /images/bullion1.jpg
     
 #Call to Action Button
 button:
-  - text: 7 days to <br>end of transition period!
+  - text: 6 days to <br>end of transition period!
     url: /registration/
     
 key-highlights:
@@ -36,10 +38,10 @@ key-highlights:
     external: false
   - title: Conferences
     description: Information packs from our conferences
-    url: /events/past-events/
+    url: /news/past-events/Onboarding-Conferences/
     external: false
     
-resources-title: Events for Regulated Dealers
-resources-subtitle: Latest Events
+resources-title: News for Regulated Dealers
+resources-subtitle: Latest News
 resources-more-button: More Information
-resources-more-button-url: /events/
+resources-more-button-url: /news/

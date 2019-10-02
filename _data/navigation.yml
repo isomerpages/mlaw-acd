@@ -34,10 +34,18 @@
   - title: Contact Us
     url: https://www.mlaw.gov.sg/content/minlaw/en/about-us/contact-us.html
   
-- title: News and Events
-  url: /events/
+- title: News
+  url: /news/
   sub-links:
-  - title: News
+  - title: All
+    url: /news/
+  - title: Notices
+    url: /news/notices/
+  - title: Press Releases
+    url: /news/press-releases/
+  - title: Upcoming Events
+    url: /news/upcoming-events/
+  - title: Past Events
+    url: /news/past-events/
+  - title: Minlaw News
     url: https://www.mlaw.gov.sg/content/minlaw/en/news.html
-  - title: Events
-    url: /events/
