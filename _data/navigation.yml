@@ -34,10 +34,10 @@
   - title: Contact Us
     url: https://www.mlaw.gov.sg/content/minlaw/en/about-us/contact-us.html
   
-- title: News and Events
+- title: News
   url: /events/
   sub-links:
   - title: News
     url: https://www.mlaw.gov.sg/content/minlaw/en/news.html
-  - title: Events
-    url: /events/
+  - title: News
+    url: /news/
