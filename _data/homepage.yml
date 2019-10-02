@@ -10,6 +10,8 @@ favicon: /images/mlawfavicon.ico
 # Agency logo
 agency-logo: /images/minlawlogo.png
 
+# AskJamie
+ask-jamie: non-empty string
 
 # Google analytics
 
