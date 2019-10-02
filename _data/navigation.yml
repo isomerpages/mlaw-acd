@@ -40,12 +40,12 @@
   - title: All
     url: /news/
   - title: Notices
-    url: /news/
+    url: /news/notices/
   - title: Press Releases
-    url: /news/
+    url: /news/press-releases/
   - title: Upcoming Events
-    url: /news/
+    url: /news/upcoming-events/
   - title: Past Events
-    url: /news/
+    url: /news/past-events/
   - title: Minlaw News
     url: https://www.mlaw.gov.sg/content/minlaw/en/news.html
