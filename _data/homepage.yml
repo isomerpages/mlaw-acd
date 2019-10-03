@@ -40,6 +40,10 @@ key-highlights:
     description: Information packs from our conferences
     url: /news/past-events/Onboarding-Conferences/
     external: false
+  - title: Notices
+    description: Notices for regulated dealers
+    url: /news/notices/
+    external: false
     
 resources-title: News for Regulated Dealers
 resources-subtitle: Latest News
