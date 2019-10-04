@@ -24,16 +24,22 @@
   sub-links:
   - title: Our Vision, Mission and Core Values
     url: https://www.mlaw.gov.sg/about-us/ourvision-mission-corevalues/
+    external: true
   - title: Our Management
     url: https://www.mlaw.gov.sg/about-us/our-management/
+    external: true
   - title: Organisation Structure
     url: https://www.mlaw.gov.sg/about-us/organisation-structure/
+    external: true
   - title: What We Do
     url: https://www.mlaw.gov.sg/about-us/what-we-do/
+    external: true
   - title: FAQs
     url: https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx
+    external: true
   - title: Contact Us
     url: https://www.mlaw.gov.sg/about-us/contact-us/
+    external: true
   
 - title: News
   url: /news/
@@ -50,3 +56,4 @@
     url: /news/past-events/
   - title: Minlaw News
     url: https://www.mlaw.gov.sg/news/
+    external: true
