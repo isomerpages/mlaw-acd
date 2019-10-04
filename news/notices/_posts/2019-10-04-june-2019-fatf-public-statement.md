@@ -18,4 +18,4 @@ On 21 June 2019, the FATF, of which Singapore is a member, issued an updated Pub
 * The FATF calls on its members and urges all jurisdictions to apply enhanced customer due diligence measures proportionate to the risks arising from Iran.
 
 Details of the FATF Statement can be found at:
-https://www.fatf-gafi.org/publications/high-risk-and-other-monitored-jurisdictions/documents/public-statement-june-2019
+(https://www.fatf-gafi.org/publications/high-risk-and-other-monitored-jurisdictions/documents/public-statement-june-2019.html)[https://www.fatf-gafi.org/publications/high-risk-and-other-monitored-jurisdictions/documents/public-statement-june-2019.html]
