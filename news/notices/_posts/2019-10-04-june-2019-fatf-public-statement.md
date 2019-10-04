@@ -1,6 +1,6 @@
 ---
 layout: post
-title: June 2019 FATF Public Statement - Countries or Jurisdictions with strategic deficiencies
+title: June 2019 FATF Public Statement - Countries or jurisdictions with strategic deficiencies
 date: 2019-10-04
 permalink: /news/notices/june-2019-fatf-public-statement
 ---
@@ -13,11 +13,11 @@ Accordingly, under regulation 7(1) of the PMLTF Regulations, regulated dealers m
 * The customer, or the person on whose behalf the customer is acting, is from or in DPRK or Iran; or
 * The transaction relates to DPRK or Iran.
 
-On 21 June 2019, the FATF, of which Singapore is a member, issued an updated Public Statement that highlights the strategic deficiencies in the anti-money laundering/combating the financing of terrorism (AML/CFT) regimes of the DPRK and Iran.
+On 21 June 2019, the FATF, of which Singapore is a member, issued an updated Public Statement that highlights the strategic deficiencies in the anti-money laundering/combating the financing of terrorism ("**AML/CFT**") regimes of the DPRK and Iran.
 * DPRK is subject to the FATF’s call on countries to apply counter-measures. The FATF calls on its members and urges all jurisdictions to apply counter-measures to protect the international financial system from the ongoing and substantial money laundering and financing of terrorism risks.
 * The FATF calls on its members and urges all jurisdictions to apply ECDD measures proportionate to the risks arising from Iran.
 
 Details of the FATF Statement can be found at:
-[Financial Action Task Force – June 2019 Public Statement: Countries or Jurisdictions in relation to which enhanced customer due diligence is to be performed](https://www.fatf-gafi.org/publications/high-risk-and-other-monitored-jurisdictions/documents/public-statement-june-2019.html)
+[https://www.fatf-gafi.org/publications/high-risk-and-other-monitored-jurisdictions/documents/public-statement-june-2019.html](https://www.fatf-gafi.org/publications/high-risk-and-other-monitored-jurisdictions/documents/public-statement-june-2019.html)
 
  The FATF has also issued an updated statement on its on-going process to improve global AML/CFT compliance. This statement provides information on a list of jurisdictions that have commited to action plans to address and strengthen their respective AML/CFT deficiencies, and would assist regulated dealers in their risk assessment and mitigation. The FATF Compliance statement can be found at: [https://www.fatf-gafi.org/publications/high-risk-and-other-monitored-jurisdictions/documents/fatf-compliance-june-2019.html](https://www.fatf-gafi.org/publications/high-risk-and-other-monitored-jurisdictions/documents/fatf-compliance-june-2019.html)
