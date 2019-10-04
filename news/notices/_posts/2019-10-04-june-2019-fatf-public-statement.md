@@ -1,8 +1,8 @@
 ---
 layout: post
-title: June 2019 FATF Public Statement: Countries or Jurisdictions in relation to which enhanced customer due diligence is to be performed
-date: 2019-10-3
-permalink: /news/notices/xx
+title: xx
+date: 2019-10-04
+permalink: /news/notices/june-2019-fatf-public-statement
 ---
 
 The Guidelines for Regulated Dealers in the Precious Stones and Precious Metals Dealers Sector on Anti-Money Laundering/Countering the Financing of Terrorism ("**Guidelines**") were issued on 30 April 2019.
