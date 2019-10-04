@@ -1,6 +1,6 @@
 ---
 layout: post
-title: June 2019 FATF Public Statement - Countries or Jurisdictions in relation to which enhanced customer due diligence ("ECDD") is to be performed
+title: June 2019 FATF Public Statement - Countries or Jurisdictions with strategic deficiencies
 date: 2019-10-04
 permalink: /news/notices/june-2019-fatf-public-statement
 ---
@@ -19,3 +19,5 @@ On 21 June 2019, the FATF, of which Singapore is a member, issued an updated Pub
 
 Details of the FATF Statement can be found at:
 [Financial Action Task Force – June 2019 Public Statement: Countries or Jurisdictions in relation to which enhanced customer due diligence is to be performed](https://www.fatf-gafi.org/publications/high-risk-and-other-monitored-jurisdictions/documents/public-statement-june-2019.html)
+
+ The FATF has also issued an updated statement on its on-going process to improve global AML/CFT compliance. This statement provides information on a list of jurisdictions that have commited to action plans to address and strengthen their respective AML/CFT deficiencies, and would assist regulated dealers in their risk assessment and mitigation. The FATF Compliance statement can be found at: [https://www.fatf-gafi.org/publications/high-risk-and-other-monitored-jurisdictions/documents/fatf-compliance-june-2019.html](https://www.fatf-gafi.org/publications/high-risk-and-other-monitored-jurisdictions/documents/fatf-compliance-june-2019.html)
