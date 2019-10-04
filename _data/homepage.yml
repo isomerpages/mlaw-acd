@@ -31,23 +31,23 @@ key-highlights:
   - title: Register Now!
     description: Regulated dealers to register with MinLaw
     url: /registration/
-  - title: List of Registered Dealers
-    description: Registered dealers with MinLaw
-    url: /list-of-registered-dealers/
+  - title: Guidance Materials
+    description: Guidelines and references for regulated dealers
+    url: /guidance-materials/
     external: false
   - title: Notices
     description: Notices for regulated dealers
     url: /news/notices/
     external: false
-  - title: Guidance Materials
-    description: Guidelines and references for regulated dealers
-    url: /guidance-materials/
-    external: false
   - title: Conferences
     description: Information packs from our conferences
     url: /news/past-events/Onboarding-Conferences/
     external: false
-    
+  - title: List of Registered Dealers
+    description: Registered dealers with MinLaw
+    url: /list-of-registered-dealers/
+    external: false
+ 
 resources-title: News for Regulated Dealers
 resources-subtitle: Latest News
 resources-more-button: More Information
