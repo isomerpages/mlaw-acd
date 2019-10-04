@@ -6,7 +6,7 @@ breadcrumb: Registration of Regulated Dealers
 collection_name: information-for-regulated-dealers
 ---
 <a href="#Who is required to register?">Who is required to register? </a> | <a href="#The registration process">The registration process </a> | <a href="#Information you need for registration">Information you need for registration </a> | <a href="#Fees and period of registration">Fees and period of registration </a> | <a href="#I need help with registering">I need help with registering </a>
-### 5 DAYS to end of transition period!
+### Register Now!
 If you are a regulated dealer <u>existing before 10 April 2019</u> and intend to continue a business as a regulated dealer, you should submit your application to register <u>immediately</u> via the [LicenceOne portal](https://licence1.business.gov.sg/web/frontier/home). 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border:none;margin:0px auto;}
@@ -78,7 +78,7 @@ You may submit your application via the [LicenceOne portal](https://licence1.bus
   <tr>
     <td class="tg-fymr">Singapore</td>
     <td class="tg-0pky">Log onto <a href="https://licence1.business.gov.sg/web/frontier/home">LicenceOne</a> using your <a href="https://licence1.business.gov.sg/web/frontier/help/corppass-in-licenceone">CorpPass Account</a><sup>1</sup>.</td>
-    <td class="tg-0pky" rowspan="2">If you are a <span style="font-weight:bold;text-decoration:underline">sole proprietor</span>, log onto <a href="https://licence1.business.gov.sg/web/frontier/home">LicenceOne</a> using your <a href="https://licence1.business.gov.sg/web/frontier/help/corppass-in-licenceone">CorpPass Account</a><sup>1</sup>.<br><br>If you are conducting business in your personal capacity, contact ACD <a href="https://www.mlaw.gov.sg/content/minlaw/en/about-us/contact-us.html">here</a>.</td>
+    <td class="tg-0pky" rowspan="2">If you are a <span style="font-weight:bold;text-decoration:underline">sole proprietor</span>, log onto <a href="https://licence1.business.gov.sg/web/frontier/home">LicenceOne</a> using your <a href="https://licence1.business.gov.sg/web/frontier/help/corppass-in-licenceone">CorpPass Account</a><sup>1</sup>.<br><br>If you are conducting business in your personal capacity, contact ACD <a href="https://www.mlaw.gov.sg/about-us/contact-us">here</a>.</td>
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-weight:bold">Not Singapore</span><br><br><br>Note: a foreign dealer who carries on business for not more than 90 days a year in Singapore need NOT register.</td>
@@ -192,4 +192,4 @@ ABC Pte Ltd must pay a total of <b>S$1,940</b>:<br>
 <a href="/images/Helplines.pdf"><img src="/images/Helplines.png"></a>
 
 * If you face any technical issues when using LicenceOne, you may wish to refer to the [LicenceOne webpage](https://licence1.business.gov.sg/web/frontier/help/apply-for-new-licence) or contact the [LicenceOne Helpdesk](https://licence1.business.gov.sg/web/frontier/contact-us).
-* If you are not sure how to complete the application form, you may wish to refer to our [LicenceOne Guide for Regulated Dealers (Step-by-Step with Screenshots)](/images/LicenceOne%20Guide%20for%20regulated%20dealers_20190820_V04Final.pdf) or [our FAQs for Precious Stones and Precious Metals Dealers](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx).
+* If you are not sure how to complete the application form, you may wish to refer to our [LicenceOne Guide for Regulated Dealers (Step-by-Step with Screenshots)](/images/LicenceOne%20Guide%20for%20regulated%20dealers_20190820_V04Final.pdf) or [our FAQs for Precious Stones and Precious Metals Dealers](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx){:target="_blank"}.
