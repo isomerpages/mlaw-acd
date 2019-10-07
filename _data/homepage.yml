@@ -34,7 +34,7 @@ key-highlights:
   - title: List of Registered Dealers
     description: Registered dealers with MinLaw
     url: /list-of-registered-dealers/
-    external: false
+    external: true
   - title: Notices
     description: Notices for regulated dealers
     url: /news/notices/
