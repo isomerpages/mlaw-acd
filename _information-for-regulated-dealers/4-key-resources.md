@@ -41,3 +41,4 @@ collection_name: information-for-regulated-dealers
 
 * [Singapore National Risk Assessment Report 2013](/images/Singapore%20NRA%20Report%202013_24032015.pdf)
 
+Please refer to notices made by the Registrar of Regulated Dealers to regulated dealers under the [Notices](/news/notices) section.
