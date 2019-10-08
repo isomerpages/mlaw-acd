@@ -13,7 +13,7 @@ It is an <u>offence</u> if you act or hold out to be a regulated dealer without 
 
 Depending on the complexity of the application, it may take up to <u>4 weeks</u> for the Registrar to process an application for registration before granting the registration. It may take longer if additional information is required. You are therefore advised to submit an application <u>immediately</u>.
 
-The public may access the [List of Registered Dealers](https://acd.mlaw.gov.sg/list-of-registered-dealers/).
+The public may access the [List of Registered Dealers](/list-of-registered-dealers/).
 
 ### <a id="Who is required to register?"></a> Who is required to register?
 You are required to register with the Registrar of Regulated Dealers if you are a regulated dealer i.e. you carry on a business of regulated dealing in precious stones, precious metals and/or precious products ("**PSPMs**"), or as an intermediary for regulated dealing in PSPMs. <br><br>
