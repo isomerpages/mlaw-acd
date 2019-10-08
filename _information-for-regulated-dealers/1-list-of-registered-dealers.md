@@ -6,7 +6,7 @@ breadcrumb: List of Registered Dealers
 collection_name: information-for-regulated-dealers
 ---
 
-Click [here](/l7h6iu3ry06n0j4d2yq8z1p3){:target="_blank"} to view the complete list of registered dealers<sup>1</sup> in Singapore.
+Click [here](/7h6iu3ry06n0j4d2yq8z1p3){:target="_blank"} to view the complete list of registered dealers<sup>1</sup> in Singapore.
 
 **Note:** The registered dealers in the list are regulated by the Registrar of Regulated Dealers for anti-money laundering and countering the financing of terrorism in their business of regulated dealing<sup>2</sup> or business as intermediaries for regulated dealing.
 
