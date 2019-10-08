@@ -7,26 +7,14 @@ collection_name: information-for-regulated-dealers
 ---
 <a href="#Who is required to register?">Who is required to register? </a> | <a href="#The registration process">The registration process </a> | <a href="#Information you need for registration">Information you need for registration </a> | <a href="#Fees and period of registration">Fees and period of registration </a> | <a href="#I need help with registering">I need help with registering </a>
 ### Register Now!
-If you are a regulated dealer <u>existing before 10 April 2019</u> and intend to continue a business as a regulated dealer, you should submit your application to register <u>immediately</u> via the [LicenceOne portal](https://licence1.business.gov.sg/web/frontier/home). 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;border:none;margin:0px auto;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 0px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 0px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
-.tg .tg-2pdv{font-size:24px;color:#b20820;border-color:inherit;text-align:left;vertical-align:top}
-@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;margin: auto 0px;}}</style>
-<div class="tg-wrap"><table class="tg">
-  <tr>
-    <td class="tg-2pdv"><span style="color:rgb(178, 8, 56)">After 9 October 2019, it will be an offence if you continue to act as or hold out to be a regulated dealer without being registered or exempted.</span><br></td>
-  </tr>
-</table></div>
-If you are a <u>new</u> regulated dealer, you must be registered <u>before</u> you commence any regulated dealing.
+It is an <u>offence</u> if you act or hold out to be a regulated dealer without being registered or exempted. 
 
 You will be alerted and invited to workshops to help you comply with regulatory requirements.<sup>1</sup>
 <br>
 
 **Enforcement actions will be conducted to detect unregistered dealers.** Any person who acts as or holds out to be a regulated dealer without being registered or exempted, may face criminal penalties of up to S$75,000 in fine and/or up to 3 years' imprisonment.
 
-Depending on the complexity of the application, it may take up to <u>4-6 weeks</u> for the Registrar to process an application for registration before granting the registration. It may take longer if additional information is required. You are therefore advised to submit an application <u>immediately</u>, especially if you are an existing regulated dealer and intend to continue a business as a regulated dealer.
+Depending on the complexity of the application, it may take up to <u>4 weeks</u> for the Registrar to process an application for registration before granting the registration. It may take longer if additional information is required. You are therefore advised to submit an application <u>immediately</u>.
 
 The public may access the [List of Registered Dealers](https://acd.mlaw.gov.sg/list-of-registered-dealers/).
 
