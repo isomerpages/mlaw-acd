@@ -11,7 +11,7 @@ It is an <u>offence</u> if you act or hold out to be a regulated dealer without 
 
 **Enforcement actions will be conducted to detect unregistered dealers.** Any person who acts as or holds out to be a regulated dealer without being registered or exempted, may face criminal penalties of up to S$75,000 in fine and/or up to 3 years' imprisonment.
 
-Depending on the complexity of the application, it may take up to <u>4 weeks</u> for the Registrar to process an application for registration before granting the registration. It may take longer if additional information is required. You are therefore advised to submit an application <u>immediately</u>.
+Depending on the complexity of the application, it may take up to 4 weeks for the Registrar to process an application for registration before granting the registration. It may take longer if additional information is required. You are therefore advised to submit an application <u>immediately</u>.
 
 The public may access the [List of Registered Dealers](/list-of-registered-dealers/).
 
