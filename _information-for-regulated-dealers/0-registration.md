@@ -9,27 +9,11 @@ collection_name: information-for-regulated-dealers
 ### Register Now!
 It is an <u>offence</u> if you act or hold out to be a regulated dealer without being registered or exempted. 
 
-You will be alerted and invited to workshops to help you comply with regulatory requirements.<sup>1</sup>
-<br>
-
 **Enforcement actions will be conducted to detect unregistered dealers.** Any person who acts as or holds out to be a regulated dealer without being registered or exempted, may face criminal penalties of up to S$75,000 in fine and/or up to 3 years' imprisonment.
 
 Depending on the complexity of the application, it may take up to <u>4 weeks</u> for the Registrar to process an application for registration before granting the registration. It may take longer if additional information is required. You are therefore advised to submit an application <u>immediately</u>.
 
 The public may access the [List of Registered Dealers](https://acd.mlaw.gov.sg/list-of-registered-dealers/).
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-xldj{border-color:inherit;text-align:left}
-</style>
-<table class="tg">
-  <tr>
-    <th class="tg-xldj"><span style="font-weight:bold">Note:</span><br><span style="font-style:inherit"><sup>1</sup> The regulatory requirements in Part 3 of the PSPM Act have been in effect from 10 April 2019.</span></th>
-  </tr>
-</table>
-
 
 ### <a id="Who is required to register?"></a> Who is required to register?
 You are required to register with the Registrar of Regulated Dealers if you are a regulated dealer i.e. you carry on a business of regulated dealing in precious stones, precious metals and/or precious products ("**PSPMs**"), or as an intermediary for regulated dealing in PSPMs. <br><br>
