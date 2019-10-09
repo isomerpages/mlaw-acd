@@ -1,8 +1,8 @@
 ---
 layout: datagovsg-search
-title: List of Dealers
-permalink: /list-of-dealers/
-breadcrumb: List of Dealers
+title: List of Registered Dealers (as of 9 Oct 2019)
+permalink: /7h6iu3ry06n0j4d2yq8z1p3/
+breadcrumb: List of Registered Dealers
 collection_name: 
-datagovsg-id: 9516b864-1e3c-495e-8e92-4f48ed13334d
+datagovsg-id:
 ---

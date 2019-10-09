@@ -31,7 +31,7 @@ collection_name: information-for-regulated-dealers
 
 * [Financial Action Task Force - 40 Recommendations](http://www.fatf-gafi.org/publications/fatfrecommendations/documents/fatf-recommendations.html)
 
-* [Financial Action Task Force – February 2019 Public Statement: Jurisdictions which FATF has called for countermeasures or enhanced customer due diligence against](https://www.fatf-gafi.org/publications/high-risk-and-other-monitored-jurisdictions/documents/public-statement-february-2019.html)
+* [Financial Action Task Force – High-risk and other monitored jurisdictions](https://www.fatf-gafi.org/countries/#high-risk)
 
 * [Financial Action Task Force Methodology for assessing compliance with the FATF Recommendations and the effectiveness of AML/CFT](http://www.fatf-gafi.org/publications/mutualevaluations/documents/fatf-methodology.html)
 
@@ -41,3 +41,4 @@ collection_name: information-for-regulated-dealers
 
 * [Singapore National Risk Assessment Report 2013](/images/Singapore%20NRA%20Report%202013_24032015.pdf)
 
+Please refer to notices made by the Registrar of Regulated Dealers to regulated dealers under the [Notices](/news/notices) section.
