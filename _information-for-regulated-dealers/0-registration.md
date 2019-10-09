@@ -6,14 +6,12 @@ breadcrumb: Registration of Regulated Dealers
 collection_name: information-for-regulated-dealers
 ---
 <a href="#Who is required to register?">Who is required to register? </a> | <a href="#The registration process">The registration process </a> | <a href="#Information you need for registration">Information you need for registration </a> | <a href="#Fees and period of registration">Fees and period of registration </a> | <a href="#I need help with registering">I need help with registering </a>
-### Register Now!
-It is an <u>offence</u> if you act or hold out to be a regulated dealer without being registered or exempted. 
+
+It is an <u>offence</u> if you act or hold out to be a regulated dealer without being registered or exempted. You must be registered before you commence any regulated dealing.
 
 **Enforcement actions will be conducted to detect unregistered dealers.** Any person who acts as or holds out to be a regulated dealer without being registered or exempted, may face criminal penalties of up to S$75,000 in fine and/or up to 3 years' imprisonment.
 
-Depending on the complexity of the application, it may take around 4 weeks for the Registrar to process an application for registration before granting the registration. It may take longer if additional information is required. You are therefore advised to submit an application <u>immediately</u>.
-
-Registered dealers will be alerted and invited to workshops to help you comply with regulatory requirements.<sup>1</sup>
+Depending on the complexity of the application, it may take around 4 weeks for the Registrar to process an application for registration before granting the registration. It may take longer if additional information is required. Registered dealers will be alerted and invited to workshops to help you comply with regulatory requirements.<sup>1</sup>
 <br>
 
 The public may access the [List of Registered Dealers](/list-of-registered-dealers/).
