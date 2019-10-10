@@ -12,8 +12,6 @@ Click [here](/images/List%20of%20Registered%20Dealers%2020191009.pdf){:target="_
 
 * The registered dealers in the list are regulated by the Registrar of Regulated Dealers for anti-money laundering and countering the financing of terrorism in their business of regulated dealing<sup>2</sup> or business as intermediaries for regulated dealing.
 
-* If you are a regulated dealer existing before 10 April 2019, you have a transition period of 6 months to obtain your Certificate of Registration ("**CoR**") by 9 October 2019. Your organisation name will be reflected on the list after 9 October 2019.
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border-width:1px;border-style:solid;border-color:black;margin:0px auto;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 0px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
