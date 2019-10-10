@@ -5,8 +5,8 @@ permalink: /registration/
 breadcrumb: Registration of Regulated Dealers
 collection_name: information-for-regulated-dealers
 ---
-<a href="Who is required to register?">Who is required to register? </a> | <a href="#The registration process">The registration process </a> | <a href="#Information you need for registration">Information you need for registration </a> | <a href="#Fees and period of registration">Fees and period of registration </a> | <a href="#I need help with registering">I need help with registering </a>
-
+<a href="#Who is required to register?">Who is required to register? </a> | <a href="#The registration process">The registration process </a> | <a href="#Information you need for registration">Information you need for registration </a> | <a href="#Fees and period of registration">Fees and period of registration </a> | <a href="#I need help with registering">I need help with registering </a>
+###  
 It is an <u>offence</u> if you act or hold out to be a regulated dealer without being registered or exempted. You must be registered before you commence any regulated dealing.
 
 **Enforcement actions will be conducted to detect unregistered dealers.** Any person who acts as or holds out to be a regulated dealer without being registered or exempted, may face criminal penalties of up to S$75,000 in fine and/or up to 3 years' imprisonment.
