@@ -13,7 +13,7 @@ The Anti-Money Laundering/Countering the Financing of Terrorism Division (“**A
 [Conference Presentation Slides (PDF)](/images/OBC_Slides_20190710.pdf)<br>
 [Registration Brochure (PDF)](/images/Registration%20brochure%20for%20Regulated%20Dealers.pdf)<br>
 [Registration Leaflet (PDF)](/images/Registration%Leaflet_20190701_V04Final.pdf)<br>
-[LicenceOne Guide for Regulated Dealers (PDF)](/images/LicenceOne%20Guide%20for%20regulated%20dealers_20190820_V04Final.pdf)<br>
+[LicenceOne Guide for Regulated Dealers (PDF)](/images/LicenceOne%20Guide%20for%20Regulated%20Dealers_ACD_20191015_V05Final.pdf)<br>
 [Notice for Customers (PDF)](/images/Notice%20for%20Customers%20-%20PSPM%20Act.pdf)<br>
 [Guidelines for Regulated Dealers (PDF)](/images/Guidelines%20for%20regulated%20dealers_20190828_V1.1Final.pdf)<br>
 [Guidelines for Regulated Dealers_Annexes (MSWord)](/images/Guidelines%20for%20regulated%20dealers_Annexes_20190828_V1.1Final.docx)<br>
