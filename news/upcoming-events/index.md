@@ -1,6 +1,6 @@
 ---
 layout: resources-alt
-title: Upcoming Events
+title: Ongoing Events
 permalink: /news/ongoing-events/
 breadcrumb: Ongoing Events
 ---
