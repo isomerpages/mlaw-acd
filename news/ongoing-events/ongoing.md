@@ -1,4 +1,3 @@
-
 ---
 layout: resources-alt
 title: Ongoing Events
