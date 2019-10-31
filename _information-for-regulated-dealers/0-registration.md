@@ -38,7 +38,7 @@ Please refer to the [PSPM Act](https://sso.agc.gov.sg/Act/PSPMPMLTFA2019) for th
 ### <a id="The registration process"></a> The registration process
 <a href="/images/Overview%20of%20Reg%20Process%2020191031.pdf"><img src="/images/Overview%20of%20Reg%20Process%2020191031.png"></a> <br>
 
-You may submit your application via the [GoBusiness Licensing Portal](https://licence1.business.gov.sg/web/frontier/home). You may refer to the [GoBusiness Licensing Guide for Regulated Dealers](/images/GoBusiness%20Licensing%20Guide%20for%20Regulated%20Dealers_ACD_20191031_V06Final.pdf) for a step-by-step guide to the application process.
+You may submit your application via the [GoBusiness Licensing Portal](https://www.gobusiness.gov.sg/licences). You may refer to the [GoBusiness Licensing Guide for Regulated Dealers](/images/GoBusiness%20Licensing%20Guide%20for%20Regulated%20Dealers_ACD_20191031_V06Final.pdf) for a step-by-step guide to the application process.
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
@@ -62,12 +62,12 @@ You may submit your application via the [GoBusiness Licensing Portal](https://li
   </tr>
   <tr>
     <td class="tg-fymr">Singapore</td>
-    <td class="tg-0pky">Log onto <a href="https://licence1.business.gov.sg/web/frontier/home">GoBusiness Licensing Portal</a> using your <a href="https://licence1.business.gov.sg/web/frontier/help/corppass-in-licenceone">CorpPass Account</a><sup>1</sup>.</td>
-    <td class="tg-0pky" rowspan="2">If you are a <span style="font-weight:bold;text-decoration:underline">sole proprietor</span>, log onto <a href="https://licence1.business.gov.sg/web/frontier/home">GoBusiness Licensing Portal</a> using your <a href="https://licence1.business.gov.sg/web/frontier/help/corppass-in-licenceone">CorpPass Account</a><sup>1</sup>.<br><br>If you are conducting business in your personal capacity, contact ACD <a href="https://www.mlaw.gov.sg/about-us/contact-us">here</a>.</td>
+    <td class="tg-0pky">Log onto <a href="https://www.gobusiness.gov.sg/licences">GoBusiness Licensing Portal</a> using your <a href="https://www.gobusiness.gov.sg/licences">CorpPass Account</a><sup>1</sup>.</td>
+    <td class="tg-0pky" rowspan="2">If you are a <span style="font-weight:bold;text-decoration:underline">sole proprietor</span>, log onto <a href="https://www.gobusiness.gov.sg/licences">GoBusiness Licensing Portal</a> using your <a href="https://www.gobusiness.gov.sg/licences">CorpPass Account</a><sup>1</sup>.<br><br>If you are conducting business in your personal capacity, contact ACD <a href="https://www.mlaw.gov.sg/about-us/contact-us">here</a>.</td>
   </tr>
   <tr>
     <td class="tg-0pky"><span style="font-weight:bold">Not Singapore</span><br><br><br>Note: a foreign dealer who carries on business for not more than 90 days a year in Singapore need NOT register.</td>
-    <td class="tg-0pky">Log onto <a href="https://licence1.business.gov.sg/web/frontier/home">GoBusiness Licensing Portal</a> using your <a href="https://licence1.business.gov.sg/web/frontier/help/corppass-in-licenceone">CorpPass Account</a><sup>1</sup>.<br><br><br>Business entities not registered in Singapore require a Unique Entity Number (UEN) to transact. An entity may obtain a UEN by registering itself with an appropriate UEN Issuance agency as listed in www.uen.gov.sg under the link <a href="https://www.uen.gov.sg/ueninternet/faces/pages/admin/aboutUEN.jspx">"Who will issue UEN to me?"</a></td>
+    <td class="tg-0pky">Log onto <a href="https://www.gobusiness.gov.sg/licences">GoBusiness Licensing Portal</a> using your <a href="https://www.gobusiness.gov.sg/licences">CorpPass Account</a><sup>1</sup>.<br><br><br>Business entities not registered in Singapore require a Unique Entity Number (UEN) to transact. An entity may obtain a UEN by registering itself with an appropriate UEN Issuance agency as listed in www.uen.gov.sg under the link <a href="https://www.uen.gov.sg/ueninternet/faces/pages/admin/aboutUEN.jspx">"Who will issue UEN to me?"</a></td>
   </tr>
   <tr>
     <td class="tg-0pky" colspan="3"><sup>1</sup>Your CorpPass Administrator should also create CorpPass User accounts for your GoBusiness Licensing users and select the entity’s e-Services “Ministry of Trade’s GoBusiness Licensing” during account creation.</td>
@@ -103,7 +103,7 @@ You may submit your application via the [GoBusiness Licensing Portal](https://li
 
 ### <a id="Fees and period of registration"></a> Fees and period of registration
 <b>Fees</b><br>
-Regulated dealers must pay an application fee of S$140 for each application to register with the Registrar. All payment must be made through [GoBusiness Licensing Portal](https://licence1.business.gov.sg/web/frontier/home) using the following e-payment methods: PayPal, VISA, MasterCard, American Express and Discover.<br><br>
+Regulated dealers must pay an application fee of S$140 for each application to register with the Registrar. All payment must be made through [GoBusiness Licensing Portal](https://www.gobusiness.gov.sg/licences) using the following e-payment methods: PayPal, VISA, MasterCard, American Express and Discover.<br><br>
 If the Registrar provides in-principle approval for their application, regulated dealers must pay a registration fee of S$300 per place of business per year calculated based on the number of outlets they operate and the period for which they register.
 <table>
   <tr>
@@ -176,5 +176,5 @@ ABC Pte Ltd must pay a total of <b>S$1,940</b>:<br>
 ### <a id="I need help with registering"></a>I need help with registering
 <a href="/images/Helplines_20191031.pdf"><img src="/images/Helplines_20191031.png"></a>
 
-* If you face any technical issues when using GoBusiness Licensing Portal, you may wish to refer to the [GoBusiness Licensing Portal webpage](https://licence1.business.gov.sg/web/frontier/help/apply-for-new-licence) or contact the [GoBusiness Licensing Portal Helpdesk](https://licence1.business.gov.sg/web/frontier/contact-us).
+* If you face any technical issues when using GoBusiness Licensing Portal, you may wish to refer to the [GoBusiness Licensing Portal webpage](https://www.gobusiness.gov.sg/licences) or contact the [GoBusiness Licensing Portal Helpdesk](https://www.gobusiness.gov.sg/licences).
 * If you are not sure how to complete the application form, you may wish to refer to our [GoBusiness Licensing Portal Guide for Regulated Dealers (Step-by-Step with Screenshots)](/images/GoBusiness%20Licensing%20Guide%20for%20Regulated%20Dealers_ACD_20191031_V06Final.pdf) or [our FAQs for Precious Stones and Precious Metals Dealers](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx){:target="_blank"}.
