@@ -1,6 +1,6 @@
 ---
 layout: resources-alt
-title: Ongoing Events
-permalink: /news/ongoing-events/
-breadcrumb: Ongoing Events
+title: Upcoming Events
+permalink: /news/upcoming-events/
+breadcrumb: Upcoming Events
 ---
