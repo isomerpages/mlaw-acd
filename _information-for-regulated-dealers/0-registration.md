@@ -174,7 +174,7 @@ ABC Pte Ltd must pay a total of <b>S$1,940</b>:<br>
 
 
 ### <a id="I need help with registering"></a>I need help with registering
-<a href="/images/Helplines.pdf"><img src="/images/Helplines.png"></a>
+<a href="/images/Helplines_20191031.pdf"><img src="/images/Helplines_20191031.png"></a>
 
 * If you face any technical issues when using GoBusiness Licensing Portal, you may wish to refer to the [GoBusiness Licensing Portal webpage](https://licence1.business.gov.sg/web/frontier/help/apply-for-new-licence) or contact the [GoBusiness Licensing Portal Helpdesk](https://licence1.business.gov.sg/web/frontier/contact-us).
 * If you are not sure how to complete the application form, you may wish to refer to our [GoBusiness Licensing Portal Guide for Regulated Dealers (Step-by-Step with Screenshots)](/images/GoBusiness%20Licensing%20Guide%20for%20Regulated%20Dealers_ACD_20191031_V06Final.pdf) or [our FAQs for Precious Stones and Precious Metals Dealers](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx){:target="_blank"}.
