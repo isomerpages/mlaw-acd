@@ -1,8 +1,8 @@
 ---
 layout: post
-title: October 2019 FATF Public Statement: Countries or jurisdictions with strategic deficiencies
+title: October 2019 FATF Public Statement - Countries or jurisdictions with strategic deficiencies
 date: 2019-11-05
-permalink: /news/notices/oct-2019-fatf-public-statement
+permalink: /news/notices/october-2019-fatf-public-statement
 ---
 
 Pursuant to regulation 7(2)(a)(ii) of the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations (“**PMLTF Regulations**”), the Registrar of Regulated Dealers hereby notifies all regulated dealers that the Financial Action Task Force (“**FATF**”) has issued a Public Statement dated October 2019, in which it has called for:
