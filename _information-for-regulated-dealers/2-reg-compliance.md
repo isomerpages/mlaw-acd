@@ -69,4 +69,4 @@ Under this regime, the requirements that apply to regulated dealers include, but
 * Conduct risk assessments to determine the ML/TF risk posed by its customers and transactions.
 * Put in place internal policies, procedures and controls to mitigate the specific ML/TF risks identified by their risk assessments.
 * Refer to notices made by the Registrar of Regulated Dealers to regulated dealers under the [Notices](/news/notices) section.
-* Refer to the [Duty to notify Registrar of Changes](/duty-to-notify-registrar-of-changes/) section for registered dealers to notify Registrar on amendments in particulars and circumstances.
+* Notify the Registrar of Regulated Dealers on amendments to particulars and circumstances. Refer to the [Duty to notify Registrar of Changes](/duty-to-notify-registrar-of-changes/) section.
