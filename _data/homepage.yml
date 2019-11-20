@@ -53,7 +53,7 @@ info-sections:
     section-image-path: /images/Overview of registration process.PNG
   - section-title: Ongoing Events
     section-subtitle: Onboarding Workshops
-    section-description:  The session is useful. Very informative.
+    section-description:  The session is useful. Very informative.<br><P align=right>- Onboarding Workshop Attendee</P></br>
     section-more-button: Learn more
     section-more-button-url: /news/ongoing-events/Induction-Briefings/
     section-image-path: /images/Overview of registration process.PNG
