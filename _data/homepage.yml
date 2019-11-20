@@ -52,12 +52,7 @@ info-sections:
     section-more-button-url: /news/ongoing-events/Induction-Briefings/
     section-image-path: /images/Overview of registration process.PNG
 
-  - section-title: Ongoing Events
-    section-subtitle: Onboarding Workshops for Compliance Officer
-    section-description: The Onboarding Workshop aims to enable the compliance officer of registered dealers to: (a) Perform an assessment of the money laundering (“ML”) and terrorism financing (“TF”) risks faced by their business; and (b) Develop internal policies, procedures and controls (“IPPC”) to manage and effectively mitigate the ML/TF risks.
-    section-more-button: Learn more
-    section-more-button-url: /news/ongoing-events/Onboarding-Workshops-for-Compliance-Officer/
-    section-image-path: /images/Overview of registration process.PNG
+
 
 
 resources-title: News for Regulated Dealers
