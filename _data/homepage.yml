@@ -44,6 +44,13 @@ key-highlights:
     url: /guidance-materials/
     external: false
 
+info-sections:
+  - section-title: 
+    section-subtitle: Induction Briefing
+    section-description: The aim of the briefing is to provide an overview of the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019 (“PSPM Act”).
+    section-more-button-url: /news/ongoing-events/_posts/2019-10-31-Induction-Briefings.md
+    section-image-path: /images/Overview of registration process.PNG
+
 resources-title: News for Regulated Dealers
 resources-subtitle: Latest News
 resources-more-button: More Information
