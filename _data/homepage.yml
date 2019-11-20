@@ -53,9 +53,9 @@ info-sections:
     section-image-path: /images/Overview of registration process.PNG
   - section-title: Ongoing Events
     section-subtitle: Onboarding Workshops
-    section-description:  <i>The session is useful. Very informative.</i><br><P align=right>- Feedback from registered dealer</P></br>
+    section-description:  <P align=justify><i>The session is useful. Very informative.</i></P><br><P align=right>- Feedback from registered dealer</P></br>
     section-more-button: Learn more
-    section-more-button-url: /news/ongoing-events/Induction-Briefings/
+    section-more-button-url: /news/ongoing-events/Onboarding-Workshops-for-Compliance-Officer/
     section-image-path: /images/Overview of registration process.PNG
 
 resources-title: News for Regulated Dealers
