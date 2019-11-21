@@ -10,10 +10,10 @@ collection_name: information-for-regulated-dealers
 
 #### [1. Guidelines for Regulated Dealers in the Precious Stones and Precious Metals Dealers Sector on Anti-Money Laundering/Countering the Financing of Terrorism ("**Guidelines**")](/images/Guidelines%20for%20regulated%20dealers_20190828_V1.1Final.pdf)
 <a id="guidance"></a>
-<P align=justify>The [Guidelines](/images/Guidelines%20for%20regulated%20dealers_20190828_V1.1Final.pdf) are meant to help regulated dealers understand the regulatory requirements under the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act and Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations.<a href="#footnote1"></a><br><br> 
+The [Guidelines](/images/Guidelines%20for%20regulated%20dealers_20190828_V1.1Final.pdf) are meant to help regulated dealers understand the regulatory requirements under the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act and Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations.<a href="#footnote1"></a><br><br> 
 The Guidelines also provide sample forms and checklists to assist regulated dealers in meeting their regulatory obligations.  <b>However, regulated dealers remain responsible for ensuring that their AML/CFT measures are appropriately designed for their business and commensurate with their ML/TF risk exposure.</b><br><br>
 The sample forms and checklists in the Annexes of the Guidelines are also available in [MS Word format](/images/Guidelines%20for%20regulated%20dealers_Annexes_20190828_V1.1Final.docx) for ease of editing.
-<br><br></P>
+<br><br>
 
 #### [2. GoBusiness Licensing Guide for Precious Stones and Precious Metals Dealers ("**GoBusiness Licensing Guide**")](/images/GoBusiness%20Licensing%20Guide%20for%20Regulated%20Dealers_ACD_20191031_V06Final.pdf)
 <a id="guidance"></a>
