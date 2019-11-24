@@ -27,7 +27,7 @@ column:
 
   - title: Contact Us @ OneMinLaw
     content:
-    - line: Have questions?<br><a href="https://www.mlaw.gov.sg/eservices/enquiry/"><img src="/images/mlaw-contactus.png"></a>
+    - line: Have questions?<br><a href="https://eservices.mlaw.gov.sg/enquiry/"><img src="/images/mlaw-contactus.png"></a>
 
 # Image
 image-url:
