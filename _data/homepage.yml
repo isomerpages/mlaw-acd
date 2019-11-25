@@ -44,6 +44,20 @@ key-highlights:
     url: /guidance-materials/
     external: false
 
+info-sections:
+  - section-title: Ongoing Events
+    section-subtitle: Induction Briefings
+    section-description: <P align=justify><i>It was a well organised session and guided to all of us professionally and briefly.</i></P><br><P align=right>- Feedback from registered dealer</P></br>
+    section-more-button: Learn more
+    section-more-button-url: /news/ongoing-events/Induction-Briefings/
+    section-image-path: /images/Induction Briefing Photo.jpg
+  - section-title: Ongoing Events
+    section-subtitle: Onboarding Workshops
+    section-description:  <P align=justify><i>Presenter is detailed and clear in his sharing. Great explanation!</i></P><br><P align=right>- Feedback from registered dealer</P></br>
+    section-more-button: Learn more
+    section-more-button-url: /news/ongoing-events/Onboarding-Workshops-for-Compliance-Officer/
+    section-image-path: /images/OBW photo.jpg
+
 resources-title: News for Regulated Dealers
 resources-subtitle: Latest News
 resources-more-button: More Information
