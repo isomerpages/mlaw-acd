@@ -53,7 +53,7 @@ info-sections:
     section-image-path: /images/Induction Briefing Photo.jpg
   - section-title: Ongoing Events
     section-subtitle: Onboarding Workshops
-    section-description:  <P align=justify><i><br>Presenter is detailed and clear in his sharing. Great explanation!</br></i></P><br><P align=right>- Feedback from registered dealer</P></br>
+    section-description:  <P align=justify><i><br>Presenter is detailed and clear in his sharing. Great explanation!<P align=right>- Feedback from registered dealer</P></br></i>
     section-more-button: Learn more
     section-more-button-url: /news/ongoing-events/Onboarding-Workshops-for-Compliance-Officer/
     section-image-path: /images/OBW photo.jpg
