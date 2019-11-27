@@ -15,4 +15,4 @@ The Onboarding Workshop aims to enable the compliance officer of registered deal
 
 An invitation email from ACD will be sent to registered dealers to sign up for the onboarding workshop. Registered dealers may refer to the ["**FAQs**"](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx){:target="_blank"} under the Precious Stones and Precious Metals Dealers section for Frequently Asked Questions relating to the regulatory regime.
 
-For further queries, please click [here](https://www.mlaw.gov.sg/eservices/enquiry/){:target="_blank"}.
+For further queries, please click [here](https://eservices.mlaw.gov.sg/enquiry/){:target="_blank"}.
