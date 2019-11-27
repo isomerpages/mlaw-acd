@@ -13,4 +13,4 @@ An invitation email from ACD will be sent to registered dealers to sign up for t
 You may download the presentation slides [here](/images/IB_Slides_English_20191114_V2.pdf) (English) and [here](/images/IB_Slides_Chinese_20191029_V02Final.pdf) (Mandarin).<br>
 Please refer to the [Guidance Materials section](/guidance-materials/) for guidances.
 
-For further queries, please click [here](https://www.mlaw.gov.sg/eservices/enquiry/){:target="_blank"}.
+For further queries, please click [here](https://eservices.mlaw.gov.sg/enquiry/){:target="_blank"}.
