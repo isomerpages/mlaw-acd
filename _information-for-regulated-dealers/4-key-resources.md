@@ -20,12 +20,10 @@ collection_name: information-for-regulated-dealers
   
 * [Monetary Authority of Singapore ("**MAS**") website - Lists of Designated Individuals and Entities](https://www.mas.gov.sg/regulation/anti-money-laundering/targeted-financial-sanctions/lists-of-designated-individuals-and-entities)
   
-* Suspicious Transaction Reporting Office ("**STRO**")
+* [Suspicious Transaction Reporting Office ("**STRO**")](https://www.police.gov.sg/advisories/crime/commercial-crimes/suspicious-transaction-reporting-office)
   * Please select the following for more information regarding:
-    * [STRO](https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office)
-    * [Cash Transaction Report ("**CTR**")](https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office/cash-transaction-reporting#content)
-    * [Suspicious Transaction Report ("**STR**")](https://www.police.gov.sg/about-us/organisational-structure/specialist-staff-departments/commercial-affairs-department/aml-cft/suspicious-transaction-reporting-office/suspicious-transaction-reporting#content)
-    * [STRO Online Notices and Reporting Platform ("**SONAR**")](https://www.police.gov.sg/e-services/report/stro-online-notices-and-reporting-platform)
+    * [Cash Transaction Report ("**CTR**") & Suspicious Transaction Report ("**STR**")](https://www.police.gov.sg/advisories/crime/commercial-crimes/suspicious-transaction-reporting-office)
+    * [STRO Online Notices and Reporting Platform ("**SONAR**")](https://www.police.gov.sg/sonar)
 
 #### AML/CFT Resources
 
