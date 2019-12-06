@@ -5,7 +5,7 @@ permalink: /what-do-regulated-dealers-have-to-do/
 breadcrumb: What do regulated dealers have to do
 collection_name: information-for-regulated-dealers
 ---
-#### Supervisory Expectation of Regulated Dealers
+#### Supervisory Expectations of Regulated Dealers
 <a href="/images/ACD-Supervisory Expectation-5Dec19.pdf"><img src="/images/ACD-Supervisory-Expectation-5Dec19.jpg"></a>
 
 #### What do regulated dealers have to do?
