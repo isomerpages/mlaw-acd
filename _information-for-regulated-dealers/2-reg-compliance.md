@@ -48,8 +48,7 @@ Asset-backed tokens **do not include** securities or derivative contracts within
 
 #### <a id="Supervisory Expectations of a Regulated Dealer"></a>Supervisory Expectations of a Regulated Dealer
 
-<a href="/images/ACD-Supervisory%20Expectation-5Dec19.pdf"><img src="/images/ACD-Supervisory%20Expectation-5Dec19.jpg"></a>
-
+<a href="/images/ACD-Supervisory Expectation-5Dec19.pdf"><img src="/images/ACD-Supervisory-Expectation-5Dec19.jpg"></a>
 
 #### <a id="What do regulated dealers have to do?"></a>What do regulated dealers have to do?
 Under this regime, the requirements that apply to regulated dealers include, but are not limited to, the following:
