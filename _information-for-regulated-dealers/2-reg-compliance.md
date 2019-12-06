@@ -5,17 +5,10 @@ permalink: /reg-compliance/
 breadcrumb: Regulatory Compliance
 collection_name: information-for-regulated-dealers
 ---
-<a href="#Introduction">Introduction </a> | <a href="#Overview of the regulatory regime">Overview of the regulatory regime </a> | <a href="#Who does the new regime cover?">Who does the new regime cover? </a>| <a href="#What do regulated dealers have to do?">What do regulated dealers have to do? </a>
-#### <a id="Introduction"></a>Introduction
-The Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act ("**PSPM Act**") has been in effect from 10 April 2019. It introduces a supervisory and regulatory regime for precious stones and precious metals dealers.
-
-The precious stones and precious metals sector is exposed to inherent money laundering ("**ML**") and terrorism financing ("**TF**") risks, as precious stones and precious metals are good stores of value, easily transported and concealed, and easily convertible to cash.
-
-The new regime will mitigate these ML and TF risks, enhance the effectiveness of Singapore's AML/CFT regime, combat crime and improve security, both domestically and globally.
+<a href="#Overview of the regulatory regime">Overview of the regulatory regime </a> | <a href="#Who does the new regime cover?">Who does the new regime cover? </a>| <a href="#Supervisory Expectations of a Regulated Dealer">Supervisory Expectations of a Regulated Dealer </a>| <a href="#What do regulated dealers have to do?">What do regulated dealers have to do? </a>
 
 #### <a id="Overview of the regulatory regime"></a>Overview of the regulatory regime
 <a href="/images/Money%20Laundering%20%26%20Terrorism%20Financing%20Risks%20in%20the%20Precious%20Stones%20and%20Precious%20Metals%20Dealers%20Sector.pdf"><img src="/images/Money%20Laundering%20%26%20Terrorism%20Financing%20Risks%20in%20the%20Precious%20Stones%20and%20Precious%20Metals%20Dealers%20Sector.png"></a>
-<a href="/images/Safeguarding%20the%20Precious%20Stones%20and%20Precious%20Metals%20Dealers%20Sector.pdf"><img src="/images/Safeguarding%20the%20Precious%20Stones%20and%20Precious%20Metals%20Dealers%20Sector.png"></a><br>
 
 #### <a id="Who does the new regime cover?"></a>Who does the new regime cover?
 The regime will cover regulated dealers.
@@ -52,6 +45,8 @@ An “asset-backed token” is any token, certificate or instrument: <br>
 (ii) that entitles the holder to the “precious stone”, “precious metal” or “precious product” or part of it (e.g. certificates or tokens).
 
 Asset-backed tokens **do not include** securities or derivative contracts within the meaning of the Securities and Futures Act, or commodity contracts within the meaning of the Commodity Trading Act. Securities contracts, derivative contracts and commodity contracts are **not** covered under the new regime.
+
+#### <a id="Supervisory Expectations of a Regulated Dealer"></a>Supervisory Expectations of a Regulated Dealer
 
 #### <a id="What do regulated dealers have to do?"></a>What do regulated dealers have to do?
 Under this regime, the requirements that apply to regulated dealers include, but are not limited to, the following:
