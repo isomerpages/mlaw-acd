@@ -5,10 +5,10 @@ permalink: /what-do-regulated-dealers-have-to-do/
 breadcrumb: What do regulated dealers have to do
 collection_name: information-for-regulated-dealers
 ---
-
+#### Supervisory Expectation of Regulated Dealers
 <a href="/images/ACD-Supervisory Expectation-5Dec19.pdf"><img src="/images/ACD-Supervisory-Expectation-5Dec19.jpg"></a>
 
-#### <a id="What do regulated dealers have to do?"></a>What do regulated dealers have to do?
+#### What do regulated dealers have to do?
 Under this regime, the requirements that apply to regulated dealers include, but are not limited to, the following:
 
 * [Register](/registration/) with the Registrar of Regulated Dealers.
