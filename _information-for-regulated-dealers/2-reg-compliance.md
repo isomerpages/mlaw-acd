@@ -9,7 +9,6 @@ collection_name: information-for-regulated-dealers
 
 #### <a id="Overview of the regulatory regime"></a>Overview of the regulatory regime
 <a href="/images/Money%20Laundering%20%26%20Terrorism%20Financing%20Risks%20in%20the%20Precious%20Stones%20and%20Precious%20Metals%20Dealers%20Sector.pdf"><img src="/images/Money%20Laundering%20%26%20Terrorism%20Financing%20Risks%20in%20the%20Precious%20Stones%20and%20Precious%20Metals%20Dealers%20Sector.png"></a>
-
 #### <a id="Who does the new regime cover?"></a>Who does the new regime cover?
 The regime will cover regulated dealers.
 
