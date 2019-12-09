@@ -5,7 +5,7 @@ permalink: /reg-compliance/
 breadcrumb: Regulatory Compliance
 collection_name: information-for-regulated-dealers
 ---
-<a href="#Overview of the regulatory regime">Overview of the regulatory regime </a> | <a href="#Who does the new regime cover?">Who does the new regime cover? </a>| <a href="#Supervisory Expectations of a Regulated Dealer">Supervisory Expectations of a Regulated Dealer </a>| <a href="#What do regulated dealers have to do?">What do regulated dealers have to do? </a>
+<a href="#Overview of the regulatory regime">Overview of the regulatory regime </a> | <a href="#Who does the new regime cover?">Who does the new regime cover? </a>| <a href="#What are the AML/CFT supervisory expectations on regulated dealers?">What are the AML/CFT supervisory expectations on regulated dealers? </a>| <a href="#What do regulated dealers have to do?">What do regulated dealers have to do? </a>
 
 #### <a id="Overview of the regulatory regime"></a>Overview of the regulatory regime
 <a href="/images/Money%20Laundering%20%26%20Terrorism%20Financing%20Risks%20in%20the%20Precious%20Stones%20and%20Precious%20Metals%20Dealers%20Sector.pdf"><img src="/images/Money%20Laundering%20%26%20Terrorism%20Financing%20Risks%20in%20the%20Precious%20Stones%20and%20Precious%20Metals%20Dealers%20Sector.png"></a>
@@ -46,7 +46,7 @@ An “asset-backed token” is any token, certificate or instrument: <br>
 
 Asset-backed tokens **do not include** securities or derivative contracts within the meaning of the Securities and Futures Act, or commodity contracts within the meaning of the Commodity Trading Act. Securities contracts, derivative contracts and commodity contracts are **not** covered under the new regime.
 
-#### <a id="Supervisory Expectations of a Regulated Dealer"></a>Supervisory Expectations of a Regulated Dealer
+#### <a id="What are the AML/CFT supervisory expectations on regulated dealers?"></a>What are the AML/CFT supervisory expectations on regulated dealers?
 
 <a href="/images/ACD-Supervisory Expectation-5Dec19.pdf"><img src="/images/ACD-Supervisory-Expectation-5Dec19.jpg"></a>
 
