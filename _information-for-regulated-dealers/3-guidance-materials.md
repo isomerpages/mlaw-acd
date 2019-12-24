@@ -15,15 +15,15 @@ The Guidelines also provide sample forms and checklists to assist regulated deal
 The sample forms and checklists in the Annexes of the Guidelines are also available in [MS Word format](/images/Guidelines%20for%20regulated%20dealers_Annexes_20190828_V1.1Final.docx) for ease of editing.
 <br><br>
 
-#### [2. GoBusiness Licensing Guide for Precious Stones and Precious Metals Dealers ("**GoBusiness Licensing Guide**")](/images/GoBusiness%20Licensing%20Guide%20for%20Regulated%20Dealers_ACD_20191127.pdf)
-<a id="guidance"></a>
-The [GoBusiness Licensing Guide](/images//GoBusiness%20Licensing%20Guide%20for%20Regulated%20Dealers_ACD_20191127.pdf) gives regulated dealers a step-by-step walkthrough of the application process in GoBusiness Licensing Portal. Regulated dealers will be shown how to login, which account to login with, and what information they need to register.<br><br> 
-
-#### [3. Notice for Customers from the Ministry of Law ("**Notice for Customers**")](/images/Notice%20for%20Customers%20-%20PSPM%20Act.pdf)
+#### [2. Notice for Customers from the Ministry of Law ("**Notice for Customers**")](/images/Notice%20for%20Customers%20-%20PSPM%20Act_20191120.pdf)
 
 The Notice for Customers explains that regulated dealers are required to collect identifying information from customers under the new regulatory regime. Regulated dealers may wish to consider using the Notice for Customers to educate their customers on the AML/CFT requirements.
 
 <a href="/images/Notice%20for%20Customers.pdf"><img src="/images/Notice%20for%20Customers.png"></a><br><br>
+
+#### [3. GoBusiness Licensing Guide for Precious Stones and Precious Metals Dealers ("**GoBusiness Licensing Guide**")](/images/GoBusiness%20Licensing%20Guide%20for%20Regulated%20Dealers_ACD_20191127.pdf)
+<a id="guidance"></a>
+The [GoBusiness Licensing Guide](/images//GoBusiness%20Licensing%20Guide%20for%20Regulated%20Dealers_ACD_20191127.pdf) gives regulated dealers a step-by-step walkthrough of the application process in GoBusiness Licensing Portal. Regulated dealers will be shown how to login, which account to login with, and what information they need to register.<br><br> 
 
 #### [4. Inter-Ministry Committee - Terrorist Designation ("**IMC-TD**") website - Terrorist Designation List](https://www.mha.gov.sg/inter-ministry-committee-terrorist-designation-(imc-td))
 
