@@ -19,7 +19,7 @@ The sample forms and checklists in the Annexes of the Guidelines are also availa
 
 The Notice for Customers explains that regulated dealers are required to collect identifying information from customers under the new regulatory regime. Regulated dealers may wish to consider using the Notice for Customers to educate their customers on the AML/CFT requirements.
 
-<a href="/images/Notice%20for%20Customers.pdf"><img src="/images/Notice%20for%20Customers.png"></a><br><br>
+<a href="/images/Notice%20For%20Customers%20-%20PSPM%20Act_20191120.pdf"><img src="/images/Notice%20For%20Customers%20-%20PSPM%20Act_20191120.jpg"></a><br><br>
 
 #### [3. GoBusiness Licensing Guide for Precious Stones and Precious Metals Dealers ("**GoBusiness Licensing Guide**")](/images/GoBusiness%20Licensing%20Guide%20for%20Regulated%20Dealers_ACD_20191127.pdf)
 <a id="guidance"></a>
