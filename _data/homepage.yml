@@ -28,21 +28,23 @@ button:
     url: /reg-compliance/
     
 key-highlights:
-  - title: Regulatory Compliance
-    description: Overview of regulatory regime
-    url: /reg-compliance/
-  - title: Duty to notify Registrar of change in particulars and circumstances
-    description: Notify on amendments
-    url: /duty-to-notify-registrar-of-change-in-particulars-and-circumstances/
-    external: false
-  - title: Notices
-    description: Notices for regulated dealers
-    url: /news/notices/
-    external: false
   - title: Guidance Materials
     description: Guidelines and references for regulated dealers
     url: /guidance-materials/
     external: false
+  - title: Duty to notify Registrar of change in particulars and circumstances
+    description: Notify on amendments
+    url: /duty-to-notify-registrar-of-change-in-particulars-and-circumstances/
+    external: false
+  - title: Registration
+    description: Overview of registration process
+    url: /registration/
+  - title: Notices
+    description: Notices for regulated dealers
+    url: /news/notices/
+    external: false
+  
+
 
 resources-title: News for Regulated Dealers
 resources-subtitle: Latest News
