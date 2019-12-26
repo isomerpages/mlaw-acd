@@ -8,7 +8,7 @@ collection_name: information-for-regulated-dealers
 
 
 
-#### [1. Guidelines for Regulated Dealers in the Precious Stones and Precious Metals Dealers Sector on Anti-Money Laundering/Countering the Financing of Terrorism ("**Guidelines**")](/images/Guidelines%20for%20regulated%20dealers_20190828_V1.1Final.pdf)
+#### [1. Guidelines for Regulated Dealers](/images/Guidelines%20for%20regulated%20dealers_20190828_V1.1Final.pdf)
 <a id="guidance"></a>
 The [Guidelines for regulated dealers](/images/Guidelines%20for%20regulated%20dealers_20190828_V1.1Final.pdf) in the Precious Stones and Precious Metals Dealers (**PSMD**) sector on Anti-Money Laundering/Countering the Financing of Terrorism (**AML/CFT**) ("**Guidelines**") are meant to help regulated dealers understand the regulatory requirements under the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act and Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations.<a href="#footnote1"></a><br><br> 
 The Guidelines also provide sample forms and checklists to assist regulated dealers in meeting their regulatory obligations.  <b>However, regulated dealers remain responsible for ensuring that their AML/CFT measures are appropriately designed for their business and commensurate with their money laundering/terrorism financing (**ML/TF**) risk exposure.</b><br><br>
