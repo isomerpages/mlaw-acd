@@ -12,7 +12,7 @@ collection_name: information-for-regulated-dealers
 <a id="guidance"></a>
 The [Guidelines](/images/Guidelines%20for%20regulated%20dealers_20190828_V1.1Final.pdf) are meant to help regulated dealers understand the regulatory requirements under the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act and Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations.<a href="#footnote1"></a><br><br> 
 The Guidelines also provide sample forms and checklists to assist regulated dealers in meeting their regulatory obligations.  <b>However, regulated dealers remain responsible for ensuring that their AML/CFT measures are appropriately designed for their business and commensurate with their ML/TF risk exposure.</b><br><br>
-The sample forms and checklists in the Annexes of the Guidelines are also available in [MS Word format](/images/Guidelines%20for%20regulated%20dealers_Annexes_20190828_V1.1Final.docx) for ease of editing.
+The [sample forms and checklists](/images/Guidelines%20for%20regulated%20dealers_Annexes_20190828_V1.1Final.docx) in the Annexes of the Guidelines are also available in Microsoft Word document format for ease of editing.
 <br><br>
 
 #### [2. Notice for Customers from the Ministry of Law ("**Notice for Customers**")](/images/Notice%20For%20Customers%20-%20PSPM%20Act_20191120.pdf)
