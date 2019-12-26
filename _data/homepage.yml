@@ -24,7 +24,7 @@ hero-banner: /images/bullion1.jpg
     
 #Call to Action Button
 button:
-  - text: **Regulatory Compliance** <br> Overview of regulatory regime
+  - text: Regulatory Compliance <br> (Overview of regulatory regime)
     url: /reg-compliance/
     
 key-highlights:
