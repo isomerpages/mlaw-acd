@@ -24,8 +24,8 @@ hero-banner: /images/bullion1.jpg
     
 #Call to Action Button
 button:
-  - text: Registration Process
-    url: /registration/
+  - text: Regulatory Compliance Overview of regulatory regime
+    url: /reg-compliance/
     
 key-highlights:
   - title: Regulatory Compliance
