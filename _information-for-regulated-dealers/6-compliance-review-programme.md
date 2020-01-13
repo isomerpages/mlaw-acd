@@ -8,7 +8,7 @@ collection_name: information-for-regulated-dealers
 
 Regulated dealers are required to comply with the Precious Stones and Precious Metals (Prevention of money laundering and terrorism financing) Act 2019 (“PSPM Act”) and Precious Stones and Precious Metals (Prevention of money laundering and terrorism financing) Regulations 2019 (“PMLTF Regulations”), and adhere to the Guidelines for Regulated Dealers in the Precious Stones and Precious Metals Dealers (“PSMD”) Sector on Anti-Money Laundering/Countering the Financing of Terrorism (“AML/CFT”).
  
-Under the Compliance Review Programme (“CRP”), Ministry of Law (“MinLaw”) has appointed a professional services firm Deloitte (“Reviewer”) to perform compliance reviews on registered dealers. Information of the Reviewers may be found below.
+Under the Compliance Review Programme (“CRP”), Ministry of Law (“MinLaw”) has appointed a professional services firm, Deloitte & Touche LLP (“Reviewer”), to perform compliance reviews on registered dealers. Information of the Reviewers may be found below.
  
 The purpose of the CRP is to assist registered dealers on their compliance with the PSPM Act and PMLTF Regulations. The Reviewer will guide registered dealers on the requirements under the PSPM Act and PMLTF regulations and recommend good AML/CFT practices. Registered dealers will undergo an onsite compliance review, and receive a report which will highlight areas for improvement on their AML/CFT measures and policies.
  
