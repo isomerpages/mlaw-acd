@@ -12,7 +12,7 @@ Under the Compliance Review Programme (“CRP”), Ministry of Law (“MinLaw”
  
 The purpose of the CRP is to assist registered dealers on their compliance with the PSPM Act and PMLTF Regulations. The Reviewer will guide registered dealers on the requirements under the PSPM Act and PMLTF regulations and recommend good AML/CFT practices. Registered dealers will undergo an onsite compliance review, and receive a report which will highlight areas for improvement on their AML/CFT measures and policies.
  
-**Scope and methodology of CRP**
+**Scope and methodology of CRP** <br>
 The compliance review will include the following areas of the registered dealer’s business of regulated dealing:
 * General information about the business activities
 * AML/CFT Risk Assessment Form
@@ -23,10 +23,6 @@ The compliance review will include the following areas of the registered dealer�
 * Record keeping
 * Staff training on IPPC
  
-**MinLaw’s follow-up action after the compliance review**
+**MinLaw’s follow-up action after the compliance review** <br>
 MinLaw may either require the Reviewer to contact the registered dealers; or follow-up with the registered dealers directly on the corrections required. The follow-up may be in the form of reports, interviews and/or inspections.
  
-**Information of Reviewers**
-* Alex Tan Ah Man
-* Benny Ho Ah Wen
-* Cindy Lim Ah Ren
