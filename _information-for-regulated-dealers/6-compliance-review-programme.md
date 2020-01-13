@@ -26,3 +26,7 @@ The compliance review will include the following areas of the registered dealerâ
 **MinLawâ€™s follow-up action after the compliance review** <br>
 MinLaw may either require the Reviewer to contact the registered dealers; or follow-up with the registered dealers directly on the corrections required. The follow-up may be in the form of reports, interviews and/or inspections.
  
+**Information of Reviewers** <br>
+1. Alex Tan Ah Man
+2. Benny Ho Ah Wen
+3. Cindy Lim Ah Ren
