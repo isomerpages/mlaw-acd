@@ -27,18 +27,19 @@ The compliance review will include the following areas of the registered dealerâ
 MinLaw may either require the Reviewer to contact the registered dealers; or follow-up with the registered dealers directly on the corrections required. The follow-up may be in the form of reports, interviews and/or inspections.
  
 **Information of Reviewers** <br>
-1. Chan Na Ching
-2. Fang Shengyu Ian
-3. Goh Guan Cong Jolvin
-4. Ho Ming Hui
-5. Koh Xuan Kai
-6. Michelle Ang Ying Zhen
-7. Ng Gui Rui
-8. Nicholas Koh Ngee Hao
-9. Ong Lay Teng Andrew
-10. Ong Ziheng, Xavier (Wang Ziheng)
-11. Siew Teck Li
-12. Tan Hong Ye
-13. Wong Kwang Yang Marcus
-14. Yee Li Yang
-15. Yeo Yu Ling
+1. Chan Na Ching, Inez
+2. Dawn Lim
+3. Fang Shengyu Ian
+4. Goh Guan Cong Jolvin
+5. Ho Ming Hui
+6. Koh Xuan Kai
+7. Michelle Ang Ying Zhen
+8. Ng Gui Rui
+9. Nicholas Koh Ngee Hao
+10. Ong Lay Teng Andrew
+11. Ong Ziheng, Xavier
+12. Siew Teck Li
+13. Tan Hong Ye
+14. Vanessa Choi
+15. Yee Li Yang
+16. Yeo Yu Ling
