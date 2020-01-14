@@ -24,10 +24,14 @@ hero-banner: /images/bullion1.jpg
     
 #Call to Action Button
 button:
-  - text: Regulatory Compliance <br> (Overview of regulatory regime)
-    url: /reg-compliance/
+  - text: Compliance Review Programme
+    url: /compliance-review-programme/
     
 key-highlights:
+  - title: Regulatory Compliance
+    description: Overview of Regulatory Regime
+    url: /reg-compliance/
+    external: false
   - title: Guidance Materials
     description: Guidelines and references for regulated dealers
     url: /guidance-materials/
@@ -39,10 +43,7 @@ key-highlights:
   - title: Registration
     description: Overview of registration process
     url: /registration/
-  - title: Notices
-    description: Notices for regulated dealers
-    url: /news/notices/
-    external: false
+
   
 
 
