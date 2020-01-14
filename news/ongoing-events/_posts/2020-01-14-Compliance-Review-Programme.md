@@ -2,7 +2,7 @@
 layout: post
 title: Compliance Review Programme
 date: 2020-01-14
-permalink: /news/ongoing-events/Compliance-Review-Programme/
+permalink: /compliance-review-programme/
 ---
 
 Regulated dealers are required to comply with the Precious Stones and Precious Metals (Prevention of money laundering and terrorism financing) Act 2019 (“PSPM Act”) and Precious Stones and Precious Metals (Prevention of money laundering and terrorism financing) Regulations 2019 (“PMLTF Regulations”), and adhere to the Guidelines for Regulated Dealers in the Precious Stones and Precious Metals Dealers (“PSMD”) Sector on Anti-Money Laundering/Countering the Financing of Terrorism (“AML/CFT”).
