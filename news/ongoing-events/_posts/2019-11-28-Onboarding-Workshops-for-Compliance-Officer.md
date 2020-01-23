@@ -13,6 +13,6 @@ The Onboarding Workshop aims to enable the compliance officer of registered deal
 
 (b) Develop internal policies, procedures and controls ("**IPPC**") to manage and effectively mitigate the ML/TF risks.
 
-An invitation email from ACD will be sent to registered dealers to sign up for the onboarding workshop. Registered dealers may also click [here](https://go.gov.sg/onboardingworkshop){:target="_blank"} to sign up for the workshop.
+Registered dealers may send your **compliance officer** to sign up for the workshop. Please click [here](https://go.gov.sg/onboardingworkshop){:target="_blank"} to sign up.
 
 Please refer to the ["**FAQs**"](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx){:target="_blank"} under the Precious Stones and Precious Metals Dealers section for Frequently Asked Questions relating to the regulatory regime. For further queries, please click [here](https://eservices.mlaw.gov.sg/enquiry/){:target="_blank"}.
