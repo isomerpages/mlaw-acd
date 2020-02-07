@@ -13,6 +13,6 @@ The Onboarding Workshop aims to enable the **compliance officer** of registered 
 
 (b) Develop internal policies, procedures and controls ("**IPPC**") to manage and effectively mitigate the ML/TF risks.
 
-Registered dealers may send your compliance officer to attend the workshop. Please click [here](https://go.gov.sg/onboardingworkshop){:target="_blank"} to sign up.
+Registered dealers may send your compliance officer to attend the workshop. Please click [here](https://go.gov.sg/onboardingworkshop){:target="_blank"} to indicate your interest.
 
 Please refer to the ["**FAQs**"](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx){:target="_blank"} under the Precious Stones and Precious Metals Dealers section for Frequently Asked Questions relating to the regulatory regime. For further queries, please click [here](https://eservices.mlaw.gov.sg/enquiry/){:target="_blank"}.
