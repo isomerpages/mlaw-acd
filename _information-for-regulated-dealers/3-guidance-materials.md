@@ -21,7 +21,37 @@ The Notice for Customers explains that regulated dealers are required to collect
 
 <a href="/images/NoticeForCustomersPoster(English)Jan2020.pdf"><img src="/images/NoticeForCustomersPoster(English)Jan2020.jpg"></a>
 
-This Notice for Customers is available in 4 languages - English, Chinese, Malay and Tamil.<br><br>
+This Notice for Customers is available in 4 languages - English, Chinese, Malay and Tamil.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-top-width:1px;border-bottom-width:1px;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-top-width:1px;border-bottom-width:1px;border-color:black;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-0lax">Language</th>
+    <th class="tg-0lax">Notice</th>
+  </tr>
+  <tr>
+    <td class="tg-0pky">English</td>
+    <td class="tg-0pky">/images/NoticeForCustomersPoster(English)Jan2020.pdf</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Chinese</td>
+    <td class="tg-0pky">PDF for Chinese</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Malay</td>
+    <td class="tg-0pky">PDF for Malay</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Tamil</td>
+    <td class="tg-0lax">PDF for Tamil</td>
+  </tr>
+</table>
 
 #### [3. GoBusiness Licensing Guide for Precious Stones and Precious Metals Dealers ("**GoBusiness Licensing Guide**")](/images/GoBusiness%20Licensing%20Guide%20for%20Regulated%20Dealers_ACD_20191127.pdf)
 <a id="guidance"></a>
