@@ -37,19 +37,19 @@ This Notice for Customers is available in 4 languages - English, Chinese, Malay 
   </tr>
   <tr>
     <td class="tg-0pky">English</td>
-    <td class="tg-0pky"> <a href="/images/NoticeForCustomersPoster(English)Jan2020.pdf" target="_blank">Notice for Customers (English PDF) (848KB)</a></td>
+    <td class="tg-0pky"> <a href="/images/NoticeForCustomersPoster(English)Jan2020.pdf" target="_blank">Notice for Customers (English PDF)</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">Chinese</td>
-    <td class="tg-0pky">PDF for Chinese</td>
+    <td class="tg-0pky"><a href="/images/NoticeForCustomersPoster(Chinese)Jan2020.pdf" target="_blank">Notice for Customers (Chinese PDF)</a></td>
   </tr>
   <tr>
     <td class="tg-0pky">Malay</td>
-    <td class="tg-0pky">PDF for Malay</td>
+    <td class="tg-0pky"><a href="/images/NoticeForCustomersPoster(Malay)Jan2020.pdf" target="_blank">Notice for Customers (Malay PDF)</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">Tamil</td>
-    <td class="tg-0lax">PDF for Tamil</td>
+    <td class="tg-0lax"><a href="/images/NoticeForCustomersPoster(Tamil)Jan2020.pdf" target="_blank">Notice for Customers (Tamil PDF)</a></td>
   </tr>
 </table>
 
