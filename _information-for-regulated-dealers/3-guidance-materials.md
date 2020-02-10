@@ -19,7 +19,7 @@ The [sample forms and checklists](/images/Guidelines%20for%20regulated%20dealers
 
 The Notice for Customers explains that regulated dealers are required to collect identifying information from customers under the new regulatory regime. Regulated dealers may wish to consider using the Notice for Customers to educate their customers on the AML/CFT requirements.
 
-<a href="/images/NoticeForCustomersPoster(English)Jan2020.pdf"><img src="/images/NoticeForCustomersPoster(English)Jan2020.jpg"></a>
+<a href="/images/NoticeForCustomersPoster(English)Feb2020.pdf"><img src="/images/NoticeForCustomersPoster(EnglishFeb2020.jpg"></a>
 This Notice for Customers is available in 4 languages - English, Chinese, Malay and Tamil.
 
 <style type="text/css">
@@ -38,19 +38,19 @@ This Notice for Customers is available in 4 languages - English, Chinese, Malay 
   </tr>
   <tr>
     <td class="tg-fymr">English</td>
-    <td class="tg-0pky"><a href="/images/NoticeForCustomersPoster(English)Jan2020.pdf" target="_blank">Notice for Customers (English PDF)</a></td>
+    <td class="tg-0pky"><a href="/images/NoticeForCustomersPoster(English)Feb2020.pdf" target="_blank">Notice for Customers (English PDF)</a></td>
   </tr>
   <tr>
     <td class="tg-fymr">Chinese</td>
-    <td class="tg-0pky"><a href="/images/NoticeForCustomersPoster(Chinese)Jan2020.pdf" target="_blank">Notice for Customers (Chinese PDF)</a></td>
+    <td class="tg-0pky"><a href="/images/NoticeForCustomersPoster(Chinese)Feb2020.pdf" target="_blank">Notice for Customers (Chinese PDF)</a></td>
   </tr>
   <tr>
     <td class="tg-fymr">Malay</td>
-    <td class="tg-0pky"><a href="/images/NoticeForCustomersPoster(Malay)Jan2020.pdf" target="_blank">Notice for Customers (Malay PDF)</a></td>
+    <td class="tg-0pky"><a href="/images/NoticeForCustomersPoster(Malay)Feb2020.pdf" target="_blank">Notice for Customers (Malay PDF)</a></td>
   </tr>
   <tr>
     <td class="tg-1wig">Tamil</td>
-    <td class="tg-0lax"><a href="/images/NoticeForCustomersPoster(Tamil)Jan2020.pdf" target="_blank">Notice for Customers (Tamil PDF)</a></td>
+    <td class="tg-0lax"><a href="/images/NoticeForCustomersPoster(Tamil)Feb2020.pdf" target="_blank">Notice for Customers (Tamil PDF)</a></td>
   </tr>
 </table>
 
