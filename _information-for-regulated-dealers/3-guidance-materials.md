@@ -13,14 +13,13 @@ collection_name: information-for-regulated-dealers
 The [Guidelines for Regulated Dealers in the Precious Stones and Precious Metals Dealers Sector on Anti-Money Laundering/Countering the Financing of Terrorism ("**Guidelines**")](/images/Guidelines%20for%20regulated%20dealers_20190828_V1.1Final.pdf) are meant to help regulated dealers understand the regulatory requirements under the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act and Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations.<a href="#footnote1"></a><br><br> 
 The Guidelines also provide sample forms and checklists to assist regulated dealers in meeting their regulatory obligations.  <b>However, regulated dealers remain responsible for ensuring that their Anti-Money Laundering/Countering the Financing of Terrorism (**AML/CFT**) measures are appropriately designed for their business and commensurate with their money laundering/terrorism financing (**ML/TF**) risk exposure.</b><br><br>
 The [sample forms and checklists](/images/Guidelines%20for%20regulated%20dealers_Annexes_20190828_V1.1Final.docx) in the Annexes of the Guidelines are also available in Microsoft Word document format for ease of editing.
-<br><br>
+<br>
 
 #### [2. Notice for Customers from the Ministry of Law ("**Notice for Customers**")](/images/Notice%20For%20Customers-27%20Dec%2019.pdf)
 
 The Notice for Customers explains that regulated dealers are required to collect identifying information from customers under the new regulatory regime. Regulated dealers may wish to consider using the Notice for Customers to educate their customers on the AML/CFT requirements.
 
 <a href="/images/NoticeForCustomersPoster(English)Jan2020.pdf"><img src="/images/NoticeForCustomersPoster(English)Jan2020.jpg"></a>
-
 This Notice for Customers is available in 4 languages - English, Chinese, Malay and Tamil.
 
 <style type="text/css">
@@ -57,12 +56,12 @@ This Notice for Customers is available in 4 languages - English, Chinese, Malay 
 
 #### [3. GoBusiness Licensing Guide for Precious Stones and Precious Metals Dealers ("**GoBusiness Licensing Guide**")](/images/GoBusiness%20Licensing%20Guide%20for%20Regulated%20Dealers_ACD_20191127.pdf)
 <a id="guidance"></a>
-The [GoBusiness Licensing Guide](/images//GoBusiness%20Licensing%20Guide%20for%20Regulated%20Dealers_ACD_20191127.pdf) gives regulated dealers a step-by-step walkthrough of the application process in GoBusiness Licensing Portal. Regulated dealers will be shown how to login, which account to login with, and what information they need to register.<br><br> 
+The [GoBusiness Licensing Guide](/images//GoBusiness%20Licensing%20Guide%20for%20Regulated%20Dealers_ACD_20191127.pdf) gives regulated dealers a step-by-step walkthrough of the application process in GoBusiness Licensing Portal. Regulated dealers will be shown how to login, which account to login with, and what information they need to register.<br> 
 
 #### [4. Monetary Authority of Singapore's ("**MAS**") website - Lists of Designated Individuals and Entities](https://www.mas.gov.sg/regulation/anti-money-laundering/targeted-financial-sanctions/lists-of-designated-individuals-and-entities)
 
 MAS publishes [list](https://www.mas.gov.sg/regulation/anti-money-laundering/targeted-financial-sanctions/lists-of-designated-individuals-and-entities) of individuals and entities designated under the United Nations Act and the Terrorism (Suppression of Financing) Act. Regulated dealers should [subscribe](https://www.mas.gov.sg/subscription-services){:target="_blank"} to the MAS mailing list to receive updated lists of designated individuals and entities. Regulated dealers are required to screen their customers against the lists before engaging in any business or commercial activity with them.<br><br>
-You may refer to the [MAS Website Subscriber Services Guide](/images/MAS%20Website%20Subscriber%20Services%20Guide_20191105_V1Final.pdf) for a step-by-step guide to the subscription process.<br><br>
+You may refer to the [MAS Website Subscriber Services Guide](/images/MAS%20Website%20Subscriber%20Services%20Guide_20191105_V1Final.pdf) for a step-by-step guide to the subscription process.<br>
 
 #### [5. Inter Ministry Committee on Terrorist Designation](https://www.mha.gov.sg/inter-ministry-committee-terrorist-designation-(imc-td))
 
