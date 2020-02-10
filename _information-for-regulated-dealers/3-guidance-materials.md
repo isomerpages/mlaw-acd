@@ -19,7 +19,7 @@ The [sample forms and checklists](/images/Guidelines%20for%20regulated%20dealers
 
 The Notice for Customers explains that regulated dealers are required to collect identifying information from customers under the new regulatory regime. Regulated dealers may wish to consider using the Notice for Customers to educate their customers on the AML/CFT requirements.
 
-<a href="/images/Notice%20For%20Customers-27%20Dec%2019.pdf"><img src="/images/Notice%20For%20Customers-27%20Dec%2019.jpg"></a><br><br>
+<a href="/images/Notice%20For%20Customers-27%20Dec%2019.pdf"><img src="/images/Notice%20For%20Customers-27%20Dec%2019.jpg"></a><br>
 
 #### [3. GoBusiness Licensing Guide for Precious Stones and Precious Metals Dealers ("**GoBusiness Licensing Guide**")](/images/GoBusiness%20Licensing%20Guide%20for%20Regulated%20Dealers_ACD_20191127.pdf)
 <a id="guidance"></a>
@@ -28,7 +28,7 @@ The [GoBusiness Licensing Guide](/images//GoBusiness%20Licensing%20Guide%20for%2
 #### [4. Monetary Authority of Singapore's ("**MAS**") website - Lists of Designated Individuals and Entities](https://www.mas.gov.sg/regulation/anti-money-laundering/targeted-financial-sanctions/lists-of-designated-individuals-and-entities)
 
 MAS publishes [list](https://www.mas.gov.sg/regulation/anti-money-laundering/targeted-financial-sanctions/lists-of-designated-individuals-and-entities) of individuals and entities designated under the United Nations Act and the Terrorism (Suppression of Financing) Act. Regulated dealers should [subscribe](https://www.mas.gov.sg/subscription-services){:target="_blank"} to the MAS mailing list to receive updated lists of designated individuals and entities. Regulated dealers are required to screen their customers against the lists before engaging in any business or commercial activity with them.<br><br>
-You may refer to the [MAS Website Subscriber Services Guide](/images/MAS%20Website%20Subscriber%20Services%20Guide_20191105_V1Final.pdf) for a step-by-step guide to the subscription process.
+You may refer to the [MAS Website Subscriber Services Guide](/images/MAS%20Website%20Subscriber%20Services%20Guide_20191105_V1Final.pdf) for a step-by-step guide to the subscription process.<br><br>
 
 #### [5. Inter Ministry Committee on Terrorist Designation](https://www.mha.gov.sg/inter-ministry-committee-terrorist-designation-(imc-td))
 
