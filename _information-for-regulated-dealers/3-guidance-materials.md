@@ -15,11 +15,11 @@ The Guidelines also provide sample forms and checklists to assist regulated deal
 The [sample forms and checklists](/images/Guidelines%20for%20regulated%20dealers_Annexes_20190828_V1.1Final.docx) in the Annexes of the Guidelines are also available in Microsoft Word document format for ease of editing.
 <br>
 
-#### [2. Notice for Customers from the Ministry of Law ("**Notice for Customers**")](/images/Notice%20For%20Customers-27%20Dec%2019.pdf)
+#### [2. Notice for Customers from the Ministry of Law ("**Notice for Customers**")](/images/NoticeForCustomersPoster(English)Feb2020.pdf)
 
 The Notice for Customers explains that regulated dealers are required to collect identifying information from customers under the new regulatory regime. Regulated dealers may wish to consider using the Notice for Customers to educate their customers on the AML/CFT requirements.
 
-<a href="/images/NoticeForCustomersPoster(English)Feb2020.pdf"><img src="/images/NoticeForCustomersPoster(EnglishFeb2020.jpg"></a>
+<a href="/images/NoticeForCustomersPoster(English)Feb2020.pdf"><img src="/images/NoticeForCustomersPoster(English)Feb2020.jpg"></a>
 This Notice for Customers is available in 4 languages - English, Chinese, Malay and Tamil.
 
 <style type="text/css">
