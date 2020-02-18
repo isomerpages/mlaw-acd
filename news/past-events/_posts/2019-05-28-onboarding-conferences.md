@@ -12,7 +12,7 @@ The Anti-Money Laundering/Countering the Financing of Terrorism Division (“**A
 
 [Conference Presentation Slides (PDF)](/images/OBC_Slides_20190710.pdf)<br>
 [Registration Brochure (PDF)](/images/Registration%20brochure%20for%20Regulated%20Dealers.pdf)<br>
-[Registration Leaflet (PDF)](/images/Registration%Leaflet_20190701_V04Final.pdf)<br>
+[Registration Leaflet (PDF)](/images/Registration%20Leaflet_20190701_V04Final.pdf)<br>
 [GoBusiness Licensing Guide for Regulated Dealers (PDF)](/guidance-materials/)<br>
 [Notice for Customers (PDF)](/guidance-materials/)<br>
 [Guidelines for Regulated Dealers (PDF)](/guidance-materials/)<br>
