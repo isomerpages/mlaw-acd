@@ -19,40 +19,7 @@ The [sample forms and checklists](/images/Guidelines%20for%20regulated%20dealers
 
 The Notice for Customers explains that regulated dealers are required to collect identifying information from customers under the new regulatory regime. Regulated dealers may wish to consider using the Notice for Customers to educate their customers on the AML/CFT requirements.
 
-<a href="/images/NoticeForCustomersPoster(English)Feb2020.pdf"><img src="/images/NoticeForCustomersPoster(English)Feb2020.jpg"></a>
-This Notice for Customers is available in 4 languages - English, Chinese, Malay and Tamil.
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-top-width:1px;border-bottom-width:1px;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-top-width:1px;border-bottom-width:1px;border-color:black;}
-.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-fymr{font-weight:bold;border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-  <tr>
-    <th class="tg-1wig">Language</th>
-    <th class="tg-1wig">Notice for customers</th>
-  </tr>
-  <tr>
-    <td class="tg-fymr">English</td>
-    <td class="tg-0pky"><a href="/images/NoticeForCustomersPoster(English)Feb2020.pdf" target="_blank">Notice for Customers (English PDF)</a></td>
-  </tr>
-  <tr>
-    <td class="tg-fymr">Chinese</td>
-    <td class="tg-0pky"><a href="/images/NoticeForCustomersPoster(Chinese)Feb2020.pdf" target="_blank">Notice for Customers (Chinese PDF)</a></td>
-  </tr>
-  <tr>
-    <td class="tg-fymr">Malay</td>
-    <td class="tg-0pky"><a href="/images/NoticeForCustomersPoster(Malay)Feb2020.pdf" target="_blank">Notice for Customers (Malay PDF)</a></td>
-  </tr>
-  <tr>
-    <td class="tg-1wig">Tamil</td>
-    <td class="tg-0lax"><a href="/images/NoticeForCustomersPoster(Tamil)Feb2020.pdf" target="_blank">Notice for Customers (Tamil PDF)</a></td>
-  </tr>
-</table>
+<a href="/images/NoticeForCustomersPoster(English)Feb2020.pdf"><img src="/images/NoticeForCustomersPoster(English)Feb2020.jpg"></a><br>
 
 #### [3. GoBusiness Licensing Guide for Precious Stones and Precious Metals Dealers ("**GoBusiness Licensing Guide**")](/images/GoBusiness%20Licensing%20Guide%20for%20Regulated%20Dealers_ACD_20191127.pdf)
 <a id="guidance"></a>
