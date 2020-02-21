@@ -29,6 +29,7 @@ button:
     
 key-highlights:
   - title: List of Registered Dealers
+    description: Get the latest list of Registered Dealers in Singapore
     url: /list-of-registered-dealers/
     external: false
   - title: Guidance Materials
