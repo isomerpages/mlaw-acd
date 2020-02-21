@@ -28,24 +28,22 @@ button:
     url: /compliance-review-programme/
     
 key-highlights:
-  - title: Regulatory Compliance
-    description: Overview of Regulatory Regime
-    url: /reg-compliance/
+  - title: List of Registered Dealers
+    description: Get the latest list of Registered Dealers in Singapore
+    url: /list-of-registered-dealers/
     external: false
   - title: Guidance Materials
     description: Guidelines and references for regulated dealers
     url: /guidance-materials/
     external: false
+  - title: Regulatory Compliance
+    description: Overview of Regulatory Regime
+    url: /reg-compliance/
+    external: false
   - title: Duty to notify Registrar of change in particulars and circumstances
     description: Notify on amendments
     url: /duty-to-notify-registrar-of-change-in-particulars-and-circumstances/
     external: false
-  - title: Registration
-    description: Overview of registration process
-    url: /registration/
-
-  
-
 
 resources-title: News for Regulated Dealers
 resources-subtitle: Latest News
