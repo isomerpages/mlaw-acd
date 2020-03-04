@@ -5,8 +5,7 @@ date: 2020-03-03
 permalink: /news/notices/february-2020-fatf-statement
 ---
 
-<u>**ACTION BY REGULATED DEALERS AGAINST HIGH-RISK JURISDICTIONS**</u><br>
-Dear Regulated Dealer,
+**ACTION BY REGULATED DEALERS AGAINST HIGH-RISK JURISDICTIONS**<br>
 
 Pursuant to regulation 7(2)(a)(ii) of the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations (“**PMLTF Regulations**”), the Registrar of Regulated Dealers hereby notifies all regulated dealers that the Financial Action Task Force (“**FATF**”) has issued a statement dated February 2020, in which it has called for:
 * Counter-measures against the Democratic People’s Republic of Korea (“**DPRK**”) and Iran.
@@ -17,14 +16,14 @@ Accordingly, under regulation 7(1) of the PMLTF Regulations, regulated dealers *
 
 A summary of the issued FATF statement can be found below.
 
-<u>**FEBRUARY 2020 FATF STATEMENT: HIGH-RISK JURISDICTIONS SUBJECT TO A CALL FOR ACTION**</u>
+**FEBRUARY 2020 FATF STATEMENT: HIGH-RISK JURISDICTIONS SUBJECT TO A CALL FOR ACTION**
 On 21 February 2020, the FATF, of which Singapore is a member, issued a statement that highlights the strategic deficiencies in the anti-money laundering/combating the financing of terrorism (AML/CFT) regimes of the DPRK and Iran.
 * DPRK and Iran are subject to the FATF’s call on countries to apply counter-measures. The FATF calls on its members and urges all jurisdictions to apply effective counter-measures and targeted financial sanctions to protect the international financial system from the ongoing and substantial money laundering and terrorism financing risks.
 
 Full details can be found at:
 [https://www.fatf-gafi.org/publications/high-risk-and-other-monitored-jurisdictions/documents/call-for-action-february-2020.html](https://www.fatf-gafi.org/publications/high-risk-and-other-monitored-jurisdictions/documents/call-for-action-february-2020.html)
 
-<u>**FEBRUARY 2020 FATF STATEMENT: JURISDICTIONS UNDER INCREASED MONITORING**</u><br>
+**FEBRUARY 2020 FATF STATEMENT: JURISDICTIONS UNDER INCREASED MONITORING**<br>
 The FATF has also issued an updated statement in February 2020 on jurisdictions under increased monitoring. This statement provides information on a list of jurisdictions that have committed to action plans to address and strengthen their respective AML/CFT deficiencies. Regulated dealers are expected take the list into consideration when preparing their risk assessment and mitigation plans. 
 
 Full details can be found at: [https://www.fatf-gafi.org/publications/high-risk-and-other-monitored-jurisdictions/documents/increased-monitoring-february-2020.html](https://www.fatf-gafi.org/publications/high-risk-and-other-monitored-jurisdictions/documents/increased-monitoring-february-2020.html)
