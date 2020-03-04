@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Onboarding Workshops for Compliance Officer
-date: 2020-01-21
+date: 2020-03-01
 permalink: /news/ongoing-events/Onboarding-Workshops-for-Compliance-Officer/
 ---
 
