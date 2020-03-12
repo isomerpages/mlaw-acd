@@ -22,6 +22,24 @@
   - title: Compliance Review Programme
     url: /compliance-review-programme/
 
+- title: Legislation & Guidelines
+  url: /legis-guidelines/
+  sub-links:
+  - title: Guidelines for Regulated Dealers
+    url: /guidelines/
+    
+- title: Info for Regulated Dealers
+  url: /info-regulated-dealers/
+  sub-links:
+  - title: Overview of the regulatory regime
+    url: /overview/
+
+- title: Compliance
+  url: /compliance/
+  sub-links:
+  - title: Entity-based requirements
+    url: /entity-based requirements/
+    
 - title: About MinLaw
   url: https://www.mlaw.gov.sg/about-us/ourvision-mission-corevalues/
   external: true
