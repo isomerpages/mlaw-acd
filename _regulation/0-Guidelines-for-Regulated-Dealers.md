@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Guidelines for Regulated Dealers
-permalink: /guidelines/
-breadcrumb: Guidelines for Regulated Dealers
-collection_name: regulation
+title: Registration of Regulated Dealers
+permalink: /registration/
+breadcrumb: Registration of Regulated Dealers
+collection_name: information-for-regulated-dealers
 ---
 The guidelines...
