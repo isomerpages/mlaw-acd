@@ -27,13 +27,13 @@
   sub-links:
   - title: PSPM Act
     url: /key-resources/
-  - PMLTF Regulations
+  - title: PMLTF Regulations
     url: https://sso.agc.gov.sg/Act/PSPMPMLTFA2019
-  - Subsidiary Legislation
+  - title: Subsidiary Legislation
     url: https://sso.agc.gov.sg/Act/PSPMPMLTFA2019?ViewType=Sl
-  - Parliamentary Debate
+  - title: Parliamentary Debate
     url: https://sprs.parl.gov.sg/search/sprs3topic?reportid=bill-349
-  - Notices from the Registrar
+  - title: Notices from the Registrar
     url: /news/notices/
     
 - title: About MinLaw
