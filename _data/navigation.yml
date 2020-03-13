@@ -28,6 +28,12 @@
   - title: Guidelines for Regulated Dealers
     url: /guidelines/
 
+- title: compliance
+  url: /legis-guidelines/
+  sub-links:
+  - title: for Regulated Dealers
+    url: /guidelines/
+    
 - title: for customers
   url: /info-regulated-dealers/
   sub-links:
@@ -57,7 +63,7 @@
     url: https://www.mlaw.gov.sg/about-us/contact-us/
     external: true
   
-- title: News/Events
+- title: News
   url: /news/
   sub-links:
   - title: All
