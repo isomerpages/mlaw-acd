@@ -5,5 +5,4 @@ permalink: /guidelines/
 breadcrumb: Guidelines for Regulated Dealers
 collection_name: regulation
 ---
-
 The guidelines...
