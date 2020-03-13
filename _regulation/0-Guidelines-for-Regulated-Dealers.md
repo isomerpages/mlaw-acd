@@ -1,6 +1,6 @@
 ---
 title: Guidelines for Regulated Dealers
-permalink: /guidelines/
+permalink: /guideline/
 breadcrumb: Guidelines for Regulated Dealers
 collection_name: regulation
 ---
