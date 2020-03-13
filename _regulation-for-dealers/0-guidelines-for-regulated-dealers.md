@@ -7,6 +7,7 @@ collection_name: regulation-for-dealers
 ---
 
 This is a testing page
+---
 
 **The next item will be cool**
 
