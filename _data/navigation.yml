@@ -44,7 +44,25 @@
   - title: Contact Us
     url: https://www.mlaw.gov.sg/about-us/contact-us/
     external: true
-  
+    
+- title: Compliance
+  url: /entity-based-requirements/
+  sub-links:
+  - title: Entity-Based Requirements
+    url: /entity-based-requirements/
+  - title: Transaction-Based Requirements
+    url: /transaction-based-requirements/
+  - title: Other Regulatory Requirements
+    url: /other-regulatory-requirements/
+  - title: AML/CFT Supervisory Expectations
+    url: /aml-cft-supervisory-expectations/
+  - title: Common Offences under the PSPM Act
+    url: /common-offences-under-the-PSPM-Act/
+  - title: Compliance Review Programme
+    url: /compliance-review-programme/
+  - title: AML/CFT Resources
+    url: /aml-cft-resources/
+    
 - title: News
   url: /news/
   sub-links:
