@@ -22,13 +22,49 @@
   - title: Compliance Review Programme
     url: /compliance-review-programme/
     
- - title: Customers
-   url: /what-I-should-know/
-   sub-links:
-   - title: What I should know
-     url: /what-i-should-know/
-   - title: Notice for Customers
-     url: /notice-for-customers/
+- title: Regulation
+  url: /guidelines/
+  sub-links:
+  - title: Guidelines for Regulated Dealers
+    url: /guidelines/
+  - title: PSPM Act
+    url: https://sso.agc.gov.sg/Act/PSPMPMLTFA2019
+  - title: PMLTF Regulations
+    url: https://sso.agc.gov.sg/SL/PSPMPMLTFA2019-S306-2019?DocDate=20190408
+  - title: Subsidiary Legislation
+    url: https://sso.agc.gov.sg/Act/PSPMPMLTFA2019?ViewType=Sl
+  - title: Parliamentary Debate
+    url: https://sprs.parl.gov.sg/search/sprs3topic?reportid=bill-349
+  - title: Notices from the Registrar
+    url: /news/notices/
+  - title: Guidance Papers
+    url: /guidance-papers/
+ 
+- title: Compliance
+  url: /entity-based-requirements/
+  sub-links:
+  - title: Entity-Based Requirements
+    url: /entity-based-requirements/
+  - title: Transaction-Based Requirements
+    url: /transaction-based-requirements/
+  - title: Other Regulatory Requirements
+    url: /other-regulatory-requirements/
+  - title: AML/CFT Supervisory Expectations
+    url: /aml-cft-supervisory-expectations/
+  - title: Common Offences under the PSPM Act
+    url: /common-offences-under-the-PSPM-Act/
+  - title: Compliance Review Programme
+    url: /compliance-review-programme/
+  - title: AML/CFT Resources
+    url: /aml-cft-resources/
+    
+- title: Customers
+  url: /what-I-should-know/
+  sub-links:
+  - title: What I should know
+    url: /what-i-should-know/
+  - title: Notice for Customers
+    url: /notice-for-customers/
      
 - title: About MinLaw
   url: https://www.mlaw.gov.sg/about-us/ourvision-mission-corevalues/
