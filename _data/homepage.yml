@@ -32,10 +32,6 @@ key-highlights:
     description: Get the latest list of Registered Dealers in Singapore
     url: /list-of-registered-dealers/
     external: false
-  - title: Registration
-    description: Overview of registration process
-    url: /registration/
-    external: false
   - title: Regulatory Compliance
     description: Overview of Regulatory Regime
     url: /reg-compliance/
