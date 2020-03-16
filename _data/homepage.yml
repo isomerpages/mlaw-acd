@@ -24,17 +24,17 @@ hero-banner: /images/bullion1.jpg
     
 #Call to Action Button
 button:
-  - text: Compliance Review <br> Programme
-    url: /compliance-review-programme/
+  - text: Guidance Materials
+    url: /guidance-materials/
     
 key-highlights:
   - title: List of Registered Dealers
     description: Get the latest list of Registered Dealers in Singapore
     url: /list-of-registered-dealers/
     external: false
-  - title: Guidance Materials
-    description: Guidelines and references for regulated dealers
-    url: /guidance-materials/
+  - title: Registration
+    description: Overview of registration process
+    url: /registration/
     external: false
   - title: Regulatory Compliance
     description: Overview of Regulatory Regime
