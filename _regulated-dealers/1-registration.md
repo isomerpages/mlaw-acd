@@ -46,6 +46,31 @@ You may submit your application via the [GoBusiness Licensing Portal](https://ww
   </tr>
 </table>
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:8px 6px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:8px 6px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-mcqj{font-weight:bold;border-color:#000000;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-mcqj">Business Particulars</th>
+    <th class="tg-mcqj">Information needed</th>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Address</td>
+    <td class="tg-0lax">1. Registered address*<br>2. Operating address<br>3. Mailing address<br>4. Outlet address<br>5. Business telephone number<br>6. Business fax number<br>7. Business email address<br>* Information is auto-populated for ACRA registered entities</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Products</td>
+    <td class="tg-0lax">Type of precious stones, precious metals and precious products</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Activities</td>
+    <td class="tg-0lax">Wholesale, manufacturing, retail, etc.</td>
+  </tr>
+</table>
 
 ### <a id="Fees and period of registration"></a> Fees and period of registration
 <b>Fees</b><br>
