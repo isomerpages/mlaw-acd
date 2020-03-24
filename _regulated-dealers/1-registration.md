@@ -51,24 +51,51 @@ You may submit your application via the [GoBusiness Licensing Portal](https://ww
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:8px 6px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:8px 6px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg .tg-mcqj{font-weight:bold;border-color:#000000;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-fymr{font-weight:bold;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 906px">
+<colgroup>
+<col style="width: 412px">
+<col style="width: 494px">
+</colgroup>
   <tr>
-    <th class="tg-mcqj">Business Particulars</th>
-    <th class="tg-mcqj">Information needed</th>
+    <th class="tg-mcqj" colspan="2">Important Notice<br><br>• Ensure that you have the CorpPass and UEN of the business entity that the Registration Certificate will be issued to.<br>• There should only be one application per business entity i.e. one application per UEN. You can have multiple outlets per application.<br>• It may take around 4 weeks for the Registrar to process an application for registration before granting the registration. It may take longer if additional information is required.</th>
   </tr>
   <tr>
-    <td class="tg-0lax">Address</td>
-    <td class="tg-0lax">1. Registered address*<br>2. Operating address<br>3. Mailing address<br>4. Outlet address<br>5. Business telephone number<br>6. Business fax number<br>7. Business email address<br>* Information is auto-populated for ACRA registered entities</td>
+    <td class="tg-fymr">Entity</td>
+    <td class="tg-fymr">Information needed</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Products</td>
-    <td class="tg-0lax">Type of precious stones, precious metals and precious products</td>
+    <td class="tg-0pky">Director<br>Partner<br>Manager<br>Company secretary<br>Substantial shareholder (if you represent a company)</td>
+    <td class="tg-0pky">1. Name*<br>2. NRIC/ Passport/ FIN No.*<br>3. Nationality/ Country of Incorporation*<br>4. Date of Birth<br>5. Declaration of<br>(a) Any investigations or convictions for offences related to fraud, dishonesty,<br>money laundering or terrorism financing;<br>(b) Any bankruptcy, insolvency or liquidation;<br>(c) Any lawsuit the person was a party to; and<br>(d) Any breach of AML/CFT requirements<br><br>* Information is auto-populated for ACRA registered entities</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Activities</td>
-    <td class="tg-0lax">Wholesale, manufacturing, retail, etc.</td>
+    <td class="tg-0pky">Person holding an analogous position<br>involved in the management of the applicant</td>
+    <td class="tg-0pky" rowspan="2">1. Name<br>2. NRIC/ Passport/ FIN No.<br>3. Nationality/ Country of Incorporation<br>4. Date of Birth<br>5. Declaration of<br>(a) Any investigations or convictions for offences related to fraud, dishonesty,<br>money laundering or terrorism financing;<br>(b) Any bankruptcy, insolvency or liquidation;<br>(c) Any lawsuit the person was a party to; and<br>(d) Any breach of AML/CFT requirements</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Outlet manager</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Compliance Officer</td>
+    <td class="tg-0pky">1. Name<br>2. NRIC/ Passport/ FIN No.<br>3. Nationality/ Country of Incorporation<br>4. Date of Birth<br>5. Email address<br>6. Mobile number</td>
+  </tr>
+  <tr>
+    <td class="tg-fymr">Business Particulars</td>
+    <td class="tg-fymr">Information needed</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Address</td>
+    <td class="tg-0pky">1. Registered address*<br>2. Operating address<br>3. Mailing address<br>4. Outlet address<br>5. Business telephone number<br>6. Business fax number<br>7. Business email address<br><br>* Information is auto-populated for ACRA registered entities</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Products</td>
+    <td class="tg-0pky">Type of precious stones, precious metals and precious products</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Activities</td>
+    <td class="tg-0pky">Wholesale, manufacturing, retail, etc.</td>
   </tr>
 </table>
 
