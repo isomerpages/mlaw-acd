@@ -43,7 +43,6 @@ custom_print_css_path: "/assets/css/print.css"
 collections:
   information-for-regulated-dealers:
     output: true
-
   regulated-dealers:
     output: true
     
