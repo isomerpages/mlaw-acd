@@ -101,8 +101,8 @@ For the avoidance of doubt, the Registrar has the discretion to grant a differen
     <td>
 <b>Illustration:</b>
 <br>Regulated dealer "ABC Pte Ltd" has two places of business:<br><br>
-1.    one flagship jewellery outlet in Marina Bay Sands; and<br>
-2.    one jewellery outlet in Bugis.<br><br>
+1.    One flagship jewellery outlet in Marina Bay Sands; and<br>
+2.    One jewellery outlet in Bugis.<br><br>
 ABC Pte Ltd applies for a Class 3 Certificate of Registration on 30 June 2019.<br><br> 
 ABC Pte Ltd must pay a total of <b>S$1,940</b>:<br>
       
@@ -146,5 +146,5 @@ ABC Pte Ltd must pay a total of <b>S$1,940</b>:<br>
 ### <a id="I need help with registering"></a>I need help with registering
 <a href="/images/Helplines_20191127.pdf"><img src="/images/Helplines_20191127.png"></a>
 
-* If you face any technical issues when using GoBusiness Licensing Portal, you may wish to refer to the [GoBusiness Licensing Portal webpage](https://www.gobusiness.gov.sg/licences) or contact the [GoBusiness Licensing Portal Helpdesk](https://www.gobusiness.gov.sg/licences).
+* If you face any technical issues when using [GoBusiness Licensing Portal](https://www.gobusiness.gov.sg/licences), you may wish to refer to the GoBusiness Licensing Portal webpage or contact the [GoBusiness Licensing Portal Helpdesk](https://www.gobusiness.gov.sg/licences).
 * If you are not sure how to complete the application form, you may wish to refer to our [GoBusiness Licensing Portal Guide for Regulated Dealers (Step-by-Step with Screenshots)](/images/GoBusiness%20Licensing%20Guide%20for%20Regulated%20Dealers_ACD_20191127.pdf) or [our FAQs for Precious Stones and Precious Metals Dealers](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx){:target="_blank"}.
