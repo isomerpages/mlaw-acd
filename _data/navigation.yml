@@ -4,7 +4,7 @@
 #                                #
 ##################################
     
-- title: Regulatory Regimes
+- title: Regulatory Regime
   url: /reg-compliance/
   sub-links:
   - title: Registration of Regulated Dealers
@@ -21,14 +21,6 @@
     url: /list-of-registered-dealers/
   - title: Compliance Review Programme
     url: /compliance-review-programme/
-
-- title: Regulatory Regime
-  url: /regulatory-regime/
-  sub-links:
-  - title: Regulatory Regime
-    url: /regulatory-regime/
-  - title: Renewal
-    url: /renewal/
 
 - title: About MinLaw
   url: https://www.mlaw.gov.sg/about-us/ourvision-mission-corevalues/
