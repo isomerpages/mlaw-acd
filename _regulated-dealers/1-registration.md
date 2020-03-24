@@ -18,46 +18,15 @@ You may submit your application via the [GoBusiness Licensing Portal](https://ww
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:8px 6px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:8px 6px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
-.tg .tg-mcqj{font-weight:bold;border-color:#000000;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-  <tr>
-    <th class="tg-73oq" colspan="2">Important Notice<br>• Ensure that you have the CorpPass and UEN of the business entity that the Registration Certificate will be issued to.<br>• There should only be one application per business entity i.e. one application per UEN. You can have multiple outlets per application.<br>• It may take around 4 weeks for the Registrar to process an application for registration before granting the registration. It may take longer if additional information is required.</th>
-  </tr>
-  <tr>
-    <td class="tg-mcqj">Entity</td>
-    <td class="tg-mcqj">Information needed</td>
-  </tr>
-  <tr>
-    <td class="tg-73oq">Director<br>Partner<br>Manager<br>Company secretary<br> <br>Substantial shareholder (if you represent a company)</td>
-    <td class="tg-73oq">1. Name*<br>2. NRIC/ Passport/ FIN No.*<br>3. Nationality/ Country of Incorporation*<br>4. Date of Birth<br>5. Declaration of<br>(a) Any investigations or convictions for offences related to fraud, dishonesty, <br>money laundering or terrorism financing;<br>(b) Any bankruptcy, insolvency or liquidation;<br>(c) Any lawsuit the person was a party to; and<br>(d) Any breach of AML/CFT requirements<br>* Information is auto-populated for ACRA registered entities</td>
-  </tr>
-  <tr>
-    <td class="tg-73oq">Person holding an analogous position <br>involved in the management of the applicant</td>
-    <td class="tg-73oq" rowspan="2">1. Name<br>2. NRIC/ Passport/ FIN No.<br>3. Nationality/ Country of Incorporation<br>4. Date of Birth<br>5. Declaration of<br>(a) Any investigations or convictions for offences related to fraud, dishonesty, <br>money laundering or terrorism financing;<br>(b) Any bankruptcy, insolvency or liquidation;<br>(c) Any lawsuit the person was a party to; and<br>(d) Any breach of AML/CFT requirements</td>
-  </tr>
-  <tr>
-    <td class="tg-73oq">Outlet manager</td>
-  </tr>
-  <tr>
-    <td class="tg-73oq">Compliance Officer</td>
-    <td class="tg-73oq">1. Name<br>2. NRIC/ Passport/ FIN No.<br>3. Nationality/ Country of Incorporation<br>4. Date of Birth<br>5. Email address<br>6. Mobile number</td>
-  </tr>
-</table>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:8px 6px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:8px 6px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg .tg-mcqj{font-weight:bold;border-color:#000000;text-align:left;vertical-align:top}
 .tg .tg-fymr{font-weight:bold;border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 906px">
+<table class="tg" style="undefined;table-layout: fixed; width: 924px">
 <colgroup>
-<col style="width: 412px">
-<col style="width: 494px">
+<col style="width: 421px">
+<col style="width: 503px">
 </colgroup>
   <tr>
     <th class="tg-mcqj" colspan="2">Important Notice<br><br>• Ensure that you have the CorpPass and UEN of the business entity that the Registration Certificate will be issued to.<br>• There should only be one application per business entity i.e. one application per UEN. You can have multiple outlets per application.<br>• It may take around 4 weeks for the Registrar to process an application for registration before granting the registration. It may take longer if additional information is required.</th>
@@ -96,6 +65,9 @@ You may submit your application via the [GoBusiness Licensing Portal](https://ww
   <tr>
     <td class="tg-0pky">Activities</td>
     <td class="tg-0pky">Wholesale, manufacturing, retail, etc.</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax" colspan="2"><span style="font-weight:bold;color:rgb(254, 0, 0)">Supporting documents to be attached to the application form:</span><br><br><span style="font-weight:700;color:rgb(254, 0, 0)">• </span><span style="color:rgb(254, 0, 0)">For applicants with who have directors, partners, managers, company secretary, outlet managers, substantial shareholders who are </span><span style="text-decoration:underline;color:rgb(254, 0, 0)">foreign nationals</span><span style="color:rgb(254, 0, 0)"> you should attach a copy of their foreign photo identification document such as passport.</span><br><span style="font-weight:700;color:rgb(254, 0, 0)">• </span><span style="color:rgb(254, 0, 0)">For applicants who have </span><span style="text-decoration:underline;color:rgb(254, 0, 0)">corporate shareholders</span><span style="color:rgb(254, 0, 0)">, you should attach a copy of your shareholders’ registration information (including particulars of directors, partners, managers, company secretary, outlet managers, substantial shareholders).</span><br><span style="font-weight:700;color:rgb(254, 0, 0)">• </span><span style="color:rgb(254, 0, 0)">For applicants who have </span><span style="text-decoration:underline;color:rgb(254, 0, 0)">more than one layer of corporate shareholders</span><span style="color:rgb(254, 0, 0)">, you should attach your organisation structure/ chart up till the individuals who own the group. For listed corporate shareholders, you do not have to provide  the name of all your shareholders. You should still provide a list of those who hold more than 5%.</span></td>
   </tr>
 </table>
 
