@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Regulatory Regime
-permalink: /regulatory-regime/
-breadcrumb: Regulatory Regime
+title: RRegime
+permalink: /r-regime/
+breadcrumb: RRegime
 collection_name: regulated-dealers
 ---
 
