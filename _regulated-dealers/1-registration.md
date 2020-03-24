@@ -18,32 +18,31 @@ You may submit your application via the [GoBusiness Licensing Portal](https://ww
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:8px 6px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:8px 6px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-fymr{font-weight:bold;border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
+.tg .tg-mcqj{font-weight:bold;border-color:#000000;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-0pky" colspan="2">Important Notice<br>• Ensure that you have the CorpPass and UEN of the business entity that the Registration Certificate will be issued to.<br>• There should only be one application per business entity i.e. one application per UEN. You can have multiple outlets per application.<br>• It may take around 4 weeks for the Registrar to process an application for registration before granting the registration. It may take longer if additional information is required.</th>
+    <th class="tg-73oq" colspan="2">Important Notice<br>• Ensure that you have the CorpPass and UEN of the business entity that the Registration Certificate will be issued to.<br>• There should only be one application per business entity i.e. one application per UEN. You can have multiple outlets per application.<br>• It may take around 4 weeks for the Registrar to process an application for registration before granting the registration. It may take longer if additional information is required.</th>
   </tr>
   <tr>
-    <td class="tg-fymr">Entity</td>
-    <td class="tg-fymr">Information needed</td>
+    <td class="tg-mcqj">Entity</td>
+    <td class="tg-mcqj">Information needed</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Director<br>Partner<br>Manager<br>Company secretary<br> <br>Substantial shareholder (if you represent a company)</td>
-    <td class="tg-0pky">1. Name*<br>2. NRIC/ Passport/ FIN No.*<br>3. Nationality/ Country of Incorporation*<br>4. Date of Birth<br>5. Declaration of<br>(a) Any investigations or convictions for offences related to fraud, dishonesty, <br>money laundering or terrorism financing;<br>(b) Any bankruptcy, insolvency or liquidation;<br>(c) Any lawsuit the person was a party to; and<br>(d) Any breach of AML/CFT requirements<br>* Information is auto-populated for ACRA registered entities</td>
+    <td class="tg-73oq">Director<br>Partner<br>Manager<br>Company secretary<br> <br>Substantial shareholder (if you represent a company)</td>
+    <td class="tg-73oq">1. Name*<br>2. NRIC/ Passport/ FIN No.*<br>3. Nationality/ Country of Incorporation*<br>4. Date of Birth<br>5. Declaration of<br>(a) Any investigations or convictions for offences related to fraud, dishonesty, <br>money laundering or terrorism financing;<br>(b) Any bankruptcy, insolvency or liquidation;<br>(c) Any lawsuit the person was a party to; and<br>(d) Any breach of AML/CFT requirements<br>* Information is auto-populated for ACRA registered entities</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Person holding an analogous position <br>involved in the management of the applicant</td>
-    <td class="tg-0pky" rowspan="2">1. Name<br>2. NRIC/ Passport/ FIN No.<br>3. Nationality/ Country of Incorporation<br>4. Date of Birth<br>5. Declaration of<br>(a) Any investigations or convictions for offences related to fraud, dishonesty, <br>money laundering or terrorism financing;<br>(b) Any bankruptcy, insolvency or liquidation;<br>(c) Any lawsuit the person was a party to; and<br>(d) Any breach of AML/CFT requirements</td>
+    <td class="tg-73oq">Person holding an analogous position <br>involved in the management of the applicant</td>
+    <td class="tg-73oq" rowspan="2">1. Name<br>2. NRIC/ Passport/ FIN No.<br>3. Nationality/ Country of Incorporation<br>4. Date of Birth<br>5. Declaration of<br>(a) Any investigations or convictions for offences related to fraud, dishonesty, <br>money laundering or terrorism financing;<br>(b) Any bankruptcy, insolvency or liquidation;<br>(c) Any lawsuit the person was a party to; and<br>(d) Any breach of AML/CFT requirements</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Outlet manager</td>
+    <td class="tg-73oq">Outlet manager</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Compliance Officer</td>
-    <td class="tg-0lax">1. Name<br>2. NRIC/ Passport/ FIN No.<br>3. Nationality/ Country of Incorporation<br>4. Date of Birth<br>5. Email address<br>6. Mobile number</td>
+    <td class="tg-73oq">Compliance Officer</td>
+    <td class="tg-73oq">1. Name<br>2. NRIC/ Passport/ FIN No.<br>3. Nationality/ Country of Incorporation<br>4. Date of Birth<br>5. Email address<br>6. Mobile number</td>
   </tr>
 </table>
 
