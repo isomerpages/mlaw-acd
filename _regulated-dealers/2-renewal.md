@@ -6,14 +6,22 @@ breadcrumb: Renewal
 collection_name: regulated-dealers
 ---
 
-### <a id="The renewal process"></a> The renewal process
+<a href="#Renewal of Registration as a Registered Dealer">Renewal of Registration as a Registered Dealer </a> | <a href="#TThe Renewal Application Process">The Renewal Application Process </a> | <a href="#Information you need for Renewal Registration Application">Information you need for Renewal Registration Application</a> | <a href="#Fees and period of registration">Fees and period of registration </a> | <a href="#I need help with renewal">I need help with renewal </a>
+
+### <a id="Renewal of Registration as a Registered Dealer"></a> Renewal of Registration as a Registered Dealer
+
+It is an <u>offence</u> if you act or hold out to be a regulated dealer without being registered or exempted. 
+
+If you intend to continue your business as a regulated dealer and your registration period will be expiring in the next 3 months, you should renew your registration as soon as possible. It may take around 4 weeks for the Registrar to process an application for renewal before granting the renewal. It may take longer if additional information is required. If your renewal is not approved before the expiration of your registration, you registration will lapse and you will have to submit a new registration application.
+
+### <a id="The Renewal Application Process"></a> The Renewal Application Process
 <a href="/images/Overview%20of%20Reg%20Process%2020191031.pdf"><img src="/images/Overview%20of%20Reg%20Process%2020191031.png"></a> <br>
 
 You may submit your application via the [GoBusiness Licensing Portal](https://www.gobusiness.gov.sg/licences). You may refer to the [GoBusiness Licensing Guide for Regulated Dealers](/images/GoBusiness%20Licensing%20Guide%20for%20Regulated%20Dealers_ACD_20191127.pdf) for a step-by-step guide to the application process.
 
 The Registrar of Regulated Dealer may impose additional conditions or waive existing conditions for registration, for the renewed registration period.
 
-### <a id="Information you need for renewal application"></a>Information you need for renewal application
+### <a id="Information you need for Renewal Registration Application"></a> Information you need for Renewal Registration Application
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -148,7 +156,7 @@ ABC Pte Ltd must pay a total of <b>S$1,940</b>:<br>
 </table>
 
 
-### <a id="I need help with renewal"></a>I need help with renewal
+### <a id="I need help with renewal"></a> I need help with renewal
 <a href="/images/Helplines_20191127.pdf"><img src="/images/Helplines_20191127.png"></a>
 
 * If you face any technical issues when using [GoBusiness Licensing Portal](https://www.gobusiness.gov.sg/licences), you may wish to refer to the GoBusiness Licensing Portal webpage or contact the [GoBusiness Licensing Portal Helpdesk](https://www.gobusiness.gov.sg/licences).
