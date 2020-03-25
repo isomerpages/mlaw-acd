@@ -6,6 +6,16 @@ breadcrumb: Registration
 collection_name: regulated-dealers
 ---
 
+<a href="#Registration of Regulated Dealers">Registration of Regulated Dealers </a> | <a href="#The New Registration Application process">The New Registration Application Process </a> | <a href="#Information you need for New Registration Application">Information you need for New Registration Application</a> | <a href="#Fees and period of registration">Fees and period of registration </a> | <a href="#I need help with registering">I need help with registering </a>
+
+### <a id="Registration of Regulated Dealers"></a> Registration of Regulated Dealers
+
+It is an <u>offence</u> if you act or hold out to be a regulated dealer without being registered or exempted. You must be registered before you commence any regulated dealing.
+
+**Enforcement actions will be conducted to detect unregistered dealers.** Any person who acts as or holds out to be a regulated dealer without being registered or exempted, may face criminal penalties of up to S$75,000 in fine and/or up to 3 years' imprisonment.
+
+The public may access the [List of Registered Dealers](/list-of-registered-dealers/).
+
 ### <a id="The New Registration Application Process"></a> The New Registration Application Process
 <a href="/images/Overview%20of%20Reg%20Process%2020191031.pdf"><img src="/images/Overview%20of%20Reg%20Process%2020191031.png"></a> <br>
 
