@@ -33,8 +33,8 @@ The Registrar of Regulated Dealer may impose additional conditions or waive exis
     <th class="tg-mcqj" colspan="2">Important Notice<br><br><span style="font-weight:600">• </span>If your registration has expired, you will not be allow to submit your renewal application. You will be required to submit a new application.<br><span style="font-weight:600">• </span>Ensure that you have the CorpPass and UEN of the business entity for whom the Registration Certificate will be renewed.<br><span style="font-weight:600">• </span>You have updated your business particulars with the Accountancy and Corporate Regulatory Authority (ACRA) so that the updated information can be auto-populated in the application form.<br><span style="font-weight:600">• </span>It may take around 4 weeks for the Registrar to process an application for renewal before granting the renewal. It may take longer if additional information is required. If your renewal is not approved before the expiration of your registration, you registration will lapse and you will have to submit a new registration application.</th>
   </tr>
   <tr>
-    <td class="tg-spag">Entity</td>
-    <td class="tg-spag">Information needed</td>
+    <td class="tg-fymr">Entity</td>
+    <td class="tg-fymr">Information needed</td>
   </tr>
   <tr>
     <td class="tg-0pky">Director<br>Partner<br>Manager<br>Company secretary<br>Substantial shareholder (if you represent a company)</td>
@@ -52,8 +52,8 @@ The Registrar of Regulated Dealer may impose additional conditions or waive exis
     <td class="tg-0pky">1. Name<br>2. NRIC/ Passport/ FIN No.<br>3. Nationality/ Country of Incorporation<br>4. Date of Birth<br>5. Email address<br>6. Mobile number</td>
   </tr>
   <tr>
-    <td class="tg-spag">Business Particulars</td>
-    <td class="tg-spag">Information needed</td>
+    <td class="tg-fymr">Business Particulars</td>
+    <td class="tg-fymr">Information needed</td>
   </tr>
   <tr>
     <td class="tg-0pky">Address</td>
