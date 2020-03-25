@@ -6,13 +6,13 @@ breadcrumb: Registration
 collection_name: regulated-dealers
 ---
 
-### <a id="The registration process"></a> The registration process
+### <a id="The New Registration Application Process"></a> The New Registration Application Process
 <a href="/images/Overview%20of%20Reg%20Process%2020191031.pdf"><img src="/images/Overview%20of%20Reg%20Process%2020191031.png"></a> <br>
 
 You may submit your application via the [GoBusiness Licensing Portal](https://www.gobusiness.gov.sg/licences). You may refer to the [GoBusiness Licensing Guide for Regulated Dealers](/images/GoBusiness%20Licensing%20Guide%20for%20Regulated%20Dealers_ACD_20191127.pdf) for a step-by-step guide to the application process.
 
 
-### <a id="Information you need for registration"></a>Information you need for registration
+### <a id="Information you need for New Registration Application"></a>Information you need for New Registration Application
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
