@@ -6,7 +6,7 @@ breadcrumb: Renewal
 collection_name: regulated-dealers
 ---
 
-<a href="#Renewal of Registration as a Registered Dealer">Renewal of Registration as a Registered Dealer </a> | <a href="#TThe Renewal Application Process">The Renewal Application Process </a> | <a href="#Information you need for Renewal Registration Application">Information you need for Renewal Registration Application</a> | <a href="#Fees and period of registration">Fees and period of registration </a> | <a href="#I need help with renewal">I need help with renewal </a>
+<a href="#Renewal of Registration as a Registered Dealer">Renewal of Registration as a Registered Dealer </a> | <a href="#The Renewal Application Process">The Renewal Application Process </a> | <a href="#Information you need for Renewal Registration Application">Information you need for Renewal Registration Application</a> | <a href="#Fees and period of registration">Fees and period of registration </a> | <a href="#I need help with renewal">I need help with renewal </a>
 
 ### <a id="Renewal of Registration as a Registered Dealer"></a> Renewal of Registration as a Registered Dealer
 
