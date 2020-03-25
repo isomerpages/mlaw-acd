@@ -22,7 +22,7 @@ The public may access the [List of Registered Dealers](/list-of-registered-deale
 You may submit your application via the [GoBusiness Licensing Portal](https://www.gobusiness.gov.sg/licences). You may refer to the [GoBusiness Licensing Guide for Regulated Dealers](/images/GoBusiness%20Licensing%20Guide%20for%20Regulated%20Dealers_ACD_20191127.pdf) for a step-by-step guide to the application process.
 
 
-### <a id="Information you need for New Registration Application"></a>Information you need for New Registration Application
+### <a id="Information you need for New Registration Application"></a> Information you need for New Registration Application
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -153,7 +153,7 @@ ABC Pte Ltd must pay a total of <b>S$1,940</b>:<br>
 </table>
 
 
-### <a id="I need help with registering"></a>I need help with registering
+### <a id="I need help with registering"></a> I need help with registering
 <a href="/images/Helplines_20191127.pdf"><img src="/images/Helplines_20191127.png"></a>
 
 * If you face any technical issues when using [GoBusiness Licensing Portal](https://www.gobusiness.gov.sg/licences), you may wish to refer to the GoBusiness Licensing Portal webpage or contact the [GoBusiness Licensing Portal Helpdesk](https://www.gobusiness.gov.sg/licences).
