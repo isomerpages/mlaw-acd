@@ -22,7 +22,7 @@ We are aware that the outbreak has a significant impact on all consumer-facing s
 To complement the Resilience Budget, the Monetary Authority of Singapore (MAS) and the financial industry have also introduced a package of measures to help individuals and Small Medium Enterprises (SME). These measures include:<br>
   a. Deferred payment of principal on secured SME loans;<br>
   b. Lower interest on SME loans; and<br>
-  c. Assistance with insurance premium payment for general insurance policies.
+  c. Assistance with insurance premium payment for general insurance policies.<br>
 More information can be found [here](https://www.mas.gov.sg/news/media-releases/2020/mas-and-financial-industry-to-support-individuals-and-smes-affected-by-the-covid-19-pandemic){:target="_blank"}.
 
 **Stay safe**
