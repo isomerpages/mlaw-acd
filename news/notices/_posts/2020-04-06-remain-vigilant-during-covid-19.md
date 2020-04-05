@@ -19,17 +19,17 @@ Our website will continue to provide you with guidance and advice on how to impl
 
 **Support for SMEs**
 
-We are aware that the outbreak has a significant impact on all consumer-facing sectors, including the precious stones and precious metals dealers (PSMD) sector. The Government recently announced a package of measures as part of the Resilience budget to help businesses, workers and households during this period. Various grants and schemes are in place to support workers, self-employed persons (SEP) and businesses to save jobs, protect livelihoods and help enterprises overcome immediate challenges. More information on the Resilience Budget can be found at https://www.singaporebudget.gov.sg/budget_2020/resilience-budget.
+We are aware that the outbreak has a significant impact on all consumer-facing sectors, including the precious stones and precious metals dealers (PSMD) sector. The Government recently announced a package of measures as part of the Resilience budget to help businesses, workers and households during this period. Various grants and schemes are in place to support workers, self-employed persons (SEP) and businesses to save jobs, protect livelihoods and help enterprises overcome immediate challenges. More information on the Resilience Budget can be found [here]https://www.singaporebudget.gov.sg/budget_2020/resilience-budget{:target="_blank"}.
 
 To complement the Resilience Budget, the Monetary Authority of Singapore (MAS) and the financial industry have also introduced a package of measures to help individuals and Small Medium Enterprises (SME). These measures include:
   a. Deferred payment of principal on secured SME loans;
   b. Lower interest on SME loans; and
   c. Assistance with insurance premium payment for general insurance policies.
-More information can be found at https://www.mas.gov.sg/news/media-releases/2020/mas-and-financial-industry-to-support-individuals-and-smes-affected-by-the-covid-19-pandemic.
+More information can be found [here]https://www.mas.gov.sg/news/media-releases/2020/mas-and-financial-industry-to-support-individuals-and-smes-affected-by-the-covid-19-pandemic{:target="_blank"}.
 
 **Stay safe**
 
-Thank you for playing your part in keeping your business and Singapore safe from criminal abuse during this difficult period.  We urge all dealers to remain vigilant against crime, stay safe and abide by the advisories issued by the Government to reduce the risk of further local transmission of COVID-19. More information on the advisories can be found at https://www.moh.gov.sg/covid-19/advisories-for-various-sectors.
+Thank you for playing your part in keeping your business and Singapore safe from criminal abuse during this difficult period.  We urge all dealers to remain vigilant against crime, stay safe and abide by the advisories issued by the Government to reduce the risk of further local transmission of COVID-19. More information on the advisories can be found [here]https://www.moh.gov.sg/covid-19/advisories-for-various-sectors{:target="_blank"}.
 
 Yours sincerely,
 
