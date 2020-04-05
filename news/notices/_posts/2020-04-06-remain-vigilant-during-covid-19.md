@@ -32,5 +32,6 @@ Thank you for playing your part in keeping your business and Singapore safe from
 Yours sincerely,
 
 REGISTRAR OF REGULATED DEALERS<br>
+
 ANTI-MONEY LAUNDERING/COUNTERING THE FINANCING OF TERRORISM DIVISION (ACD)<br>
 MINISTRY OF LAW
