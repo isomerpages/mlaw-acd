@@ -17,11 +17,11 @@ Our website will continue to provide you with guidance and advice on how to impl
 
 **Support for SMEs**
 
-We are aware that the outbreak has a significant impact on all consumer-facing sectors, including the precious stones and precious metals dealers (PSMD) sector. The Government recently announced a package of measures as part of the Resilience budget to help businesses, workers and households during this period. Various grants and schemes are in place to support workers, self-employed persons (SEP) and businesses to save jobs, protect livelihoods and help enterprises overcome immediate challenges. More information on the Resilience Budget can be found [here](https://www.singaporebudget.gov.sg/budget_2020/resilience-budget){:target="_blank"}.
+We are aware that the outbreak has a significant impact on all consumer-facing sectors, including the precious stones and precious metals dealers (PSMD) sector. The Government recently announced a package of measures as part of the Resilience Budget to help businesses, workers and households during this period. Various grants and schemes are in place to support workers, self-employed persons (SEP) and businesses to save jobs, protect livelihoods and help enterprises overcome immediate challenges. More information on the Resilience Budget can be found [here](https://www.singaporebudget.gov.sg/budget_2020/resilience-budget){:target="_blank"}.
 
-To complement the Resilience Budget, the Monetary Authority of Singapore (MAS) and the financial industry have also introduced a package of measures to help individuals and Small Medium Enterprises (SME). These measures include:
-  a. Deferred payment of principal on secured SME loans;
-  b. Lower interest on SME loans; and
+To complement the Resilience Budget, the Monetary Authority of Singapore (MAS) and the financial industry have also introduced a package of measures to help individuals and Small Medium Enterprises (SME). These measures include:<br>
+  a. Deferred payment of principal on secured SME loans;<br>
+  b. Lower interest on SME loans; and<br>
   c. Assistance with insurance premium payment for general insurance policies.
 More information can be found [here](https://www.mas.gov.sg/news/media-releases/2020/mas-and-financial-industry-to-support-individuals-and-smes-affected-by-the-covid-19-pandemic){:target="_blank"}.
 
@@ -32,5 +32,5 @@ Thank you for playing your part in keeping your business and Singapore safe from
 Yours sincerely,
 
 REGISTRAR OF REGULATED DEALERS<br>
-ANTI-MONEY LAUNDERING/COUNTERING THE FINANCING OF TERRORISM DIVISION<br>
+ANTI-MONEY LAUNDERING/COUNTERING THE FINANCING OF TERRORISM DIVISION (ACD)<br>
 MINISTRY OF LAW
