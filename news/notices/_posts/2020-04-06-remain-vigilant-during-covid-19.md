@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Remain Vigilant during COVID-19
-date: 2020-04-06
+date: 2020-04-05
 permalink: /news/notices/remain-vigilant-during-covid-19
 ---
 
