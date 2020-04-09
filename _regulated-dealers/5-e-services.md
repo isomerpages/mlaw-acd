@@ -6,8 +6,8 @@ breadcrumb: E-Services
 collection_name: regulated-dealers
 ---
 
-| Common Links by Registered Dealers |
+| Common E-services for Registered Dealers |
 | --- |
 | Submit a Registration/Renewal Application |
 | Submit a change in your Company details | 
-| [Submit a Cash Transaction Report/Suspicious Transaction Report](www.police.gov.sg/sonar) |
+| <a href="https://www.police.gov.sg/sonar">Submit a Cash Transaction Report/Suspicious Transaction Report</a> |
