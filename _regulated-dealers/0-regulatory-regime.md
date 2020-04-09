@@ -6,7 +6,7 @@ breadcrumb: Reg Regime
 collection_name: regulated-dealers
 ---
 
-<a href="#About the Regime">About the Regime </a> | <a href="#What does the new regime cover?">What does the new regime cover? </a> |<a href="#Who is required to register?">Who is required to register? </a>
+<a href="#About the Regime">About the Regime </a> | <a href="#What does the new regime cover?">What does the new regime cover? </a> |<a href="#Exemptions">Exemptions </a>
 
 ### <a id="About the Regime"></a> About the Regime
 
@@ -47,8 +47,17 @@ An “asset-backed token” is any token, certificate or instrument: <br>
 
 Asset-backed tokens **do not include** securities or derivative contracts within the meaning of the Securities and Futures Act, or commodity contracts within the meaning of the Commodity Trading Act. Securities contracts, derivative contracts and commodity contracts are **not** covered under the new regime.
 
-### <a id="Who is required to register?"></a> Who is required to register?
-You are required to register with the Registrar of Regulated Dealers if you are a regulated dealer i.e. you carry on a business of regulated dealing in precious stones, precious metals and/or precious products ("**PSPMs**"), or as an intermediary for regulated dealing in PSPMs. <br><br>
-Examples of regulated dealers who are required to register include, but are not limited to jewellers, bullion traders, jewellery wholesalers, jewellery retailers, second-hand goods dealers, auction houses, and trading platforms. Take this [questionnaire](https://form.gov.sg/5cd3efbbd64f830010e00ea9) to help you ascertain whether you are a regulated dealer.
+### <a id="Exemptions"></a> Exemptions
 
-Please refer to the [PSPM Act](https://sso.agc.gov.sg/Act/PSPMPMLTFA2019) for the official definitions. If you are not certain whether you are required to register, you can seek legal advice.
+The following persons are exempted from registration under the PSPM Act:
+
+• A pawnbroker as defined under Section 3 of the Pawnbrokers Act 2015.<br> 
+• Any person licensed, approved, registered or regulated by the Monetary Authority of Singapore under any written law.<br> 
+• A "foreign dealer"<sup>3</sup> which only carries on business in Singapore for not more than a total of 90 days in a year.
+
+sup>3</sup> A "foreign dealer" is a regulated dealer that:<br> 
+• is registered or incorporated outside Singapore, or is habitually resident outside Singapore;<br> 
+• does not have a permanent establishment, a place of management, or a branch in Singapore at which they carry on the business of regulated dealing or business as an intermediary for regulated dealing; and<br> 
+• only carries on business in Singapore for not more than a total of 90 days in a year.
+
+Foreign dealers should click here (link to Regulatory Compliance for Foreign Dealers) to find out more about their compliance requirements under the PSPM Act.
