@@ -6,7 +6,7 @@ breadcrumb: Reg Regime
 collection_name: regulated-dealers
 ---
 
-<a href="#About the Regime">About the Regime </a> | <a href="#What does the new regime cover?">What does the new regime cover? </a> |<a href="#Exemptions">Exemptions </a>
+<a href="#About the Regime">About the Regime </a> | <a href="#What does the new regime cover?">What does the new regime cover? </a> |<a href="#Exemptions">Exemptions </a> | <a href="#Regulatory Compliance for Foreign Dealers">Regulatory Compliance for Foreign Dealers </a> | <a href="#Our Role in AML/CFT ">Our Role in AML/CFT  </a>
 
 ### <a id="About the Regime"></a> About the Regime
 
@@ -61,3 +61,11 @@ The following persons are exempted from registration under the PSPM Act:
 • only carries on business in Singapore for not more than a total of 90 days in a year.
 
 Foreign dealers should click here (link to Regulatory Compliance for Foreign Dealers) to find out more about their compliance requirements under the PSPM Act.
+
+### <a id="Regulatory Compliance for Foreign Dealers"></a> Regulatory Compliance for Foreign Dealers
+
+text
+
+### <a id="Our Role in AML/CFT "></a> Our Role in AML/CFT 
+
+text
