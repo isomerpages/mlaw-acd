@@ -58,6 +58,14 @@
   - title: AML/CFT Resources
     url: /aml-cft-resources/
 
+- title: Customers
+  url: /what-I-should-know/
+  sub-links:
+  - title: What I should know
+    url: /what-i-should-know/
+  - title: Notice for Customers
+    url: /notice-for-customers/
+
 - title: About MinLaw
   url: https://www.mlaw.gov.sg/about-us/ourvision-mission-corevalues/
   external: true
