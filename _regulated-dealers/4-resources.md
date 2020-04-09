@@ -85,10 +85,10 @@ Regulated Dealers are required to keep records of the customer due diligence (CD
 <table class="tg">
   <tr>
     <th class="tg-yla0">Customer Due Diligence (CDD) Form</th>
-    <th class="tg-cly1">/images/Sample%20CDD%20Form.docx</th>
+    <th class="tg-cly1"><a href="/images/Sample%20CDD%20Form.docx" target="_blank">CDD Form</a></th>
   </tr>
   <tr>
     <td class="tg-yla0">Enhanced Customer Due Diligence (ECDD) Form</td>
-    <td class="tg-cly1">/images/Sample%20ECDD%20Form.docx</td>
+    <td class="tg-cly1"><a href="/images/Sample%20ECDD%20Form.docx" target="_blank"><ECDD Form</a></td>
   </tr>
 </table>
