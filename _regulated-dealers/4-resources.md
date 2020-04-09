@@ -22,15 +22,7 @@ The [GoBusiness Licensing Guide](/images//GoBusiness%20Licensing%20Guide%20for%2
 MAS publishes [list](https://www.mas.gov.sg/regulation/anti-money-laundering/targeted-financial-sanctions/lists-of-designated-individuals-and-entities) of individuals and entities designated under the United Nations Act and the Terrorism (Suppression of Financing) Act. Regulated dealers should [subscribe](https://www.mas.gov.sg/subscription-services){:target="_blank"} to the MAS mailing list to receive updated lists of designated individuals and entities. Regulated dealers are required to screen their customers against the lists before engaging in any business or commercial activity with them.<br><br>
 You may refer to the [MAS Website Subscriber Services Guide](/images/MAS%20Website%20Subscriber%20Services%20Guide_20191105_V1Final.pdf) for a step-by-step guide to the subscription process.<br>
 
-#### [4. Inter Ministry Committee on Terrorist Designation](https://www.mha.gov.sg/inter-ministry-committee-terrorist-designation-(imc-td))
-
-The Inter-Ministry Committee on Terrorist Designation ("**IMC-TD**") acts as Singapore's authority relating to the designation of terrorists. This prohibits any person/ entity from dealing with or providing any financial assistance to them, as required under the Terrorism (Suppression of Financing) Act.
-
-On MHA’s website on [IMC-TD](https://www.mha.gov.sg/inter-ministry-committee-terrorist-designation-(imc-td)), you will find information on counter terrorism financing legislation, IMC-TD’s process of designation, and relevant news articles.
-
-To find out more about your obligations as a regulated dealer, please click [here](/images/Measures%20relating%20to%20prevention%20of%20terrorism%20financing.pdf). <br>
-
-#### [5. Notice for Customers from the Ministry of Law ("**Notice for Customers**")](/images/NoticeForCustomersPoster(Eng)Mar2020.pdf)
+#### [4. Notice for Customers from the Ministry of Law ("**Notice for Customers**")](/images/NoticeForCustomersPoster(Eng)Mar2020.pdf)
 
 The Notice for Customers explains that regulated dealers are required to collect identifying information from customers under the new regulatory regime. Regulated dealers may wish to consider using the Notice for Customers to educate their customers on the AML/CFT requirements.
 
@@ -71,7 +63,7 @@ This Notice for Customers is available in 4 languages - English, Chinese, Malay 
   </tr>
 </table>
 
-#### 6. Sample forms for CDD and ECDD
+#### 5. Sample forms for CDD and ECDD
 
 Regulated Dealers are required to keep records of the customer due diligence ("**CDD**") and enhanced customer due diligence ("**ECDD**") performed. The following sample forms are extracted from the Guidelines and available in Microsoft Word document format for ease of editing.
 
