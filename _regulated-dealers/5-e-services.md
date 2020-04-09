@@ -6,7 +6,7 @@ breadcrumb: E-Services
 collection_name: regulated-dealers
 ---
 
-| Common E-services for Registered Dealers |
+| E-services for Registered Dealers |
 | --- |
 | <a href="https://www.gobusiness.gov.sg/licences">Submit a Registration/Renewal Application via GoBusiness</a> |
 | <a href="https://www.bizfile.gov.sg">Submit a change in your Company details via ACRA</a> | 
