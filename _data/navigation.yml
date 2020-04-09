@@ -38,6 +38,22 @@
   - title: Notices from the Registrar
     url: /news/notices/
 
+- title: Regulated Dealers
+  url: /reg-regime/
+  sub-links: 
+  - title: Reg Regime
+    url: /reg-regime/
+  - title: Registration
+    url: /new-registration
+  - title: Renewal
+    url: /renewal/
+  - title: List of Registered Dealerss
+    url: /list-of-registered-dealerss/
+  - title: Resources
+    url: /resources/
+  - title: E-services
+    url: e-services
+
 - title: Compliance
   url: /entity-based-requirements/
   sub-links:
