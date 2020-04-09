@@ -13,21 +13,23 @@ The Guidelines also provide sample forms and checklists to assist regulated deal
 The [sample forms and checklists](/images/Guidelines%20for%20regulated%20dealers_Annexes_20190828_V1.1Final.docx) in the Annexes of the Guidelines are also available in Microsoft Word document format for ease of editing.
 <br>
 
-#### [2. GoBusiness Licensing Guide for Precious Stones and Precious Metals Dealers ("**GoBusiness Licensing Guide**")](/images/GoBusiness%20Licensing%20Guide%20for%20Regulated%20Dealers_ACD_20191127.pdf)
-<a id="guidance"></a>
-The [GoBusiness Licensing Guide](/images//GoBusiness%20Licensing%20Guide%20for%20Regulated%20Dealers_ACD_20191127.pdf) gives regulated dealers a step-by-step walkthrough of the application process in GoBusiness Licensing Portal. Regulated dealers will be shown how to login, which account to login with, and what information they need to register.<br> 
+#### [2. Sample forms for CDD and ECDD](/images/Sample%20CDD%20and%20ECDD%20Form.docx)
+
+Regulated Dealers are required to keep records of the customer due diligence ("**CDD**") and enhanced customer due diligence ("**ECDD**") performed. The following [sample forms](/images/Sample%20CDD%20and%20ECDD%20Form.docx) are extracted from the Guidelines and available in Microsoft Word document format for ease of editing.
+</table><br>
 
 #### [3. Monetary Authority of Singapore's ("**MAS**") website - Lists of Designated Individuals and Entities](https://www.mas.gov.sg/regulation/anti-money-laundering/targeted-financial-sanctions/lists-of-designated-individuals-and-entities)
 
 MAS publishes [list](https://www.mas.gov.sg/regulation/anti-money-laundering/targeted-financial-sanctions/lists-of-designated-individuals-and-entities) of individuals and entities designated under the United Nations Act and the Terrorism (Suppression of Financing) Act. Regulated dealers should [subscribe](https://www.mas.gov.sg/subscription-services){:target="_blank"} to the MAS mailing list to receive updated lists of designated individuals and entities. Regulated dealers are required to screen their customers against the lists before engaging in any business or commercial activity with them.<br><br>
 You may refer to the [MAS Website Subscriber Services Guide](/images/MAS%20Website%20Subscriber%20Services%20Guide_20191105_V1Final.pdf) for a step-by-step guide to the subscription process.<br>
 
-#### [4. Notice for Customers from the Ministry of Law ("**Notice for Customers**")](/images/NoticeForCustomersPoster(Eng)Mar2020.pdf)
+#### [4. GoBusiness Licensing Guide for Precious Stones and Precious Metals Dealers ("**GoBusiness Licensing Guide**")](/images/GoBusiness%20Licensing%20Guide%20for%20Regulated%20Dealers_ACD_20191127.pdf)
+<a id="guidance"></a>
+The [GoBusiness Licensing Guide](/images//GoBusiness%20Licensing%20Guide%20for%20Regulated%20Dealers_ACD_20191127.pdf) gives regulated dealers a step-by-step walkthrough of the application process in GoBusiness Licensing Portal. Regulated dealers will be shown how to login, which account to login with, and what information they need to register.<br> 
+
+#### [5. Notice for Customers from the Ministry of Law ("**Notice for Customers**")](/images/NoticeForCustomersPoster(Eng)Mar2020.pdf)
 
 The Notice for Customers explains that regulated dealers are required to collect identifying information from customers under the new regulatory regime. Regulated dealers may wish to consider using the Notice for Customers to educate their customers on the AML/CFT requirements.
-
-<a href="/images/NoticeForCustomersPoster(Eng)Mar2020.pdf"><img src="/images/NoticeForCustomersPoster(Eng)Mar2020.jpg"></a><br>
-
 
 This Notice for Customers is available in 4 languages - English, Chinese, Malay and Tamil.
 
@@ -63,24 +65,4 @@ This Notice for Customers is available in 4 languages - English, Chinese, Malay 
   </tr>
 </table>
 
-#### 5. Sample forms for CDD and ECDD
-
-Regulated Dealers are required to keep records of the customer due diligence ("**CDD**") and enhanced customer due diligence ("**ECDD**") performed. The following sample forms are extracted from the Guidelines and available in Microsoft Word document format for ease of editing.
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-cly1{text-align:left;vertical-align:middle}
-.tg .tg-yla0{font-weight:bold;text-align:left;vertical-align:middle}
-</style>
-<table class="tg">
-  <tr>
-    <th class="tg-yla0">Customer Due Diligence (CDD) Form</th>
-    <th class="tg-cly1"><a href="/images/Sample%20CDD%20Form.docx" target="_blank">CDD Form</a></th>
-  </tr>
-  <tr>
-    <td class="tg-yla0">Enhanced Customer Due Diligence (ECDD) Form</td>
-    <td class="tg-cly1"><a href="/images/Sample%20ECDD%20Form.docx" target="_blank">ECDD Form</a></td>
-  </tr>
-</table>
+<a href="/images/NoticeForCustomersPoster(Eng)Mar2020.pdf"><img src="/images/NoticeForCustomersPoster(Eng)Mar2020.jpg"></a>
