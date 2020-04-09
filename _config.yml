@@ -43,6 +43,12 @@ custom_print_css_path: "/assets/css/print.css"
 collections:
   information-for-regulated-dealers:
     output: true
+  regulation-for-dealers:
+    output: true
+  compliance:
+    output: true
+  customers:
+    output: true
     
 resources_name: news
 
