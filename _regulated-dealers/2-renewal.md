@@ -17,7 +17,7 @@ If you intend to continue your business as a regulated dealer and your registrat
 New! In your renewal application, your particulars will be auto-populated in the renewal application form. You should ensure that these are updated. The renewal process will take very little of your time if there are no changes to your registration information. Hence, we encourage you to submit your renewal application as soon as possible.
 
 ### <a id="Renewal Application Process"></a> Renewal Application Process
-<a href="/images/Overview%20of%20Reg%20Process%2020191031.pdf"><img src="/images/Overview%20of%20Reg%20Process%2020191031.png"></a> <br>
+<a href="/images/Overview%20of%20Renewal%20Application%20Process_20200409.pdf"><img src="/images/Overview%20of%20Renewal%20Application%20Process_20200409.png"></a> <br>
 
 You may submit your application via the [GoBusiness Licensing Portal](https://www.gobusiness.gov.sg/licences). You may refer to the [GoBusiness Licensing Guide for Regulated Dealers](/images/GoBusiness%20Licensing%20Guide%20for%20Regulated%20Dealers_ACD_20191127.pdf) for a step-by-step guide to the application process.
 
