@@ -29,12 +29,16 @@
     url: /guidelines/
   - title: PSPM Act
     url: https://sso.agc.gov.sg/Act/PSPMPMLTFA2019
+    external: true
   - title: PMLTF Regulations
     url: https://sso.agc.gov.sg/SL/PSPMPMLTFA2019-S306-2019?DocDate=20190408
+    external: true
   - title: Subsidiary Legislation
     url: https://sso.agc.gov.sg/Act/PSPMPMLTFA2019?ViewType=Sl
+    external: true
   - title: Parliamentary Debate
     url: https://sprs.parl.gov.sg/search/sprs3topic?reportid=bill-349
+    external: true
   - title: Notices from the Registrar
     url: /news/notices/
 
