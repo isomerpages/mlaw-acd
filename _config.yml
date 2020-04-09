@@ -49,6 +49,8 @@ collections:
     output: true
   customers:
     output: true
+  regulated-dealers:
+    output: true
     
 resources_name: news
 
