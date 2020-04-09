@@ -21,6 +21,6 @@ collection_name: regulated-dealers
     <td class="tg-cly1">Submit a change in your Company details</td>
   </tr>
   <tr>
-    <td class="tg-cly1">[Submit a Cash Transaction Report/Suspicious Transaction Report](www.police.gov.sg/sonar)</td>
+    <td class="tg-cly1"><a href="www.police.gov.sg/sonar">Submit a Cash Transaction Report/Suspicious Transaction Report</a></td>
   </tr>
 </table>
