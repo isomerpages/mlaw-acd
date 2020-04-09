@@ -29,10 +29,10 @@ The Registrar of Regulated Dealer may impose additional conditions or waive exis
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:8px 6px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:8px 6px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-mcqj{font-weight:bold;border-color:#000000;text-align:left;vertical-align:top}
+.tg .tg-73oq{border-color:#000000;text-align:left;vertical-align:top}
 .tg .tg-fymr{font-weight:bold;border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-spag{font-weight:bold;font-size:22px;border-color:inherit;text-align:left;vertical-align:top}
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 943px">
 <colgroup>
@@ -40,7 +40,7 @@ The Registrar of Regulated Dealer may impose additional conditions or waive exis
 <col style="width: 514px">
 </colgroup>
   <tr>
-    <th class="tg-mcqj" colspan="2">Important Notice<br><br><span style="font-weight:600">• </span>If your registration has expired, you will not be allowed to submit your renewal application. You will be required to submit a new application to be a registered dealer.<br><span style="font-weight:600">• </span>Ensure that you have the CorpPass and UEN of the business entity for whom the Registration Certificate will be renewed.<br><span style="font-weight:600">• </span>You have updated your business particulars with the Accountancy and Corporate Regulatory Authority (ACRA) so that the updated information can be auto-populated in the application form.<br><span style="font-weight:600">• </span>It may take around 4 weeks for the Registrar to process an application for renewal before granting the renewal. It may take longer if additional information is required. If your renewal is not approved before the expiration of your registration, you registration will lapse and you will have to submit a new registration application.</th>
+    <th class="tg-73oq" colspan="2"><span style="font-weight:bold">Important Notice</span><br><br>• If your registration has expired, you will not be allowed to submit your renewal application. You will be required to submit a new application to be a new registered dealer.<br>• Ensure that you have the CorpPass and UEN of the business entity for whom the Registration Certificate will be renewed.<br>• You have updated your business particulars with the Accountancy and Corporate Regulatory Authority (ACRA) so that the updated information can be auto-populated in the application form.<br>• It may take around 4 weeks for the Registrar to process an application for renewal before granting the renewal. It may take longer if additional information is required. If your renewal is not approved before the expiration of your registration, you registration will lapse and you will have to submit a new registration application.</th>
   </tr>
   <tr>
     <td class="tg-fymr">Entity</td>
@@ -62,8 +62,8 @@ The Registrar of Regulated Dealer may impose additional conditions or waive exis
     <td class="tg-0pky">1. Name<br>2. NRIC/ Passport/ FIN No.<br>3. Nationality/ Country of Incorporation<br>4. Date of Birth<br>5. Email address<br>6. Mobile number</td>
   </tr>
   <tr>
-    <td class="tg-fymr">Business Particulars</td>
-    <td class="tg-fymr">Information needed</td>
+    <td class="tg-spag">Business Particulars</td>
+    <td class="tg-spag">Information needed</td>
   </tr>
   <tr>
     <td class="tg-0pky">Address</td>
@@ -78,11 +78,11 @@ The Registrar of Regulated Dealer may impose additional conditions or waive exis
     <td class="tg-0pky">Wholesale, manufacturing, retail, etc.</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Subscription to alerts on updates to designated individuals and entities’</td>
-    <td class="tg-0lax">roof that you have subscribed to alerts from the Monetary Authority of Singapore’s Anti-Money Laundering subscription website. Examples of such proof are screenshot of the confirmation on the successful subscription or an email of the alert received. <br><span style="font-weight:bold">Failure to subscribe may affect your application for renewal.</span></td>
+    <td class="tg-0pky">Subscription to alerts on updates to designated individuals and entities’</td>
+    <td class="tg-0pky">roof that you have subscribed to alerts from the Monetary Authority of Singapore’s Anti-Money Laundering subscription website. Examples of such proof are screenshot of the confirmation on the successful subscription or an email of the alert received. <br><span style="font-weight:bold">Failure to subscribe may affect your application for renewal.</span></td>
   </tr>
   <tr>
-    <td class="tg-0lax" colspan="2"><span style="font-weight:bold;color:rgb(254, 0, 0)">Supporting documents to be attached to the application form:</span><br><br><span style="font-weight:700;color:rgb(254, 0, 0)">• </span><span style="color:rgb(254, 0, 0)">For applicants with who have directors, partners, managers, company secretary, outlet managers, substantial shareholders who are </span><span style="text-decoration:underline;color:rgb(254, 0, 0)">foreign nationals</span><span style="color:rgb(254, 0, 0)"> you should attach a copy of their foreign photo identification document such as passport.</span><br><span style="font-weight:700;color:rgb(254, 0, 0)">• </span><span style="color:rgb(254, 0, 0)">For applicants who have </span><span style="text-decoration:underline;color:rgb(254, 0, 0)">corporate shareholders</span><span style="color:rgb(254, 0, 0)">, you should attach a copy of your shareholders’ registration information (including particulars of directors, partners, managers, company secretary, outlet managers, substantial shareholders).</span><br><span style="font-weight:700;color:rgb(254, 0, 0)">• </span><span style="color:rgb(254, 0, 0)">For applicants who have </span><span style="text-decoration:underline;color:rgb(254, 0, 0)">more than one layer of corporate shareholders</span><span style="color:rgb(254, 0, 0)">, you should attach your organisation structure/ chart up till the individuals who own the group. For listed corporate shareholders, you do not have to provide  the name of all your shareholders. You should still provide a list of those who hold more than 5% shares of the listed company.</span></td>
+    <td class="tg-0pky" colspan="2"><span style="font-weight:bold;color:rgb(51, 51, 51)">Supporting documents to be attached to the application form:</span><br><br><span style="font-weight:700;color:rgb(51, 51, 51)">• </span><span style="color:rgb(51, 51, 51)">For applicants with who have directors, partners, managers, company secretary, outlet managers, substantial shareholders who are </span><span style="text-decoration:underline;color:rgb(51, 51, 51)">foreign nationals</span><span style="color:rgb(51, 51, 51)"> you should attach a copy of their foreign photo identification document such as passport.</span><br><span style="font-weight:700;color:rgb(51, 51, 51)">• </span><span style="color:rgb(51, 51, 51)">For applicants who have </span><span style="text-decoration:underline;color:rgb(51, 51, 51)">corporate shareholders</span><span style="color:rgb(51, 51, 51)">, you should attach a copy of your shareholders’ registration information (including particulars of directors, partners, managers, company secretary, outlet managers, substantial shareholders).</span><br><span style="font-weight:700;color:rgb(51, 51, 51)">• </span><span style="color:rgb(51, 51, 51)">For applicants who have </span><span style="text-decoration:underline;color:rgb(51, 51, 51)">more than one layer of corporate shareholders</span><span style="color:rgb(51, 51, 51)">, you should attach your organisation structure/ chart up till the individuals who own the group. For listed corporate shareholders, you do not have to provide  the name of all your shareholders. You should still provide a list of those who hold more than 5% shares of the listed company.</span></td>
   </tr>
 </table>
 
