@@ -15,8 +15,7 @@ The [sample forms and checklists](/images/Guidelines%20for%20regulated%20dealers
 
 #### [2. Sample forms for CDD and ECDD](/images/Sample%20CDD%20and%20ECDD%20Form.docx)
 
-Regulated Dealers are required to keep records of the customer due diligence ("**CDD**") and enhanced customer due diligence ("**ECDD**") performed. The following [sample forms](/images/Sample%20CDD%20and%20ECDD%20Form.docx) are extracted from the Guidelines and available in Microsoft Word document format for ease of editing.
-</table><br>
+Regulated Dealers are required to keep records of the customer due diligence ("**CDD**") and enhanced customer due diligence ("**ECDD**") performed. The following [sample forms](/images/Sample%20CDD%20and%20ECDD%20Form.docx) are extracted from the Guidelines and available in Microsoft Word document format for ease of editing. <br>
 
 #### [3. Monetary Authority of Singapore's ("**MAS**") website - Lists of Designated Individuals and Entities](https://www.mas.gov.sg/regulation/anti-money-laundering/targeted-financial-sanctions/lists-of-designated-individuals-and-entities)
 
