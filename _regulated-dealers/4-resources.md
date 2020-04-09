@@ -73,7 +73,7 @@ This Notice for Customers is available in 4 languages - English, Chinese, Malay 
 
 #### 6. Sample forms for CDD and ECDD
 
-Regulated Dealers are required to keep records of the customer due diligence (CDD) and enhanced customer due diligence (ECDD) performed. The following sample forms are extracted from the Guidelines and available in Microsoft Word document format for ease of editing.
+Regulated Dealers are required to keep records of the customer due diligence ("**CDD**") and enhanced customer due diligence ("**ECDD**") performed. The following sample forms are extracted from the Guidelines and available in Microsoft Word document format for ease of editing.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
