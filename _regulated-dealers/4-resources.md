@@ -4,6 +4,7 @@ title: Resources
 permalink: /resources/
 breadcrumb: Resources
 collection_name: regulated-dealers
+---
 
 #### [1. Guidelines for Regulated Dealers](/images/Guidelines%20for%20regulated%20dealers_20190828_V1.1Final.pdf)
 <a id="guidance"></a>
