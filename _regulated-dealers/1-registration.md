@@ -53,7 +53,7 @@ You may submit your application via the [GoBusiness Licensing Portal](https://ww
   </tr>
   <tr>
     <td class="tg-0pky">Director<br>Partner<br>Manager<br>Company secretary<br>Substantial shareholder <br>(if you represent a company)</td>
-    <td class="tg-0pky">1. Name*<br>2. NRIC/ Passport/ FIN No.*<br>3. Nationality/ Country of Incorporation*<br>4. Date of Birth<br>5. Declaration of<br>(a) Any investigations or convictions for offences related to<br> fraud, dishonesty, money laundering or terrorism financing;<br>(b) Any bankruptcy, insolvency or liquidation;<br>(c) Any lawsuit the person was a party to; and<br>(d) Any breach of AML/CFT requirements<br><br>* Information is auto-populated for ACRA registered entities</td>
+    <td class="tg-0pky">1. <b>Name*</b><br>2. <b>NRIC/ Passport/ FIN No.*</b><br>3. <b>Nationality/ Country of Incorporation*</b><br>4. Date of Birth<br>5. Declaration of<br>(a) Any investigations or convictions for offences related to<br> fraud, dishonesty, money laundering or terrorism financing;<br>(b) Any bankruptcy, insolvency or liquidation;<br>(c) Any lawsuit the person was a party to; and<br>(d) Any breach of AML/CFT requirements<br><br><b>* Information is auto-populated for ACRA registered entities</b></td>
   </tr>
   <tr>
     <td class="tg-0pky">Person holding an analogous position<br>involved in the management of the applicant</td>
@@ -72,7 +72,7 @@ You may submit your application via the [GoBusiness Licensing Portal](https://ww
   </tr>
   <tr>
     <td class="tg-0pky">Address</td>
-    <td class="tg-0pky">1. Registered address*<br>2. Operating address<br>3. Mailing address<br>4. Outlet address<br>5. Business telephone number<br>6. Business fax number<br>7. Business email address<br><br>* Information is auto-populated for ACRA registered entities</td>
+    <td class="tg-0pky">1. <b>Registered address*</b><br>2. Operating address<br>3. Mailing address<br>4. Outlet address<br>5. Business telephone number<br>6. Business fax number<br>7. Business email address<br><br><b>* Information is auto-populated for ACRA registered entities</b></td>
   </tr>
   <tr>
     <td class="tg-0pky">Products</td>
@@ -164,15 +164,3 @@ ABC Pte Ltd must pay a total of <b>S$1,940</b>:<br>
 
 * If you face any technical issues when using [GoBusiness Licensing Portal](https://www.gobusiness.gov.sg/licences), you may wish to refer to the GoBusiness Licensing Portal webpage or contact the [GoBusiness Licensing Portal Helpdesk](https://www.gobusiness.gov.sg/licences).
 * If you are not sure how to complete the application form, you may wish to refer to our [GoBusiness Licensing Portal Guide for Regulated Dealers (Step-by-Step with Screenshots)](/images/GoBusiness%20Licensing%20Guide%20for%20Regulated%20Dealers_ACD_20191127.pdf) or [our FAQs for Precious Stones and Precious Metals Dealers](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx){:target="_blank"}.
-
-<table>
-  <tr>
-    <th>
-Important Notice
-
-• Ensure that you have the CorpPass and UEN of the business entity that the Registration Certificate will be issued to.
-• There should only be one application per business entity i.e. one application per UEN. You can have multiple outlets per application.
-• It may take around 4 weeks for the Registrar to process an application for registration before granting the registration.
-It may take longer if additional information is required.</th>
-  </tr>
-  <table>
