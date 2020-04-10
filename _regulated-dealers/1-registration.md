@@ -53,11 +53,11 @@ You may submit your application via the [GoBusiness Licensing Portal](https://ww
   </tr>
   <tr>
     <td class="tg-0pky">Director<br>Partner<br>Manager<br>Company secretary<br>Substantial shareholder (if you represent a company)</td>
-    <td class="tg-0pky">1. Name*<br>2. NRIC/ Passport/ FIN No.*<br>3. Nationality/ Country of Incorporation*<br>4. Date of Birth<br>5. Declaration of<br>(a) Any investigations or convictions for offences related to fraud, dishonesty,<br>money laundering or terrorism financing;<br>(b) Any bankruptcy, insolvency or liquidation;<br>(c) Any lawsuit the person was a party to; and<br>(d) Any breach of AML/CFT requirements<br><br>* Information is auto-populated for ACRA registered entities</td>
+    <td class="tg-0pky">1. Name*<br>2. NRIC/ Passport/ FIN No.*<br>3. Nationality/ Country of Incorporation*<br>4. Date of Birth<br>5. Declaration of<br>(a) Any investigations or convictions for offences related to<br> fraud, dishonesty, money laundering or terrorism financing;<br>(b) Any bankruptcy, insolvency or liquidation;<br>(c) Any lawsuit the person was a party to; and<br>(d) Any breach of AML/CFT requirements<br><br>* Information is auto-populated for ACRA registered entities</td>
   </tr>
   <tr>
     <td class="tg-0pky">Person holding an analogous position<br>involved in the management of the applicant</td>
-    <td class="tg-0pky" rowspan="2">1. Name<br>2. NRIC/ Passport/ FIN No.<br>3. Nationality/ Country of Incorporation<br>4. Date of Birth<br>5. Declaration of<br>(a) Any investigations or convictions for offences related to fraud, dishonesty,<br>money laundering or terrorism financing;<br>(b) Any bankruptcy, insolvency or liquidation;<br>(c) Any lawsuit the person was a party to; and<br>(d) Any breach of AML/CFT requirements</td>
+    <td class="tg-0pky" rowspan="2">1. Name<br>2. NRIC/ Passport/ FIN No.<br>3. Nationality/ Country of Incorporation<br>4. Date of Birth<br>5. Declaration of<br>(a) Any investigations or convictions for offences related to<br> fraud, dishonesty, money laundering or terrorism financing;<br>(b) Any bankruptcy, insolvency or liquidation;<br>(c) Any lawsuit the person was a party to; and<br>(d) Any breach of AML/CFT requirements</td>
   </tr>
   <tr>
     <td class="tg-0pky">Outlet manager</td>
