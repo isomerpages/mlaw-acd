@@ -45,7 +45,7 @@ You may submit your application via the [GoBusiness Licensing Portal](https://ww
 <col style="width: 380">
 </colgroup>
   <tr>
-    <th class="tg-73oq" colspan="2"><span style="font-weight:bold">Important Notice</span><br><br>• Ensure that you have the CorpPass and UEN of the business entity that the Registration Certificate will be issued to.<br>• There should only be one application per business entity i.e. one application per UEN. You can have multiple outlets per application.<br>• It may take around 4 weeks for the Registrar to process an application for registration before granting the registration.<br> It may take longer if additional information is required.</th>
+    <th class="tg-73oq" colspan="2"><span style="font-weight:bold">Important Notice</span><br><br>• Ensure that you have the CorpPass and UEN of the business entity that the Registration Certificate will be issued to.<br>• There should only be one application per business entity i.e. one application per UEN. You can have multiple outlets per application.<br>• It may take around 4 weeks for the Registrar to process an application for registration before granting the registration. It may take longer if additional information is required.</th>
   </tr>
   <tr>
     <td class="tg-fymr">Entity</td>
