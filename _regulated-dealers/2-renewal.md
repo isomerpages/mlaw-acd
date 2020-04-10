@@ -48,7 +48,7 @@ The Registrar of Regulated Dealer may impose additional conditions or waive exis
   </tr>
   <tr>
     <td class="tg-0pky">Director<br>Partner<br>Manager<br>Company secretary<br>Substantial shareholder (if you represent a company)</td>
-    <td class="tg-0pky"><b>1. Name*</b><br><b>2. NRIC/ Passport/ FIN No.*</b><br><b>3. Nationality/ Country of Incorporation*</b><br>4. Date of Birth<br>5. Declaration of<br>(a) Any investigations or convictions for offences related to fraud, dishonesty,<br>money laundering or terrorism financing;<br>(b) Any bankruptcy, insolvency or liquidation;<br>(c) Any lawsuit the person was a party to; and<br>(d) Any breach of AML/CFT requirements<br><br>* Information is auto-populated for ACRA registered entities</td>
+    <td class="tg-0pky"><b>1. Name*</b><br><b>2. NRIC/ Passport/ FIN No.*</b><br><b>3. Nationality/ Country of Incorporation*</b><br>4. Date of Birth<br>5. Declaration of<br>(a) Any investigations or convictions for offences related to fraud, dishonesty,<br>money laundering or terrorism financing;<br>(b) Any bankruptcy, insolvency or liquidation;<br>(c) Any lawsuit the person was a party to; and<br>(d) Any breach of AML/CFT requirements<br><br><b>* Information is auto-populated for ACRA registered entities</b></td>
   </tr>
   <tr>
     <td class="tg-0pky">Person holding an analogous position<br>involved in the management of the applicant</td>
@@ -67,7 +67,7 @@ The Registrar of Regulated Dealer may impose additional conditions or waive exis
   </tr>
   <tr>
     <td class="tg-0pky">Address</td>
-    <td class="tg-0pky"><b>1. Registered address*</b><br>2. Operating address<br>3. Mailing address<br>4. Outlet address<br>5. Business telephone number<br>6. Business fax number<br>7. Business email address<br><br>* Information is auto-populated for ACRA registered entities</td>
+    <td class="tg-0pky"><b>1. Registered address*</b><br>2. Operating address<br>3. Mailing address<br>4. Outlet address<br>5. Business telephone number<br>6. Business fax number<br>7. Business email address<br><br><b>* Information is auto-populated for ACRA registered entities</b></td>
   </tr>
   <tr>
     <td class="tg-0pky">Products</td>
