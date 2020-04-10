@@ -34,10 +34,10 @@ The Registrar of Regulated Dealer may impose additional conditions or waive exis
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-spag{font-weight:bold;font-size:22px;border-color:inherit;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 943px">
+<table class="tg" style="undefined;table-layout: fixed; width: 850px">
 <colgroup>
-<col style="width: 429px">
-<col style="width: 514px">
+<col style="width: 470px">
+<col style="width: 380px">
 </colgroup>
   <tr>
     <th class="tg-73oq" colspan="2"><span style="font-weight:bold">Important Notice</span><br><br>• If your registration has expired, you will not be allowed to submit your renewal application. You will be required to submit a new application to be a new registered dealer.<br>• Ensure that you have the CorpPass and UEN of the business entity for whom the Registration Certificate will be renewed.<br>• You have updated your business particulars with the Accountancy and Corporate Regulatory Authority (ACRA) so that the updated information can be auto-populated in the application form.<br>• It may take around 4 weeks for the Registrar to process an application for renewal before granting the renewal. It may take longer if additional information is required. If your renewal is not approved before the expiration of your registration, you registration will lapse and you will have to submit a new registration application.</th>
