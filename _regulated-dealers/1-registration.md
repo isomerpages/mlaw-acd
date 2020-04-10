@@ -39,9 +39,9 @@ You may submit your application via the [GoBusiness Licensing Portal](https://ww
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-spag{font-weight:bold;font-size:22px;border-color:inherit;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 800px">
+<table class="tg" style="undefined;table-layout: fixed; width: 850px">
 <colgroup>
-<col style="width: 420">
+<col style="width: 470">
 <col style="width: 380">
 </colgroup>
   <tr>
