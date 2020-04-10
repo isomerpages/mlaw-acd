@@ -164,3 +164,15 @@ ABC Pte Ltd must pay a total of <b>S$1,940</b>:<br>
 
 * If you face any technical issues when using [GoBusiness Licensing Portal](https://www.gobusiness.gov.sg/licences), you may wish to refer to the GoBusiness Licensing Portal webpage or contact the [GoBusiness Licensing Portal Helpdesk](https://www.gobusiness.gov.sg/licences).
 * If you are not sure how to complete the application form, you may wish to refer to our [GoBusiness Licensing Portal Guide for Regulated Dealers (Step-by-Step with Screenshots)](/images/GoBusiness%20Licensing%20Guide%20for%20Regulated%20Dealers_ACD_20191127.pdf) or [our FAQs for Precious Stones and Precious Metals Dealers](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx){:target="_blank"}.
+
+<table>
+  <tr>
+    <th>
+Important Notice
+
+• Ensure that you have the CorpPass and UEN of the business entity that the Registration Certificate will be issued to.
+• There should only be one application per business entity i.e. one application per UEN. You can have multiple outlets per application.
+• It may take around 4 weeks for the Registrar to process an application for registration before granting the registration.
+It may take longer if additional information is required.</th>
+  </tr>
+  <table>
