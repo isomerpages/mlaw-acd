@@ -6,15 +6,15 @@ breadcrumb: Renewal
 collection_name: regulated-dealers
 ---
 
-<a href="#Renewal of Registration as a Registered Dealer">Renewal of Registration as a Registered Dealer </a> | <a href="#Renewal Application Process">Renewal Application Process </a> | <a href="#Information you need for Renewal Registration Application">Information you need for Renewal Registration Application</a> | <a href="#Fees and period of registration">Fees and period of registration </a> | <a href="#I need help with renewal">I need help with renewal </a>
+<a href="#Renewal of Registration">Renewal of Registration</a> | <a href="#Renewal Application Process">Renewal Application Process </a> | <a href="#Information Needed">Information Needed</a> | <a href="#Fees and period of registration">Fees and period of registration </a> | <a href="#I need help with renewal">I need help with renewal </a>
 
-### <a id="Renewal of Registration as a Registered Dealer"></a> Renewal of Registration as a Registered Dealer
+### <a id="Renewal of Registration"></a> Renewal of Registration
 
 It is an <u>offence</u> if you act or hold out to be a regulated dealer without being registered or exempted. 
 
 If you intend to continue your business as a regulated dealer and your registration period will be expiring in the next 3 months, you should renew your registration as soon as possible. It may take around 4 weeks for the Registrar to process an application for renewal before granting the renewal. It may take longer if additional information is required. If your renewal is not approved before the expiration of your registration, your registration will lapse and you will have to submit a new registration application.
 
-Note! In your renewal application, your particulars will be auto-populated in the renewal application form. You should ensure that these are updated. The renewal process will take very little of your time if there are no changes to your registration information. Hence, we encourage you to submit your renewal application as soon as possible.
+Note: In your renewal application, your particulars will be auto-populated in the renewal application form. You should ensure that these are updated. The renewal process will take very little of your time if there are no changes to your registration information. Hence, we encourage you to submit your renewal application as soon as possible.
 
 ### <a id="Renewal Application Process"></a> Renewal Application Process
 <a href="/images/Overview%20of%20Renewal%20Application%20Process_20200409.pdf"><img src="/images/Overview%20of%20Renewal%20Application%20Process_20200409.png"></a> <br>
@@ -23,7 +23,7 @@ You may submit your application via the [GoBusiness Licensing Portal](https://ww
 
 The Registrar of Regulated Dealer may impose additional conditions or waive existing conditions for registration, for the renewed registration period.
 
-### <a id="Information you need for Renewal Registration Application"></a> Information you need for Renewal Registration Application
+### <a id="Information Needed"></a> Information Needed
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
