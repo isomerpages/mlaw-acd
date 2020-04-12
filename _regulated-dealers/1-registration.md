@@ -6,9 +6,9 @@ breadcrumb: Registration
 collection_name: regulated-dealers
 ---
 
-<a href="#Registration of Regulated Dealers">Registration of Regulated Dealers </a> | <a href="#Who is required to register?">Who is required to register? </a> |<a href="#Registration Application Process">Registration Application Process </a> | <a href="#Information you need for Registration Application">Information you need for Registration Application</a> | <a href="#Fees and period of registration">Fees and period of registration </a> | <a href="#I need help with registration">I need help with registration </a>
+<a href="#Registration">Registration </a> | <a href="#Who is required to register?">Who is required to register? </a> |<a href="#Registration Application Process">Registration Application Process </a> | <a href="#Information Needed">Information Needed</a> | <a href="#Fees and period of registration">Fees and period of registration </a> | <a href="#I need help with registration">I need help with registration </a>
 
-### <a id="Registration of Regulated Dealers"></a> Registration of Regulated Dealers
+### <a id="Registration"></a> Registration
 
 It is an <u>offence</u> if you act or hold out to be a regulated dealer without being registered or exempted. You must be registered before you commence any regulated dealing.
 
@@ -28,7 +28,7 @@ Please refer to the [PSPM Act](https://sso.agc.gov.sg/Act/PSPMPMLTFA2019) for th
 You may submit your application via the [GoBusiness Licensing Portal](https://www.gobusiness.gov.sg/licences). You may refer to the [GoBusiness Licensing Guide for Regulated Dealers](/images/GoBusiness%20Licensing%20Guide%20for%20Regulated%20Dealers_ACD_20191127.pdf) for a step-by-step guide to the application process.
 
 
-### <a id="Information you need for Registration Application"></a> Information you need for Registration Application
+### <a id="Information Needed"></a> Information Needed
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
