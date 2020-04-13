@@ -6,27 +6,22 @@ breadcrumb: Transaction-Based Requirements
 collection_name: compliance
 ---
 
-<a href="#Customer Due Diligence">Customer Due Diligence </a> | <a href="#Enhanced Customer Due Diligence">Enhanced Customer Due Diligence </a> |<a href="#Cash Transaction Report">Cash Transaction Report </a> | <a href="#Suspicious Transaction Report">Suspicious Transaction Report </a> 
+<a href="#Customer Due Diligence">Customer Due Diligence </a> | <a href="#Enhanced Customer Due Diligence">Enhanced Customer Due Diligence </a> |<a href="#Cash Transaction Report">Cash Transaction Report </a> | <a href="#Suspicious Transaction Report">Suspicious Transaction Report </a>
 
 ### <a id="Customer Due Diligence"></a> Customer Due Diligence
 
-text 1
-texttt
-description
+Importantly, the regime does **not** intend to cover individuals who make one-off purchases and subsequently decide to sell their items to a second-hand goods dealer. Further, pawnbrokers are **not** regulated dealers as they are already subject to AML/CFT measures under the Pawnbrokers Act.<br>
 
-### <a id="Enhanced Customer Due Diligence"></a> Enhanced Customer Due Diligence
+### <a id="Enhanced Customer Due Diligence"></a> Enhanced Customer Due Diligence 
 
-text 2
-textt
-texas
+Asset-backed tokens **do not include** securities or derivative contracts within the meaning of the Securities and Futures Act, or commodity contracts within the meaning of the Commodity Trading Act. Securities contracts, derivative contracts and commodity contracts are **not** covered under the new regime.
 
 ### <a id="Cash Transaction Report"></a> Cash Transaction Report
 
-text 3
-test
-more text
+The following persons are exempted from registration under the PSPM Act:
+
+Foreign dealers should click here (link to Regulatory Compliance for Foreign Dealers) to find out more about their compliance requirements under the PSPM Act.
 
 ### <a id="Suspicious Transaction Report"></a> Suspicious Transaction Report
 
-text 4
-final test. text
+text. this is a test
