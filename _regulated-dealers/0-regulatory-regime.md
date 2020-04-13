@@ -68,6 +68,9 @@ text. this is a test
 
 ### <a id="Our Role in AML/CFT"></a> Our Role in AML/CFT 
 
-text. to see if can capture accurately
+Singapore is a member of the Financial Action Task force (FATF), an inter-governmental body that sets international standards aimed to prevent money laundering and terrorism financing, and the harm these illegal activities cause to society. There are currently more than 200 countries and jurisdictions committed to implementing anti-money laundering/countering the financing of terrorism (AML/CFT) measures in accordance to the recommendations set by the FATF.
 
-test
+Designated non-financial businesses and professions (DNFBPs) in Singapore, such as the precious stones and precious metals dealers (PSMDs), have a role to play to ensure that Singapore is effective in implementing its AML/CFT policies through the PSMD sector. The regulatory requirements on the PSMD sector are set out in the PSPM Act and PMLTF Regulations. Regulated dealers should also refer to the Guidelines for Regulated Dealers.
+
+Please refer to the compliance requirements [here](/compliance/) for more information on how to implement an effective AML/CFT framework for your business.
+
