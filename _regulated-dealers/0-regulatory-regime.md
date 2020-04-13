@@ -6,7 +6,7 @@ breadcrumb: Reg Regime
 collection_name: regulated-dealers
 ---
 
-<a href="#About the Regime">About the Regime </a> | <a href="#What does the new regime cover?">What does the new regime cover? </a> |<a href="#Exemptions">Exemptions </a> | <a href="#Regulatory Compliance for Foreign Dealers">Regulatory Compliance for Foreign Dealers </a> | <a href="#Our Role in AML/CFT ">Our Role in AML/CFT  </a>
+<a href="#About the Regime">About the Regime </a> | <a href="#What does the new regime cover?">What does the new regime cover? </a> |<a href="#Exemptions">Exemptions </a> | <a href="#Regulatory Compliance for Foreign Dealers">Regulatory Compliance for Foreign Dealers </a> | <a href="#Our Role in AMLCFT ">Our Role in AMLCFT  </a>
 
 ### <a id="About the Regime"></a> About the Regime
 
@@ -66,7 +66,7 @@ Foreign dealers should click here (link to Regulatory Compliance for Foreign Dea
 
 text. this is a test
 
-### <a id="Our Role in AML/CFT "></a> Our Role in AML/CFT 
+### <a id="Our Role in AMLCFT "></a> Our Role in AMLCFT 
 
 text. to see if can capture accurately
 
