@@ -29,6 +29,8 @@ To find out more about your obligations as a regulated dealer, please click [her
 
 * [Financial Action Task Force Methodology for assessing compliance with the FATF Recommendations and the effectiveness of AML/CFT](http://www.fatf-gafi.org/publications/mutualevaluations/documents/fatf-methodology.html)
 
+* [Financial Action Task Force - COVID-19 and measures to combat illicit financing](https://www.fatf-gafi.org/publications/fatfgeneral/documents/statement-covid-19.html)
+
 * [Financial Action Task Force – Money Laundering/Terrorist Financing risks associated with gold](https://www.fatf-gafi.org/media/fatf/documents/reports/ML-TF-risks-vulnerabilities-associated-with-gold.pdf)
 
 * [Financial Action Task Force – Money Laundering/Terrorist Financing through trade in diamonds](https://www.fatf-gafi.org/media/fatf/documents/reports/ML-TF-through-trade-in-diamonds.pdf)
