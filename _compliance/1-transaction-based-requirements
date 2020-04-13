@@ -6,7 +6,7 @@ breadcrumb: Transaction-Based Requirements
 collection_name: compliance
 ---
 
-<a href="#Customer Due Diligence">Customer Due Diligence </a> | <a href="#Enhanced Customer Due Diligence">Enhanced Customer Due Diligence </a> |<a href="#Cash Transaction Report">Cash Transaction Report </a> | <a href="#Suspicious Transaction Report">Suspicious Transaction Report </a>
+<a href="#Customer Due Diligence">Customer Due Diligence </a> | <a href="#Enhanced Customer Due Diligence">Enhanced Customer Due Diligence </a> |<a href="#Cash Transaction Report">Cash Transaction Report </a> 
 
 ### <a id="Customer Due Diligence"></a> Customer Due Diligence
 
@@ -21,7 +21,3 @@ Asset-backed tokens **do not include** securities or derivative contracts within
 The following persons are exempted from registration under the PSPM Act:
 
 Foreign dealers should click here (link to Regulatory Compliance for Foreign Dealers) to find out more about their compliance requirements under the PSPM Act.
-
-### <a id="Suspicious Transaction Report"></a> Suspicious Transaction Report
-
-text. this is a test
