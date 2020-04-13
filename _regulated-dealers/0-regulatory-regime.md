@@ -64,8 +64,10 @@ Foreign dealers should click here (link to Regulatory Compliance for Foreign Dea
 
 ### <a id="Regulatory Compliance for Foreign Dealers"></a> Regulatory Compliance for Foreign Dealers
 
-text
+text. this is a test
 
 ### <a id="Our Role in AML/CFT "></a> Our Role in AML/CFT 
 
-text
+text. to see if can capture accurately
+
+test
