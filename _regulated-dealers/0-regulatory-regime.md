@@ -72,5 +72,5 @@ Singapore is a member of the Financial Action Task force (FATF), an inter-govern
 
 Designated non-financial businesses and professions (DNFBPs) in Singapore, such as the precious stones and precious metals dealers (PSMDs), have a role to play to ensure that Singapore is effective in implementing its AML/CFT policies through the PSMD sector. The regulatory requirements on the PSMD sector are set out in the PSPM Act and PMLTF Regulations. Regulated dealers should also refer to the Guidelines for Regulated Dealers.
 
-Please refer to the compliance requirements [here](/compliance/) for more information on how to implement an effective AML/CFT framework for your business.
+Please refer to the compliance requirements [here](/entity-based-requirements/) for more information on how to implement an effective AML/CFT framework for your business.
 
