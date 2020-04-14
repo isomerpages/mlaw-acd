@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: List of Registered Dealerss
-permalink: /list-of-registered-dealerss/
-breadcrumb: List of Registered Dealerss
+title: List of Registered Dealers
+permalink: /list-of-registered-dealers/
+breadcrumb: List of Registered Dealers
 collection_name: regulated-dealers
 ---
 
