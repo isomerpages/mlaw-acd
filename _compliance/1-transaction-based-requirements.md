@@ -15,7 +15,7 @@ The transaction-based requirements that apply to regulated dealers include, but 
 • File Suspicious Transaction Report (**"STR"**) with [STRO](https://www.police.gov.sg/advisories/crime/commercial-crimes/suspicious-transaction-reporting-office) where there is suspicion of money laundering / terrorism financing (**"ML/TF"**). Apply for a [SONAR account](https://www.police.gov.sg/sonar) to e-file your STR. By e-filing via SONAR, a copy of the STR would be extended to ACD.<br>
 • Subscribe to the [Monetary Authority of Singapore (**"MAS"**)](https://www.mas.gov.sg/subscription-services) and [Ministry of Home Affairs (**"MHA"**)](https://www.mha.gov.sg/inter-ministry-committee-terrorist-designation-(imc-td)) website for the lists of designated individuals and entities and terrorist designated list. You will be alerted via email whenever there is an update to the lists.
 
-Please refer to the video to understand more about the transaction-based requirements for a regulated dealer. The requirements are also set out under Annex A of the [Guidelines for Regulated Dealers](/images/Guidelines%20for%20regulated%20dealers_20190828_V1.1Final.pdf)
+Please refer to the video to understand more about the transaction-based requirements for a regulated dealer. The requirements are also set out under Annex A of the [Guidelines for Regulated Dealers](/images/Guidelines%20for%20regulated%20dealers_20190828_V1.1Final.pdf).
 
 ### <a id="Customer Due Diligence"></a> Customer Due Diligence
 
