@@ -74,7 +74,7 @@ Foreign dealers should refer below to find out more about their compliance requi
 
 ### <a id="Regulatory Compliance for Foreign Dealers"></a> Regulatory Compliance for Foreign Dealers
 
-text. this is a test
+pending text clearance
 
 ### <a id="Our Role in AML/CFT"></a> Our Role in AML/CFT 
 
