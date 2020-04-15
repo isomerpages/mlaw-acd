@@ -8,7 +8,7 @@ collection_name: regulated-dealers
 
 <a href="#Renewal of Registration">Renewal of Registration</a> | <a href="#Renewal Application Process">Renewal Application Process </a> | <a href="#Information Needed">Information Needed</a> | <a href="#Fees and period of registration">Fees and period of registration </a> | <a href="#I need help with renewal">I need help with renewal </a>
 
-### <a id="Renewal of Registration"></a> Renewal of Registration
+#### <a id="Renewal of Registration"></a> Renewal of Registration
 
 It is an <u>offence</u> if you act or hold out to be a regulated dealer without being registered or exempted. 
 
@@ -16,14 +16,14 @@ If you intend to continue your business as a regulated dealer and your registrat
 
 Note: In your renewal application, your particulars will be auto-populated in the renewal application form. You should ensure that these are updated. The renewal process will take very little of your time if there are no changes to your registration information. Hence, we encourage you to submit your renewal application as soon as possible.
 
-### <a id="Renewal Application Process"></a> Renewal Application Process
+#### <a id="Renewal Application Process"></a> Renewal Application Process
 <a href="/images/Overview%20of%20Renewal%20Application%20Process_20200409.pdf"><img src="/images/Overview%20of%20Renewal%20Application%20Process_20200409.png"></a> <br>
 
 You may submit your application via the [GoBusiness Licensing Portal](https://www.gobusiness.gov.sg/licences). You may refer to the [GoBusiness Licensing Guide for Regulated Dealers](/images/GoBusiness%20Licensing%20Guide%20for%20Regulated%20Dealers_ACD_20191127.pdf) for a step-by-step guide to the application process.
 
 The Registrar of Regulated Dealer may impose additional conditions or waive existing conditions for registration, for the renewed registration period.
 
-### <a id="Information Needed"></a> Information Needed
+#### <a id="Information Needed"></a> Information Needed
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -86,7 +86,7 @@ The Registrar of Regulated Dealer may impose additional conditions or waive exis
   </tr>
 </table>
 
-### <a id="Fees and period of registration"></a> Fees and period of registration
+#### <a id="Fees and period of registration"></a> Fees and period of registration
 <b>Fees</b><br>
 Regulated dealers must pay an application fee of S$140 for each renewal application to register with the Registrar. All payment must be made through [GoBusiness Licensing Portal](https://www.gobusiness.gov.sg/licences) using the following e-payment methods: PayPal, VISA, MasterCard, American Express and Discover.<br><br>
 If the Registrar provides in-principle approval for their application, regulated dealers must pay a registration fee of S$300 per place of business per year calculated based on the number of outlets they operate and the period for which they register.
@@ -158,7 +158,7 @@ ABC Pte Ltd must pay a total of <b>S$1,940</b>:<br>
 </table>
 
 
-### <a id="I need help with renewal"></a> I need help with renewal
+#### <a id="I need help with renewal"></a> I need help with renewal
 <a href="/images/Helplines_20191127.pdf"><img src="/images/Helplines_20191127.png"></a>
 
 * If you face any technical issues when using [GoBusiness Licensing Portal](https://www.gobusiness.gov.sg/licences), you may wish to refer to the GoBusiness Licensing Portal webpage or contact the [GoBusiness Licensing Portal Helpdesk](https://www.gobusiness.gov.sg/licences).
