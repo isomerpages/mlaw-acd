@@ -6,7 +6,7 @@ breadcrumb: Entity Based Requirements
 collection_name: compliance
 ---
 
-###  Risk Assessment and Internal Policies, Procedures and Controls
+####  Risk Assessment and Internal Policies, Procedures and Controls
 
 Regulated Dealers are required to perform an assessment of the money laundering (**"ML"**) and terrorism financing (**"TF"**) risks faced by their business. They are also required to develop internal policies, procedures and controls (**"IPPC"**) to manage and effectively mitigate ML/TF risks.
 
