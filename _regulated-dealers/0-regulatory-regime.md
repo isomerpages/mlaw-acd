@@ -64,6 +64,7 @@ Foreign dealers should refer <a href="#Regulatory Compliance for Foreign Dealers
 **Who are foreign dealers?** <br><br>
 Foreign dealer means a regulated dealer that -<br>
 (a) is -
+
    (i) registered or incorporated outside Singapore, in the case of a body corporate or unincorporate: or
    (ii) habitually resident outside Singapore, in the case of an individual; and
    
