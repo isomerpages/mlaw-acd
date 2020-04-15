@@ -6,7 +6,7 @@ breadcrumb: Regulatory Regime
 collection_name: regulated-dealers
 ---
 
-<a href="#About the Regime">About the Regime </a> |<a href="#Exemptions">Exemptions </a> | <a href="#Regulatory Compliance for Foreign Dealers">Regulatory Compliance for Foreign Dealers </a> | <a href="#Our Role in AML/CFT">Our Role in AML/CFT </a>
+<a href="#About the Regime">About the Regime </a> | <a href="#What does the Regime cover?">What does the Regime cover? </a> | <a href="#Exemptions">Exemptions </a> | <a href="#Regulatory Compliance for Foreign Dealers">Regulatory Compliance for Foreign Dealers </a> | <a href="#Our Role in AML/CFT">Our Role in AML/CFT </a>
 
 ### <a id="About the Regime"></a> About the Regime
 
@@ -29,6 +29,8 @@ Regulated dealers include, but are not limited to, jewellers, bullion traders, j
 Intermediaries for regulated dealing who are covered under the regime include, but are not limited to, auction houses and trading platforms.
 
 Importantly, the regime does **not** intend to cover individuals who make one-off purchases and subsequently decide to sell their items to a second-hand goods dealer. Further, pawnbrokers are **not** regulated dealers as they are already subject to AML/CFT measures under the Pawnbrokers Act.
+
+### <a id="What does the Regime cover?"></a> What does the Regime cover?
 
 “Precious stones” (natural or otherwise) include diamonds, sapphires, rubies, emeralds, jade (including nephrite and jadeite), and pearls.
 
@@ -66,16 +68,16 @@ Foreign dealers should refer below to find out more about their compliance requi
 <div class="tg-wrap"><table class="tg">
   <tr>
     <td class="tg-0pky"><sup>3</sup> A "foreign dealer" is a regulated dealer that:<br> 
-• is registered or incorporated outside Singapore, or is habitually resident outside Singapore;<br> 
-• does not have a permanent establishment, a place of management, or a branch in Singapore at which they carry on the business of regulated dealing or business as an intermediary for regulated dealing; and<br> 
-• only carries on business in Singapore for not more than a total of 90 days in a year.<br></td>
+* is registered or incorporated outside Singapore, or is habitually resident outside Singapore;<br> 
+* does not have a permanent establishment, a place of management, or a branch in Singapore at which they carry on the business of regulated dealing or business as an intermediary for regulated dealing; and<br> 
+* only carries on business in Singapore for not more than a total of 90 days in a year.<br></td>
   </tr>
 </table></div>
 
 ### <a id="Regulatory Compliance for Foreign Dealers"></a> Regulatory Compliance for Foreign Dealers
 
 **Who are foreign dealers?** <br><br>
-Foreign dealers means a regulated dealer that -<br>
+Foreign dealer means a regulated dealer that -<br>
 (a) is - <br>
        (i) registered or incorporated outside Singapore, in the case of a body corporate or unincorporate: or<br>
        (ii) habitually resident outside Singapore, in the case of an individual; and<br>
@@ -87,7 +89,7 @@ Foreign dealers are subject to all other transaction-based requirements under th
 **Do foreign dealers need to register?** <br><br>
 A foreign dealer carrying on a business of regulated dealing, or business as an intermediary for regulated dealing, in Singapore on a transitory basis is exempt from registration. Transitory basis means the foreign dealer carries on business in Singapore for not more than a total of 90 days in a year.
 
-Any person who acts or holds out to be a regulated dealer without being registered or exempted, may face criminal penalties of up to S$75,000 in fine and/or up to 3 years' imprisonment. Learn more about regime, [registration](/registration/) and [transaction-based requirements](/transaction-based-requirements/).
+Any person who acts or holds out to be a regulated dealer without being registered or exempted, may face criminal penalties of up to S$75,000 in fine and/or up to 3 years' imprisonment. Learn more about [regime](/regulatory-regime/), [registration](/registration/) and [transaction-based requirements](/transaction-based-requirements/).
 
 ### <a id="Our Role in AML/CFT"></a> Our Role in AML/CFT 
 
