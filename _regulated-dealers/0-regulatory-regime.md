@@ -8,7 +8,7 @@ collection_name: regulated-dealers
 
 <a href="#About the Regime">About the Regime </a> | <a href="#What does the Regime cover?">What does the Regime cover? </a> | <a href="#Exemptions">Exemptions </a> | <a href="#Regulatory Compliance for Foreign Dealers">Regulatory Compliance for Foreign Dealers </a> | <a href="#Our Role in AML/CFT">Our Role in AML/CFT </a>
 
-### <a id="About the Regime"></a> About the Regime
+#### <a id="About the Regime"></a> About the Regime
 
 <a href="/images/Money%20Laundering%20%26%20Terrorism%20Financing%20Risks%20in%20the%20Precious%20Stones%20and%20Precious%20Metals%20Dealers%20Sector.pdf"><img src="/images/Money%20Laundering%20%26%20Terrorism%20Financing%20Risks%20in%20the%20Precious%20Stones%20and%20Precious%20Metals%20Dealers%20Sector.jpg"></a>
 
@@ -30,7 +30,7 @@ Intermediaries for regulated dealing who are covered under the regime include, b
 
 Importantly, the regime does **not** intend to cover individuals who make one-off purchases and subsequently decide to sell their items to a second-hand goods dealer. Further, pawnbrokers are **not** regulated dealers as they are already subject to AML/CFT measures under the Pawnbrokers Act.
 
-### <a id="What does the Regime cover?"></a> What does the Regime cover?
+#### <a id="What does the Regime cover?"></a> What does the Regime cover?
 
 “Precious stones” (natural or otherwise) include diamonds, sapphires, rubies, emeralds, jade (including nephrite and jadeite), and pearls.
 
@@ -49,7 +49,7 @@ Asset-backed tokens **do not include** securities or derivative contracts within
 
 Please click [here](/entity-based-requirements) to find out more about the roles and expectations of a regulated dealer.
 
-### <a id="Exemptions"></a> Exemptions
+#### <a id="Exemptions"></a> Exemptions
 
 The following persons are exempted from registration under the PSPM Act:
 
@@ -57,16 +57,18 @@ The following persons are exempted from registration under the PSPM Act:
 • Any person licensed, approved, registered or regulated by the Monetary Authority of Singapore under any written law.<br> 
 • A "foreign dealer" which only carries on business in Singapore for not more than a total of 90 days in a year.
 
-Foreign dealers should refer <a href="#Regulatory Compliance for Foreign Dealers">[below] to find out more about their compliance requirements under the PSPM Act.
+Foreign dealers should refer <a href="#Regulatory Compliance for Foreign Dealers">below</a> to find out more about their compliance requirements under the PSPM Act.
 
-### <a id="Regulatory Compliance for Foreign Dealers"></a> Regulatory Compliance for Foreign Dealers
+#### <a id="Regulatory Compliance for Foreign Dealers"></a> Regulatory Compliance for Foreign Dealers
 
 **Who are foreign dealers?** <br><br>
 Foreign dealer means a regulated dealer that -<br>
 (a) is -
 
-   i registered or incorporated outside Singapore, in the case of a body corporate or unincorporate: or<br>
-   ii habitually resident outside Singapore, in the case of an individual; and<br>
+   i registered or incorporated outside Singapore, in the case of a body corporate or unincorporate: or
+   
+   ii habitually resident outside Singapore, in the case of an individual; and
+   
 (b) does not have a permanent establishment, a place of management or a branch in Singapore at which the regulated dealer carries on the business of regulated dealing or business as an intermediary for regulated dealing.
 
 **What are the regulatory compliance requirements for foreign dealers?** <br><br>
@@ -77,7 +79,7 @@ A foreign dealer carrying on a business of regulated dealing, or business as an 
 
 Any person who acts or holds out to be a regulated dealer without being registered or exempted, may face criminal penalties of up to S$75,000 in fine and/or up to 3 years' imprisonment. Learn more about [regime](/regulatory-regime/), [registration](/registration/) and [transaction-based requirements](/transaction-based-requirements/).
 
-### <a id="Our Role in AML/CFT"></a> Our Role in AML/CFT 
+#### <a id="Our Role in AML/CFT"></a> Our Role in AML/CFT 
 
 Singapore is a member of the Financial Action Task force (**"FATF"**), an inter-governmental body that sets international standards aimed to prevent money laundering and terrorism financing, and the harm these illegal activities cause to society. There are currently more than 200 countries and jurisdictions committed to implementing anti-money laundering/countering the financing of terrorism (**"AML/CFT"**) measures in accordance to the recommendations set by the FATF.
 
