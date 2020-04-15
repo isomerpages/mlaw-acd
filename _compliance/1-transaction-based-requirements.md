@@ -19,7 +19,7 @@ This video can help you understand the transaction-based requirements for a regu
 
 #### <a id="Customer Due Diligence"></a> Customer Due Diligence
 
-Customer Due Diligence (**"CDD"**) is the process of obtaining your customers' identifying information and verifying who they are before transacting with them. The objective is to help you determine the ML/TF risks and take appropriate mitigating measures to address them.
+CDD is the process of obtaining your customers' identifying information and verifying who they are before transacting with them. The objective is to help you determine the ML/TF risks and take appropriate mitigating measures to address them.
 
 In the event where you are unable to perform or complete the required CDD, you must not carry out the transaction with the customer, terminate any transaction entered into with the customer, and consider whether to file a STR. If you suspect that the customer is in the listings for terrorist designation and designated individuals and entities, you must stop the transaction and report to the police. Please refer to our Guidelines more for information.
 
@@ -31,12 +31,12 @@ Please refer to our Guidelines more for information.
 
 #### <a id="Cash Transaction Report"></a> Cash Transaction Report
 
-Registered dealer who enters into any designated transaction must submit a **CTR** electronically to the **STRO** within 15 business days via [SONAR](www.police.gov.sg/sonar). As part of record keeping, you are required to keep a copy of the filed CTR for 5 years after the date of submission.
+Registered dealer who enters into any designated transaction must submit a CTR electronically to the STRO within 15 business days via [SONAR](www.police.gov.sg/sonar). As part of record keeping, you are required to keep a copy of the filed CTR for 5 years after the date of submission.
 
 
 #### <a id="Suspicious Transaction Report"></a> Suspicious Transaction Report
 
-Registered dealers are required to file a **STR** when there are suspicions on ML/TF activities in the business transaction. This should be filed electronically via SONAR. Regulated Dealers are reminded that it is an offence under the Corruption, Drug, Trafficking and other serious crimes (Confiscation of Benefits) Act to tip off another person on a STR filed with STRO.
+Registered dealers are required to file a STR when there are suspicions on ML/TF activities in the business transaction. This should be filed electronically via SONAR. Regulated Dealers are reminded that it is an offence under the Corruption, Drug, Trafficking and other serious crimes (Confiscation of Benefits) Act to tip off another person on a STR filed with STRO.
 
 Please refer to the SONAR website on how to file a STR.
 
