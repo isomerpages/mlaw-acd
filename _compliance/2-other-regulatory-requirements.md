@@ -16,9 +16,9 @@ Pursuant to Regulation 21 of the Precious Stones and Precious Metals (Prevention
 
 #### <a id="Ongoing Monitoring of Transactions"></a> Ongoing Monitoring of Transactions
 
-Regulated Dealers must periodically review the information and documents obtained as a result of the customer due diligence measures to ascertain whether the transactions carried out by your customer are consistent with your knowledge of the customer, the customer's income and risk profile, and the customer's source(s) of funds.
+Regulated Dealers are required to conduct ongoing monitoring of the transactions carried out by your customer to ascertain that they are consistent with your knowledge of the customer.
 
-Regulated Dealers must periodically review the adequacy of information and documents obtained as a result of the customer due diligence measures, particularly in cases where there is a higher risk of money laundering or terrorism financing, to ensure that the information in respect of your customers and persons on whose behalf your customers transact is kept current.
+Regulated Dealers are required to periodically review the adequacy of information and documents obtained as a result of the CDD measures, particularly in cases where there is a higher risk of money laundering or terrorism financing. This is to ensure that the information is kept current and relevant.
 
 #### <a id="Record Keeping"></a> Record Keeping
 
