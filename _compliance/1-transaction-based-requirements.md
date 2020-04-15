@@ -36,6 +36,7 @@ Registered dealer who enters into any designated transaction must submit a **CTR
 
 #### <a id="Suspicious Transaction Report"></a> Suspicious Transaction Report
 
-Registered dealers are required to file a **STR** when there are suspicions on ML/TF activities in the business transaction. This should be filed electronically via SONAR. Regulated Dealers are reminded that it is an offence under the Corruption, Drug, Trafficking and other serious crimes (Confiscation of Benefits) Act to tip off another person on a STR filed with STRO.<br>
+Registered dealers are required to file a **STR** when there are suspicions on ML/TF activities in the business transaction. This should be filed electronically via SONAR. Regulated Dealers are reminded that it is an offence under the Corruption, Drug, Trafficking and other serious crimes (Confiscation of Benefits) Act to tip off another person on a STR filed with STRO.
+
 Please refer to the SONAR website on how to file a STR.
 
