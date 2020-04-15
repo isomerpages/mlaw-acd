@@ -57,7 +57,7 @@ The following persons are exempted from registration under the PSPM Act:
 • Any person licensed, approved, registered or regulated by the Monetary Authority of Singapore under any written law.<br> 
 • A "foreign dealer" which only carries on business in Singapore for not more than a total of 90 days in a year.
 
-Foreign dealers should refer [below]<a href="#Regulatory Compliance for Foreign Dealers"> to find out more about their compliance requirements under the PSPM Act.
+Foreign dealers should refer <a href="#Regulatory Compliance for Foreign Dealers">[below] to find out more about their compliance requirements under the PSPM Act.
 
 ### <a id="Regulatory Compliance for Foreign Dealers"></a> Regulatory Compliance for Foreign Dealers
 
@@ -65,8 +65,8 @@ Foreign dealers should refer [below]<a href="#Regulatory Compliance for Foreign 
 Foreign dealer means a regulated dealer that -<br>
 (a) is -
 
-   (i) registered or incorporated outside Singapore, in the case of a body corporate or unincorporate: or<br>
-   (ii) habitually resident outside Singapore, in the case of an individual; and<br>
+   i registered or incorporated outside Singapore, in the case of a body corporate or unincorporate: or<br>
+   ii habitually resident outside Singapore, in the case of an individual; and<br>
 (b) does not have a permanent establishment, a place of management or a branch in Singapore at which the regulated dealer carries on the business of regulated dealing or business as an intermediary for regulated dealing.
 
 **What are the regulatory compliance requirements for foreign dealers?** <br><br>
