@@ -2,7 +2,7 @@
 layout: post
 title: October 2019 FATF Public Statement - Countries or jurisdictions with strategic deficiencies
 date: 2019-11-05
-permalink: /news/notices/october-2019-fatf-public-statement
+permalink: /news/notices-from-the-registrar/october-2019-fatf-public-statement
 ---
 
 <u>OCTOBER 2019 FATF PUBLIC STATEMENT: COUNTRIES OR JURISDICTIONS WITH STRATEGIC DEFICIENCIES</u><br>
