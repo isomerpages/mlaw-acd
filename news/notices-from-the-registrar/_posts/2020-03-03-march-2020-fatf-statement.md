@@ -2,7 +2,7 @@
 layout: post
 title: Call for Action in Accordance with February 2020 FATF Statement
 date: 2020-03-03
-permalink: /news/notices/february-2020-fatf-statement
+permalink: /news/notices-from-the-registrar/february-2020-fatf-statement
 ---
 
 **ACTION BY REGULATED DEALERS AGAINST HIGH-RISK JURISDICTIONS**<br>
