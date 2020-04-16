@@ -93,7 +93,7 @@ You may submit your application via the [GoBusiness Licensing Portal](https://ww
 
 #### <a id="Fees and period of registration"></a> Fees and period of registration
 <b>Fees</b><br>
-Regulated dealers must pay an application fee of S$140 for each application to register with the Registrar. All payment must be made through [GoBusiness Licensing Portal](https://www.gobusiness.gov.sg/licences) using the following e-payment methods: PayPal, VISA, MasterCard, American Express and Discover.<br><br>
+Regulated dealers must pay an application fee of S$140 for each application to register with the Registrar. All payment must be made through [GoBusiness Licensing Portal](https://www.gobusiness.gov.sg/licences){:target="_blank"} using the following e-payment methods: PayPal, VISA, MasterCard, American Express and Discover.<br><br>
 If the Registrar provides in-principle approval for their application, regulated dealers must pay a registration fee of S$300 per place of business per year calculated based on the number of outlets they operate and the period for which they register.
 <table>
   <tr>
@@ -113,7 +113,6 @@ An applicant may apply for a specific class of registration that will determine 
 1.  Class 1 (1 year duration);
 2.  Class 2 (2 year duration); and
 3.  Class 3 (3 year duration).
-<br>
 For the avoidance of doubt, the Registrar has the discretion to grant a different class of registration than the class of registration applied for.
 
 <table>
@@ -123,7 +122,7 @@ For the avoidance of doubt, the Registrar has the discretion to grant a differen
 <br>Regulated dealer "ABC Pte Ltd" has two places of business:<br><br>
 1.    one flagship jewellery outlet in Marina Bay Sands; and<br>
 2.    one jewellery outlet in Bugis.<br><br>
-ABC Pte Ltd applies for a Class 3 Certificate of Registration on 30 June 2019.<br><br> 
+ABC Pte Ltd applies for a Class 3 Certificate of Registration.<br><br> 
 ABC Pte Ltd must pay a total of <b>S$1,940</b>:<br>
       
   <style type="text/css">
