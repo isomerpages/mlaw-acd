@@ -18,14 +18,14 @@ You may access the List of Registered Dealers [here](/list-of-registered-dealers
 
 #### <a id="Who is required to register?"></a> Who is required to register?
 You are required to register with the Registrar of Regulated Dealers if you are a regulated dealer i.e. you carry on a business of regulated dealing in precious stones, precious metals and/or precious products ("**PSPMs**"), or as an intermediary for regulated dealing in PSPMs. <br><br>
-Examples of regulated dealers who are required to register include, but are not limited to jewellers, bullion traders, jewellery wholesalers, jewellery retailers, second-hand goods dealers, auction houses, and trading platforms. Take this [questionnaire](https://form.gov.sg/5cd3efbbd64f830010e00ea9) to help you ascertain whether you are a regulated dealer.
+Examples of regulated dealers who are required to register include, but are not limited to jewellers, bullion traders, jewellery wholesalers, jewellery retailers, second-hand goods dealers, auction houses, and trading platforms. Take this [questionnaire](https://form.gov.sg/5cd3efbbd64f830010e00ea9){:target="_blank"} to help you ascertain whether you are a regulated dealer.
 
-Please refer to the [PSPM Act](https://sso.agc.gov.sg/Act/PSPMPMLTFA2019) for the official definitions. If you are not certain whether you are required to register, you can seek legal advice.
+Please refer to the [PSPM Act](https://sso.agc.gov.sg/Act/PSPMPMLTFA2019){:target="_blank"} for the official definitions. If you are not certain whether you are required to register, you can seek legal advice.
 
 #### <a id="Registration Application Process"></a> Registration Application Process
 <a href="/images/Overview%20of%20Reg%20Process%2020191031.pdf"><img src="/images/Overview%20of%20Reg%20Process%2020191031.png"></a> <br>
 
-You may submit your application via the [GoBusiness Licensing Portal](https://www.gobusiness.gov.sg/licences). You may refer to the [GoBusiness Licensing Guide for Regulated Dealers](/images/GoBusiness%20Licensing%20Guide%20for%20Regulated%20Dealers_ACD_20191127.pdf) for a step-by-step guide to the application process.
+You may submit your application via the [GoBusiness Licensing Portal](https://www.gobusiness.gov.sg/licences){:target="_blank"}. You may refer to the [GoBusiness Licensing Guide for Regulated Dealers](/images/GoBusiness%20Licensing%20Guide%20for%20Regulated%20Dealers_ACD_20191127.pdf){:target="_blank"} for a step-by-step guide to the application process.
 
 
 #### <a id="Information Needed"></a> Information Needed
@@ -45,7 +45,11 @@ You may submit your application via the [GoBusiness Licensing Portal](https://ww
 <col style="width: 380">
 </colgroup>
   <tr>
-    <th class="tg-73oq" colspan="2"><span style="font-weight:bold">Important Notice</span><br><br>• Ensure that you have the CorpPass and UEN of the business entity that the Registration Certificate will be issued to.<br>• There should only be one application per business entity i.e. one application per UEN. You can have multiple outlets per application.<br>• It may take around 4 weeks for the Registrar to process an application for registration before granting the registration. It may take longer if additional information is required.</th>
+    <th class="tg-73oq" colspan="2"><span style="font-weight:bold">Important Notice</span><br><br>
+• Ensure that you have the CorpPass and UEN of the business entity that the Registration Certificate will be issued to.<br>
+• You have updated your business particulars with the Accountancy and Corporate Regulatory Authority (ACRA) so that the updated information can be auto-populated in the application form.<br>
+• There should only be one application per business entity i.e. one application per UEN. You can have multiple outlets per application.<br>
+• It may take around 4 weeks for the Registrar to process an application for registration before granting the registration. It may take longer if additional information is required.<br></th>
   </tr>
   <tr>
     <td class="tg-fymr">Entity</td>
@@ -83,7 +87,7 @@ You may submit your application via the [GoBusiness Licensing Portal](https://ww
     <td class="tg-0pky">Wholesale, manufacturing, retail, etc.</td>
   </tr>
   <tr>
-    <td class="tg-0pky" colspan="2"><span style="font-weight:bold;color:rgb(51, 51, 51)">Supporting documents to be attached to the application form:</span><br><br><span style="font-weight:700;color:rgb(51, 51, 51)">• </span><span style="color:rgb(51, 51, 51)">For applicants with who have directors, partners, managers, company secretary, outlet managers, substantial shareholders who are </span><span style="text-decoration:underline;color:rgb(51, 51, 51)">foreign nationals</span><span style="color:rgb(51, 51, 51)"> you should attach a copy of their foreign photo identification document such as passport.</span><br><span style="font-weight:700;color:rgb(51, 51, 51)">• </span><span style="color:rgb(51, 51, 51)">For applicants who have </span><span style="text-decoration:underline;color:rgb(51, 51, 51)">corporate shareholders</span><span style="color:rgb(51, 51, 51)">, you should attach a copy of your shareholders’ registration information <br>(including particulars of directors, partners, managers, company secretary, outlet managers, substantial shareholders).</span><br><span style="font-weight:700;color:rgb(51, 51, 51)">• </span><span style="color:rgb(51, 51, 51)">For applicants who have </span><span style="text-decoration:underline;color:rgb(51, 51, 51)">more than one layer of corporate shareholders</span><span style="color:rgb(51, 51, 51)">, you should attach your organisation structure/ chart <br>up till the individuals who own the group. For listed corporate shareholders, you do not have to provide  the name of all your shareholders. You should still provide a list of those who hold more than 5% shares of the listed company.</span></td>
+    <td class="tg-0pky" colspan="2"><span style="font-weight:bold;color:rgb(51, 51, 51)">Supporting documents to be attached to the application form:</span><br><br><span style="font-weight:700;color:rgb(51, 51, 51)">• </span><span style="color:rgb(51, 51, 51)">For applicants who have directors, partners, managers, company secretary, outlet managers, substantial shareholders who are </span><span style="text-decoration:underline;color:rgb(51, 51, 51)">foreign nationals</span><span style="color:rgb(51, 51, 51)"> you should attach a copy of their foreign photo identification document such as passport.</span><br><span style="font-weight:700;color:rgb(51, 51, 51)">• </span><span style="color:rgb(51, 51, 51)">For applicants who have </span><span style="text-decoration:underline;color:rgb(51, 51, 51)">corporate shareholders</span><span style="color:rgb(51, 51, 51)">, you should attach a copy of your shareholders’ registration information <br>(including particulars of directors, partners, managers, company secretary, outlet managers, substantial shareholders).</span><br><span style="font-weight:700;color:rgb(51, 51, 51)">• </span><span style="color:rgb(51, 51, 51)">For applicants who have </span><span style="text-decoration:underline;color:rgb(51, 51, 51)">more than one layer of corporate shareholders</span><span style="color:rgb(51, 51, 51)">, you should attach your organisation structure/ chart <br>up till the individuals who own the group. For listed corporate shareholders, you do not have to provide  the name of all your shareholders. You should still provide a list of those who hold more than 5% shares of the listed company.</span></td>
   </tr>
 </table>
 
