@@ -31,7 +31,7 @@ Please refer to our [Guidelines](/images/Guidelines%20for%20regulated%20dealers_
 
 #### <a id="Cash Transaction Report"></a> Cash Transaction Report
 
-Registered dealers who enter into any designated transaction must submit a CTR electronically to the STRO within 15 business days via [SONAR](https://www.police.gov.sg/sonar){:target="_blank"}. As part of record keeping, you are required to keep a copy of the filed CTR for 5 years after the date of submission.
+Regulated dealers who enter into any designated transaction must submit a CTR electronically to the STRO within 15 business days via [SONAR](https://www.police.gov.sg/sonar){:target="_blank"}. As part of record keeping, you are required to keep a copy of the filed CTR for 5 years after the date of submission.
 
 
 #### <a id="Suspicious Transaction Report"></a> Suspicious Transaction Report
