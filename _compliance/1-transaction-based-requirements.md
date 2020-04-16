@@ -25,18 +25,18 @@ In the event where you are unable to perform or complete the required CDD, you m
 
 #### <a id="Enhanced Customer Due Diligence"></a> Enhanced Customer Due Diligence
 
-Where the ML/TF risks are identified to be higher, a regulated dealer is expected to take ECDD measures to mitigate and manage those risks.
+Where the ML/TF risks are identified to be higher, regulated dealers are expected to take ECDD measures to mitigate and manage those risks.
 
 Please refer to our [Guidelines](/images/Guidelines%20for%20regulated%20dealers_20190828_V1.1Final.pdf){:target="_blank"} more for information.
 
 #### <a id="Cash Transaction Report"></a> Cash Transaction Report
 
-Registered dealer who enters into any designated transaction must submit a CTR electronically to the STRO within 15 business days via [SONAR](www.police.gov.sg/sonar){:target="_blank"}. As part of record keeping, you are required to keep a copy of the filed CTR for 5 years after the date of submission.
+Registered dealers who enter into any designated transaction must submit a CTR electronically to the STRO within 15 business days via [SONAR](https://www.police.gov.sg/sonar){:target="_blank"}. As part of record keeping, you are required to keep a copy of the filed CTR for 5 years after the date of submission.
 
 
 #### <a id="Suspicious Transaction Report"></a> Suspicious Transaction Report
 
-Registered dealers are required to file a STR when there are suspicions on ML/TF activities in the business transaction. This should be filed electronically via SONAR. Regulated dealers are reminded that it is an offence under the Corruption, Drug, Trafficking and other serious crimes (Confiscation of Benefits) Act to tip off another person on a STR filed with STRO.
+Regulated dealers are required to file a STR when there are suspicions on ML/TF activities in the business transaction. This should be filed electronically via [SONAR](https://www.police.gov.sg/sonar). Regulated dealers are reminded that it is an offence under the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act to tip off another person on a STR filed with STRO.
 
-Please refer to the [SONAR website](www.police.gov.sg/sonar){:target="_blank"} on how to file a STR.
+Please refer to the [SONAR website](https://www.police.gov.sg/sonar){:target="_blank"} on how to file a STR.
 
