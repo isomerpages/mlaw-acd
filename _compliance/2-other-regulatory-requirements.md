@@ -28,5 +28,5 @@ Regulated dealers are required to keep relevant documents and information for a 
 
 The Registrar of Regulated Dealer regularly issue notices to all registered dealers with respect to measures for the prevention of money laundering and terrorism financing. These include Guidelines to help regulated dealers understand their regulatory requirements and Statements calling for action issued by the Financial Action Task Force (**"FATF"**).
 
-Please click [here](/news/notices/){:target="_blank"} to view the notices issued by the Registrar.
+Please click [here](/news/notices-from-the-registrar/){:target="_blank"} to view the notices issued by the Registrar.
 
