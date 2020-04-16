@@ -6,7 +6,7 @@ breadcrumb: Regulatory Regime
 collection_name: regulated-dealers
 ---
 
-<a href="#About the Regime">About the Regime </a> | <a href="#What does the Regime cover?">What does the Regime cover? </a> | <a href="#Exemptions">Exemptions </a> | <a href="#Regulatory Compliance for Foreign Dealers">Regulatory Compliance for Foreign Dealers </a> | <a href="#Our Role in AML/CFT">Our Role in AML/CFT </a>
+<a href="#About the Regime">About the Regime </a>| <a href="#Exemptions">Exemptions </a> | <a href="#Regulatory Compliance for Foreign Dealers">Regulatory Compliance for Foreign Dealers </a> | <a href="#Our Role in AML/CFT">Our Role in AML/CFT </a>
 
 #### <a id="About the Regime"></a> About the Regime
 
@@ -30,7 +30,7 @@ Intermediaries for regulated dealing who are covered under the regime include, b
 
 Importantly, the regime does **not** intend to cover individuals who make one-off purchases and subsequently decide to sell their items to a second-hand goods dealer. Further, pawnbrokers are **not** regulated dealers as they are already subject to AML/CFT measures under the Pawnbrokers Act.
 
-#### <a id="What does the Regime cover?"></a> What does the Regime cover?
+**What does the Regime cover?**
 
 “Precious stones” (natural or otherwise) include diamonds, sapphires, rubies, emeralds, jade (including nephrite and jadeite), and pearls.
 
