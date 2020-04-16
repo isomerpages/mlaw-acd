@@ -8,7 +8,7 @@ collection_name: customers
 
 #### **Notice for Customers**
 
-The Notice for Customers explains that regulated dealers are required to collect identifying information from customers under the new regulatory regime. Regulated dealers may wish to consider using the Notice for Customers to educate their customers on the AML/CFT requirements.
+The Notice for Customers explains that regulated dealers are required to collect identifying information from customers under the regulatory regime. Regulated dealers may wish to consider using the Notice for Customers to educate their customers on the AML/CFT requirements.
 
 This Notice for Customers is available in 4 languages - English, Chinese, Malay and Tamil.
 
