@@ -113,6 +113,7 @@ An applicant may apply for a specific class of registration that will determine 
 1.  Class 1 (1 year duration);
 2.  Class 2 (2 year duration); and
 3.  Class 3 (3 year duration).
+
 For the avoidance of doubt, the Registrar has the discretion to grant a different class of registration than the class of registration applied for.
 
 <table>
