@@ -49,7 +49,7 @@ You may submit your application via the [GoBusiness Licensing Portal](https://ww
 • Ensure that you have the CorpPass and UEN of the business entity that the Registration Certificate will be issued to.<br>
 • You have updated your business particulars with the Accountancy and Corporate Regulatory Authority (ACRA) so that the updated information can be auto-populated in the application form.<br>
 • There should only be one application per business entity i.e. one application per UEN. You can have multiple outlets per application.<br>
-• It may take around 4 weeks for the Registrar to process an application for registration before granting the registration. It may take longer if additional information is required.<br></th>
+• It may take around 4 weeks for the Registrar to process an application for registration before granting the registration. It may take longer if additional information is required.<br><br></th>
   </tr>
   <tr>
     <td class="tg-fymr">Entity</td>
