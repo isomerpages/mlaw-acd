@@ -10,7 +10,7 @@ collection_name: customers
 Money laundering (**"ML"**) is the process of concealing the proceeds of a crime so that they appear to have originated from legitimate sources. Terrorism financing (**"TF"**) is the funding of terrorism or terrorist groups. Sources of terrorism financing may be legitimate or illegitimate.
 
 #### Who are regulated dealers and why are they regulated by Ministry of Law?
-Your favourite jeweller whom you buy your proposal diamond ring from, the familiar neighbourhood goldsmith shop, a second-hand goods dealer whom you trade in your gold and jewellery, or an online bullion trader may be regulated dealers.<br>
+Your favourite jeweller whom you buy your proposal diamond ring from, the familiar neighbourhood goldsmith shop, a second-hand goods dealer whom you trade in your gold and jewellery, or an online bullion trader may be regulated dealers.<br><br>
 Regulated dealers dealing with precious stones, precious metals and/or precious products (**"PSPM"**) are required to be registered under the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019 (**"PSPM Act"**). This include, but are not limited to jewellers, bullion traders, jewellery wholesalers, jewellery retailers and second-hand goods dealers. The regulated dealers will need to fulfil the requirements under the PSPM Act to prevent ML/TF from taking place through the precious stones and precious metals dealers (**"PSMD"**) sector.
 
 #### What does it mean to me as a customer?
