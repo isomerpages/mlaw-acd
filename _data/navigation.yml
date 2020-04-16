@@ -63,7 +63,22 @@
     url: /what-i-should-know/
   - title: Notice for Customers
     url: /notice-for-customers/
-
+    
+- title: News
+  url: /news/
+  sub-links:
+  - title: All
+    url: /news/
+  - title: Press Releases
+    url: /news/press-releases/
+  - title: Ongoing Events
+    url: /news/ongoing-events/
+  - title: Past Events
+    url: /news/past-events/
+  - title: MinLaw News
+    url: https://www.mlaw.gov.sg/news/
+    external: true
+    
 - title: About MinLaw
   url: https://www.mlaw.gov.sg/about-us/ourvision-mission-corevalues/
   external: true
@@ -87,17 +102,4 @@
     url: https://www.mlaw.gov.sg/about-us/contact-us/
     external: true
     
-- title: News
-  url: /news/
-  sub-links:
-  - title: All
-    url: /news/
-  - title: Press Releases
-    url: /news/press-releases/
-  - title: Ongoing Events
-    url: /news/ongoing-events/
-  - title: Past Events
-    url: /news/past-events/
-  - title: MinLaw News
-    url: https://www.mlaw.gov.sg/news/
-    external: true
+
