@@ -88,7 +88,7 @@ The Registrar of Regulated Dealer may impose additional conditions or waive exis
 
 #### <a id="Fees and period of registration"></a> Fees and period of registration
 <b>Fees</b><br>
-Regulated dealers must pay an application fee of S$140 for each renewal application to register with the Registrar. All payment must be made through [GoBusiness Licensing Portal](https://www.gobusiness.gov.sg/licences) using the following e-payment methods: PayPal, VISA, MasterCard, American Express and Discover.<br><br>
+Regulated dealers must pay an application fee of S$140 for each renewal application to register with the Registrar. All payment must be made through [GoBusiness Licensing Portal](https://www.gobusiness.gov.sg/licences){:target="_blank"} using the following e-payment methods: PayPal, VISA, MasterCard, American Express and Discover.<br><br>
 If the Registrar provides in-principle approval for their application, regulated dealers must pay a registration fee of S$300 per place of business per year calculated based on the number of outlets they operate and the period for which they register.
 <table>
   <tr>
@@ -108,7 +108,8 @@ An applicant may apply for a specific class of registration that will determine 
 1.  Class 1 (1 year duration);
 2.  Class 2 (2 year duration); and
 3.  Class 3 (3 year duration).
-<br>
+
+
 For the avoidance of doubt, the Registrar has the discretion to grant a different class of registration than the class of registration applied for.
 
 <table>
@@ -118,7 +119,7 @@ For the avoidance of doubt, the Registrar has the discretion to grant a differen
 <br>Regulated dealer "ABC Pte Ltd" has two places of business:<br><br>
 1.    One flagship jewellery outlet in Marina Bay Sands; and<br>
 2.    One jewellery outlet in Bugis.<br><br>
-ABC Pte Ltd applies for a Class 3 Certificate of Registration.<br><br> 
+ABC Pte Ltd applies for a renewal of its Class 3 Certificate of Registration.<br><br> 
 ABC Pte Ltd must pay a total of <b>S$1,940</b>:<br>
       
   <style type="text/css">
@@ -161,5 +162,5 @@ ABC Pte Ltd must pay a total of <b>S$1,940</b>:<br>
 #### <a id="I need help with renewal"></a> I need help with renewal
 <a href="/images/Helplines_20191127.pdf"><img src="/images/Helplines_20191127.png"></a>
 
-* If you face any technical issues when using [GoBusiness Licensing Portal](https://www.gobusiness.gov.sg/licences), you may wish to refer to the GoBusiness Licensing Portal webpage or contact the [GoBusiness Licensing Portal Helpdesk](https://www.gobusiness.gov.sg/licences).
-* If you are not sure how to complete the application form, you may wish to refer to our [GoBusiness Licensing Portal Guide for Regulated Dealers (Step-by-Step with Screenshots)](/images/GoBusiness%20Licensing%20Guide%20for%20Regulated%20Dealers_ACD_20191127.pdf) or [our FAQs for Precious Stones and Precious Metals Dealers](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx){:target="_blank"}.
+* If you face any technical issues when using [GoBusiness Licensing Portal](https://www.gobusiness.gov.sg/licences){:target="_blank"}, you may wish to refer to the GoBusiness Licensing Portal webpage or contact the [GoBusiness Licensing Portal Helpdesk](https://www.ifaq.gov.sg/GoBusiness/apps/fcd_faqmain.aspx){:target="_blank"}.
+* If you are not sure how to complete the application form, you may wish to refer to our [GoBusiness Licensing Portal Guide for Regulated Dealers (Step-by-Step with Screenshots)](/images/GoBusiness%20Licensing%20Guide%20for%20Regulated%20Dealers_ACD_20191127.pdf){:target="_blank"} or [our FAQs for Precious Stones and Precious Metals Dealers](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx){:target="_blank"}.
