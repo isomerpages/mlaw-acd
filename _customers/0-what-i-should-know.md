@@ -20,5 +20,5 @@ You may be required to provide your personal information and identification docu
 The law prohibits regulated dealers from completing the transaction with you, if you do not provide these information. 
 
 #### What happens to my personal information?
-All personal information provided by you to the regulated dealers will be kept confidential in accordance with the Personal Data Protection Act 2012. You may refer to the Notice for Customers [here](/notice-for-customers/) for more information on the type of information regulated dealers may require from you.
+All personal information provided by you to the regulated dealers will be kept confidential in accordance with the Personal Data Protection Act 2012. You may refer to the [Notice for Customers](/notice-for-customers/) for more information on the type of information regulated dealers may require from you.
 
