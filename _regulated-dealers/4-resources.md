@@ -22,7 +22,15 @@ Regulated Dealers are required to keep records of the customer due diligence ("*
 MAS publishes [list](https://www.mas.gov.sg/regulation/anti-money-laundering/targeted-financial-sanctions/lists-of-designated-individuals-and-entities) of individuals and entities designated under the United Nations Act and the Terrorism (Suppression of Financing) Act. Regulated dealers should [subscribe](https://www.mas.gov.sg/subscription-services){:target="_blank"} to the MAS mailing list to receive updated lists of designated individuals and entities. Regulated dealers are required to screen their customers against the lists before engaging in any business or commercial activity with them.<br><br>
 You may refer to the [MAS Website Subscriber Services Guide](/images/MAS%20Website%20Subscriber%20Services%20Guide_20191105_V1Final.pdf){:target="_blank"} for a step-by-step guide to the subscription process.<br>
 
-#### [4. Notice for Customers from the Ministry of Law ("**Notice for Customers**")](/images/NoticeForCustomersPoster(Eng)Mar2020.pdf){:target="_blank"}
+#### [4. Inter Ministry Committee on Terrorist Designation](https://www.mha.gov.sg/inter-ministry-committee-terrorist-designation-(imc-td)){:target="_blank"}
+
+The Inter-Ministry Committee on Terrorist Designation ("**IMC-TD**") acts as Singapore's authority relating to the designation of terrorists. This prohibits any person/ entity from dealing with or providing any financial assistance to them, as required under the Terrorism (Suppression of Financing) Act.
+
+On MHA’s website on [IMC-TD](https://www.mha.gov.sg/inter-ministry-committee-terrorist-designation-(imc-td)){:target="_blank"}, you will find information on counter terrorism financing legislation, IMC-TD’s process of designation, and relevant news articles.
+
+To find out more about your obligations as a regulated dealer, please click [here](/images/Measures%20relating%20to%20prevention%20of%20terrorism%20financing.pdf){:target="_blank"}.
+
+#### [5. Notice for Customers from the Ministry of Law ("**Notice for Customers**")](/images/NoticeForCustomersPoster(Eng)Mar2020.pdf){:target="_blank"}
 
 The Notice for Customers explains that regulated dealers are required to collect identifying information from customers under the new regulatory regime. Regulated dealers may wish to consider using the Notice for Customers to educate their customers on the AML/CFT requirements.
 
@@ -62,7 +70,7 @@ This Notice for Customers is available in 4 languages - English, Chinese, Malay 
 
 <a href="/images/NoticeForCustomersPoster(Eng)Mar2020.pdf"><img src="/images/NoticeForCustomersPoster(Eng)Mar2020.jpg"></a>
 
-#### [5. GoBusiness Licensing Guide for Precious Stones and Precious Metals Dealers ("**GoBusiness Licensing Guide**")](/images/GoBusiness%20Licensing%20Guide%20for%20Regulated%20Dealers_ACD_20191127.pdf){:target="_blank"}
+#### [6. GoBusiness Licensing Guide for Precious Stones and Precious Metals Dealers ("**GoBusiness Licensing Guide**")](/images/GoBusiness%20Licensing%20Guide%20for%20Regulated%20Dealers_ACD_20191127.pdf){:target="_blank"}
 <a id="guidance"></a>
 The [GoBusiness Licensing Guide](/images//GoBusiness%20Licensing%20Guide%20for%20Regulated%20Dealers_ACD_20191127.pdf){:target="_blank"} gives regulated dealers a step-by-step walkthrough of the application process in GoBusiness Licensing Portal. Regulated dealers will be shown how to login, which account to login with, and what information they need to register.<br> 
 
