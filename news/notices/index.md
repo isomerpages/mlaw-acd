@@ -1,6 +1,6 @@
 ---
 layout: resources-alt
-title: Notices
+title: Notices from the Registrar
 permalink: /news/notices-from-the-registrar/
-breadcrumb: Notices
+breadcrumb: Notices from the Registrar
 ---
