@@ -24,8 +24,8 @@ hero-banner: /images/bullion1.jpg
     
 #Call to Action Button
 button:
-  - text: Guidance Materials
-    url: /guidance-materials/
+  - text: Resources for Regulated Dealers
+    url: /resources/
     
 key-highlights:
   - title: List of Registered Dealers
@@ -38,11 +38,11 @@ key-highlights:
     external: false    
   - title: Regulatory Compliance
     description: Overview of Regulatory Regime
-    url: /reg-compliance/
+    url: /regulatory-regime/
     external: false
   - title: Duty to notify Registrar of change in particulars and circumstances
     description: Notify on amendments
-    url: /duty-to-notify-registrar-of-change-in-particulars-and-circumstances/
+    url: /other-regulatory-requirements/
     external: false
 
 resources-title: News for Regulated Dealers
