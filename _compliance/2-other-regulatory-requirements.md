@@ -22,11 +22,11 @@ Regulated dealers are required to periodically review the adequacy of informatio
 
 #### <a id="Record Keeping"></a> Record Keeping
 
-Regulated dealers are required to keep relevant documents and information for a period of 5 years after the date of transaction.
+Regulated dealers are required to keep relevant documents and information for a period of 5 years after the date of transaction, or the date that the information or supporting document is obtained.
 
 #### <a id="Notices from the Registrar"></a> Notices from the Registrar
 
-The Registrar of Regulated Dealer regularly issue notices to all registered dealers with respect to measures for the prevention of money laundering and terrorism financing. These include Guidelines to help regulated dealers understand their regulatory requirements and Statements calling for action issued by the Financial Action Task Force (**"FATF"**).
+The Registrar of Regulated Dealers regularly issues notices to all regulated dealers with respect to measures for the prevention of money laundering and terrorism financing. These include Guidelines to help regulated dealers understand their regulatory requirements and publications by the Financial Action Task Force (**"FATF"**).
 
 Please click [here](/news/notices-from-the-registrar/){:target="_blank"} to view the notices issued by the Registrar.
 
