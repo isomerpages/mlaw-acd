@@ -96,7 +96,7 @@ You may submit your application via the [GoBusiness Licensing Portal](https://ww
 
 #### <a id="Fees and Period of Registration"></a> Fees and Period of Registration
 <b>Fees</b><br>
-Regulated dealers must pay an application fee of S$140 for each application to register with the Registrar. All payment must be made through [GoBusiness Licensing Portal](https://www.gobusiness.gov.sg/licences){:target="_blank"} using the following e-payment methods: PayPal, VISA, MasterCard, American Express and Discover.<br><br>
+Regulated dealers must pay an application fee of S$140 for each application to register with the Registrar. All payment must be made through [GoBusiness Licensing Portal](https://www.gobusiness.gov.sg/licences){:target="_blank"} using the following e-payment methods: PayPal, VISA, MasterCard, American Express or Discover.<br><br>
 If the Registrar provides in-principle approval for their application, regulated dealers must pay a registration fee of S$300 per place of business per year calculated based on the number of outlets they operate and the period for which they register.
 <table>
   <tr>
@@ -169,5 +169,5 @@ ABC Pte Ltd must pay a total of <b>S$1,940</b>:<br>
 #### <a id="I Need Help with registration"></a> I Need Help with registration
 <a href="/images/Helplines_20191127.pdf"><img src="/images/Helplines_20191127.png"></a>
 
-* If you face any technical issues when using [GoBusiness Licensing Portal](https://www.gobusiness.gov.sg/licences){:target="_blank"}, you may wish to refer to the GoBusiness Licensing Portal webpage or contact the [GoBusiness Licensing Portal Helpdesk](https://www.ifaq.gov.sg/GoBusiness/apps/fcd_faqmain.aspx){:target="_blank"}.
-* If you are not sure how to complete the application form, you may wish to refer to our [GoBusiness Licensing Portal Guide for Regulated Dealers (Step-by-Step with Screenshots)](/images/GoBusiness%20Licensing%20Guide%20for%20Regulated%20Dealers_ACD_20191127.pdf){:target="_blank"} or [our FAQs for Precious Stones and Precious Metals Dealers](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx){:target="_blank"}.
+* If you face any technical issues when using GoBusiness Licensing Portal, you may wish to refer to the [GoBusiness Licensing Portal webpage](https://www.gobusiness.gov.sg/licences){:target="_blank"} or contact the [GoBusiness Licensing Portal Helpdesk](https://www.ifaq.gov.sg/GoBusiness/apps/fcd_faqmain.aspx){:target="_blank"}.
+* If you are not sure how to complete the application form, you may wish to refer to our [GoBusiness Licensing Portal Guide for Regulated Dealers (Step-by-Step with Screenshots)](/images/GoBusiness%20Licensing%20Guide%20for%20Regulated%20Dealers_ACD_20191127.pdf){:target="_blank"} or [FAQs for Precious Stones and Precious Metals Dealers](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx){:target="_blank"}.
