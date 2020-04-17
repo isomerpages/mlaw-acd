@@ -6,7 +6,7 @@ breadcrumb: Registration
 collection_name: regulated-dealers
 ---
 
-<a href="#Registration">Registration </a> | <a href="#Who is Required to Register?">Who is Required to Register? </a> |<a href="#Registration Application Process">Registration Application Process </a> | <a href="#Information Needed">Information Needed</a> | <a href="#Fees and period of registration">Fees and period of registration </a> | <a href="#I need help with registration">I need help with registration </a>
+<a href="#Registration">Registration </a> | <a href="#Who is Required to Register?">Who is Required to Register? </a> |<a href="#Registration Application Process">Registration Application Process </a> | <a href="#Information Needed">Information Needed</a> | <a href="#Fees and Period of Registration">Fees and Period of Registration </a> | <a href="#I need Help with Registration">I Need Help with Registration </a>
 
 #### <a id="Registration"></a> Registration
 
@@ -47,8 +47,8 @@ You may submit your application via the [GoBusiness Licensing Portal](https://ww
   <tr>
     <th class="tg-73oq" colspan="2"><span style="font-weight:bold">Important Notice</span><br><br>
 • Ensure that you have the CorpPass and UEN of the business entity that the Registration Certificate will be issued to.<br>
-• You have updated your business particulars with the Accountancy and Corporate Regulatory Authority (ACRA) so that the updated information can be auto-populated in the application form.<br>
-• There should only be one application per business entity i.e. one application per UEN. You can have multiple outlets per application.<br>
+• You have updated your business particulars with the Accounting and Corporate Regulatory Authority (ACRA) so that the updated information can be auto-populated in the application form.<br>
+• There should only be one application per business entity i.e. one application per UEN. You can enter multiple outlets per application.<br>
 • It may take around 4 weeks for the Registrar to process an application for registration before granting the registration. It may take longer if additional information is required.<br><br></th>
   </tr>
   <tr>
@@ -87,11 +87,14 @@ You may submit your application via the [GoBusiness Licensing Portal](https://ww
     <td class="tg-0pky">Wholesale, manufacturing, retail, etc.</td>
   </tr>
   <tr>
-    <td class="tg-0pky" colspan="2"><span style="font-weight:bold;color:rgb(51, 51, 51)">Supporting documents to be attached to the application form:</span><br><br><span style="font-weight:700;color:rgb(51, 51, 51)">• </span><span style="color:rgb(51, 51, 51)">For applicants who have directors, partners, managers, company secretary, outlet managers, substantial shareholders who are </span><span style="text-decoration:underline;color:rgb(51, 51, 51)">foreign nationals</span><span style="color:rgb(51, 51, 51)"> you should attach a copy of their foreign photo identification document such as passport.</span><br><span style="font-weight:700;color:rgb(51, 51, 51)">• </span><span style="color:rgb(51, 51, 51)">For applicants who have </span><span style="text-decoration:underline;color:rgb(51, 51, 51)">corporate shareholders</span><span style="color:rgb(51, 51, 51)">, you should attach a copy of your shareholders’ registration information <br>(including particulars of directors, partners, managers, company secretary, outlet managers, substantial shareholders).</span><br><span style="font-weight:700;color:rgb(51, 51, 51)">• </span><span style="color:rgb(51, 51, 51)">For applicants who have </span><span style="text-decoration:underline;color:rgb(51, 51, 51)">more than one layer of corporate shareholders</span><span style="color:rgb(51, 51, 51)">, you should attach your organisation structure/ chart <br>up till the individuals who own the group. For listed corporate shareholders, you do not have to provide  the name of all your shareholders. You should still provide a list of those who hold more than 5% shares of the listed company.</span></td>
+    <td class="tg-0pky" colspan="2"><span style="font-weight:bold;color:rgb(51, 51, 51)"><br>Supporting documents to be attached to the application form:</span><br><br><span style="font-weight:700;color:rgb(51, 51, 51)">
+• </span><span style="color:rgb(51, 51, 51)">For applicants who have directors, partners, managers, company secretary, outlet managers, substantial shareholders who are </span><span style="text-decoration:underline;color:rgb(51, 51, 51)">foreign nationals,</span><span style="color:rgb(51, 51, 51)"> you should attach a copy of their foreign photo identification document such as passport.</span><br><span style="font-weight:700;color:rgb(51, 51, 51)">
+• </span><span style="color:rgb(51, 51, 51)">For applicants who have </span><span style="text-decoration:underline;color:rgb(51, 51, 51)">corporate shareholders</span><span style="color:rgb(51, 51, 51)">, you should attach a copy of your shareholders’ registration information <br>(including particulars of directors, partners, managers, company secretary, outlet managers, substantial shareholders).</span><br><span style="font-weight:700;color:rgb(51, 51, 51)">
+• </span><span style="color:rgb(51, 51, 51)">For applicants who have </span><span style="text-decoration:underline;color:rgb(51, 51, 51)">more than one layer of corporate shareholders</span><span style="color:rgb(51, 51, 51)">, you should attach your organisation structure/ chart <br>up till the individuals who own the group. For listed corporate shareholders, you do not have to provide  the name of all your shareholders. You should still provide a list of those who hold more than 5% shares of the listed company.</span></td>
   </tr>
 </table>
 
-#### <a id="Fees and period of registration"></a> Fees and period of registration
+#### <a id="Fees and Period of Registration"></a> Fees and Period of Registration
 <b>Fees</b><br>
 Regulated dealers must pay an application fee of S$140 for each application to register with the Registrar. All payment must be made through [GoBusiness Licensing Portal](https://www.gobusiness.gov.sg/licences){:target="_blank"} using the following e-payment methods: PayPal, VISA, MasterCard, American Express and Discover.<br><br>
 If the Registrar provides in-principle approval for their application, regulated dealers must pay a registration fee of S$300 per place of business per year calculated based on the number of outlets they operate and the period for which they register.
@@ -163,7 +166,7 @@ ABC Pte Ltd must pay a total of <b>S$1,940</b>:<br>
 </table>
 
 
-#### <a id="I need help with registration"></a> I need help with registration
+#### <a id="I Need Help with registration"></a> I Need Help with registration
 <a href="/images/Helplines_20191127.pdf"><img src="/images/Helplines_20191127.png"></a>
 
 * If you face any technical issues when using [GoBusiness Licensing Portal](https://www.gobusiness.gov.sg/licences){:target="_blank"}, you may wish to refer to the GoBusiness Licensing Portal webpage or contact the [GoBusiness Licensing Portal Helpdesk](https://www.ifaq.gov.sg/GoBusiness/apps/fcd_faqmain.aspx){:target="_blank"}.
