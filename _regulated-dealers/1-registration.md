@@ -6,7 +6,7 @@ breadcrumb: Registration
 collection_name: regulated-dealers
 ---
 
-<a href="#Registration">Registration </a> | <a href="#Who is required to register?">Who is required to register? </a> |<a href="#Registration Application Process">Registration Application Process </a> | <a href="#Information Needed">Information Needed</a> | <a href="#Fees and period of registration">Fees and period of registration </a> | <a href="#I need help with registration">I need help with registration </a>
+<a href="#Registration">Registration </a> | <a href="#Who is Required to Register?">Who is Required to Register? </a> |<a href="#Registration Application Process">Registration Application Process </a> | <a href="#Information Needed">Information Needed</a> | <a href="#Fees and period of registration">Fees and period of registration </a> | <a href="#I need help with registration">I need help with registration </a>
 
 #### <a id="Registration"></a> Registration
 
@@ -16,7 +16,7 @@ It is an <u>offence</u> if you act or hold out to be a regulated dealer without 
 
 You may access the List of Registered Dealers [here](/list-of-registered-dealers/).
 
-#### <a id="Who is required to register?"></a> Who is required to register?
+#### <a id="Who is Required to Register?"></a> Who is Required to Register?
 You are required to register with the Registrar of Regulated Dealers if you are a regulated dealer i.e. you carry on a business of regulated dealing in precious stones, precious metals and/or precious products ("**PSPM**"), or as an intermediary for regulated dealing in PSPMs. <br><br>
 Examples of regulated dealers who are required to register include, but are not limited to jewellers, bullion traders, jewellery wholesalers, jewellery retailers, second-hand goods dealers, auction houses, and trading platforms. Take this [questionnaire](https://form.gov.sg/5cd3efbbd64f830010e00ea9){:target="_blank"} to help you ascertain whether you are a regulated dealer.
 
