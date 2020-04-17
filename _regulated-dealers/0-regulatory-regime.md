@@ -12,7 +12,7 @@ collection_name: regulated-dealers
 
 <a href="/images/Money%20Laundering%20%26%20Terrorism%20Financing%20Risks%20in%20the%20Precious%20Stones%20and%20Precious%20Metals%20Dealers%20Sector.pdf"><img src="/images/Money%20Laundering%20%26%20Terrorism%20Financing%20Risks%20in%20the%20Precious%20Stones%20and%20Precious%20Metals%20Dealers%20Sector.jpg"></a>
 
-The regime will cover regulated dealers.
+The regime covers regulated dealers.
 
 A “regulated dealer” is any person who carries on a business:<br>
 (a)	of regulated dealing; or <br>
@@ -30,7 +30,7 @@ Intermediaries for regulated dealing who are covered under the regime include, b
 
 Importantly, the regime does **not** intend to cover individuals who make one-off purchases and subsequently decide to sell their items to a second-hand goods dealer. Further, pawnbrokers are **not** regulated dealers as they are already subject to AML/CFT measures under the Pawnbrokers Act.
 
-**What does the Regime cover?**
+**What does the regime cover?**
 
 “Precious stones” (natural or otherwise) include diamonds, sapphires, rubies, emeralds, jade (including nephrite and jadeite), and pearls.
 
@@ -47,7 +47,7 @@ An “asset-backed token” is any token, certificate or instrument: <br>
 
 Asset-backed tokens **do not include** securities or derivative contracts within the meaning of the Securities and Futures Act, or commodity contracts within the meaning of the Commodity Trading Act. Securities contracts, derivative contracts and commodity contracts are **not** covered under the new regime.
 
-Please click [here](/entity-based-requirements) to find out more about the roles and expectations of a regulated dealer.
+Please click [here](/entity-based-requirements/) to find out more about the roles and expectations of a regulated dealer.
 
 #### <a id="Exemptions"></a> Exemptions
 
