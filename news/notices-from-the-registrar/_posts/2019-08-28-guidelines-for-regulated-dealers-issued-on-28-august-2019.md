@@ -9,4 +9,4 @@ In exercise of his powers under section 35(1) of the Precious Stones and Preciou
 
 A summary of the key changes may be found in the Version Control Record of the Guidelines version 1.1.
 
-You may refer to the [updated Guidelines](/images/Guidelines for regulated dealers_20190828_V1.1Final.pdf) under [Regulation](/guidelines/).
+You may refer to the [updated Guidelines](/images/Guidelines for regulated dealers_20190828_V1.1Final.pdf){:target="_blank"} under [Regulation](/guidelines/).
