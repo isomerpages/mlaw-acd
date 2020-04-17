@@ -21,7 +21,7 @@ The transaction-based requirements that apply to regulated dealers include, but 
 
 CDD is the process of obtaining your customers' identifying information and verifying who they are before transacting with them. The objective is to help you determine the ML/TF risks and take appropriate mitigating measures to address them.
 
-In the event where you are unable to perform or complete the required CDD, you must not carry out the transaction with the customer. You should terminate any transaction entered into with the customer and consider whether to file a STR. If you suspect that the customer is in the listings for terrorist designation and designated individuals and entities, you must stop the transaction and report to the police. Please refer to our [Guidelines for more information](/images/Guidelines%20for%20regulated%20dealers_20190828_V1.1Final.pdf){:target="_blank"}.
+In the event where you are unable to perform or complete the required CDD, you must not carry out the transaction with the customer. You should terminate any transaction entered into with the customer and consider whether to file a STR. If you suspect that the customer is in the listings for terrorist designation and designated individuals and entities, you must stop the transaction and report to the police. Please refer to our [Guidelines](/images/Guidelines%20for%20regulated%20dealers_20190828_V1.1Final.pdf){:target="_blank"} for more information.
 
 #### <a id="Enhanced Customer Due Diligence"></a> Enhanced Customer Due Diligence
 
@@ -38,5 +38,5 @@ Regulated dealers who enter into any designated transaction must submit a CTR el
 
 Regulated dealers are required to file a STR when there are suspicions on ML/TF activities in the business transaction. This should be filed electronically via [SONAR](https://www.police.gov.sg/sonar){:target="_blank"}. Regulated dealers are reminded that it is an offence under the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act to tip off another person on a STR filed with STRO.
 
-Please refer to the [SONAR website](https://www.police.gov.sg/sonar){:target="_blank"} on how to file a STR.
+Please refer to the [STRO website](https://www.police.gov.sg/advisories/crime/commercial-crimes/suspicious-transaction-reporting-office){:target="_blank"} on how to file a STR.
 
