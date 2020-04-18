@@ -7,7 +7,7 @@ permalink: /news/notices-from-the-registrar/february-2020-fatf-statement
 
 **ACTION BY REGULATED DEALERS AGAINST HIGH-RISK JURISDICTIONS**<br>
 
-Pursuant to regulation 7(2)(a)(ii) of the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations (“**PMLTF Regulations**”), the Registrar of Regulated Dealers hereby notifies all regulated dealers that the Financial Action Task Force (“**FATF**”) has issued a statement dated February 2020, in which it has called for:
+Pursuant to regulation 7(2)(a)(ii) of the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations 2019 (“**PMLTF Regulations**”), the Registrar of Regulated Dealers hereby notifies all regulated dealers that the Financial Action Task Force (“**FATF**”) has issued a statement dated February 2020, in which it has called for:
 * Counter-measures against the Democratic People’s Republic of Korea (“**DPRK**”) and Iran.
 
 Accordingly, under regulation 7(1) of the PMLTF Regulations, regulated dealers **must perform enhanced customer due diligence measures** if:
