@@ -5,7 +5,7 @@ date: 2019-10-04
 permalink: /news/notices-from-the-registrar/june-2019-fatf-public-statement
 ---
 
-Pursuant to regulation 7(2)(a)(ii) of the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations (“**PMLTF Regulations**”), the Registrar of Regulated Dealers hereby notifies all regulated dealers that the Financial Action Task Force (“**FATF**”) has issued a Public Statement dated June 2019, in which it has called for:
+Pursuant to regulation 7(2)(a)(ii) of the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations 2019 (“**PMLTF Regulations**”), the Registrar of Regulated Dealers hereby notifies all regulated dealers that the Financial Action Task Force (“**FATF**”) has issued a Public Statement dated June 2019, in which it has called for:
 * Counter-measures against the Democratic People’s Republic of Korea (“**DPRK**”).
 * Enhanced customer due diligence measures ("**ECDD**") against Iran.
 
