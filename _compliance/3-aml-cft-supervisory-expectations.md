@@ -6,4 +6,4 @@ breadcrumb: AML/CFT Supervisory Expectations
 collection_name: compliance
 ---
 
-<a href="/images/ACD-Supervisory Expectation-5Dec19.pdf"><img src="/images/ACD-Supervisory-Expectation-5Dec19.jpg"></a>
+<a href="/images/ACD-Supervisory Expectation-5Dec19.pdf" target="_blank"><img src="/images/ACD-Supervisory-Expectation-5Dec19.jpg"></a>
