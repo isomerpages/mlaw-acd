@@ -68,7 +68,7 @@ This Notice for Customers is available in 4 languages - English, Chinese, Malay 
   </tr>
 </table>
 
-<a href="/images/NoticeForCustomersPoster(Eng)Mar2020.pdf"><img src="/images/NoticeForCustomersPoster(Eng)Mar2020.jpg"></a>
+<a href="/images/NoticeForCustomersPoster(Eng)Mar2020.pdf" target="_blank"><img src="/images/NoticeForCustomersPoster(Eng)Mar2020.jpg"></a>
 
 #### [6. GoBusiness Licensing Guide for Precious Stones and Precious Metals Dealers ("**GoBusiness Licensing Guide**")](/images/GoBusiness%20Licensing%20Guide%20for%20Regulated%20Dealers_ACD_20191127.pdf){:target="_blank"}
 <a id="guidance"></a>
