@@ -64,8 +64,8 @@ Foreign dealers should refer <a href="#Regulatory Compliance for Foreign Dealers
 **Who are foreign dealers?** <br><br>
 Foreign dealer means a regulated dealer that -<br>
 (a) is -<br>
-&nbsp;&nbsp;&nbsp;(i) registered or incorporated outside Singapore, in the case of a body corporate or<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;unincorporate; or<br>
-&nbsp;&nbsp;&nbsp;(ii) habitually resident outside Singapore, in the case of an individual; and
+(i) registered or incorporated outside Singapore, in the case of a body corporate or unincorporate; or<br>
+(ii) habitually resident outside Singapore, in the case of an individual; and
    
 (b) does not have a permanent establishment, a place of management or a branch in Singapore at which the regulated dealer carries on the business of regulated dealing or business as an intermediary for regulated dealing.
 
@@ -75,7 +75,7 @@ Foreign dealers are subject to all other transaction-based requirements under th
 **Do foreign dealers need to register?** <br><br>
 A foreign dealer carrying on a business of regulated dealing, or business as an intermediary for regulated dealing, in Singapore on a transitory basis is exempt from registration. Transitory basis means the foreign dealer carries on business in Singapore for not more than a total of 90 days in a year.
 
-Any person who acts or holds out to be a regulated dealer without being registered or exempted, may face criminal penalties of up to S$75,000 in fine and/or up to 3 years' imprisonment.<br>
+Any person who acts or holds out to be a regulated dealer without being registered or exempted, may face criminal penalties of up to S$75,000 in fine and/or up to 3 years' imprisonment.<br><br>
 Learn more about [regime](/regulatory-regime/), [registration](/registration/) and [transaction-based requirements](/transaction-based-requirements/).
 
 #### <a id="Our Role in AML/CFT"></a> Our Role in AML/CFT 
@@ -84,4 +84,4 @@ Singapore is a member of the Financial Action Task force (**"FATF"**), an inter-
 
 Designated non-financial businesses and professions (**"DNFBP"**) in Singapore, such as the precious stones and precious metals dealers (**"PSMD"**), have a role to play to ensure that Singapore is effective in implementing its AML/CFT policies through the PSMD sector. The regulatory requirements on the PSMD sector are set out in the PSPM Act and PMLTF Regulations. Regulated dealers should also refer to the [Guidelines for Regulated Dealers](/guidelines/){:target="_blank"}.
 
-Please refer to the compliance requirements [here](/entity-based-requirements/) for more information on how to implement an effective AML/CFT framework for your business.
+Please refer to the [compliance requirements](/entity-based-requirements/) for more information on how to implement an effective AML/CFT framework for your business.
