@@ -44,4 +44,4 @@ This Notice for Customers is available in 4 languages - English, Chinese, Malay 
   </tr>
 </table>
 
-<a href="/images/NoticeForCustomersPoster(Eng)Mar2020.pdf"><img src="/images/NoticeForCustomersPoster(Eng)Mar2020.jpg"></a>
+<a href="/images/NoticeForCustomersPoster(Eng)Mar2020.pdf" target="_blank"><img src="/images/NoticeForCustomersPoster(Eng)Mar2020.jpg"></a>
