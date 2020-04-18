@@ -23,7 +23,7 @@ Examples of regulated dealers who are required to register include, but are not 
 Please refer to the [PSPM Act](https://sso.agc.gov.sg/Act/PSPMPMLTFA2019){:target="_blank"} for the official definitions. If you are not certain whether you are required to register, you can seek legal advice.
 
 #### <a id="Registration Application Process"></a> Registration Application Process
-<a href="/images/Overview%20of%20Reg%20Process%2020191031.pdf"><img src="/images/Overview%20of%20Reg%20Process%2020191031.png"></a> <br>
+<a href="/images/Overview%20of%20Reg%20Process%2020191031.pdf" target="_blank"><img src="/images/Overview%20of%20Reg%20Process%2020191031.png"></a> <br>
 
 You may submit your application via the [GoBusiness Licensing Portal](https://www.gobusiness.gov.sg/licences){:target="_blank"}. You may refer to the [GoBusiness Licensing Guide for Regulated Dealers](/images/GoBusiness%20Licensing%20Guide%20for%20Regulated%20Dealers_ACD_20191127.pdf){:target="_blank"} for a step-by-step guide to the application process.
 
@@ -167,7 +167,7 @@ ABC Pte Ltd must pay a total of <b>S$1,940</b>:<br>
 
 
 #### <a id="I Need Help with registration"></a> I Need Help with registration
-<a href="/images/Helplines_20191127.pdf"><img src="/images/Helplines_20191127.png"></a>
+<a href="/images/Helplines_20191127.pdf" target="_blank"><img src="/images/Helplines_20191127.png"></a>
 
 * If you face any technical issues when using GoBusiness Licensing Portal, you may wish to refer to the [GoBusiness Licensing Portal webpage](https://www.gobusiness.gov.sg/licences){:target="_blank"} or contact the [GoBusiness Licensing Portal Helpdesk](https://www.ifaq.gov.sg/GoBusiness/apps/fcd_faqmain.aspx){:target="_blank"}.
 * If you are not sure how to complete the application form, you may wish to refer to our [GoBusiness Licensing Portal Guide for Regulated Dealers (Step-by-Step with Screenshots)](/images/GoBusiness%20Licensing%20Guide%20for%20Regulated%20Dealers_ACD_20191127.pdf){:target="_blank"} or our [FAQs for Precious Stones and Precious Metals Dealers](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx){:target="_blank"}.
