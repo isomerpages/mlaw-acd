@@ -8,6 +8,7 @@ collection_name: regulated-dealers
 
 #### E-Services for Regulated Dealers
 
+
 | No. | Types of Services | Directory | Related Pages |
 | --- | --- | --- | --- |
 | 1 | Submit a Registration/Renewal application | <a href="https://www.gobusiness.gov.sg/licences">GoBusiness Licensing Portal</a>{:target="_blank"} | [Registration](/registration/){:target="_blank"}/[Renewal](/renewal/){:target="_blank"} |
