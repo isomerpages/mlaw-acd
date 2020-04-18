@@ -52,8 +52,8 @@ You may submit your application via the [GoBusiness Licensing Portal](https://ww
 • It may take around 4 weeks for the Registrar to process an application for registration before granting the registration. It may take longer if additional information is required.<br><br></th>
   </tr>
   <tr>
-    <td class="tg-fymr">Entity</td>
-    <td class="tg-fymr">Information needed</td>
+    <td class="tg-spag">Entity</td>
+    <td class="tg-spag">Information needed</td>
   </tr>
   <tr>
     <td class="tg-0pky">Director<br>Partner<br>Manager<br>Company secretary<br>Substantial shareholder <br>(if you represent a company)</td>
