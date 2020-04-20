@@ -14,7 +14,7 @@ It is an <u>offence</u> if you act or hold out to be a regulated dealer without 
 
 If your registration period is expiring in the next 3 months, and you intend to continue your business as a regulated dealer, you should renew your registration as soon as possible. It may take around 4 weeks for the Registrar to process an application for renewal before granting the renewal. It may take longer if additional information is required. If your renewal is not approved before the expiration of your registration, your registration will lapse and you will have to submit a new registration application.
 
-**Note:** In your renewal application, your particulars will be auto-populated in the renewal application form. You should ensure that these are updated. The renewal process will take very little of your time if there are no changes to your registration information. Hence, we encourage you to submit your renewal application as soon as possible.
+**:bulb:Note:** In your renewal application, your particulars will be auto-populated in the renewal application form. You should ensure that these are updated. The renewal process will take very little of your time if there are no changes to your registration information. Hence, we encourage you to submit your renewal application as soon as possible.
 
 #### <a id="Renewal Application Process"></a> Renewal Application Process
 <a href="/images/Overview%20of%20Renewal%20Application%20Process_20200409.pdf" target="_blank"><img src="/images/Overview%20of%20Renewal%20Application%20Process_20200409.png"></a> <br>
