@@ -37,8 +37,8 @@ Importantly, the regime does **not** intend to cover individuals who make one-of
 “Precious metals” include gold, silver, platinum, iridium, osmium, palladium, rhodium, ruthenium, and alloys with at least 2% in weight of any of the metals stated above.
 
 “Precious products” include, but are not limited to, any jewellery, watch, apparel, accessory, ornament or other finished product: <br>
-(a) made up of, contains or has attached to it any precious stone or precious metal or both; and<br>
-(b) derive at least 50% of its value which is attributable to the precious stone or precious metal or both. <br>
+(a) made up of, containing or having attached to it any precious stone or precious metal or both; and<br>
+(b) at least 50% of its value which is attributable to the precious stone or precious metal or both. <br>
 (c) determined by the ratio of the market value of the precious stone and precious metal component to the selling price of the product.
 
 An “asset-backed token” is any token, certificate or instrument: <br>
@@ -51,7 +51,7 @@ Please click [here](/entity-based-requirements/) to find out more about the role
 
 #### <a id="Exemptions"></a> Exemptions
 
-The following persons are exempted from registration under the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019 (PSPM Act):
+The following persons are exempted from registration under the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019 (**"PSPM Act"**):
 
 * A pawnbroker as defined under Section 3 of the Pawnbrokers Act 2015.<br> 
 * Any person licensed, approved, registered or regulated by the Monetary Authority of Singapore under any written law.<br> 
