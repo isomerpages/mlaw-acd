@@ -152,7 +152,7 @@ ABC Pte Ltd must pay a total of <b>S$1,940</b>:<br>
       <td class="tg-quj4"><span style="font-weight:bold">S$140</span></td>
     </tr>
     <tr>
-      <td class="tg-0pky">Registration Fee for:<br>2 places of business<br>3 years of registration</td>
+      <td class="tg-0pky">Registration fee for:<br>2 places of business<br>3 years of registration</td>
       <td class="tg-dvpl">S$300<span style="font-weight:bold"> </span><br>x 2 <br><span style="text-decoration:underline">x 3</span><br><span style="font-weight:bold">S$1,800</span></td>
     </tr>
     <tr>
