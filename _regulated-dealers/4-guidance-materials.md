@@ -35,7 +35,7 @@ You may refer to the [MAS Website Subscriber Services Guide](/images/MAS%20Websi
 
 #### 4. Inter-Ministry Committee on Terrorist Designation ("**IMC-TD**")
 
-The IMC-TD acts as Singapore's authority relating to the designation of terrorists. This prohibits any person/ entity from dealing with or providing any financial assistance to designated subjects, as required under TSOFA.
+The IMC-TD acts as Singapore's authority relating to the designation of terrorists. This prohibits any person/ entity from dealing with or providing any financial assistance to designated subjects, as required under the TSOFA.
 
 On MHA’s website on [IMC-TD](https://www.mha.gov.sg/inter-ministry-committee-terrorist-designation-(imc-td)){:target="_blank"}, you will find information on counter terrorism financing legislation, IMC-TD’s process of designation, and relevant news articles.
 
