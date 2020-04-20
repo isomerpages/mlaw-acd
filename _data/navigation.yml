@@ -4,24 +4,83 @@
 #                                #
 ##################################
     
-- title: Regulatory Regime
-  url: /reg-compliance/
+- title: Regulation
+  url: /guidelines/
   sub-links:
-  - title: Registration of Regulated Dealers
-    url: /registration/
-  - title: Duty to notify Registrar of change in particulars and circumstances
-    url: /duty-to-notify-registrar-of-change-in-particulars-and-circumstances/
-  - title: Regulatory Compliance
-    url: /reg-compliance/
-  - title: Guidance Materials
-    url: /guidance-materials/
-  - title: Key Resources
-    url: /key-resources/
+  - title: Guidelines for Regulated Dealers
+    url: /guidelines/
+  - title: PSPM Act - Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019
+    url: https://sso.agc.gov.sg/Act/PSPMPMLTFA2019
+    external: true
+  - title: PMLTF Regulations - Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations 2019
+    url: https://sso.agc.gov.sg/SL/PSPMPMLTFA2019-S306-2019?DocDate=20190408
+    external: true
+  - title: Subsidiary Legislation
+    url: https://sso.agc.gov.sg/Act/PSPMPMLTFA2019?ViewType=Sl
+    external: true
+  - title: Parliamentary Speech
+    url: https://sprs.parl.gov.sg/search/sprs3topic?reportid=bill-349
+    external: true
+  - title: Notices from the Registrar
+    url: /news/notices-from-the-registrar/
+
+- title: Regulated Dealers
+  url: /regulatory-regime/
+  sub-links: 
+  - title: Regulatory Regime
+    url: /regulatory-regime/
+  - title: Registration
+    url: /registration
+  - title: Renewal
+    url: /renewal/
   - title: List of Registered Dealers
     url: /list-of-registered-dealers/
+  - title: Guidance Materials
+    url: /guidance-materials/
+  - title: E-Services
+    url: /e-services/
+
+- title: Compliance
+  url: /entity-based-requirements/
+  sub-links:
+  - title: Entity-Based Requirements
+    url: /entity-based-requirements/
+  - title: Transaction-Based Requirements
+    url: /transaction-based-requirements/
+  - title: Other Regulatory Requirements
+    url: /other-regulatory-requirements/
+  - title: AML/CFT Supervisory Expectations
+    url: /aml-cft-supervisory-expectations/
   - title: Compliance Review Programme
     url: /compliance-review-programme/
+  - title: AML/CFT Resources
+    url: /aml-cft-resources/
 
+- title: Customers
+  url: /what-I-should-know/
+  sub-links:
+  - title: What I should know
+    url: /what-i-should-know/
+  - title: Notice for Customers
+    url: /notice-for-customers/
+    
+- title: News
+  url: /news/
+  sub-links:
+  - title: All
+    url: /news/
+  - title: Press Releases
+    url: /news/press-releases/
+  - title: Parliamentary Speech
+    url: /news/parliamentary-speech/
+  - title: Ongoing Events
+    url: /news/ongoing-events/
+  - title: Past Events
+    url: /news/past-events/
+  - title: MinLaw News
+    url: https://www.mlaw.gov.sg/news/
+    external: true
+    
 - title: About MinLaw
   url: https://www.mlaw.gov.sg/about-us/ourvision-mission-corevalues/
   external: true
@@ -45,19 +104,4 @@
     url: https://www.mlaw.gov.sg/about-us/contact-us/
     external: true
     
-- title: News
-  url: /news/
-  sub-links:
-  - title: All
-    url: /news/
-  - title: Notices
-    url: /news/notices/
-  - title: Press Releases
-    url: /news/press-releases/
-  - title: Ongoing Events
-    url: /news/ongoing-events/
-  - title: Past Events
-    url: /news/past-events/
-  - title: MinLaw News
-    url: https://www.mlaw.gov.sg/news/
-    external: true
+
