@@ -23,7 +23,6 @@ A “regulated dealer” is any person who carries on a business:<br>
 (b)	selling or redeeming any “asset-backed token”. 
 
 **Examples**
-
 Regulated dealers include, but are not limited to, jewellers, bullion traders, jewellery wholesalers, jewellery retailers and secondhand goods dealers. The regime also applies to regulated dealers who are based overseas but carry on a business of regulated dealing in Singapore.
 
 Intermediaries for regulated dealing who are covered under the regime include, but are not limited to, auction houses and trading platforms.
@@ -31,7 +30,6 @@ Intermediaries for regulated dealing who are covered under the regime include, b
 Importantly, the regime does **not** intend to cover individuals who make one-off purchases and subsequently decide to sell their items to a secondhand goods dealer. Further, pawnbrokers are **not** regulated dealers as they are already subject to AML/CFT measures under the Pawnbrokers Act 2015.
 
 **What does the regime cover?**
-
 “Precious stones” (natural or otherwise) include diamonds, sapphires, rubies, emeralds, jade (including nephrite and jadeite), and pearls.
 
 “Precious metals” include gold, silver, platinum, iridium, osmium, palladium, rhodium, ruthenium, and alloys with at least 2% in weight of any of the metals stated above.
@@ -61,7 +59,7 @@ Foreign dealers should refer <a href="#Regulatory Compliance for Foreign Dealers
 
 #### <a id="Regulatory Compliance for Foreign Dealers"></a> Regulatory Compliance for Foreign Dealers
 
-**Who are foreign dealers?** <br><br>
+**Who are foreign dealers?**
 Foreign dealer means a regulated dealer that -<br>
 (a) is -<br>
 (i) registered or incorporated outside Singapore, in the case of a body corporate or unincorporate; or<br>
@@ -69,10 +67,10 @@ Foreign dealer means a regulated dealer that -<br>
    
 (b) does not have a permanent establishment, a place of management or a branch in Singapore at which the regulated dealer carries on the business of regulated dealing or business as an intermediary for regulated dealing.
 
-**What are the regulatory compliance requirements for foreign dealers?** <br><br>
+**What are the regulatory compliance requirements for foreign dealers?**
 Foreign dealers are subject to all other transaction-based requirements under the PSPM Act, which include conducting customer due diligence ("**CDD**"), keeping records, and filing of Cash Transaction Reports ("**CTRs**") and Suspicious Transaction Reports ("**STRs**").  
 
-**Do foreign dealers need to register?** <br><br>
+**Do foreign dealers need to register?**
 A foreign dealer carrying on a business of regulated dealing, or business as an intermediary for regulated dealing, in Singapore on a transitory basis is exempt from registration. Transitory basis means the foreign dealer carries on business in Singapore for not more than a total of 90 days in a year.
 
 Any person who acts or holds out to be a regulated dealer without being registered or exempted, may face criminal penalties of up to S$75,000 in fine and/or up to 3 years' imprisonment.<br><br>
