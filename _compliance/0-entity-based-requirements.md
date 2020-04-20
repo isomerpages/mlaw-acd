@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Entity Based Requirements
+title: Entity-Based Requirements
 permalink: /entity-based-requirements/
-breadcrumb: Entity Based Requirements
+breadcrumb: Entity-Based Requirements
 collection_name: compliance
 ---
 
