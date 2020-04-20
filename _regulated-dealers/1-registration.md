@@ -72,7 +72,7 @@ You may submit your application via the [GoBusiness Licensing Portal](https://ww
   </tr>
   <tr>
     <td class="tg-spag">Business Particulars</td>
-    <td class="tg-spag">Information needed</td>
+    <td class="tg-spag">Information Needed</td>
   </tr>
   <tr>
     <td class="tg-0pky">Address</td>
@@ -97,7 +97,7 @@ You may submit your application via the [GoBusiness Licensing Portal](https://ww
 #### <a id="Fees and Period of Registration"></a> Fees and Period of Registration
 <b>Fees</b><br>
 Regulated dealers must pay an application fee of S$140 for each application to register with the Registrar. All payment must be made through [GoBusiness Licensing Portal](https://www.gobusiness.gov.sg/licences){:target="_blank"} using the following e-payment methods: PayPal, VISA, MasterCard, American Express or Discover.<br><br>
-If the Registrar provides in-principle approval for their application, regulated dealers must pay a registration fee of S$300 per place of business per year calculated based on the number of outlets they operate and the period for which they register.
+If the Registrar provides in-principle approval for your application, regulated dealers must pay a registration fee of S$300 per place of business per year calculated based on the number of outlets you operate and the period for which you register.
 <table>
   <tr>
     <th></th>
