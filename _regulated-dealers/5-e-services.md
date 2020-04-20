@@ -25,6 +25,6 @@ collection_name: regulated-dealers
 <table class="tg">
   <tr>
     <th class="tg-xldj"><span style="font-style:inherit"><sup>1</sup> Accounting and Corporate Regulatory Authority</span><br>
-<span style="font-style:inherit"><sup>2</sup> STRO Online Notices and Reporting Platform</span></th>
+<span style="font-style:inherit"><sup>2</sup> STRO Online Notices and Reporting platform</span></th>
   </tr>
 </table>
