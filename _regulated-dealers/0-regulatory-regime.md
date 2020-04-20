@@ -45,7 +45,7 @@ An “asset-backed token” is any token, certificate or instrument: <br>
 (i) backed by one or more “precious stone”, “precious metal” or “precious product”; and <br>
 (ii) that entitles the holder to the “precious stone”, “precious metal” or “precious product” or part of it (e.g. certificates or tokens).
 
-Asset-backed tokens **do not include** securities or derivative contracts within the meaning of the Securities and Futures Act, or commodity contracts within the meaning of the Commodity Trading Act. Securities contracts, derivative contracts and commodity contracts are **not** covered under the new regime.
+Asset-backed tokens **do not include** securities or derivatives contracts within the meaning of the Securities and Futures Act, or commodity contracts within the meaning of the Commodity Trading Act. Securities contracts, derivatives contracts and commodity contracts are **not** covered under the new regime.
 
 Please click [here](/entity-based-requirements/) to find out more about the roles and expectations of a regulated dealer.
 
