@@ -20,6 +20,6 @@ The Guidelines also provide [sample forms and checklists<sup>1</sup>](/images/Gu
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-xldj"><span style="font-style:inherit"><sup>1</sup>The sample forms and checklists in the Annexes of the Guidelines are also available in Microsoft Word document format for ease of editing.</span></th>
+    <th class="tg-xldj"><span style="font-style:inherit"><sup>1</sup>Annexes of the Guidelines are also available in Microsoft Word document format for ease of editing.</span></th>
   </tr>
 </table>
