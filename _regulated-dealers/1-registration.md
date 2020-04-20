@@ -20,7 +20,7 @@ You may access the List of Registered Dealers [here](/list-of-registered-dealers
 You are required to register with the Registrar of Regulated Dealers if you are a regulated dealer i.e. you carry on a business of regulated dealing in precious stones, precious metals and/or precious products ("**PSPM**"), or as an intermediary for regulated dealing in PSPMs. <br><br>
 Examples of regulated dealers who are required to register include, but are not limited to jewellers, bullion traders, jewellery wholesalers, jewellery retailers, secondhand goods dealers, auction houses, and trading platforms. Take this [questionnaire](https://form.gov.sg/5cd3efbbd64f830010e00ea9){:target="_blank"} to help you ascertain whether you are a regulated dealer.
 
-Please refer to the [PSPM Act](https://sso.agc.gov.sg/Act/PSPMPMLTFA2019){:target="_blank"} for the official definitions. If you are not certain whether you are required to register, you can seek legal advice.
+Please refer to the [PSPM Act](https://sso.agc.gov.sg/Act/PSPMPMLTFA2019){:target="_blank"} for the official definitions. If you are not certain whether you are required to register, you may wish to seek legal advice.
 
 #### <a id="Registration Application Process"></a> Registration Application Process
 <a href="/images/Overview%20of%20Reg%20Process%2020191031.pdf" target="_blank"><img src="/images/Overview%20of%20Reg%20Process%2020191031.png"></a> <br>
@@ -53,22 +53,22 @@ You may submit your application via the [GoBusiness Licensing Portal](https://ww
   </tr>
   <tr>
     <td class="tg-spag">Entity</td>
-    <td class="tg-spag">Information needed</td>
+    <td class="tg-spag">Information Needed</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Director<br>Partner<br>Manager<br>Company secretary<br>Substantial shareholder <br>(if you represent a company)</td>
-    <td class="tg-0pky"><b>1. Name*</b><br><b>2. NRIC/ Passport/ FIN No.*</b><br><b>3. Nationality/ Country of Incorporation*</b><br>4. Date of Birth<br>5. Declaration of<br>(a) Any investigations or convictions for offences related to<br> fraud, dishonesty, money laundering or terrorism financing;<br>(b) Any bankruptcy, insolvency or liquidation;<br>(c) Any lawsuit the person was a party to; and<br>(d) Any breach of AML/CFT requirements<br><br><b>* Information is auto-populated for ACRA registered entities</b></td>
+    <td class="tg-0pky">Director<br>Partner<br>Manager<br>Company secretary<br>Substantial shareholder (if you represent a company)</td>
+    <td class="tg-0pky"><b>1. Name*</b><br><b>2. NRIC/ Passport/ FIN No.*</b><br><b>3. Nationality/ Country of Incorporation*</b><br>4. Date of birth<br>5. Declaration of<br>(a) Any investigations or convictions for offences related to<br> fraud, dishonesty, money laundering or terrorism financing;<br>(b) Any bankruptcy, insolvency or liquidation;<br>(c) Any lawsuit the person was a party to; and<br>(d) Any breach of AML/CFT requirements<br><br><b>* Information is auto-populated for ACRA registered entities</b></td>
   </tr>
   <tr>
     <td class="tg-0pky">Person holding an analogous position<br>involved in the management of the applicant</td>
-    <td class="tg-0pky" rowspan="2">1. Name<br>2. NRIC/ Passport/ FIN No.<br>3. Nationality/ Country of Incorporation<br>4. Date of Birth<br>5. Declaration of<br>(a) Any investigations or convictions for offences related to<br> fraud, dishonesty, money laundering or terrorism financing;<br>(b) Any bankruptcy, insolvency or liquidation;<br>(c) Any lawsuit the person was a party to; and<br>(d) Any breach of AML/CFT requirements</td>
+    <td class="tg-0pky" rowspan="2">1. Name<br>2. NRIC/ Passport/ FIN No.<br>3. Nationality/ Country of Incorporation<br>4. Date of birth<br>5. Declaration of<br>(a) Any investigations or convictions for offences related to<br> fraud, dishonesty, money laundering or terrorism financing;<br>(b) Any bankruptcy, insolvency or liquidation;<br>(c) Any lawsuit the person was a party to; and<br>(d) Any breach of AML/CFT requirements</td>
   </tr>
   <tr>
     <td class="tg-0pky">Outlet manager</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Compliance Officer</td>
-    <td class="tg-0pky">1. Name<br>2. NRIC/ Passport/ FIN No.<br>3. Nationality/ Country of Incorporation<br>4. Date of Birth<br>5. Email address<br>6. Mobile number</td>
+    <td class="tg-0pky">Compliance officer</td>
+    <td class="tg-0pky">1. Name<br>2. NRIC/ Passport/ FIN No.<br>3. Nationality/ Country of Incorporation<br>4. Date of birth<br>5. Email address<br>6. Mobile number</td>
   </tr>
   <tr>
     <td class="tg-spag">Business Particulars</td>
