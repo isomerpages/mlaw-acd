@@ -14,7 +14,7 @@ It is an <u>offence</u> if you act or hold out to be a regulated dealer without 
 
 If your registration period is expiring in the next 3 months, and you intend to continue your business as a regulated dealer, you should renew your registration as soon as possible. It may take around 4 weeks for the Registrar to process an application for renewal before granting the renewal. It may take longer if additional information is required. If your renewal is not approved before the expiration of your registration, your registration will lapse and you will have to submit a new registration application.
 
-**:bulb:Note:** In your renewal application, your particulars will be auto-populated in the renewal application form. You should ensure that these are updated. The renewal process will take very little of your time if there are no changes to your registration information. Hence, we encourage you to submit your renewal application as soon as possible.
+**:bulb: Note:** In your renewal application, your particulars will be auto-populated in the renewal application form. You should ensure that these are updated. The renewal process will take very little of your time if there are no changes to your registration information. Hence, we encourage you to submit your renewal application as soon as possible.
 
 #### <a id="Renewal Application Process"></a> Renewal Application Process
 <a href="/images/Overview%20of%20Renewal%20Application%20Process_20200409.pdf" target="_blank"><img src="/images/Overview%20of%20Renewal%20Application%20Process_20200409.png"></a> <br>
@@ -164,4 +164,7 @@ ABC Pte Ltd must pay a total of <b>S$1,940</b>:<br>
 
 * If you face any technical issues when using GoBusiness Licensing Portal, you may wish to refer to the [GoBusiness Licensing Portal webpage](https://www.gobusiness.gov.sg/licences){:target="_blank"} or contact [GoBusiness Licensing Portal Helpdesk](https://www.ifaq.gov.sg/GoBusiness/apps/fcd_faqmain.aspx){:target="_blank"}.
 * If you are not sure how to complete the application form, you may wish to refer to the [GoBusiness Licensing Portal Guide for Regulated Dealers (Step-by-Step with Screenshots)](/images/GoBusiness%20Licensing%20Guide%20for%20Regulated%20Dealers_ACD_20191127.pdf){:target="_blank"} or [FAQs for Precious Stones and Precious Metals Dealers](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx){:target="_blank"}.
-<a href="#top">Back to top</a>
+
+<div align="right">
+<a href="#----">↥ back to top</a>
+</div>
