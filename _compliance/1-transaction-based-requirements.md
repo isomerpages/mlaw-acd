@@ -31,8 +31,19 @@ Please refer to the [Guidelines](/images/Guidelines%20for%20regulated%20dealers_
 
 #### <a id="Cash Transaction Report"></a> Cash Transaction Report
 
-Regulated dealers who enter into any designated transaction must submit a CTR electronically to the STRO within 15 business days via [SONAR](https://www.police.gov.sg/sonar){:target="_blank"}. As part of record keeping, you are required to keep a copy of the filed CTR for 5 years after the date of submission.
+Regulated dealers who enter into any designated transaction<sup>1</sup> must submit a CTR electronically to the STRO within 15 business days via [SONAR](https://www.police.gov.sg/sonar){:target="_blank"}. As part of record keeping, you are required to keep a copy of the filed CTR for 5 years after the date of submission.
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-9iv7{color:#000000;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-9iv7"><span style="font-weight:400;font-style:normal"><sup>1</sup>“Designated transaction” means any of the following transactions conducted wholly or partly in Singapore:</span><br><br><span style="font-weight:400;font-style:normal">(a) a sale of any precious stone, precious metal, precious product or asset‑backed token by a regulated dealer to a customer, for which cash or a cash equivalent exceeding the threshold amount is received as payment; </span><br><span style="font-weight:400;font-style:normal">(b) 2 or more sales of any precious stone, precious metal, precious product or asset‑backed token in a single day by a regulated dealer to the same customer, or to customers whom the regulated dealer knows act on behalf of the same person, for which cash or a cash equivalent in total exceeding the threshold amount is received as payment; </span><br><span style="font-weight:400;font-style:normal">(c) a purchase of any precious stone, precious metal or precious product from a customer (who is not a regulated dealer) by a regulated dealer (who is a secondhand goods dealer), for which cash or a cash equivalent exceeding the threshold amount is received as payment; </span><br><span style="font-weight:400;font-style:normal">(d) a redemption of an asset‑backed token from a customer (who is not a regulated dealer) by a regulated dealer, for cash or a cash equivalent exceeding the threshold amount; </span><br><span style="font-weight:400;font-style:normal">(e) 2 or more purchases of any precious stone, precious metal or precious product in a single day by a regulated dealer (who is a secondhand goods dealer), from the same customer, or customers whom the regulated dealer knows act on behalf of the same person (none of whom are regulated dealers), for which cash or a cash equivalent in total exceeding the threshold amount is received as payment; </span><br><span style="font-weight:400;font-style:normal">(f) 2 or more redemptions of any asset‑backed token in a single day by a regulated dealer from the same customer, or customers whom the regulated dealer knows act on behalf of the same person (none of whom are regulated dealers), for cash or a cash equivalent exceeding the threshold amount. </span><br><br><br><span style="font-weight:400;font-style:normal">“threshold amount” means $20,000 or its equivalent in value, or an amount prescribed in substitution.</span><br></th>
+  </tr>
+</table>
 
 #### <a id="Suspicious Transaction Report"></a> Suspicious Transaction Report
 
