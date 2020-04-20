@@ -11,7 +11,7 @@ collection_name: regulated-dealers
 
 <style>
 table th:first-of-type {
-    width: 10%;
+    width: 7%;
 }
 table th:nth-of-type(2) {
     width: 35%;
@@ -20,7 +20,7 @@ table th:nth-of-type(3) {
     width: 30%;
 }
 table th:nth-of-type(3) {
-width: 25%;
+width: 28%;
 }
 </style>
 
