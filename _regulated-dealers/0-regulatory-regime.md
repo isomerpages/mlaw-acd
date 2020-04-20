@@ -24,11 +24,11 @@ A “regulated dealer” is any person who carries on a business:<br>
 
 **Examples**
 
-Regulated dealers include, but are not limited to, jewellers, bullion traders, jewellery wholesalers, jewellery retailers and second-hand goods dealers. The regime also applies to regulated dealers who are based overseas but carry on a business of regulated dealing in Singapore.
+Regulated dealers include, but are not limited to, jewellers, bullion traders, jewellery wholesalers, jewellery retailers and secondhand goods dealers. The regime also applies to regulated dealers who are based overseas but carry on a business of regulated dealing in Singapore.
 
 Intermediaries for regulated dealing who are covered under the regime include, but are not limited to, auction houses and trading platforms.
 
-Importantly, the regime does **not** intend to cover individuals who make one-off purchases and subsequently decide to sell their items to a second-hand goods dealer. Further, pawnbrokers are **not** regulated dealers as they are already subject to AML/CFT measures under the Pawnbrokers Act.
+Importantly, the regime does **not** intend to cover individuals who make one-off purchases and subsequently decide to sell their items to a secondhand goods dealer. Further, pawnbrokers are **not** regulated dealers as they are already subject to AML/CFT measures under the Pawnbrokers Act 2015.
 
 **What does the regime cover?**
 
