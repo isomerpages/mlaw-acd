@@ -51,7 +51,7 @@ Please click [here](/entity-based-requirements/) to find out more about the role
 
 #### <a id="Exemptions"></a> Exemptions
 
-The following persons are exempted from registration under the PSPM Act:
+The following persons are exempted from registration under the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019 (PSPM Act):
 
 * A pawnbroker as defined under Section 3 of the Pawnbrokers Act 2015.<br> 
 * Any person licensed, approved, registered or regulated by the Monetary Authority of Singapore under any written law.<br> 
