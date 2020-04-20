@@ -27,7 +27,7 @@ Report possible unregistered dealers to the Anti-Money Laundering/Countering the
 • Any person licensed, approved, registered or regulated by the Monetary Authority of Singapore under any written law.<br> 
 • A "foreign dealer"<sup>3</sup> which only carries on business in Singapore for not more than a total of 90 days in a year.<br><br>
 
-"Foreign dealers" are subject to all other transaction-based requirements under the PSPM Act, which include conducting customer due diligence, keeping records, and filing of <a href="https://www.police.gov.sg/advisories/crime/commercial-crimes/suspicious-transaction-reporting-office" target="_blank">Cash Transaction Reports (CTRs) </a> and <a href="https://www.police.gov.sg/advisories/crime/commercial-crimes/suspicious-transaction-reporting-office" target="_blank">Suspicious Transaction Reports (STRs)</a>.<br><br> <sup>2</sup> "Regulated dealing" means doing any of the following:<br> 
+"Foreign dealers" are subject to all other transaction-based requirements under the PSPM Act, which include conducting customer due diligence, keeping records, and filing of <a href="https://www.police.gov.sg/advisories/crime/commercial-crimes/suspicious-transaction-reporting-office" target="_blank">Cash Transaction Reports (CTR) </a> and <a href="https://www.police.gov.sg/advisories/crime/commercial-crimes/suspicious-transaction-reporting-office" target="_blank">Suspicious Transaction Reports (STR)</a>.<br><br> <sup>2</sup> "Regulated dealing" means doing any of the following:<br> 
 
 (a) manufacturing any precious stone, precious metal or precious product;<br> 
 (b) importing or possessing for sale any precious stone, precious metal or precious product;<br> 
