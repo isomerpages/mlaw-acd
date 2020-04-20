@@ -23,7 +23,6 @@ The Guidelines also provide [sample forms and checklists<sup>1</sup>](/images/Gu
     <th class="tg-xldj"><span style="font-style:inherit"><sup>1</sup>Annexes of the Guidelines are also available in Microsoft Word document format for ease of editing.</span></th>
   </tr>
 </table>
-<br>
 
 #### [2. Sample forms for CDD and ECDD](/images/Sample%20CDD%20and%20ECDD%20Form.docx)
 
