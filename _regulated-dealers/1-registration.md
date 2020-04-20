@@ -6,7 +6,7 @@ breadcrumb: Registration
 collection_name: regulated-dealers
 ---
 
-<a href="#Registration">Registration </a> | <a href="#Who is Required to Register?">Who is Required to Register? </a> |<a href="#Registration Application Process">Registration Application Process </a> | <a href="#Information Needed">Information Needed</a> | <a href="#Fees and Period of Registration">Fees and Period of Registration </a> | <a href="#I need Help with Registration">I Need Help with Registration </a>
+<a href="#Registration">Registration </a> | <a href="#Who is Required to Register?">Who is Required to Register? </a> |<a href="#Registration Application Process">Registration Application Process </a> | <a href="#Information Needed">Information Needed</a> | <a href="#Fees and Period of Registration">Fees and Period of Registration </a> | <a href="#I Need Help with Registration">I Need Help with Registration </a>
 
 #### <a id="Registration"></a> Registration
 
