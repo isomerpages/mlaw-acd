@@ -24,7 +24,7 @@ hero-banner: /images/bullion1.jpg
     
 #Call to Action Button
 button:
-  - text: Guidance Materials for Regulated Dealers
+  - text: Guidance Materials<br>for Regulated Dealers
     url: /guidance-materials/
     
 key-highlights:
