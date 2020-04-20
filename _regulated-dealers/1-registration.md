@@ -166,7 +166,7 @@ ABC Pte Ltd must pay a total of <b>S$1,940</b>:<br>
 </table>
 
 
-#### <a id="I Need Help with registration"></a> I Need Help with registration
+#### <a id="I Need Help with Registration"></a> I Need Help with Registration
 <a href="/images/Helplines_20191127.pdf" target="_blank"><img src="/images/Helplines_20191127.png"></a>
 
 * If you face any technical issues when using GoBusiness Licensing Portal, you may wish to refer to the [GoBusiness Licensing Portal webpage](https://www.gobusiness.gov.sg/licences){:target="_blank"} or contact the [GoBusiness Licensing Portal Helpdesk](https://www.ifaq.gov.sg/GoBusiness/apps/fcd_faqmain.aspx){:target="_blank"}.
