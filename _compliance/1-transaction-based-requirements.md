@@ -21,13 +21,13 @@ The transaction-based requirements that apply to regulated dealers include, but 
 
 CDD is the process of obtaining your customers' identifying information and verifying who they are before transacting with them. The objective is to help you determine the money laundering/terrorism financing ("**ML/TF**") risks and take appropriate mitigating measures to address them.
 
-In the event where you are unable to perform or complete the required CDD, you must not proceed with the transaction. You should terminate any transaction entered into with the customer and consider whether to file a STR. If you suspect that the customer is in the listings for terrorist designation and designated individuals and entities, you must stop the transaction and report to the police. Please refer to our [Guidelines](/images/Guidelines%20for%20regulated%20dealers_20190828_V1.1Final.pdf){:target="_blank"} for more information.
+In the event where you are unable to perform or complete the required CDD, you must not proceed with the transaction. You should terminate any transaction entered into with the customer and consider whether to file a STR. If you suspect that the customer is in the listings for terrorist designation and designated individuals and entities, you must stop the transaction and report to the police. Please refer to the [Guidelines](/images/Guidelines%20for%20regulated%20dealers_20190828_V1.1Final.pdf){:target="_blank"} for more information.
 
 #### <a id="Enhanced Customer Due Diligence"></a> Enhanced Customer Due Diligence
 
 Where the ML/TF risks are identified to be higher, regulated dealers are expected to take ECDD measures to mitigate and manage those risks.
 
-Please refer to our [Guidelines](/images/Guidelines%20for%20regulated%20dealers_20190828_V1.1Final.pdf){:target="_blank"} more for information.
+Please refer to the [Guidelines](/images/Guidelines%20for%20regulated%20dealers_20190828_V1.1Final.pdf){:target="_blank"} for more information.
 
 #### <a id="Cash Transaction Report"></a> Cash Transaction Report
 
