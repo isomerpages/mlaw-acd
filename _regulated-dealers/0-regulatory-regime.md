@@ -70,7 +70,7 @@ Foreign dealer means a regulated dealer that -<br>
 (b) does not have a permanent establishment, a place of management or a branch in Singapore at which the regulated dealer carries on the business of regulated dealing or business as an intermediary for regulated dealing.
 
 **What are the regulatory compliance requirements for foreign dealers?** <br><br>
-Foreign dealers are subject to all other transaction-based requirements under the PSPM Act, which include conducting customer due diligence, keeping records, and filing of Cash Transaction Reports (**"CTRs"**) and Suspicious Transaction Reports (**"STRs"**).  
+Foreign dealers are subject to all other transaction-based requirements under the PSPM Act, which include conducting customer due diligence (**"CDD"**), keeping records, and filing of Cash Transaction Reports (**"CTRs"**) and Suspicious Transaction Reports (**"STRs"**).  
 
 **Do foreign dealers need to register?** <br><br>
 A foreign dealer carrying on a business of regulated dealing, or business as an intermediary for regulated dealing, in Singapore on a transitory basis is exempt from registration. Transitory basis means the foreign dealer carries on business in Singapore for not more than a total of 90 days in a year.
