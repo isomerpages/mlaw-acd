@@ -51,7 +51,7 @@ Please click [here](/entity-based-requirements/) to find out more about the role
 
 #### <a id="Exemptions"></a> Exemptions
 
-The following persons are exempted from registration under the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019 (**"PSPM Act"**):
+The following persons are exempted from registration under the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019 ("**PSPM Act**"):
 
 * A pawnbroker as defined under Section 3 of the Pawnbrokers Act 2015.<br> 
 * Any person licensed, approved, registered or regulated by the Monetary Authority of Singapore under any written law.<br> 
@@ -70,7 +70,7 @@ Foreign dealer means a regulated dealer that -<br>
 (b) does not have a permanent establishment, a place of management or a branch in Singapore at which the regulated dealer carries on the business of regulated dealing or business as an intermediary for regulated dealing.
 
 **What are the regulatory compliance requirements for foreign dealers?** <br><br>
-Foreign dealers are subject to all other transaction-based requirements under the PSPM Act, which include conducting customer due diligence (**"CDD"**), keeping records, and filing of Cash Transaction Reports (**"CTRs"**) and Suspicious Transaction Reports (**"STRs"**).  
+Foreign dealers are subject to all other transaction-based requirements under the PSPM Act, which include conducting customer due diligence ("**CDD**"), keeping records, and filing of Cash Transaction Reports ("**CTRs**") and Suspicious Transaction Reports ("**STRs**").  
 
 **Do foreign dealers need to register?** <br><br>
 A foreign dealer carrying on a business of regulated dealing, or business as an intermediary for regulated dealing, in Singapore on a transitory basis is exempt from registration. Transitory basis means the foreign dealer carries on business in Singapore for not more than a total of 90 days in a year.
@@ -80,8 +80,8 @@ Learn more about [regime](/regulatory-regime/), [registration](/registration/) a
 
 #### <a id="Our Role in AML/CFT"></a> Our Role in AML/CFT 
 
-Singapore is a member of the Financial Action Task Force (**"FATF"**), an inter-governmental body that sets international standards aimed to prevent money laundering and terrorism financing (**"ML/TF"**), and the harm these illegal activities cause to society. There are currently more than 200 countries and jurisdictions committed to implementing anti-money laundering/countering the financing of terrorism (**"AML/CFT"**) measures in accordance to the recommendations set by the FATF.
+Singapore is a member of the Financial Action Task Force ("**FATF**"), an inter-governmental body that sets international standards aimed to prevent money laundering and terrorism financing ("**ML/TF**"), and the harm these illegal activities cause to society. There are currently more than 200 countries and jurisdictions committed to implementing anti-money laundering/countering the financing of terrorism ("**AML/CFT**") measures in accordance to the recommendations set by the FATF.
 
-Designated non-financial businesses and professions (**"DNFBP"**) in Singapore, such as the precious stones and precious metals dealers (**"PSMD"**), have a role to play to ensure that Singapore is effective in implementing its AML/CFT policies through the PSMD sector. The regulatory requirements on the PSMD sector are set out in the PSPM Act and the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations 2019 (**"PMLTF Regulations"**). Regulated dealers should also refer to the [Guidelines for Regulated Dealers](/guidelines/){:target="_blank"}.
+Designated non-financial businesses and professions ("**DNFBP**") in Singapore, such as the precious stones and precious metals dealers ("**PSMD**"), have a role to play to ensure that Singapore is effective in implementing its AML/CFT policies through the PSMD sector. The regulatory requirements on the PSMD sector are set out in the PSPM Act and the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations 2019 ("**PMLTF Regulations**"). Regulated dealers should also refer to the [Guidelines for Regulated Dealers](/guidelines/){:target="_blank"}.
 
 Please refer to the [compliance requirements](/entity-based-requirements/) for more information on how to implement an effective AML/CFT framework for your business.
