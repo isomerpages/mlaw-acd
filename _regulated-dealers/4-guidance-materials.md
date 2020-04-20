@@ -39,9 +39,9 @@ The IMC-TD acts as Singapore's authority relating to the designation of terroris
 
 On MHA’s website on [IMC-TD](https://www.mha.gov.sg/inter-ministry-committee-terrorist-designation-(imc-td)){:target="_blank"}, you will find information on counter terrorism financing legislation, IMC-TD’s process of designation, and relevant news articles.
 
-To find out more about your obligations as a regulated dealer under TSOFA, please click [here](/images/Measures%20relating%20to%20prevention%20of%20terrorism%20financing.pdf){:target="_blank"}.
+To find out more about your obligations as a regulated dealer under on countering terrorism financing, please click [here](/images/Measures%20relating%20to%20prevention%20of%20terrorism%20financing.pdf){:target="_blank"}.
 
-#### [5. Notice for Customers from the Ministry of Law ("**Notice for Customers**")](/images/NoticeForCustomersPoster(Eng)Mar2020.pdf){:target="_blank"}
+#### 5. Notice for Customers from the Ministry of Law ("**Notice for Customers**")
 
 The Notice for Customers explains that regulated dealers are required to collect identifying information from customers under the regulatory regime. Regulated dealers may wish to consider using the Notice for Customers to educate their customers on the AML/CFT requirements.
 
