@@ -89,7 +89,7 @@ The Registrar of Regulated Dealers may impose additional conditions or waive exi
   </tr>
 </table>
 
-
+<br>
 <table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 850px" class="tg"><colgroup><col style="width: 450px"><col style="width: 400px"></colgroup><tr><th style="font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:8px 6px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;border-top-width:1px;border-bottom-width:1px;border-color:#000000;color:#000000;text-align:left;vertical-align:top" colspan="2"><span style="font-weight:bold">Important Notice</span><br><br>
 • If your registration has expired, you will not be allowed to submit your renewal application. You will be required to submit a new application to be a new registered dealer.<br>
 • Ensure that you have the CorpPass and UEN of the business entity for whom the Registration Certificate will be renewed.<br>• You have updated your business particulars with the <a href="https://www.bizfile.gov.sg/" target="_blank">Accounting and Corporate Regulatory Authority ("<b>ACRA</b>")</a> so that the updated information can be auto-populated in the application form.<br>
