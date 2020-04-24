@@ -39,6 +39,7 @@ faq_url_external: true
 custom_css_path: "/misc/custom.css"
 custom_print_css_path: "/assets/css/print.css"
 
+facebook-pixel: 22546540875605272
 
 collections:
   regulation:
