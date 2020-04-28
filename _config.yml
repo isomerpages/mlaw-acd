@@ -24,7 +24,7 @@ breadcrumbs:
 # Resource Room and Pagination
 paginate: 12
 
-# Homepage sections
+# Homepage section
 homepage_hero_i_want_to: false
 homepage_resources: true
 
@@ -40,6 +40,8 @@ custom_css_path: "/misc/custom.css"
 custom_print_css_path: "/assets/css/print.css"
 
 facebook-pixel: 22546540875605272
+
+google-tag-manager: GTM-K75DXG8
 
 collections:
   regulation:
