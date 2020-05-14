@@ -35,6 +35,6 @@ To find out more about your obligations as a regulated dealer on countering terr
 
 * [Financial Action Task Force – Money Laundering/Terrorist Financing through trade in diamonds](https://www.fatf-gafi.org/media/fatf/documents/reports/ML-TF-through-trade-in-diamonds.pdf){:target="_blank"}
 
-* [Singapore National Risk Assessment Report 2013](/images/Singapore%20NRA%20Report%202013_24032015.pdf){:target="_blank"}
-
 * [Financial Action Task Force – COVID-19-related Money Laundering and Terrorist Financing Risks and Policy Responses](https://www.fatf-gafi.org/media/fatf/documents/COVID-19-AML-CFT.pdf){:target="_blank"}
+
+* [Singapore National Risk Assessment Report 2013](/images/Singapore%20NRA%20Report%202013_24032015.pdf){:target="_blank"}
