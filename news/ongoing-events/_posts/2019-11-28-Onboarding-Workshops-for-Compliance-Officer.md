@@ -5,7 +5,9 @@ date: 2020-05-27
 permalink: /news/ongoing-events/Onboarding-Workshops-for-Compliance-Officer/
 ---
 
-The Anti-Money Laundering/Countering the Financing of Terrorism Division ("**ACD**") of the Ministry of Law will be organising Onboarding Workshops ("**OBW**") for the registered dealers in the Precious Stones and Precious Metals Dealers sector. The latest OBW will be conducted online.
+The Anti-Money Laundering/Countering the Financing of Terrorism Division ("**ACD**") of the Ministry of Law will be organising Onboarding Workshops ("**OBW**") for the registered dealers in the Precious Stones and Precious Metals Dealers sector. 
+
+**The latest OBW will be conducted online.**
 
 The OBW aims to enable the **compliance officer** of registered dealers to:
 
