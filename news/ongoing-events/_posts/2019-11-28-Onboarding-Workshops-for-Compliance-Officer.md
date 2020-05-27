@@ -9,7 +9,7 @@ The Anti-Money Laundering/Countering the Financing of Terrorism Division ("**ACD
 
 The OBW aims to enable the **compliance officer** of registered dealers to:
 
-(a) Perform an assessment of the money laundering ("**ML**") and terrorism financing ("**TF**") risks faced by their business; and
+(a) Perform an assessment of the money laundering ("**ML**") and terrorism financing ("**TF**") risks faced by their business; and <br>
 (b) Develop internal policies, procedures and controls ("**IPPC**") to manage and effectively mitigate the ML/TF risks.
 
 Registered dealers may send your compliance officer to attend the OBW. Please click [here](https://go.gov.sg/onlineonboardingworkshop){:target="_blank"} to indicate your interest.
