@@ -20,6 +20,8 @@ You may access the List of Registered Dealers [here](/list-of-registered-dealers
 You are required to register with the Registrar of Regulated Dealers if you are a regulated dealer i.e. you carry on a business of regulated dealing in precious stones, precious metals and/or precious products ("**PSPM**"), or as an intermediary for regulated dealing in PSPMs. <br><br>
 Examples of regulated dealers who are required to register include, but are not limited to jewellers, bullion traders, jewellery wholesalers, jewellery retailers, secondhand goods dealers, auction houses, and trading platforms. Take this [questionnaire](https://form.gov.sg/5cd3efbbd64f830010e00ea9){:target="_blank"} to help you ascertain whether you are a regulated dealer.
 
+Foreign dealers may refer [here](/regulatory-regime/#Regulatory%20Compliance%20for%20Foreign%20Dealers/) on the requirements to register.
+
 Please refer to the [PSPM Act](https://sso.agc.gov.sg/Act/PSPMPMLTFA2019){:target="_blank"} for the official definitions. If you are not certain whether you are required to register, you may wish to seek legal advice.
 
 #### <a id="Registration Application Process"></a> Registration Application Process
