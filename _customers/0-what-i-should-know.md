@@ -16,7 +16,7 @@ These include, but are not limited to jewellers, bullion traders, jewellery whol
 The regulated dealers will need to fulfil the requirements under the PSPM Act to prevent ML/TF from taking place through the precious stones and precious metals dealers ("**PSMD**") sector.
 
 #### What does it mean to me as a customer?
-<p align="justify">You may be required to provide your personal information and identification documents for verification purposes when you purchase the PSPMs from regulated dealers. Some common PSPM include diamond and gold jewellery, platinum wedding bands and gold or silver bullion bars. A full list of PSPM is available under our [Regulatory Regime](/regulatory-regime/). By providing these information and documents promptly, you play a part in protecting the PSMD sector and Singapore from being misused for criminal activities.</p>  
+You may be required to provide your personal information and identification documents for verification purposes when you purchase the PSPMs from regulated dealers. Some common PSPM include diamond and gold jewellery, platinum wedding bands and gold or silver bullion bars. A full list of PSPM is available under our [Regulatory Regime](/regulatory-regime/). By providing these information and documents promptly, you play a part in protecting the PSMD sector and Singapore from being misused for criminal activities.
 
 #### What if I do not give my identifying information to the regulated dealer?
 The law prohibits regulated dealers from completing the transaction with you, if you do not provide these information as requested. 
