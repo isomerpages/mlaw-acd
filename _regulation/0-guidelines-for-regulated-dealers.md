@@ -1,10 +1,9 @@
 ---
 layout: leftnav-page-content
-title: Third level navi
+title: Guidelines for Regulated Dealers
 permalink: /guidelines/
 breadcrumb: Guidelines for Regulated Dealers
 collection_name: regulation
-second_nav_title: "Guidelines for Regulated Dealers"
 ---
 
 #### [Guidelines for Regulated Dealers](/images/Guidelines%20for%20regulated%20dealers_20190828_V1.1Final.pdf){:target="_blank"}
