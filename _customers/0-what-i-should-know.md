@@ -6,7 +6,6 @@ breadcrumb: What I should know
 collection_name: customers
 ---
 
-<h1 class="intro-copy">
 #### What is money laundering and terrorism financing?
 Money laundering ("**ML**") is the process of concealing the proceeds of a crime so that they appear to have originated from legitimate sources. Terrorism financing ("**TF**") is the funding of terrorism or terrorist groups, either via legitimate or illegitimate means.
 
@@ -24,9 +23,3 @@ The law prohibits regulated dealers from completing the transaction with you, if
 
 #### What happens to my personal information?
 All personal information provided by you to the regulated dealers will be kept confidential in accordance with the [Personal Data Protection Act 2012](https://www.pdpc.gov.sg/nric-extracts){:target="_blank"}. You may refer to the [Notice for Customers](/notice-for-customers/) for more information.
-</h1>
-
-<a class="top-link hide" href="" id="js-top">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 12 6"><path d="M12 6H0l6-6z"/></svg>
-  <span class="screen-reader-text">Back to top</span>
-</a>
