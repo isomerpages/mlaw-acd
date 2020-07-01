@@ -12,4 +12,6 @@ The OBW aims to enable the **compliance officer** of registered dealers to:
 (a) Perform an assessment of the money laundering ("**ML**") and terrorism financing ("**TF**") risks faced by their business; and <br>
 (b) Develop internal policies, procedures and controls ("**IPPC**") to manage and effectively mitigate the ML/TF risks.
 
+We would like to thank all participants for their support of this event. Please stay tuned to our website for any upcoming events organised by us.
+
 Please refer to the ["**FAQs**"](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx){:target="_blank"} under the Precious Stones and Precious Metals Dealers section for Frequently Asked Questions relating to the regulatory regime. For further queries, please click [here](https://eservices.mlaw.gov.sg/enquiry/){:target="_blank"}.
