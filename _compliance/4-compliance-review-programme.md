@@ -31,7 +31,6 @@ The Reviewer will assess the registered dealers' level of compliance with the PS
 14. Tan Hong Ye
 15. Yee Li Yang
 16. Yeo Yu Ling
-
 #### Safeguarding Registered Dealers’ Information
 
 <table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 862px" class="tg"><colgroup><col style="width: 89px"><col style="width: 773px"></colgroup><thead><tr><th style="border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:13px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   
