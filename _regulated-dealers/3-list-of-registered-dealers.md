@@ -12,7 +12,10 @@ Report possible unregistered dealers to the Anti-Money Laundering/Countering the
 
 **Note:**
 
-* The registered dealers in the list are regulated by the Registrar of Regulated Dealers for anti-money laundering and countering the financing of terrorism in their business of regulated dealing<sup>2</sup> or business as intermediaries for regulated dealing.
+* The registered dealers in the list are regulated by the Registrar of Regulated Dealers **<u>for anti-money laundering and countering the financing of terrorism</u>** in their business of regulated dealing<sup>2</sup> or business as intermediaries for regulated dealing under the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019 (“**PSPM Act**”).
+ 
+
+Precious stones and precious metals may be offered in various forms of investment schemes, financial products and services. These offerings as a form of investment and wealth solutions are **<u>not</u>** regulated under the PSPM Act, which aims to safeguard the precious stones and precious metals dealers sector against money laundering and terrorism financing. MoneySense is Singapore’s national financial education programme. Useful information relating to investments is available at https://www.moneysense.gov.sg/investments. If you suspect that an investment scheme could be fraudulent or is being misused for any illicit activity, you should report it to the police immediately.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border-width:1px;border-style:solid;border-color:black;margin:0px auto;}
@@ -22,7 +25,7 @@ Report possible unregistered dealers to the Anti-Money Laundering/Countering the
 @media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;margin: auto 0px;}}</style>
 <div class="tg-wrap"><table class="tg">
   <tr>
-    <td class="tg-0pky"><sup>1</sup> "Registered dealer" means a regulated dealer who is registered under section 7 of the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019 ("PSPM Act"). The list of registered dealers will not contain the following persons who are exempted from registration under the PSPM Act:<br> 
+    <td class="tg-0pky"><sup>1</sup> "Registered dealer" means a regulated dealer who is registered under section 7 of the PSPM Act. The list of registered dealers will not contain the following persons who are exempted from registration under the PSPM Act:<br> 
 • A pawnbroker as defined under Section 3 of the Pawnbrokers Act 2015.<br> 
 • Any person licensed, approved, registered or regulated by the Monetary Authority of Singapore under any written law.<br> 
 • A "foreign dealer"<sup>3</sup> which only carries on business in Singapore for not more than a total of 90 days in a year.<br><br>
