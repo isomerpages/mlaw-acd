@@ -75,14 +75,14 @@
     url: /news/parliamentary-speech/
   - title: Sector Developments
     url: /news/sector-developments/
-  - title: Ongoing Events
-    url: /news/ongoing-events/
+  - title: Enforcement
+    url: /news/enforcement/
   - title: Upcoming Events
     url: /news/upcoming-events/
+  - title: Ongoing Events
+    url: /news/ongoing-events/
   - title: Past Events
     url: /news/past-events/
-  - title: Enforcement Actions
-    url: /news/enforcement-actions/
   - title: MinLaw News
     url: https://www.mlaw.gov.sg/news/
     external: true
