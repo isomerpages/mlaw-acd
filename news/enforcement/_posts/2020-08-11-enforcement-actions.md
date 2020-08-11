@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Enforcement Actions
-date: 2020-08-07
+date: 2020-08-11
 permalink: /news/enforcement/Enforcement-Actions/
 ---
 
