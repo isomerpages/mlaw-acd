@@ -21,8 +21,8 @@ Report possible unregistered dealers to the Anti-Money Laundering/Countering the
 * Exercise caution and conduct sufficient research on any investment schemes.
 
 * MoneySense is Singapore’s national financial education programme. Useful information relating to investments is available at [https://www.moneysense.gov.sg/investments](https://www.moneysense.gov.sg/investments){:target="_blank"}. Useful MoneySense Consumer Alerts and resources include:
- * Dealing with unregulated persons [https://www.moneysense.gov.sg/articles/2018/11/dealing-with-unregulated-persons](https://www.moneysense.gov.sg/articles/2018/11/dealing-with-unregulated-persons){:target="_blank"}
- * How to spot an investment scam [https://www.moneysense.gov.sg/articles/2018/10/how-to-spot-an-investment-scam](https://www.moneysense.gov.sg/articles/2018/10/how-to-spot-an-investment-scam){:target="_blank"}
+ ** Dealing with unregulated persons [https://www.moneysense.gov.sg/articles/2018/11/dealing-with-unregulated-persons](https://www.moneysense.gov.sg/articles/2018/11/dealing-with-unregulated-persons){:target="_blank"}
+ b) How to spot an investment scam [https://www.moneysense.gov.sg/articles/2018/10/how-to-spot-an-investment-scam](https://www.moneysense.gov.sg/articles/2018/10/how-to-spot-an-investment-scam){:target="_blank"}
  
 If you suspect that an investment scheme could be fraudulent or is being misused for any illicit activity, you should report it to the police immediately at [https://eservices.police.gov.sg/content/policehubhome/homepage/police-report.html](https://eservices.police.gov.sg/content/policehubhome/homepage/police-report.html){:target="_blank"} or at any Neighbourhood Police Centre.
 
