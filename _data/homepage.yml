@@ -32,12 +32,12 @@ key-highlights:
     description: Get the latest list of Registered Dealers in Singapore
     url: /list-of-registered-dealers/
     external: false
-  - title: Registration
-    description: Overview of registration process
-    url: /registration/
+  - title: Renewal
+    description: Overview of renewal process
+    url: /renewal/
     external: false    
   - title: Regulatory Regime
-    description: Overview of Regulatory Regime
+    description: Overview of regulatory regime
     url: /regulatory-regime/
     external: false
   - title: Duty to notify Registrar of change in particulars and circumstances
