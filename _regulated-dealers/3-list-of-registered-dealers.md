@@ -10,11 +10,11 @@ Click [here](/images/List%20of%20Registered%20Dealers.pdf){:target="_blank"} to 
 
 Report possible unregistered dealers to the Anti-Money Laundering/Countering the Financing of Terrorism Division ("**ACD**") [here](https://eservices.mlaw.gov.sg/enquiry/){:target="_blank"}.
 
-#### What is Covered Under the Regulation?
+#### <a id="What is Covered Under the Regulation?"></a> What is Covered Under the Regulation?
 
 The registered dealers in the list are regulated by the Registrar of Regulated Dealers **<u>for anti-money laundering and countering the financing of terrorism</u>** purposes in their business of regulated dealing<sup>2</sup> or business as intermediaries for regulated dealing under the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019 (“**PSPM Act**”). 
  
-#### Investments are Not Covered Under the Regulations
+<a id="Investments are Not Covered Under the Regulations"></a> Investments are Not Covered Under the Regulations
 
 Precious stones and precious metals may be offered in various forms of investment schemes, financial products and services by the registered dealers. These offerings as a form of investment and wealth solutions are **<u>not</u>** approved by Ministry of Law nor regulated under the PSPM Act.
 
