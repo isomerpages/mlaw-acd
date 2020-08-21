@@ -16,13 +16,13 @@ The registered dealers in the list are regulated by the Registrar of Regulated D
  
 #### Investments are Not Covered Under the Regulations
 
-* Precious stones and precious metals may be offered in various forms of investment schemes, financial products and services by the registered dealers. These offerings as a form of investment and wealth solutions are **<u>not</u>** approved by Ministry of Law nor regulated under the PSPM Act.
+Precious stones and precious metals may be offered in various forms of investment schemes, financial products and services by the registered dealers. These offerings as a form of investment and wealth solutions are **<u>not</u>** approved by Ministry of Law nor regulated under the PSPM Act.
 
-* Exercise caution and conduct sufficient research on any investment schemes.
+Exercise caution and conduct sufficient research on any investment schemes.
 
-* MoneySense is Singapore’s national financial education programme. Useful information relating to investments is available at [https://www.moneysense.gov.sg/investments](https://www.moneysense.gov.sg/investments){:target="_blank"}. Useful MoneySense Consumer Alerts and resources include:
-  * Dealing with unregulated persons [https://www.moneysense.gov.sg/articles/2018/11/dealing-with-unregulated-persons](https://www.moneysense.gov.sg/articles/2018/11/dealing-with-unregulated-persons){:target="_blank"}
-  * How to spot an investment scam [https://www.moneysense.gov.sg/articles/2018/10/how-to-spot-an-investment-scam](https://www.moneysense.gov.sg/articles/2018/10/how-to-spot-an-investment-scam){:target="_blank"}
+MoneySense is Singapore’s national financial education programme. Useful information relating to investments is available at [https://www.moneysense.gov.sg/investments](https://www.moneysense.gov.sg/investments){:target="_blank"}. Useful MoneySense Consumer Alerts and resources include:
+ * Dealing with unregulated persons [https://www.moneysense.gov.sg/articles/2018/11/dealing-with-unregulated-persons](https://www.moneysense.gov.sg/articles/2018/11/dealing-with-unregulated-persons){:target="_blank"}
+ * How to spot an investment scam [https://www.moneysense.gov.sg/articles/2018/10/how-to-spot-an-investment-scam](https://www.moneysense.gov.sg/articles/2018/10/how-to-spot-an-investment-scam){:target="_blank"}
  
 If you suspect that an investment scheme could be fraudulent or is being misused for any illicit activity, you should report it to the police immediately at [https://eservices.police.gov.sg/content/policehubhome/homepage/police-report.html](https://eservices.police.gov.sg/content/policehubhome/homepage/police-report.html){:target="_blank"} or at any Neighbourhood Police Centre.
 
