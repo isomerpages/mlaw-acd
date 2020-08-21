@@ -10,9 +10,9 @@ Click [here](/images/List%20of%20Registered%20Dealers.pdf){:target="_blank"} to 
 
 Report possible unregistered dealers to the Anti-Money Laundering/Countering the Financing of Terrorism Division ("**ACD**") [here](https://eservices.mlaw.gov.sg/enquiry/){:target="_blank"}.
 
-#### <a id="What is Covered Under the Regulation?"></a> What is Covered Under the Regulation?
+#### <a id="What is Covered Under the Regulations?"></a> What is Covered Under the Regulations?
 
-The registered dealers in the list are regulated by the Registrar of Regulated Dealers **<u>for anti-money laundering and countering the financing of terrorism</u>** purposes in their business of regulated dealing<sup>2</sup> or businesses as intermediaries for regulated dealing under the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019 (“**PSPM Act**”). 
+The registered dealers in the list are regulated by the Registrar of Regulated Dealers **<u>for anti-money laundering and countering the financing of terrorism</u>** purposes in their business of regulated dealing<sup>2</sup> or business as an intermediary for regulated dealing under the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019 (“**PSPM Act**”). 
  
 #### <a id="Investments are Not Covered Under the Regulations"></a> Investments are Not Covered Under the Regulations
 
