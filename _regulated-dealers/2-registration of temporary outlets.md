@@ -10,7 +10,7 @@ collection_name: regulated-dealers
 
 As part of the application to become a registered dealer, the dealer must register with the Registrar of Regulated Dealers (“**Registrar**”) the fixed place of business at which the dealer carries out a business of regulated dealing or a business as an intermediary for regulated dealing (“**regulated activity**”). If the dealer has no fixed place of business, the dealer must register either of the following places:
 
-(a)	The dealer’s registered address, if the dealer is a business entity; or
+(a)	The dealer’s registered address, if the dealer is a business entity; or <br>
 (b)	The dealer’s residential address, if the dealer is an individual.
 
 **Temporary Outlets**
@@ -19,13 +19,10 @@ As part of the application to become a registered dealer, the dealer must regist
 
 2.	If the registered dealer intends to carry on or carries on the regulated activity at the location for a total of <u>more than 90 days within a calendar year (i.e. from 1 January to 31 December)</u>, the outlet is not considered a temporary outlet and the registered dealer is required to register this location as a place of business in addition to the dealer’s registered place(s) of business. This means that:
 
-(a)	At least 14 days before commencing any regulated activity at that place of business, the registered dealer must notify the Registrar (see [instructions](https://acd.mlaw.gov.sg/other-regulatory-requirements/){:target="_blank"}). After notifying the Registrar, the registered dealer is also required to register this location as an additional place of business under its licence by submitting an amendment application via [GoBusiness Licensing Portal](https://www.gobusiness.gov.sg/licences){:target="_blank"}.
-
+(a)	At least 14 days before commencing any regulated activity at that place of business, the registered dealer must notify the Registrar (see [instructions](https://acd.mlaw.gov.sg/other-regulatory-requirements/){:target="_blank"}). After notifying the Registrar, the registered dealer is also required to register this location as an additional place of business under its licence by submitting an amendment application via [GoBusiness Licensing Portal](https://www.gobusiness.gov.sg/licences){:target="_blank"}. <br>
 (b)	At least 14 days before ceasing regulated activity at that place of business, the registered dealer must notify the Registrar (see [instructions](https://acd.mlaw.gov.sg/other-regulatory-requirements/){:target="_blank"}). After notifying the Registrar, the registered dealer must remove the place of business from its licence by submitting an amendment application via [GoBusiness Licensing Portal](https://www.gobusiness.gov.sg/licences){:target="_blank"}.
 
-
 3.	If the registered dealer intends to carry on or carries on the regulated activity at a location for a total of <u>90 days or less within a calendar year (i.e. from 1 January to 31 December)</u>, the registered dealer need **<u>NOT</u>** register this location as an additional place of business under its licence. Additionally, the registered dealer is **<u>NOT</u>** required to notify the Register before it commences or ceases any regulated activity at that location. The Registrar will not include this location in the maximum number of places of business specified at Annex A of the Regulated Dealers Certificate of Registration. 
-
 
 4.	Please note that the Registrar retains the discretion in exceptional cases, to require the registration of a location (apart from the registered place(s) of business), the corresponding payment of registration fees for the location and notification to be given to the Registrar before the commencement or cessation of any regulated activity at that location, even though the registered dealer may intend to carry on or carries on the regulated activity at that location for a total of 90 days or less in the calendar year <u>(i.e. from 1 January to 31 December)</u>. The Registrar will notify the registered dealer in writing if that is the case. 
 
