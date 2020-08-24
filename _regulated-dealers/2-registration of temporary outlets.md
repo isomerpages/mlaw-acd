@@ -6,9 +6,10 @@ breadcrumb: Registration of Temporary Outlets
 collection_name: regulated-dealers
 ---
 
-**Registering your place(s) of business and Fee calculation** 
+#### <a id="Registration"></a> **Registering your place(s) of business and Fee calculation** 
 
 As part of the application to become a registered dealer, the dealer must register with the Registrar of Regulated Dealers (“**Registrar**”) the fixed place of business at which the dealer carries out a business of regulated dealing or a business as an intermediary for regulated dealing (“**regulated activity**”). If the dealer has no fixed place of business, the dealer must register either of the following places:
+
 a.	The dealer’s registered address, if the dealer is a business entity; or
 b.	The dealer’s residential address, if the dealer is an individual.
 
