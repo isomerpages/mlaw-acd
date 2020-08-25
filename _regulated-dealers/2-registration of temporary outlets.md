@@ -13,7 +13,7 @@ As part of the application to become a registered dealer, the dealer must regist
 (a)	The dealer’s registered address, if the dealer is a business entity; or <br>
 (b)	The dealer’s residential address, if the dealer is an individual.
 
-<b>Temporary Outlets</b>
+<b>Temporary Outlets</b><br>
 1  Apart from the registered place(s) of business, some registered dealers may temporarily conduct the regulated activity at another location for a short period of time. Examples of such temporary outlets may include push cart operators, night market stall operators, booths at trade shows, or booths at shopping centre atriums.
 
 2  If the registered dealer intends to carry on or carries on the regulated activity at the location for a total of <u>more than 90 days within a calendar year (i.e. from 1 January to 31 December)</u>, the outlet is not considered a temporary outlet and the registered dealer is required to register this location as a place of business in addition to the dealer’s registered place(s) of business. This means that:
@@ -48,10 +48,10 @@ As part of the application to become a registered dealer, the dealer must regist
   <tr>
     <th class="tg-pnl2"><span style="font-weight:400;font-style:normal">
 </span><br><br><span style="font-weight:400;font-style:normal"><p style="margin-left:10%">Note: When Dealer A decides to cease regulated dealing at any of the 2 places of business, he must notify the Registrar at least 14 days before ceasing business. He should submit an amendment application via <a href="https://www.gobusiness.gov.sg/licences" target="_blank">GoBusiness Licensing Portal</a>, to update his records with the Registrar. There will be no refund of the registration fees paid. The maximum number of places of business remains at 2 places of business for the remaining registration period. If Dealer A decides to open another outlet to replace the ceased outlet and the new outlet is intended to operate for 90 days or more in the calendar year, Dealer A must notify the Registrar at least 14 days before <i>commencing to carry out any regulated activity</i> at the ‘replacement’ outlet (see <a href="https://acd.mlaw.gov.sg/other-regulatory-requirements/" target="_blank">instructions</a>). After notifying the Registrar, Dealer A must submit an amendment application via <a href="https://www.gobusiness.gov.sg/licences" target="_blank">GoBusiness Licensing Portal</a> to register the location. However, no registration fees will be payable for the remainder of the 3-year registration period.</p>
-</span><br><span style="font-weight:400;font-style:normal">Dealer A also wishes to conduct regulated activity at a booth at a <i>pasar malam</i> for a total of 14 days a year on Diamond Road. Dealer A need not notify the Registrar before commencing or ceasing regulated activity at the booth, and need not register the booth at Diamond Road as an additional place of business under its licence.
-</span><br></th>
+ </span><br></th>
   </tr>
 </table>
+</span><br><span style="font-weight:400;font-style:normal">Dealer A also wishes to conduct regulated activity at a booth at a <i>pasar malam</i> for a total of 14 days a year on Diamond Road. Dealer A need not notify the Registrar before commencing or ceasing regulated activity at the booth, and need not register the booth at Diamond Road as an additional place of business under its licence.
 </span><br></th>
   </tr>
 </table>
