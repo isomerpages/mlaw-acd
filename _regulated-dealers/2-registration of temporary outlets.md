@@ -31,6 +31,7 @@ As part of the application to become a registered dealer, the dealer must regist
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
 .tg .tg-pnl2{color:#000000;border-color:#000000;text-align:left;vertical-align:middle}
+.tg p {marign: 10%}
 </style>
 <table class="tg">
   <tr>
