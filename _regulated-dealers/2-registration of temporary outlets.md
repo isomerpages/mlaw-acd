@@ -13,7 +13,7 @@ As part of the application to become a registered dealer, the dealer must regist
 (a)	The dealer’s registered address, if the dealer is a business entity; or <br>
 (b)	The dealer’s residential address, if the dealer is an individual.
 
-<b>Temporary Outlets</b><br>
+<b>Temporary Outlets</b>
 
 1. Apart from the registered place(s) of business, some registered dealers may temporarily conduct the regulated activity at another location for a short period of time. Examples of such temporary outlets may include push cart operators, night market stall operators, booths at trade shows, or booths at shopping centre atriums.
 
