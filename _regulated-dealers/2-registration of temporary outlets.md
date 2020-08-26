@@ -13,7 +13,7 @@ As part of the application to become a registered dealer, the dealer must regist
 (a)	The dealer’s registered address, if the dealer is a business entity; or <br>
 (b)	The dealer’s residential address, if the dealer is an individual.
 
-<b>Temporary Outlets</b><br>
+<b>Temporary Outlets</b>
 1\.  Apart from the registered place(s) of business, some registered dealers may temporarily conduct the regulated activity at another location for a short period of time. Examples of such temporary outlets may include push cart operators, night market stall operators, booths at trade shows, or booths at shopping centre atriums.
 
 2\.  If the registered dealer intends to carry on or carries on the regulated activity at the location for a total of <u>more than 90 days within a calendar year (i.e. from 1 January to 31 December)</u>, the outlet is not considered a temporary outlet and the registered dealer is required to register this location as a place of business in addition to the dealer’s registered place(s) of business. This means that:
