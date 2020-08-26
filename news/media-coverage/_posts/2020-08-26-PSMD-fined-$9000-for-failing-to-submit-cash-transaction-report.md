@@ -11,4 +11,4 @@ In passing the judgement, the Deputy Public Prosecutor highlighted that the cash
  
 We remind regulated dealers that under the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019 (“**PSPM Act**”), all regulated dealers are required by law to submit a CTR within 15 business days for cash or cash equivalent transactions exceeding S$20,000 to the Suspicious Transaction Reporting Office (“**STRO**”). You may refer to the [transaction-based requirements](/transaction-based-requirements/) for more information on your obligation as a regulated dealer.
  
-Full details on the article are available in [English](https://www.todayonline.com/singapore/poh-heng-jewellery-fined-not-reporting-cash-transaction-later-linked-s399m-skillsfuture) and [Chinese](https://www.zaobao.com.sg/news/singapore/story20200812-1076199).
+Full details on the article are available in [English](https://www.todayonline.com/singapore/poh-heng-jewellery-fined-not-reporting-cash-transaction-later-linked-s399m-skillsfuture){:target="_blank"} and [Chinese](https://www.zaobao.com.sg/news/singapore/story20200812-1076199){:target="_blank"}.
