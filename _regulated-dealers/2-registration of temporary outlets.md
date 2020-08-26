@@ -38,7 +38,8 @@ As part of the application to become a registered dealer, the dealer must regist
 </span><br><br><span style="font-weight:400;font-style:normal">Dealer A has registered to act as or hold out to be a regulated dealer. The Registrar permits Dealer A to carry out the regulated activity at a maximum number of <b>1</b> place of business. Dealer A operates 1 outlet at 1 Gold Road. Dealer A’s registration is for a period of 3 years.
 </span><br><br><span style="font-weight:400;font-style:normal">Dealer A plans to conduct regulated activity at a stall at a shopping centre atrium for a total of 100 days a year at ABC Centre Atrium. Dealer A must notify the Registrar at least 14 days before <i>commencing to carry out any regulated activity</i> at ABC Centre Atrium (see <a href="https://acd.mlaw.gov.sg/other-regulatory-requirements/" target="_blank">instructions</a>). After notifying the Registrar, Dealer A must submit an amendment application via <a href="https://www.gobusiness.gov.sg/licences" target="_blank">GoBusiness Licensing Portal</a>, to increase the maximum number of places of business at which it is permitted to conduct regulated activity to 2 places of business. Dealer will need to pay registration fees upon approval of the 1 additional place of business for the remaining portion of the 3-year registration. 
 
-<br><style type="text/css">
+<br><br>
+<style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border-width:1px;border-style:solid;border-color:black;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
