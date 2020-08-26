@@ -26,7 +26,7 @@ As part of the application to become a registered dealer, the dealer must regist
 
 4\.  Please note that the Registrar retains the discretion in exceptional cases, to require the registration of a location (apart from the registered place(s) of business), the corresponding payment of registration fees for the location and notification to be given to the Registrar before the commencement or cessation of any regulated activity at that location, even though the registered dealer may intend to carry on or carries on the regulated activity at that location for a total of 90 days or less in the calendar year <u>(i.e. from 1 January to 31 December)</u>. The Registrar will notify the registered dealer in writing if that is the case. 
 
-<br><br>
+<br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border-width:1px;border-style:solid;border-color:black;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
