@@ -6,7 +6,7 @@ breadcrumb: Renewal
 collection_name: regulated-dealers
 ---
 
-<a href="#Renewal of Registration">Renewal of Registration</a> | <a href="#Renewal Application Process">Renewal Application Process </a> | <a href="#Information Needed">Information Needed</a> | <a href="#Fees and Period of Registration">Fees and Period of Registration </a> | <a href="#I Need Help with Renewal">I Need Help with Renewal </a>
+<a href="#Renewal of Registration">Renewal of Registration</a> | <a href="#Renewal Application Process">Renewal Application Process </a> | <a href="#Information Needed">Information Needed</a> | <a href="#Fees, Registering your Place(s) of Business and Period of Registration">Fees, Registering your Place(s) of Business and Period of Registration </a> | <a href="#I Need Help with Renewal">I Need Help with Renewal </a>
 
 #### <a id="Renewal of Registration"></a> Renewal of Registration
 
@@ -89,7 +89,7 @@ The Registrar of Regulated Dealers may impose additional conditions or waive exi
   </tr>
 </table>
 
-#### <a id="Fees and Period of Registration"></a> Fees, Registering your place(s) of business and Period of Registration
+#### <a id="Fees and Period of Registration"></a> Fees, Registering your Place(s) of Business and Period of Registration
 <b>Fees and registering your place(s) of business</b><br>
 Regulated dealers must pay an application fee of S$140 for each renewal application to register with the Registrar. All payment must be made through [GoBusiness Licensing Portal](https://www.gobusiness.gov.sg/licences){:target="_blank"} using the following e-payment methods: PayPal, VISA, MasterCard, American Express or Discover.<br><br>
 If the Registrar provides in-principle approval for your application, regulated dealers must pay a registration fee of S$300 per [place of business](https://acd.mlaw.gov.sg/registration-of-temporary-outlets/){:target="_blank"} per year calculated based on the number of outlets you operate and the period for which you register.
