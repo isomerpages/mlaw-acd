@@ -14,11 +14,7 @@ Accordingly, under regulation 7(1) of the PMLTF Regulations, regulated dealers *
 * The customer, or the person on whose behalf the customer is acting on, is from or in DPRK or Iran; or
 * The transaction relates to DPRK or Iran.
 
-<sup>1</sup>Countermeasures should be effective and proportionate to the risk of money laundering and terrorism financing presented by the country concerned. Examples of countermeasures include:
-
-  - Limiting business relationships or transactions with the identified country or persons in that country.
-  - Requiring increased supervisory examination and/or external audit requirements for branches and subsidiaries of entities based in the country concerned.
-  - Requiring increased external audit requirements for groups with respect to any of their branches and subsidiaries located in the country concerned.
+<table style="border-collapse:collapse;border-spacing:0;border:none" class="tg"><thead><tr><th style="border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">&lt;sup&gt;1&lt;/sup&gt;Countermeasures should be effective and proportionate to the risk of money laundering and terrorism financing presented by the country concerned. Examples of countermeasures include:<br><br>  - Limiting business relationships or transactions with the identified country or persons in that country.<br>  - Requiring increased supervisory examination and/or external audit requirements for branches and subsidiaries of entities based in the country concerned.<br>  - Requiring increased external audit requirements for groups with respect to any of their branches and subsidiaries located in the country concerned.<br></th></tr></thead></table>
 
 A summary of the issued FATF statement can be found below.
 <style type="text/css">
