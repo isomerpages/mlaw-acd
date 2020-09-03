@@ -6,7 +6,7 @@ breadcrumb: Registration
 collection_name: regulated-dealers
 ---
 
-<a href="#Registration">Registration </a> | <a href="#Who is Required to Register?">Who is Required to Register? </a> |<a href="#Registration Application Process">Registration Application Process </a> | <a href="#Information Needed">Information Needed</a> | <a href="#Fees and Period of Registration">Fees and Period of Registration </a> | <a href="#I Need Help with Registration">I Need Help with Registration </a>
+<a href="#Registration">Registration </a> | <a href="#Who is Required to Register?">Who is Required to Register? </a> |<a href="#Registration Application Process">Registration Application Process </a> | <a href="#Information Needed">Information Needed</a> | <a href="#Fees, Registering your Place(s) of Business and Period of Registration">Fees, Registering your Place(s) of Business and Period of Registration </a> | <a href="#I Need Help with Registration">I Need Help with Registration </a>
 
 #### <a id="Registration"></a> Registration
 
@@ -96,7 +96,7 @@ You may submit your application via the [GoBusiness Licensing Portal](https://ww
   </tr>
 </table>
 
-#### <a id="Fees and Period of Registration"></a> Fees, Registering your place(s) of business and Period of Registration
+#### <a id="Fees, Registering your Place(s) of Business and Period of Registration"></a> Fees, Registering your Place(s) of Business and Period of Registration
 <b>Fees and registering your place(s) of business</b><br>
 Regulated dealers must pay an application fee of S$140 for each application to register with the Registrar. All payment must be made through [GoBusiness Licensing Portal](https://www.gobusiness.gov.sg/licences){:target="_blank"} using the following e-payment methods: PayPal, VISA, MasterCard, American Express or Discover.<br><br>
 If the Registrar provides in-principle approval for your application, regulated dealers must pay a registration fee of S$300 per [place of business](https://acd.mlaw.gov.sg/registration-of-temporary-outlets/){:target="_blank"} per year calculated based on the number of outlets you operate and the period for which you register.
