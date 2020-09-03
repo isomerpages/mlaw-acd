@@ -11,7 +11,7 @@ Pursuant to regulation 7(2)(a)(ii) of the Precious Stones and Precious Metals (P
 * Counter-measures<sup>1</sup> against the Democratic People’s Republic of Korea (“**DPRK**”) and Iran.
 
 <table style="border-collapse:collapse;border-spacing:0;border:none" class="tg"><thead><tr><th style="border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
-    <sup>1</sup>Countermeasures should be effective and proportionate to the risk of money laundering and terrorism financing presented by the country concerned. Examples of countermeasures include:<br> 
+    <sup>1</sup>Counter-measures should be effective and proportionate to the risk of money laundering and terrorism financing presented by the country concerned. Examples of countermeasures include:<br> 
     - Limiting business relationships or transactions with the identified country or persons in that country.<br>  
     - Requiring increased supervisory examination and/or external audit requirements for branches and subsidiaries of entities based in the country concerned.<br>  
     - Requiring increased external audit requirements for groups with respect to any of their branches and subsidiaries located in the country concerned.<br></th></tr></thead></table>
