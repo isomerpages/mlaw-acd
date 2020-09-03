@@ -10,15 +10,15 @@ permalink: /news/notices-from-the-registrar/june-2020-fatf-statement
 Pursuant to regulation 7(2)(a)(ii) of the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations 2019 (“**PMLTF Regulations**”), the Registrar of Regulated Dealers hereby notifies all regulated dealers that the Financial Action Task Force (“**FATF**”) has issued a statement dated in June 2020, in which it has called for:
 * Counter-measures<sup>1</sup> against the Democratic People’s Republic of Korea (“**DPRK**”) and Iran.
 
-Accordingly, under regulation 7(1) of the PMLTF Regulations, regulated dealers **must perform enhanced customer due diligence measures** if:
-* The customer, or the person on whose behalf the customer is acting on, is from or in DPRK or Iran; or
-* The transaction relates to DPRK or Iran.
-
 <table style="border-collapse:collapse;border-spacing:0;border:none" class="tg"><thead><tr><th style="border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
     <sup>1</sup>Countermeasures should be effective and proportionate to the risk of money laundering and terrorism financing presented by the country concerned. Examples of countermeasures include:<br> 
     - Limiting business relationships or transactions with the identified country or persons in that country.<br>  
     - Requiring increased supervisory examination and/or external audit requirements for branches and subsidiaries of entities based in the country concerned.<br>  
     - Requiring increased external audit requirements for groups with respect to any of their branches and subsidiaries located in the country concerned.<br></th></tr></thead></table>
+    
+Accordingly, under regulation 7(1) of the PMLTF Regulations, regulated dealers **must perform enhanced customer due diligence measures** if:
+* The customer, or the person on whose behalf the customer is acting on, is from or in DPRK or Iran; or
+* The transaction relates to DPRK or Iran.
 
 A summary of the issued FATF statement can be found below.
 <style type="text/css">
