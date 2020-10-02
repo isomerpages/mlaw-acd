@@ -1,6 +1,8 @@
 ---
 layout: resources-alt
-title: Upcoming Events
+title: 'Upcoming Events'
 permalink: /news/upcoming-events/
-breadcrumb: Upcoming Events
+breadcrumb: 'Upcoming Events'
+
 ---
+
