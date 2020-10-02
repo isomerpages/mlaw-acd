@@ -1,15 +1,27 @@
 logo: /images/minlawlogo.png
 links:
-    - title: Regulation
-      collection: regulation
-    - title: 'Regulated Dealers'
-      resource_room: true
-    - title: Compliance
-      collection: compliance
-    - title: Customers
-      collection: customers
-    - title: News
-      resource_room: true
-    - title: 'About MinLaw'
-      external: true
-      collection: about-minlaw
+  - title: Regulation
+    collection: regulation
+  - title: 'Regulated Dealers'
+    collection: regulated-dealers
+  - title: Compliance
+    collection: compliance
+  - title: Customers
+    collection: customers
+  - title: News
+    resource_room: true
+  - title: About MinLaw
+    url: https://www.mlaw.gov.sg/about-us/ourvision-mission-corevalues/
+    sublinks:
+      - title: Our Vision, Mission and Core Values
+        url: https://www.mlaw.gov.sg/about-us/ourvision-mission-corevalues/
+      - title: Our Management
+        url: https://www.mlaw.gov.sg/about-us/our-management/
+      - title: Organisation Structure
+        url: https://www.mlaw.gov.sg/about-us/organisation-structure/
+      - title: What We Do
+        url: https://www.mlaw.gov.sg/about-us/what-we-do/
+      - title: FAQs
+        url: https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx
+      - title: Contact Us
+        url: https://www.mlaw.gov.sg/about-us/contact-us/
