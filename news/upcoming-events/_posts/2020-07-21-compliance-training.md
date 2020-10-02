@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Compliance Training For Registered Dealer
-date: 2020-07-21
+title: 'Compliance Training For Registered Dealer'
+date: 2020-07-21T00:00:00.000Z
 permalink: /news/upcoming-events/Compliance-Training/
+
 ---
+
 
 The Anti-Money Laundering/Countering the Financing of Terrorism Division ("**ACD**") of the Ministry of Law is planning to organize compliance training, focusing on transaction-based requirements, for the registered dealers in the Precious Stones and Precious Metals Dealers sector.
 
