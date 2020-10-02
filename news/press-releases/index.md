@@ -1,6 +1,8 @@
 ---
 layout: resources-alt
-title: Press Releases 
+title: 'Press Releases'
 permalink: /news/press-releases/
-breadcrumb: Press releases
+breadcrumb: 'Press releases'
+
 ---
+
