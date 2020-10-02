@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: E-Services
 permalink: /e-services/
 breadcrumb: E-Services
-collection_name: regulated-dealers
+
 ---
+
 
 #### E-Services for Regulated Dealers
 <br>
