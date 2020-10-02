@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Guidelines for Regulated Dealers
+title: 'Guidelines for Regulated Dealers'
 permalink: /guidelines/
-breadcrumb: Guidelines for Regulated Dealers
-collection_name: regulation
+breadcrumb: 'Guidelines for Regulated Dealers'
+
 ---
+
 
 #### [Guidelines for Regulated Dealers](/images/Guidelines%20for%20regulated%20dealers_20190828_V1.1Final.pdf){:target="_blank"}
 <a id="guidance"></a>
