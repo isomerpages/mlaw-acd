@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Press Releases
-date: 2019-09-17
+title: 'Press Releases'
+date: 2019-09-17T00:00:00.000Z
 permalink: /news/press-releases/Press-Releases
+
 ---
+
 
 #### [End of Transition Period for Existing Regulated Dealers under the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act](https://www.mlaw.gov.sg/news/press-releases/press-releases-end-of-transition-period-for-existing-regulated-dealers-under-the-precious-stones-and-precious-metals-prevention-of-money-laundering-and-terrorism-financing-act){:target="_blank"}
 17 Sep 2019
