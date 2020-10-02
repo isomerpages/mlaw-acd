@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Renewal
 permalink: /renewal/
 breadcrumb: Renewal
-collection_name: regulated-dealers
+
 ---
+
 
 <a href="#Renewal of Registration">Renewal of Registration</a> | <a href="#Renewal Application Process">Renewal Application Process </a> | <a href="#Information Needed">Information Needed</a> | <a href="#Fees, Registering your Place(s) of Business and Period of Registration">Fees, Registering your Place(s) of Business and Period of Registration </a> | <a href="#I Need Help with Renewal">I Need Help with Renewal </a>
 
