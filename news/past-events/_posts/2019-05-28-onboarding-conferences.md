@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Onboarding Conferences
-date: 2019-06-21
+title: 'Onboarding Conferences'
+date: 2019-06-21T00:00:00.000Z
 permalink: /news/past-events/Onboarding-Conferences/
+
 ---
+
 
 The Anti-Money Laundering/Countering the Financing of Terrorism Division (“**ACD**”) of the Ministry of Law held the onboarding conference for the regulated dealers in the precious stones and precious metals dealers ("**PSMD**") sector on 6 May, 22 May and 19 June 2019.
 
