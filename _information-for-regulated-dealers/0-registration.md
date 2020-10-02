@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Registration of Regulated Dealers
+title: 'Registration of Regulated Dealers'
 permalink: /registration/
-breadcrumb: Registration of Regulated Dealers
-collection_name: information-for-regulated-dealers
+breadcrumb: 'Registration of Regulated Dealers'
+
 ---
+
 <a href="#Who is required to register?">Who is required to register? </a> | <a href="#The registration process">The registration process </a> | <a href="#Information you need for registration">Information you need for registration </a> | <a href="#Fees and period of registration">Fees and period of registration </a> | <a href="#I need help with registering">I need help with registering </a>
 
 It is an <u>offence</u> if you act or hold out to be a regulated dealer without being registered or exempted. You must be registered before you commence any regulated dealing.
