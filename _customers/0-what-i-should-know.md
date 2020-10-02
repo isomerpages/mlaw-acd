@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: What I should know
+title: 'What I should know'
 permalink: /what-i-should-know/
-breadcrumb: What I should know
-collection_name: customers
+breadcrumb: 'What I should know'
+
 ---
+
 
 #### What is money laundering and terrorism financing?
 Money laundering ("**ML**") is the process of concealing the proceeds of a crime so that they appear to have originated from legitimate sources. Terrorism financing ("**TF**") is the funding of terrorism or terrorist groups, either via legitimate or illegitimate means.
