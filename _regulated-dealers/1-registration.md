@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Registration
 permalink: /registration/
 breadcrumb: Registration
-collection_name: regulated-dealers
+
 ---
+
 
 <a href="#Registration">Registration </a> | <a href="#Who is Required to Register?">Who is Required to Register? </a> |<a href="#Registration Application Process">Registration Application Process </a> | <a href="#Information Needed">Information Needed</a> | <a href="#Fees, Registering your Place(s) of Business and Period of Registration">Fees, Registering your Place(s) of Business and Period of Registration </a> | <a href="#I Need Help with Registration">I Need Help with Registration </a>
 
