@@ -2,6 +2,7 @@
 layout: homepage
 title: 'Ministry of Law - ACD'
 permalink: /
+notification: <a href="/list-of-registered-dealers/#-what-is-covered-under-the-regulations" target="_blank">Suspect an investment scheme involving PSPM is fraudulent? Click here!</a>
 sections:
     - hero:
           title: 'Regulatory Regime for Precious Stones and Precious Metals Dealers'
@@ -35,5 +36,3 @@ sections:
 ---
 
 
-<!-- Type your notification here - the notification bar will not appear if this is empty. For other changes, refer to _data/homepage.yml to edit the homepage -->
-[Suspect an investment scheme involving PSPM is fraudulent? Click here!](/list-of-registered-dealers/#-what-is-covered-under-the-regulations){:target="_blank"}
