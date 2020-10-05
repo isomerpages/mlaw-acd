@@ -28,8 +28,8 @@ sections:
                   url: /other-regulatory-requirements/
                   external: false
     - resources:
-          title: 'News for Regulated Dealers'
-          subtitle: 'Latest News'
+          title: 'Latest News'
+          subtitle: 'News for Regulated Dealers'
           button: 'More Information'
           url: /news/
 
