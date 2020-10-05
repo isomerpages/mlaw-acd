@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Call for Action in Accordance with February 2020 FATF Statement
-date: 2020-03-03
+title: 'Call for Action in Accordance with February 2020 FATF Statement'
+date: 2020-03-03T00:00:00.000Z
 permalink: /news/notices-from-the-registrar/february-2020-fatf-statement
+
 ---
+
 
 **ACTION BY REGULATED DEALERS AGAINST HIGH-RISK JURISDICTIONS**<br>
 

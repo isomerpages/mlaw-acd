@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Regulatory Compliance
+title: 'Regulatory Compliance'
 permalink: /reg-compliance/
-breadcrumb: Regulatory Compliance
-collection_name: information-for-regulated-dealers
+breadcrumb: 'Regulatory Compliance'
+
 ---
+
 <a href="#Overview of the regulatory regime">Overview of the regulatory regime </a> | <a href="#Who does the new regime cover?">Who does the new regime cover? </a>| <a href="#What are the AML/CFT supervisory expectations on regulated dealers?">What are the AML/CFT supervisory expectations on regulated dealers? </a>| <a href="#What do regulated dealers have to do?">What do regulated dealers have to do? </a>
 
 #### <a id="Overview of the regulatory regime"></a>Overview of the regulatory regime

@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Key Resources
+title: 'Key Resources'
 permalink: /key-resources/
-breadcrumb: Key Resources
-collection_name: information-for-regulated-dealers
+breadcrumb: 'Key Resources'
+
 ---
+
 
 #### Legal Requirements
 

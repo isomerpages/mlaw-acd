@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Registration of Temporary Outlets
+title: 'Registration of Temporary Outlets'
 permalink: /registration-of-temporary-outlets/
-breadcrumb: Registration of Temporary Outlets
-collection_name: regulated-dealers
+breadcrumb: 'Registration of Temporary Outlets'
+
 ---
+
 
 #### <a id="Registration of Temporary Outlets"></a> Registering your Place(s) of Business and Fee Calculation
 

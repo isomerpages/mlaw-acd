@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Duty to notify Registrar of change in particulars and circumstances
+title: 'Duty to notify Registrar of change in particulars and circumstances'
 permalink: /duty-to-notify-registrar-of-change-in-particulars-and-circumstances/
-breadcrumb: Duty to notify Registrar of Change in particulars and circumstances
-collection_name: information-for-regulated-dealers
+breadcrumb: 'Duty to notify Registrar of Change in particulars and circumstances'
+
 ---
+
 
 Pursuant to Regulation 21 of the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations, registered dealers have the duty to notify the Registrar of Regulated Dealers of change in particulars and circumstances.
 

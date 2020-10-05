@@ -1,6 +1,8 @@
 ---
 layout: resources-alt
-title: Ongoing Events
+title: 'Ongoing Events'
 permalink: /news/ongoing-events/
-breadcrumb: Ongoing Events
+breadcrumb: 'Ongoing Events'
+
 ---
+

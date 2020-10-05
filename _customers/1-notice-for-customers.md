@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Notice for Customers
+title: 'Notice for Customers'
 permalink: /notice-for-customers/
-breadcrumb: Notice for Customers
-collection_name: customers
+breadcrumb: 'Notice for Customers'
+
 ---
+
 
 #### **Notice for Customers**
 

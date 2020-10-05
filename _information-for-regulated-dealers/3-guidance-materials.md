@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Guidance Materials
+title: 'Guidance Materials'
 permalink: /guidance-materials/
-breadcrumb: Guidance Materials
-collection_name: information-for-regulated-dealers
+breadcrumb: 'Guidance Materials'
+
 ---
+
 
 
 
