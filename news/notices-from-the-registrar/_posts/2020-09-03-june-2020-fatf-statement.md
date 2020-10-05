@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Call for Action in Accordance with June 2020 FATF Statement
-date: 2020-09-03
+title: 'Call for Action in Accordance with June 2020 FATF Statement'
+date: 2020-09-03T00:00:00.000Z
 permalink: /news/notices-from-the-registrar/june-2020-fatf-statement
+
 ---
+
 
 **ACTION BY REGULATED DEALERS AGAINST HIGH-RISK JURISDICTIONS**<br>
 

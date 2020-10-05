@@ -1,6 +1,8 @@
 ---
 layout: resources-alt
-title: Parliamentary Speech
+title: 'Parliamentary Speech'
 permalink: /news/parliamentary-speech/
-breadcrumb: Parliamentary Speech
+breadcrumb: 'Parliamentary Speech'
+
 ---
+

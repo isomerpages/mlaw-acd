@@ -1,58 +1,47 @@
-title: Anti-Money Laundering / Countering the Financing of Terrorism Division
-title-abbreviated: MinLaw - ACD
-email: admin@isomer.gov.sg
-description: >- # this means to ignore newlines until "baseurl:"
-  ACD is a Division in the Ministry of Law in charge of supervising the precious stones and precious metals sector and mitigating Singapore's exposure to ML/TF risks.
-url: "https://acd.mlaw.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
-
-# Build settings
-markdown: kramdown
-remote_theme: isomerpages/isomerpages-template@staging
+title: 'Anti-Money Laundering / Countering the Financing of Terrorism Division'
+description: 'ACD is a Division in the Ministry of Law in charge of supervising the precious stones and precious metals sector and mitigating Singapore''s exposure to ML/TF risks.'
+url: 'https://acd.mlaw.gov.sg'
+remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
-
 plugins:
-  - jekyll-feed
-  - jekyll-assets
-  - jekyll-sitemap
-
-# Breadcrumbs
-breadcrumbs:
-  root:
-    hide: false  # show breadcrumbs on root/home page
-    image: false # Show image or title text
-
-# Resource Room and Pagination
+    - jekyll-feed
+    - jekyll-assets
+    - jekyll-paginate
+    - jekyll-sitemap
 paginate: 12
-
-# Homepage section
-homepage_hero_i_want_to: false
-homepage_resources: true
-
-# Feedback Form URL
-feedback_form_url: "https://eservices.mlaw.gov.sg/enquiry/"
-
-# FAQ URL
-faq_url: "https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx"
-faq_url_external: true
-
-# Custom CSS file path
-custom_css_path: "/misc/custom.css"
-custom_print_css_path: "/assets/css/print.css"
-
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
 facebook-pixel: 533742290627102
-
 google-tag-manager: GTM-K75DXG8
-
 collections:
-  regulation:
-    output: true
-  compliance:
-    output: true
-  customers:
-    output: true
-  regulated-dealers:
-    output: true
-    
+    regulation:
+        output: true
+    compliance:
+        output: true
+    customers:
+        output: true
+    regulated-dealers:
+        output: true
 resources_name: news
-
-exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
+exclude:
+    - travis-script.js
+    - .travis.yml
+    - README.md
+    - package.json
+    - package-lock.json
+    - node_modules
+    - vendor/bundle/
+    - vendor/cache/
+    - vendor/gems/
+    - vendor/ruby/
+    - Gemfile
+    - Gemfile.lock
+favicon: /images/mlawfavicon.ico
+google-analytics: UA-10405444-19
+permalink: none
+baseurl: ""
+defaults:
+    - scope:
+          path: ""
+      values:
+          layout: page

@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Other Regulatory Requirements
+title: 'Other Regulatory Requirements'
 permalink: /other-regulatory-requirements/
-breadcrumb: Other Regulatory Requirements
-collection_name: compliance
+breadcrumb: 'Other Regulatory Requirements'
+
 ---
+
 
 <a href="#Duty to Notify Registrar of Change in Particulars and Circumstances">Duty to Notify Registrar of Change in Particulars and Circumstances</a> | <a href="#Ongoing Monitoring of Transactions">Ongoing Monitoring of Transactions</a> | <a href="#Record Keeping">Record Keeping</a> |<a href="#Notices from the Registrar">Notices from the Registrar</a>
 

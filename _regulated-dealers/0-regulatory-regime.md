@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Regulatory Regime
+title: 'Regulatory Regime'
 permalink: /regulatory-regime/
-breadcrumb: Regulatory Regime
-collection_name: regulated-dealers
+breadcrumb: 'Regulatory Regime'
+
 ---
+
 
 <a href="#About the Regime">About the Regime </a>| <a href="#Exemptions">Exemptions </a> | <a href="#Regulatory Compliance for Foreign Dealers">Regulatory Compliance for Foreign Dealers </a> | <a href="#Our Role in AML/CFT">Our Role in AML/CFT </a>
 

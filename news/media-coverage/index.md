@@ -1,6 +1,8 @@
 ---
 layout: resources-alt
-title: Media Coverage
+title: 'Media Coverage'
 permalink: /news/media-coverage/
-breadcrumb: Media Coverage
+breadcrumb: 'Media Coverage'
+
 ---
+

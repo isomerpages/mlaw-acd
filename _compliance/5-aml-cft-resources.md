@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: AML/CFT Resources
+title: 'AML/CFT Resources'
 permalink: /aml-cft-resources/
-breadcrumb: AML/CFT Resources
-collection_name: compliance
+breadcrumb: 'AML/CFT Resources'
+
 ---
+
 
 #### 1. Monetary Authority of Singapore's ("**MAS**") website - Lists of Designated Individuals and Entities
 

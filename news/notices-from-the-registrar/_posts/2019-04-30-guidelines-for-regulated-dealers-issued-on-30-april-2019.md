@@ -1,9 +1,10 @@
 ---
-layout: post
-title: Guidelines for Regulated Dealers issued on 30 April 2019
-date: 2019-04-30
+title: 'Guidelines for Regulated Dealers issued on 30 April 2019'
+date: 2019-04-30T00:00:00.000Z
 permalink: /news/notices-from-the-registrar/guidelines-issued-on-30-april-2019
+
 ---
+
 
 The Guidelines for Regulated Dealers in the Precious Stones and Precious Metals Dealers Sector on Anti-Money Laundering/Countering the Financing of Terrorism ("**Guidelines**") were issued on 30 April 2019.
 

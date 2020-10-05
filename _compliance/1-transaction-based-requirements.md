@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Transaction-Based Requirements
+title: 'Transaction-Based Requirements'
 permalink: /transaction-based-requirements/
-breadcrumb: Transaction-Based Requirements
-collection_name: compliance
+breadcrumb: 'Transaction-Based Requirements'
+
 ---
+
 
 <a href="#Customer Due Diligence">Customer Due Diligence</a> | <a href="#Enhanced Customer Due Diligence">Enhanced Customer Due Diligence </a> | <a href="#Cash Transaction Report">Cash Transaction Report </a> | <a href="#Suspicious Transaction Report">Suspicious Transaction Report </a>
 

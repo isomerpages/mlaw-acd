@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Entity-Based Requirements
+title: 'Entity-Based Requirements'
 permalink: /entity-based-requirements/
-breadcrumb: Entity-Based Requirements
-collection_name: compliance
+breadcrumb: 'Entity-Based Requirements'
+
 ---
+
 
 ####  Risk Assessment and Internal Policies, Procedures and Controls
 
