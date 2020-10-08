@@ -4,14 +4,18 @@ permalink: /aml-cft-resources/
 breadcrumb: 'AML/CFT Resources'
 
 ---
+#### 1. Financial Support for Anti-Money Laundering/Countering the Financing of Terrorism (AML/CFT) Screening Solutions
 
+ACD and Enterprise Singapore (ESG) worked on financial support for regulated dealers on the purchase of pre-scoped AML/CFT screening solutions via the Productivity Solutions Grant (PSG).
+<a href="/images/Financial%20Support%20for%20AMLCFT%20Screening%20Solutions_20201008.pdf" target="_blank"><img src="/images/Financial%20Support%20for%20AMLCFT%20Screening%20Solutions_20201008.jpg"></a>
+For assistance, please contact ESG at +65 6898 1800, or email at enquiry@enterprisesg.gov.sg. 
 
-#### 1. Monetary Authority of Singapore's ("**MAS**") website - Lists of Designated Individuals and Entities
+#### 2. Monetary Authority of Singapore's ("**MAS**") website - Lists of Designated Individuals and Entities
 
 MAS publishes [lists](https://www.mas.gov.sg/regulation/anti-money-laundering/targeted-financial-sanctions/lists-of-designated-individuals-and-entities){:target="_blank"} of individuals and entities designated under the United Nations Act ("**UN Act**") and the Terrorism (Suppression of Financing) Act ("**TSOFA**"). Regulated dealers should [subscribe](https://www.mas.gov.sg/subscription-services){:target="_blank"} to the MAS mailing list to receive updated lists of designated individuals and entities. Regulated dealers are required to screen their customers against the lists before engaging in any business or commercial activity with them.<br><br>
 You may refer to the [MAS Website Subscriber Services Guide](/images/MAS%20Website%20Subscriber%20Services%20Guide_20191105_V1Final.pdf){:target="_blank"} for a step-by-step guide to the subscription process.<br>
 
-#### 2. Inter-Ministry Committee on Terrorist Designation ("**IMC-TD**")
+#### 3. Inter-Ministry Committee on Terrorist Designation ("**IMC-TD**")
 
 The IMC-TD acts as Singapore's authority relating to the designation of terrorists. This prohibits any person/ entity from dealing with or providing any financial assistance to designated subjects, as required under the TSOFA.
 
@@ -19,7 +23,7 @@ On MHA’s website on [IMC-TD](https://www.mha.gov.sg/inter-ministry-committee-t
 
 To find out more about your obligations as a regulated dealer on countering terrorism financing, please click [here](/images/Measures%20relating%20to%20prevention%20of%20terrorism%20financing.pdf){:target="_blank"}.
 
-#### 3. AML/CFT Resources
+#### 4. AML/CFT Resources
 
 * [Financial Action Task Force Guidance on the Risk-Based Approach for Dealers in Precious Metals and Stones](https://www.fatf-gafi.org/documents/documents/fatfguidanceontherisk-basedapproachfordealersinpreciousmetalsandstones.html){:target="_blank"}
 
