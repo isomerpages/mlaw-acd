@@ -2,7 +2,7 @@
 layout: homepage
 title: 'Ministry of Law - ACD'
 permalink: /
-notification: [Looking for financial support to purchase AML/CFT screening solutions? Click here!]
+notification: <a href="/list-of-registered-dealers/#-what-is-covered-under-the-regulations" target="_blank">Suspect an investment scheme involving PSPM is fraudulent? Click here!</a>
 sections:
     - hero:
           title: 'Regulatory Regime for Precious Stones and Precious Metals Dealers'
