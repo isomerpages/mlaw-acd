@@ -2,7 +2,7 @@
 layout: homepage
 title: 'Ministry of Law - ACD'
 permalink: /
-notification: [Looking for financial support to purchase AML/CFT screening solutions? Click here!](/aml-cft-resources/){:target="_blank"}
+notification: [Looking for financial support to purchase AML/CFT screening solutions? Click here!]
 sections:
     - hero:
           title: 'Regulatory Regime for Precious Stones and Precious Metals Dealers'
