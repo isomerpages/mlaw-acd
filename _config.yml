@@ -37,7 +37,7 @@ exclude:
     - Gemfile
     - Gemfile.lock
 favicon: /images/mlawfavicon.ico
-google-analytics: UA-10405444-19
+google-analytics: UA-10405444-19 
 permalink: none
 baseurl: ""
 defaults:
