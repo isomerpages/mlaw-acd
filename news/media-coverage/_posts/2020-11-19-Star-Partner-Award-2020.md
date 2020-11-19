@@ -15,4 +15,4 @@ Through the close partnership established with SJA, MinLaw also had a better und
 
 Read and find out more about SJA’s achievement [here](https://www.hydse.com.sg/ebooklet/PSTAC_2020/PSTAC_eBooklet.html){:target="_blank"}.
 
-<img src="/images/SJA%20Star%20Partner%20Award_20201119.png">z
+<img src="/images/SJA%20Star%20Partner%20Award_20201119.png">
