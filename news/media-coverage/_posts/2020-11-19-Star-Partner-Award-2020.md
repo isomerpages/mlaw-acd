@@ -13,6 +13,6 @@ This Award is an acknowledgement of SJA’s key partnership with the Ministry of
 
 Through the close partnership established with SJA, MinLaw also had a better understanding of the concerns faced by the regulated dealers in the sector and was able to correspondingly assist by availing more resources that are useful to the regulated dealers in complying with the PSPM Act. This led to a series of end-products such as collaterals and guidance materials that are suitable for the whole sector.
 
-Read and find out more about SJA’s achievement [here](https://hydse.com.sg/ebooklet/PSTAR_2020/PSTAC_eBooklet.html){:target="_blank"}.
+Read and find out more about SJA’s achievement [here](https://www.hydse.com.sg/ebooklet/PSTAC_2020/PSTAC_eBooklet.html){:target="_blank"}.
 
 <img src="/images/SJA%20Star%20Partner%20Award_20201119.png">z
