@@ -1,7 +1,7 @@
 ---
 title: 'Star Partner Award 2020'
 date: 2020-11-19T00:00:00.000Z
-permalink: /news/media-coverage/PSMD-fined-$9000-for-failing-to-submit-cash-transaction-report/
+permalink: /news/media-coverage/star-partner-award-2020/
 
 ---
 
