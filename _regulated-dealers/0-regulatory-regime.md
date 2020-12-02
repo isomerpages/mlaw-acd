@@ -76,6 +76,8 @@ A foreign dealer carrying on a business of regulated dealing, or business as an 
 Any person who acts or holds out to be a regulated dealer without being registered or exempted, may face criminal penalties of up to S$75,000 in fine and/or up to 3 years' imprisonment.<br><br>
 Learn more about [regime](/regulatory-regime/), [registration](/registration/) and [transaction-based requirements](/transaction-based-requirements/).
 
+**Must-Know for Foreign Dealers:** Watch the [video](https://youtu.be/KRS30HOmjyk){:target="_blank"} to find out more about the regulatory requirements for foreign dealers.
+
 #### <a id="Our Role in AML/CFT"></a> Our Role in AML/CFT 
 
 Singapore is a member of the Financial Action Task Force ("**FATF**"), an inter-governmental body that sets international standards aimed to prevent money laundering and terrorism financing ("**ML/TF**"), and the harm these illegal activities cause to society. There are currently more than 200 countries and jurisdictions committed to implementing anti-money laundering/countering the financing of terrorism ("**AML/CFT**") measures in accordance to the recommendations set by the FATF.
