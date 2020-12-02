@@ -12,6 +12,6 @@ Regulated dealers are required to perform an assessment of the money laundering 
 
 [Annex A](/images/Annex%20A%20AMLCFT%20Flowchart%20for%20Regulated%20Dealers.pdf){:target="_blank"} of the [Guidelines for Regulated Dealers](/images/Guidelines%20for%20regulated%20dealers_20190828_V1.1Final.pdf){:target="_blank"} sets out the guidance on the entity-based requirements and should be read in conjunction with the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019 and Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations 2019.
 
-**Entity-Based Requirements for Precious Stones and Precious Metals Dealers (“PSMD”):** Watch the videos to find out how the regulatory regime helps the PSMD sector and begin your journey as a regulated dealer.
+**Entity-Based Requirements for Precious Stones and Precious Metals Dealers (“PSMD”):** Watch the videos to find out how the regulatory regime safeguards the PSMD sector and begin your journey as a regulated dealer.
 * [English](https://youtu.be/l6R8ovdrn4g){:target="_blank"}
 * [Mandarin](https://youtu.be/mFkp6e6eAEY){:target="_blank"}
