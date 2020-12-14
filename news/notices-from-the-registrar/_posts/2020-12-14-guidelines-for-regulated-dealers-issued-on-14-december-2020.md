@@ -21,7 +21,7 @@ Pursuant to section 35(1) of the Precious Stones and Precious Metals (Prevention
 The main amendments to the Guidelines include:
 * Technical updates to reflect the amendments to the Regulations;
 * Guidance on the importance of oversight by directors and senior management in preventing money laundering and terrorism financing;
-* Guidance on customer due diligence (“CDD”), screening, ECDD and ongoing monitoring requirements;
+* Guidance on customer due diligence (“**CDD**”), screening, ECDD and ongoing monitoring requirements;
 * Guidance on reporting requirements; and
 * **Changes to Annexes**:
   * New infographic: **Guide on When to Perform CDD and ECDD Measures**;
@@ -32,5 +32,3 @@ The main amendments to the Guidelines include:
 **FOR REGULATED DEALERS TO TAKE ACTION**:
 - Regulated dealers should read the revised Guidelines to better understand what is expected of them.
 - Regulated dealers who reference their risk assessments, IPPCs and CDD forms to Ministry of Law’s samples are strongly encouraged to update the relevant documents, where necessary.
-
-You may refer to the [updated Guidelines](/images/Guidelines for regulated dealers_20190828_V1.1Final.pdf){:target="_blank"} under [Regulation](/guidelines/).
