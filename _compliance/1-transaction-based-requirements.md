@@ -15,8 +15,6 @@ The transaction-based requirements that apply to regulated dealers include, but 
 * File Suspicious Transaction Report ("**STR**") with [STRO](https://www.police.gov.sg/advisories/crime/commercial-crimes/suspicious-transaction-reporting-office){:target="_blank"} where there is suspicion of ML/TF. Apply for a [SONAR account](https://www.police.gov.sg/sonar){:target="_blank"} to e-file your STR. By e-filing via SONAR, a copy of the STR would be extended to ACD.<br>
 * Subscribe to the [Monetary Authority of Singapore ("**MAS**")](https://www.mas.gov.sg/subscription-services){:target="_blank"} and [Ministry of Home Affairs ("**MHA**")](https://www.mha.gov.sg/inter-ministry-committee-terrorist-designation-(imc-td)){:target="_blank"} websites for the lists of designated individuals and entities and terrorist designation. You will be alerted via email whenever there is an update to the lists.
 
-[Annex A](/images/Annex%20A%20AMLCFT%20Flowchart%20for%20Regulated%20Dealers.pdf){:target="_blank"} of the [Guidelines for Regulated Dealers](/images/Guidelines%20for%20regulated%20dealers_20190828_V1.1Final.pdf){:target="_blank"} sets out the guidance on the transaction-based requirements and should be read in conjunction with the PSPM Act and Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations 2019 ("**PMLTF Regulations**").
-
 **Transaction-Based Requirements for Precious Stones and Precious Metals Dealers (“PSMD”):** Watch the videos to find out more about the transaction-based requirements.
 * [English](https://youtu.be/g6HGL8SHrQY){:target="_blank"}
 * [Mandarin](https://youtu.be/CpUUhEWT59Q){:target="_blank"}
@@ -27,13 +25,13 @@ The transaction-based requirements that apply to regulated dealers include, but 
 
 CDD is the process of obtaining your customers' identifying information, recording the information and verifying who they are before transacting with them. The objective is to help you determine the money laundering/terrorism financing ("**ML/TF**") risks and take appropriate mitigating measures to address them.
 
-In the event where you are unable to perform or complete the required CDD, you must not proceed with the transaction. You should terminate any transaction entered into with the customer and consider whether to file a STR. If you suspect that the customer is in the listings for terrorist designation and designated individuals and entities, you must stop the transaction and report to the police. Please refer to the [Guidelines](/images/Guidelines%20for%20regulated%20dealers_20190828_V1.1Final.pdf){:target="_blank"} for more information.
+In the event where you are unable to perform or complete the required CDD, you must not proceed with the transaction. You should terminate any transaction entered into with the customer and consider whether to file a STR. If you suspect that the customer is in the listings for terrorist designation and designated individuals and entities, you must stop the transaction and report to the police. Please refer to the [Guidelines](/images/Guidelines%20for%20regulated%20dealers_20201214_V2.0Final.pdf){:target="_blank"} for more information.
 
 #### <a id="Enhanced Customer Due Diligence"></a> Enhanced Customer Due Diligence
 
 Where the ML/TF risks are identified to be higher, regulated dealers are expected to take ECDD measures to mitigate and manage those risks.
 
-Please refer to the [Guidelines](/images/Guidelines%20for%20regulated%20dealers_20190828_V1.1Final.pdf){:target="_blank"} for more information.
+Please refer to the [Guidelines](/images/Guidelines%20for%20regulated%20dealers_20201214_V2.0Final.pdf){:target="_blank"} for more information.
 
 #### <a id="Cash Transaction Report"></a> Cash Transaction Report
 
