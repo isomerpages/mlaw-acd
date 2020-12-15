@@ -2,7 +2,7 @@
 layout: homepage
 title: 'Ministry of Law - ACD'
 permalink: /
-notification: <a href="/aml-cft-resources/" target="_blank">Download now! Revised Guidelines for Regulated Dealers (Version 2.0)</a>
+notification: <a href="/aml-cft-resources/" target="_blank">Looking for financial support to purchase AML/CFT screening solutions? Click here!</a>
 sections:
     - hero:
           title: 'Regulatory Regime for Precious Stones and Precious Metals Dealers'
