@@ -2,7 +2,7 @@
 layout: homepage
 title: 'Ministry of Law - ACD'
 permalink: /
-notification: <a href="/aml-cft-resources/" target="_blank">Looking for financial support to purchase AML/CFT screening solutions? Click here!</a>
+notification: <a href="/news/notices-from-the-registrar/amendments-to-subsidiary-legislation-under-pspm-act-and-guidelines-for-regulated-dealers-14-dec-2020" target="_blank">Download now! Revised Guidelines for Regulated Dealers (Version 2.0)</a>
 sections:
     - hero:
           title: 'Regulatory Regime for Precious Stones and Precious Metals Dealers'
