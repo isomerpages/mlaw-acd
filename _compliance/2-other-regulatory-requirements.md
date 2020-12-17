@@ -12,7 +12,7 @@ breadcrumb: 'Other Regulatory Requirements'
 
 Pursuant to Regulation 21 of the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations 2019 ("**PMLTF Regulations**"), registered dealers have the duty to notify the Registrar of Regulated Dealers of change in particulars and circumstances.
 
-<a href="/images/Duty to Notify Registrar of Change in Particulars and Circumstances table_20200605.pdf"><img src="/images/Duty to Notify Registrar of Change in Particulars and Circumstances table_20200605.png"></a>
+<a href="/images/Duty to Notify Registrar of Changes table_Final v2_20201217.pdf"><img src="/images/Duty to Notify Registrar of Changes table_Final v2_20201217.png"></a>
 
 #### <a id="Ongoing Monitoring of Transactions"></a> Ongoing Monitoring of Transactions
 
