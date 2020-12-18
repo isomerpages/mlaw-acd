@@ -42,3 +42,9 @@ To find out more about your obligations as a regulated dealer on countering terr
 * [Financial Action Task Force – COVID-19-related Money Laundering and Terrorist Financing Risks and Policy Responses](https://www.fatf-gafi.org/media/fatf/documents/COVID-19-AML-CFT.pdf){:target="_blank"}
 
 * [Singapore National Risk Assessment Report 2013](/images/Singapore%20NRA%20Report%202013_24032015.pdf){:target="_blank"}
+
+* [Trade-Based Money Laundering - Private Sector](http://www.fatf-gafi.org/media/fatf/documents/Handout-Trade-Based-Money-Laundering-Private-Sector.pdf){:target="_blank"}
+
+* [Trade-Based Money Laundering - Public Sector](http://www.fatf-gafi.org/media/fatf/documents/Handout-Trade-Based-Money-Laundering-Public-Sector.pdf){:target="_blank"}
+
+* [Trade-Based Money Laundering - Trends and Developments](http://www.fatf-gafi.org/media/fatf/content/Trade-Based-Money-Laundering-Trends-and-Developments.pdf){:target="_blank"}
