@@ -45,6 +45,4 @@ To find out more about your obligations as a regulated dealer on countering terr
 
 * [Trade-Based Money Laundering - Private Sector](http://www.fatf-gafi.org/media/fatf/documents/Handout-Trade-Based-Money-Laundering-Private-Sector.pdf){:target="_blank"}
 
-* [Trade-Based Money Laundering - Public Sector](http://www.fatf-gafi.org/media/fatf/documents/Handout-Trade-Based-Money-Laundering-Public-Sector.pdf){:target="_blank"}
-
 * [Trade-Based Money Laundering - Trends and Developments](http://www.fatf-gafi.org/media/fatf/content/Trade-Based-Money-Laundering-Trends-and-Developments.pdf){:target="_blank"}
