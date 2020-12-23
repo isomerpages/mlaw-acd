@@ -24,7 +24,7 @@ On MHA’s website on [IMC-TD](https://www.mha.gov.sg/inter-ministry-committee-t
 To find out more about your obligations as a regulated dealer on countering terrorism financing, please click [here](/images/Measures%20relating%20to%20prevention%20of%20terrorism%20financing.pdf){:target="_blank"}.
 
 #### 4. AML/CFT Resources
-<br>
+
 <style>
 table th:first-of-type {
     width: 54%;
