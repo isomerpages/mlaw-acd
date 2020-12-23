@@ -27,7 +27,7 @@ To find out more about your obligations as a regulated dealer on countering terr
 
 <style>
 table th:first-of-type {
-    width: 54%;
+    width: 80%;
 }
 table th:nth-of-type(2) {
     width: 36%;
