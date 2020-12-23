@@ -42,15 +42,15 @@ width: 30%;
 
 | Document | Uploaded |
 | --- | --- |
-| [Financial Action Task Force Guidance on the Risk-Based Approach for Dealers in Precious Metals and Stones](https://www.fatf-gafi.org/documents/documents/fatfguidanceontherisk-basedapproachfordealersinpreciousmetalsandstones.html){:target="_blank"} | xxxx |
-| [Financial Action Task Force - 40 Recommendations](http://www.fatf-gafi.org/publications/fatfrecommendations/documents/fatf-recommendations.html){:target="_blank"} | xxxx |
-| [Financial Action Task Force – High-risk and other monitored jurisdictions](https://www.fatf-gafi.org/countries/#high-risk){:target="_blank"} | xxxx |
-| [Financial Action Task Force Methodology for assessing compliance with the FATF Recommendations and the effectiveness of AML/CFT](http://www.fatf-gafi.org/publications/mutualevaluations/documents/fatf-methodology.html){:target="_blank"} | xxxx |
-| [Financial Action Task Force - COVID-19 and measures to combat illicit financing](https://www.fatf-gafi.org/publications/fatfgeneral/documents/statement-covid-19.html){:target="_blank"} | xxxx |
-| [Financial Action Task Force – Money Laundering/Terrorist Financing risks associated with gold](https://www.fatf-gafi.org/media/fatf/documents/reports/ML-TF-risks-vulnerabilities-associated-with-gold.pdf){:target="_blank"} | xxxx |
-| [Financial Action Task Force – Money Laundering/Terrorist Financing through trade in diamonds](https://www.fatf-gafi.org/media/fatf/documents/reports/ML-TF-through-trade-in-diamonds.pdf){:target="_blank"} | xxxx |
-| [Financial Action Task Force – COVID-19-related Money Laundering and Terrorist Financing Risks and Policy Responses](https://www.fatf-gafi.org/media/fatf/documents/COVID-19-AML-CFT.pdf){:target="_blank"} | xxxx |
-| [Singapore National Risk Assessment Report 2013](/images/Singapore%20NRA%20Report%202013_24032015.pdf){:target="_blank"} | xxxx |
+| [Financial Action Task Force Guidance on the Risk-Based Approach for Dealers in Precious Metals and Stones](https://www.fatf-gafi.org/documents/documents/fatfguidanceontherisk-basedapproachfordealersinpreciousmetalsandstones.html){:target="_blank"} | Apr 2020 |
+| [Financial Action Task Force - 40 Recommendations](http://www.fatf-gafi.org/publications/fatfrecommendations/documents/fatf-recommendations.html){:target="_blank"} | Apr 2020 |
+| [Financial Action Task Force – High-risk and other monitored jurisdictions](https://www.fatf-gafi.org/countries/#high-risk){:target="_blank"} | Apr 2020 |
+| [Financial Action Task Force Methodology for assessing compliance with the FATF Recommendations and the effectiveness of AML/CFT](http://www.fatf-gafi.org/publications/mutualevaluations/documents/fatf-methodology.html){:target="_blank"} | Apr 2020 |
+| [Financial Action Task Force - COVID-19 and measures to combat illicit financing](https://www.fatf-gafi.org/publications/fatfgeneral/documents/statement-covid-19.html){:target="_blank"} | Apr 2020 |
+| [Financial Action Task Force – Money Laundering/Terrorist Financing risks associated with gold](https://www.fatf-gafi.org/media/fatf/documents/reports/ML-TF-risks-vulnerabilities-associated-with-gold.pdf){:target="_blank"} | Apr 2020 |
+| [Financial Action Task Force – Money Laundering/Terrorist Financing through trade in diamonds](https://www.fatf-gafi.org/media/fatf/documents/reports/ML-TF-through-trade-in-diamonds.pdf){:target="_blank"} | Apr 2020 |
+| [Financial Action Task Force – COVID-19-related Money Laundering and Terrorist Financing Risks and Policy Responses](https://www.fatf-gafi.org/media/fatf/documents/COVID-19-AML-CFT.pdf){:target="_blank"} | Apr 2020 |
+| [Singapore National Risk Assessment Report 2013](/images/Singapore%20NRA%20Report%202013_24032015.pdf){:target="_blank"} | Apr 2020 |
 | [Trade-Based Money Laundering - Private Sector](http://www.fatf-gafi.org/media/fatf/documents/Handout-Trade-Based-Money-Laundering-Private-Sector.pdf){:target="_blank"} | Dec 2020 |
 | [Trade-Based Money Laundering - Trends and Developments](http://www.fatf-gafi.org/media/fatf/content/Trade-Based-Money-Laundering-Trends-and-Developments.pdf){:target="_blank"} | Dec 2020 |
 
