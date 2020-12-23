@@ -24,6 +24,44 @@ On MHA’s website on [IMC-TD](https://www.mha.gov.sg/inter-ministry-committee-t
 To find out more about your obligations as a regulated dealer on countering terrorism financing, please click [here](/images/Measures%20relating%20to%20prevention%20of%20terrorism%20financing.pdf){:target="_blank"}.
 
 #### 4. AML/CFT Resources
+<br>
+
+<style>
+table th:first-of-type {
+    width: 4%;
+}
+table th:nth-of-type(2) {
+    width: 36%;
+}
+table th:nth-of-type(3) {
+    width: 30%;
+}
+table th:nth-of-type(3) {
+width: 30%;
+}
+</style>
+
+| Document Title | Uploaded | Document |
+| --- | --- | --- |
+| Financial Action Task Force Guidance on the Risk-Based Approach for Dealers in Precious Metals and Stones | xxxx | [Financial Action Task Force Guidance on the Risk-Based Approach for Dealers in Precious Metals and Stones](https://www.fatf-gafi.org/documents/documents/fatfguidanceontherisk-basedapproachfordealersinpreciousmetalsandstones.html){:target="_blank"} |
+|Submit a change in your company details | <a href="https://www.bizfile.gov.sg">ACRA<sup>1</sup></a>{:target="_blank"}  | [Duty to Notify Registrar of Change in Particulars and Circumstances](/other-regulatory-requirements/){:target="_blank"} |
+| Submit a Cash Transaction Report ("**CTR**") or Suspicious Transaction Report ("**STR"**) | <a href="https://www.police.gov.sg/sonar">SONAR<sup>2</sup></a>{:target="_blank"}  | [Transaction-Based Requirements](/transaction-based-requirements/){:target="_blank"} |
+
+<br>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-xldj{border-color:inherit;text-align:left}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-xldj"><span style="font-style:inherit"><sup>1</sup> Accounting and Corporate Regulatory Authority</span><br>
+<span style="font-style:inherit"><sup>2</sup> STRO Online Notices and Reporting platform</span></th>
+  </tr>
+</table>
+
+
 
 * [Financial Action Task Force Guidance on the Risk-Based Approach for Dealers in Precious Metals and Stones](https://www.fatf-gafi.org/documents/documents/fatfguidanceontherisk-basedapproachfordealersinpreciousmetalsandstones.html){:target="_blank"}
 
