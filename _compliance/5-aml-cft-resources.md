@@ -41,9 +41,9 @@ width: 30%;
 }
 </style>
 
-| Document Title | Uploaded | Document |
-| --- | --- | --- |
-| Financial Action Task Force Guidance on the Risk-Based Approach for Dealers in Precious Metals and Stones | xxxx | [Financial Action Task Force Guidance on the Risk-Based Approach for Dealers in Precious Metals and Stones](https://www.fatf-gafi.org/documents/documents/fatfguidanceontherisk-basedapproachfordealersinpreciousmetalsandstones.html){:target="_blank"} |
+| Document | Uploaded |
+| --- | --- |
+| [Financial Action Task Force Guidance on the Risk-Based Approach for Dealers in Precious Metals and Stones](https://www.fatf-gafi.org/documents/documents/fatfguidanceontherisk-basedapproachfordealersinpreciousmetalsandstones.html){:target="_blank"} | xxxx |
 | Financial Action Task Force – Money Laundering/Terrorist Financing risks associated with gold | xxxx  | [Financial Action Task Force – Money Laundering/Terrorist Financing risks associated with gold](https://www.fatf-gafi.org/media/fatf/documents/reports/ML-TF-risks-vulnerabilities-associated-with-gold.pdf){:target="_blank"} |
 | Submit a Cash Transaction Report ("**CTR**") or Suspicious Transaction Report ("**STR"**) | <a href="https://www.police.gov.sg/sonar">SONAR<sup>2</sup></a>{:target="_blank"}  | [Transaction-Based Requirements](/transaction-based-requirements/){:target="_blank"} |
 
