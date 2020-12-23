@@ -25,10 +25,9 @@ To find out more about your obligations as a regulated dealer on countering terr
 
 #### 4. AML/CFT Resources
 <br>
-
 <style>
 table th:first-of-type {
-    width: 4%;
+    width: 54%;
 }
 table th:nth-of-type(2) {
     width: 36%;
