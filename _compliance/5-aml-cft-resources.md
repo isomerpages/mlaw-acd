@@ -44,7 +44,7 @@ width: 30%;
 | Document Title | Uploaded | Document |
 | --- | --- | --- |
 | Financial Action Task Force Guidance on the Risk-Based Approach for Dealers in Precious Metals and Stones | xxxx | [Financial Action Task Force Guidance on the Risk-Based Approach for Dealers in Precious Metals and Stones](https://www.fatf-gafi.org/documents/documents/fatfguidanceontherisk-basedapproachfordealersinpreciousmetalsandstones.html){:target="_blank"} |
-|Submit a change in your company details | <a href="https://www.bizfile.gov.sg">ACRA<sup>1</sup></a>{:target="_blank"}  | [Duty to Notify Registrar of Change in Particulars and Circumstances](/other-regulatory-requirements/){:target="_blank"} |
+| Financial Action Task Force – Money Laundering/Terrorist Financing risks associated with gold | xxxx  | [Financial Action Task Force – Money Laundering/Terrorist Financing risks associated with gold](https://www.fatf-gafi.org/media/fatf/documents/reports/ML-TF-risks-vulnerabilities-associated-with-gold.pdf){:target="_blank"} |
 | Submit a Cash Transaction Report ("**CTR**") or Suspicious Transaction Report ("**STR"**) | <a href="https://www.police.gov.sg/sonar">SONAR<sup>2</sup></a>{:target="_blank"}  | [Transaction-Based Requirements](/transaction-based-requirements/){:target="_blank"} |
 
 <br>
@@ -56,11 +56,7 @@ width: 30%;
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-xldj"><span style="font-style:inherit"><sup>1</sup> Accounting and Corporate Regulatory Authority</span><br>
-<span style="font-style:inherit"><sup>2</sup> STRO Online Notices and Reporting platform</span></th>
-  </tr>
 </table>
-
 
 
 * [Financial Action Task Force Guidance on the Risk-Based Approach for Dealers in Precious Metals and Stones](https://www.fatf-gafi.org/documents/documents/fatfguidanceontherisk-basedapproachfordealersinpreciousmetalsandstones.html){:target="_blank"}
