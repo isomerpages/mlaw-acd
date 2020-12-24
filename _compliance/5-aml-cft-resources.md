@@ -25,20 +25,43 @@ To find out more about your obligations as a regulated dealer on countering terr
 
 #### 4. AML/CFT Resources
 
-* [Financial Action Task Force Guidance on the Risk-Based Approach for Dealers in Precious Metals and Stones](https://www.fatf-gafi.org/documents/documents/fatfguidanceontherisk-basedapproachfordealersinpreciousmetalsandstones.html){:target="_blank"}
+<style>
+table th:first-of-type {
+    width: 85%;
+}
+table th:nth-of-type(2) {
+    width: 36%;
+}
+table th:nth-of-type(3) {
+    width: 30%;
+}
+table th:nth-of-type(3) {
+width: 30%;
+}
+</style>
 
-* [Financial Action Task Force - 40 Recommendations](http://www.fatf-gafi.org/publications/fatfrecommendations/documents/fatf-recommendations.html){:target="_blank"}
+| Document | Uploaded |
+| --- | --- |
+| [Guidance on the Risk-Based Approach for Dealers in Precious Metals and Stones (FATF)](https://www.fatf-gafi.org/documents/documents/fatfguidanceontherisk-basedapproachfordealersinpreciousmetalsandstones.html){:target="_blank"} | Apr 2020 |
+| [40 Recommendations (FATF)](http://www.fatf-gafi.org/publications/fatfrecommendations/documents/fatf-recommendations.html){:target="_blank"} | Apr 2020 |
+| [High-risk and other monitored jurisdictions (FATF)](https://www.fatf-gafi.org/countries/#high-risk){:target="_blank"} | Apr 2020 |
+| [Methodology for assessing compliance with the FATF Recommendations and the effectiveness of AML/CFT (FATF)](http://www.fatf-gafi.org/publications/mutualevaluations/documents/fatf-methodology.html){:target="_blank"} | Apr 2020 |
+| [COVID-19 and measures to combat illicit financing (FATF)](https://www.fatf-gafi.org/publications/fatfgeneral/documents/statement-covid-19.html){:target="_blank"} | Apr 2020 |
+| [Money Laundering/Terrorist Financing risks associated with gold (FATF)](https://www.fatf-gafi.org/media/fatf/documents/reports/ML-TF-risks-vulnerabilities-associated-with-gold.pdf){:target="_blank"} | Apr 2020 |
+| [Money Laundering/Terrorist Financing through trade in diamonds (FATF)](https://www.fatf-gafi.org/media/fatf/documents/reports/ML-TF-through-trade-in-diamonds.pdf){:target="_blank"} | Apr 2020 |
+| [Singapore National Risk Assessment Report 2013](/images/Singapore%20NRA%20Report%202013_24032015.pdf){:target="_blank"} | Apr 2020 |
+| [COVID-19-related Money Laundering and Terrorist Financing Risks and Policy Responses (FATF)](https://www.fatf-gafi.org/media/fatf/documents/COVID-19-AML-CFT.pdf){:target="_blank"} | May 2020 |
+| [Trade-Based Money Laundering - Private Sector](http://www.fatf-gafi.org/media/fatf/documents/Handout-Trade-Based-Money-Laundering-Private-Sector.pdf){:target="_blank"} | Dec 2020 |
+| [Trade-Based Money Laundering - Trends and Developments](http://www.fatf-gafi.org/media/fatf/content/Trade-Based-Money-Laundering-Trends-and-Developments.pdf){:target="_blank"} | Dec 2020 |
 
-* [Financial Action Task Force – High-risk and other monitored jurisdictions](https://www.fatf-gafi.org/countries/#high-risk){:target="_blank"}
-
-* [Financial Action Task Force Methodology for assessing compliance with the FATF Recommendations and the effectiveness of AML/CFT](http://www.fatf-gafi.org/publications/mutualevaluations/documents/fatf-methodology.html){:target="_blank"}
-
-* [Financial Action Task Force - COVID-19 and measures to combat illicit financing](https://www.fatf-gafi.org/publications/fatfgeneral/documents/statement-covid-19.html){:target="_blank"}
-
-* [Financial Action Task Force – Money Laundering/Terrorist Financing risks associated with gold](https://www.fatf-gafi.org/media/fatf/documents/reports/ML-TF-risks-vulnerabilities-associated-with-gold.pdf){:target="_blank"}
-
-* [Financial Action Task Force – Money Laundering/Terrorist Financing through trade in diamonds](https://www.fatf-gafi.org/media/fatf/documents/reports/ML-TF-through-trade-in-diamonds.pdf){:target="_blank"}
-
-* [Financial Action Task Force – COVID-19-related Money Laundering and Terrorist Financing Risks and Policy Responses](https://www.fatf-gafi.org/media/fatf/documents/COVID-19-AML-CFT.pdf){:target="_blank"}
-
-* [Singapore National Risk Assessment Report 2013](/images/Singapore%20NRA%20Report%202013_24032015.pdf){:target="_blank"}
+<br>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-xldj{border-color:inherit;text-align:left}
+</style>
+<table class="tg">
+  <tr>
+  </tr>
+</table>
