@@ -26,7 +26,7 @@ Regulated dealers are required to keep relevant documents and information for a 
 
 #### <a id="Notices from the Registrar"></a> Notices from the Registrar
 
-The Registrar of Regulated Dealers regularly issues notices to all regulated dealers with respect to measures for the prevention of ML/TF. These include [Guidelines](/images/Guidelines%20for%20regulated%20dealers_20201214_V2.0Final.pdf){:target="_blank"} to help regulated dealers understand their regulatory requirements and publications by the Financial Action Task Force ("**FATF**").
+The Registrar of Regulated Dealers regularly issues notices to all regulated dealers with respect to measures for the prevention of ML/TF. These include [Guidelines](/images/Guidelines for regulated dealers_20201214_V2.0Final (Updated).pdf){:target="_blank"} to help regulated dealers understand their regulatory requirements and publications by the Financial Action Task Force ("**FATF**").
 
 Please click [here](/news/notices-from-the-registrar/){:target="_blank"} to view the notices issued by the Registrar.
 
