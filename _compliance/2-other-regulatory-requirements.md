@@ -6,7 +6,7 @@ breadcrumb: 'Other Regulatory Requirements'
 ---
 
 
-<a href="#Reporting Requirement for Regulated Dealers with effect from 1 January 2021">eporting Requirement for Regulated Dealers with effect from 1 January 2021</a> | <a href="#Duty to Notify Registrar of Change in Particulars and Circumstances">Duty to Notify Registrar of Change in Particulars and Circumstances</a> | <a href="#Ongoing Monitoring of Transactions">Ongoing Monitoring of Transactions</a> | <a href="#Record Keeping">Record Keeping</a> |<a href="#Notices from the Registrar">Notices from the Registrar</a>
+<a href="#Reporting Requirement for Regulated Dealers with effect from 1 January 2021">Reporting Requirement for Regulated Dealers with effect from 1 January 2021</a> | <a href="#Duty to Notify Registrar of Change in Particulars and Circumstances">Duty to Notify Registrar of Change in Particulars and Circumstances</a> | <a href="#Ongoing Monitoring of Transactions">Ongoing Monitoring of Transactions</a> | <a href="#Record Keeping">Record Keeping</a> |<a href="#Notices from the Registrar">Notices from the Registrar</a>
 
 #### <a id="Reporting Requirement for Regulated Dealers with effect from 1 January 2021"></a> Reporting Requirement for Regulated Dealers with effect from 1 January 2021
 
