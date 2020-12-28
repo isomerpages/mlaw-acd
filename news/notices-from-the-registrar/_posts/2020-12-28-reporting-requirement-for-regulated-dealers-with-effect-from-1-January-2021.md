@@ -13,7 +13,7 @@ The purpose of the Precious Stones and Precious Metals (Prevention of Money Laun
  
 **Content for Reporting**
  
-With effect from 1 January 2021, regulated dealers are required to submit mandatory semi-annual returns related to their business and transactions. The first reporting period will be from 1 January 2021 to 30 June 2021, and the first submission will be due within 30 days, i.e. by 30 July 2021. Regulated dealers should to refer to the content for reporting set out by the Ministry of Law to understand the reporting requirements and ensure that the information are collected in the required format during the reporting period.
+With effect from 1 January 2021, regulated dealers are required to submit mandatory semi-annual returns related to their business and transactions. The first reporting period will be from 1 January 2021 to 30 June 2021, and the first submission will be due within 30 days, i.e. by 30 July 2021. Regulated dealers should to refer to the [content for reporting](https://acd.mlaw.gov.sg/news/notices-from-the-registrar/reporting-requirement-for-regulated-dealers-with-effect-from-1-january-2021){:target="_blank"} set out by the Ministry of Law to understand the reporting requirements and ensure that the information are collected in the required format during the reporting period.
  
 **Mode of Submission**
  
@@ -31,7 +31,7 @@ Ministry of Law will be organising online trainings to provide guidance on the s
  
 **Frequently Asked Questions**
  
-We have collated a list of frequently asked questions received from industry associations and their members on the reporting requirements. Regulated dealers may wish to refer to these FAQs in the FAQ section on the ACD website.
+We have collated a list of frequently asked questions received from industry associations and their members on the reporting requirements. Regulated dealers may wish to refer to these FAQs in the [FAQ section](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx){:target="_blank"} on the ACD website.
  
 **FOR REGULATED DEALERS TO TAKE ACTION:**
 - Regulated dealers are strongly encouraged to prepare the required information consistently throughout the six-month reporting period.
