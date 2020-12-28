@@ -35,5 +35,5 @@ Ministry of Law will be organising online trainings to provide guidance on the s
 We have collated a list of frequently asked questions received from industry associations and their members on the reporting requirements. Regulated dealers may wish to refer to these FAQs in the FAQ section on the ACD website.
  
 **FOR REGULATED DEALERS TO TAKE ACTION:**
-Regulated dealers are strongly encouraged to prepare the required information consistently throughout the six-month reporting period.
-The semi-annual return has to be submitted to the Ministry of Law via the e-Portal within 30 days after the reporting period, e.g. by 30 July 2021 for period from 1 January 2021 to 30 June 2021.
+- Regulated dealers are strongly encouraged to prepare the required information consistently throughout the six-month reporting period.
+- The semi-annual return has to be submitted to the Ministry of Law via the e-Portal within 30 days after the reporting period, e.g. by 30 July 2021 for period from 1 January 2021 to 30 June 2021.
