@@ -24,7 +24,10 @@ Regulated dealers will have to submit the semi-annual returns electronically thr
  
 Regulated dealers are required to submit the returns twice each year during the following submission periods:
 
-[insert table here]
+<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 862px" class="tg"><colgroup><col style="width: 89px"><col style="width: 773px"></colgroup><thead><tr><th style="border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:13px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   
+Reporting Period </th><th style="border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:13px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">   
+Submission Period </th></tr></thead><tbody><tr><td style="border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:13px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">1 January to 30 June</td><td style="border-color:#000000;border-style:solid;border-width:1px;color:#000000;font-family:Arial, sans-serif;font-size:13px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">
+</td></tr></tbody></table>
 
 **Support for Regulated Dealers**
  
