@@ -24,37 +24,7 @@ Regulated dealers will have to submit the semi-annual returns electronically thr
  
 Regulated dealers are required to submit the returns twice each year during the following submission periods:
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 10px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 10px;word-break:normal;}
-.tg .tg-7fle{background-color:#efefef;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 379px">
-<colgroup>
-<col style="width: 194px">
-<col style="width: 185px">
-</colgroup>
-<thead>
-  <tr>
-    <th class="tg-7fle">Reporting Period</th>
-    <th class="tg-7fle">Submission Period</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-baqh">1 January to 30 June</td>
-    <td class="tg-baqh">1 July to 30 July</td>
-  </tr>
-  <tr>
-    <td class="tg-baqh">1 July to 31 December</td>
-    <td class="tg-baqh">1 January to 30 January<br>(of the following year)</td>
-  </tr>
-</tbody>
-</table>
+<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 379px" class="tg"><colgroup><col style="width: 194px"><col style="width: 185px"></colgroup><thead><tr><th style="background-color:#efefef;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 10px;text-align:center;vertical-align:top;word-break:normal">Reporting Period</th><th style="background-color:#efefef;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:bold;overflow:hidden;padding:10px 10px;text-align:center;vertical-align:top;word-break:normal">Submission Period</th></tr></thead><tbody><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 10px;text-align:center;vertical-align:top;word-break:normal">1 January to 30 June</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 10px;text-align:center;vertical-align:top;word-break:normal">1 July to 30 July</td></tr><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 10px;text-align:center;vertical-align:top;word-break:normal">1 July to 31 December</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 10px;text-align:center;vertical-align:top;word-break:normal">1 January to 30 January<br>(of the following year)</td></tr></tbody></table>
 
 **Support for Regulated Dealers**
  
