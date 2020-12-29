@@ -31,7 +31,7 @@ Ministry of Law will be organising online trainings to provide guidance on the s
  
 **Frequently Asked Questions**
  
-We have collated a list of frequently asked questions received from industry associations and their members on the reporting requirement. Regulated dealers may wish to refer to these FAQs in the [FAQ section](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx){:target="_blank"} on the ACD website.
+We have collated a list of frequently asked questions received from industry associations and their members on the reporting requirement. Regulated dealers may wish to refer to these FAQs in the [FAQ section](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx){:target="_blank"}.
  
 **FOR REGULATED DEALERS TO TAKE ACTION:**
 - Regulated dealers are strongly encouraged to prepare the required information consistently throughout the six-month reporting period.
