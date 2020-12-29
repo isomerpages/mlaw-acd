@@ -9,7 +9,7 @@ In the Notice from the Registrar to regulated dealers on 14 December 2020, the R
 
 **Background**
  
-The purpose of the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019 (“**PSPM Act**”), is to combat money laundering and terrorism financing in the precious stones and precious metals industry. In order for the Ministry of Law to properly regulate and supervise the regulated dealers, reliable and timely information has to be collected from all regulated dealers.
+The purpose of the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019 (“**PSPM Act**”), is to combat money laundering and terrorism financing (“**ML/TF**”) in the precious stones and precious metals industry. In order for the Ministry of Law to better regulate and supervise the regulated dealers, reliable and timely information has to be collected from all regulated dealers. This will also benefit regulated dealers as it will strengthen safeguards and better protect the precious stones and precious metals dealers (“**PSMD**”) sector against ML/TF risks.
  
 **Content for Reporting**
  
