@@ -8,7 +8,7 @@ breadcrumb: 'Other Regulatory Requirements'
 
 <a href="#Reporting Requirement for Regulated Dealers with effect from 1 January 2021">Reporting Requirement for Regulated Dealers with effect from 1 January 2021</a> | <a href="#Duty to Notify Registrar of Change in Particulars and Circumstances">Duty to Notify Registrar of Change in Particulars and Circumstances</a> | <a href="#Ongoing Monitoring of Transactions">Ongoing Monitoring of Transactions</a> | <a href="#Record Keeping">Record Keeping</a> |<a href="#Notices from the Registrar">Notices from the Registrar</a>
 
-#### <a id="Reporting Requirement for Regulated Dealers with effect from 1 January 2021"></a> Reporting Requirement for Regulated Dealers with effect from 1 January 2021
+#### <a id="Reporting Requirement"></a> Reporting Requirement
 
 The purpose of the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019 (“**PSPM Act**”), is to combat money laundering and terrorism financing in the precious stones and precious metals industry. In order for the Ministry of Law to properly regulate and supervise the regulated dealers, reliable and timely information has to be collected from all regulated dealers.
  
