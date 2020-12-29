@@ -16,7 +16,7 @@ The amendments make technical changes to subsidiary legislation under the PSPM A
  
 Pursuant to section 35(1) of the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019, the Registrar hereby amends the Guidelines for Regulated Dealers in the Precious Stones and Precious Metals Dealers Sector on Anti-Money Laundering/Countering the Financing of Terrorism (“**Guidelines**”) from version 1.1 to 2.0 with effect from **14 Dec 2020**:
  
-* [Guidelines for Regulated Dealers in the Precious Stones and Precious Metals Dealers Sector on Anti-Money Laundering/Countering the Financing of Terrorism (Version 2.0)](/images/Guidelines for regulated dealers_20201214_V2.0Final.pdf){:target="_blank"}
+* [Guidelines for Regulated Dealers in the Precious Stones and Precious Metals Dealers Sector on Anti-Money Laundering/Countering the Financing of Terrorism (Version 2.0)](/images/Guidelines for regulated dealers_20201214_V2.0Final (Updated).pdf){:target="_blank"}
  
 The main amendments to the Guidelines include:
 * Technical updates to reflect the amendments to the Regulations;
