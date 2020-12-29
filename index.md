@@ -2,7 +2,7 @@
 layout: homepage
 title: 'Ministry of Law - ACD'
 permalink: /
-notification: <a href="/news/notices-from-the-registrar/amendments-to-subsidiary-legislation-under-pspm-act-and-guidelines-for-regulated-dealers-14-dec-2020" target="_blank">Download now! Revised Guidelines for Regulated Dealers (Version 2.0)</a>
+notification: <a href="/news/notices-from-the-registrar/reporting-requirement-for-regulated-dealers-with-effect-from-1-january-2021" target="_blank">New! Reporting Requirement for Regulated Dealers With Effect from 1 January 2021</a>
 sections:
     - hero:
           title: 'Regulatory Regime for Precious Stones and Precious Metals Dealers'
