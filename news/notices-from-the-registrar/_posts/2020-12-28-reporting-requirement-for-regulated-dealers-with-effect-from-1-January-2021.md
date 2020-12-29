@@ -13,7 +13,7 @@ The purpose of the Precious Stones and Precious Metals (Prevention of Money Laun
  
 **Content for Reporting**
  
-With effect from 1 January 2021, regulated dealers are required to submit mandatory semi-annual returns related to their business and transactions. The first reporting period will be from 1 January 2021 to 30 June 2021, and the first submission will be due within 30 days, i.e. by 30 July 2021. Regulated dealers should refer to the [content for reporting](/images/Content for Reporting_20201224 (Final).xlsx){:target="_blank"} set out by the Ministry of Law to understand the reporting requirements and ensure that the information are collected in the required format during the reporting period.
+With effect from 1 January 2021, regulated dealers are required to submit mandatory semi-annual returns related to their business and transactions. The first reporting period will be from 1 January 2021 to 30 June 2021, and the first submission will be due within 30 days, i.e. by 30 July 2021. Regulated dealers should refer to the [content for reporting](/images/Content for Reporting_20201224 (Final).xlsx){:target="_blank"} set out by the Ministry of Law to understand the reporting requirement and ensure that the information are collected in the required format during the reporting period.
  
 **Mode of Submission**
  
