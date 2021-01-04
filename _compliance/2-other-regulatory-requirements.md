@@ -22,7 +22,7 @@ Please click [here](https://acd.mlaw.gov.sg/news/notices-from-the-registrar/repo
 
 #### <a id="Duty to Notify Registrar of Change in Particulars and Circumstances"></a> Duty to Notify Registrar of Change in Particulars and Circumstances
 
-Pursuant to Regulation 21 of the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations 2019 ("**PMLTF Regulations**"), registered dealers have the duty to notify the Registrar of Regulated Dealers of change in particulars and circumstances.
+Pursuant to Regulation 21 of the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations 2020 ("**PMLTF Regulations**"), registered dealers have the duty to notify the Registrar of Regulated Dealers of change in particulars and circumstances.
 
 <a href="/images/Duty to Notify Registrar of Changes table_Final v2_20201217.pdf"><img src="/images/Duty to Notify Registrar of Changes table_Final v2_20201217.png"></a>
 
