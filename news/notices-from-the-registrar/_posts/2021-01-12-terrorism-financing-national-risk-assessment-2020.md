@@ -24,4 +24,4 @@ Private sector entities should continue to incorporate the TF NRA findings in th
 
 Click [here](/images/Terrorism%20Financing%20National%20Risk%20Assessment%202020.pdf){:target="_blank"} for the full TF NRA report
 
-Click [here](/images/TF%20NRA%20Infographic.jpg){:target="_blank"} for the TF NRA infographic
+<a href="/images/TF%20NRA%20Infographic.jpg" target="_blank"><img src="/images/TF%20NRA%20Infographic.jpg"></a>
