@@ -5,7 +5,7 @@ permalink: /news/notices-from-the-registrar/terrorism-financing-national-risk-as
 
 ---
 
-The Terrorism Financing National Risk Assessment (**TF NRA**) seeks to further deepen the understanding by law enforcement agencies, supervisors/regulators and the private sector of Singapore’s key TF threats and vulnerabilities, so that appropriate prevention and mitigation measures may be taken. This TF NRA is the culmination of experience and observations from all relevant competent authorities over the past few years, and includes inputs from the private sector and academia.
+The Terrorism Financing National Risk Assessment ("**TF NRA**") seeks to further deepen the understanding by law enforcement agencies, supervisors/regulators and the private sector of Singapore’s key TF threats and vulnerabilities, so that appropriate prevention and mitigation measures may be taken. This TF NRA is the culmination of experience and observations from all relevant competent authorities over the past few years, and includes inputs from the private sector and academia.
 
 The TF NRA has found that:
 
@@ -23,3 +23,5 @@ Private sector entities should continue to incorporate the TF NRA findings in th
 
 
 Click [here](/images/Terrorism%20Financing%20National%20Risk%20Assessment%202020.pdf){:target="_blank"} for the full TF NRA report
+
+Click [here](/images/TF%20NRA%20Infographic.jpg){:target="_blank"} for the TF NRA infographic
