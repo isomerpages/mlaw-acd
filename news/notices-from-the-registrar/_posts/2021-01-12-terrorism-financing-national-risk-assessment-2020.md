@@ -1,6 +1,6 @@
 ---
 title: 'Terrorism Financing National Risk Assessment 2020'
-date: 2021-01-12T00:00:00.000Z
+date: 2021-01-13T00:00:00.000Z
 permalink: /news/notices-from-the-registrar/terrorism-financing-national-risk-assessment-2020
 
 ---
