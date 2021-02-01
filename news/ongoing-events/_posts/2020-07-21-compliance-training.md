@@ -1,12 +1,12 @@
 ---
-title: 'Sign Up For Compliance Training (Conducted Online)'
+title: 'Sign Up For Compliance Training'
 date: 2021-02-01T00:00:00.000Z
 permalink: /news/upcoming-events/Compliance-Training/
 
 ---
 
 
-The Anti-Money Laundering/Countering the Financing of Terrorism Division ("**ACD**") of the Ministry of Law will be organising a Compliance Training for Precious Stones and Precious Metals Dealers ("**PSMD**") sector. The Compliance Training is now only available online in English. We will launch the Mandarin sessions at a later date. If you are unable to attend the current available dates, you may sign up for future datses as MinLaw will be running the Compliance Training till end of 2021. 
+The Anti-Money Laundering/Countering the Financing of Terrorism Division ("**ACD**") of the Ministry of Law will be organising a Compliance Training for Precious Stones and Precious Metals Dealers ("**PSMD**") sector. The Compliance Training is now only available online in English. We will launch the Mandarin sessions at a later date. If you are unable to attend the current available dates, you may sign up for future dates as MinLaw will be running the Compliance Training till end of 2021. 
 
 The Compliance Training aims to enable your customer-facing staff and compliance officer to fulfill the transaction-based requirements with knowledge on when and how to perform customer due diligence (“**CDD**”) and enhanced customer due diligence (“**ECDD**”) and when and how to file cash transaction report (“**CTR**”) and suspicious transaction report (“**STR**”).
 
