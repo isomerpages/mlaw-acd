@@ -1,20 +1,21 @@
 ---
-title: 'Compliance Training For Registered Dealer'
+title: 'Sign Up For Compliance Training (Conducted Online)'
 date: 2021-02-01T00:00:00.000Z
 permalink: /news/upcoming-events/Compliance-Training/
 
 ---
 
 
-The Anti-Money Laundering/Countering the Financing of Terrorism Division ("**ACD**") of the Ministry of Law will be organising a compliance training, focusing on transaction-based requirements, for the registered dealers in the Precious Stones and Precious Metals Dealers sector.
+The Anti-Money Laundering/Countering the Financing of Terrorism Division ("**ACD**") of the Ministry of Law will be organising a Compliance Training for Precious Stones and Precious Metals Dealers ("**PSMD**") sector. The Compliance Training is now only available online in English. We will launch the Mandarin sessions at a later date. If you are unable to attend the current available dates, you may sign up for future datses as MinLaw will be running the Compliance Training till end of 2021. 
 
-The compliance training aims to enable the **compliance officer and customer-facing staff** of registered dealers to:
+The Compliance Training aims to enable your customer-facing staff and compliance officer to fulfill the transaction-based requirements with knowledge on when and how to perform customer due diligence (“**CDD**”) and enhanced customer due diligence (“**ECDD**”) and when and how to file cash transaction report (“**CTR**”) and suspicious transaction report (“**STR**”).
 
-a. Understand the transaction-based and other regulatory requirements; <br>
-b. Understand their roles and responsibilities on anti-money laundering/countering the financing of terrorism (“**AML/CFT**”) compliance;<br>
-c. Be aware of the money laundering (“**ML**”) and terrorism financing (“**TF**”) risks associated with customers and transactions, and understand the AML/CFT measures in place; <br>
-d. Interpret and identify red flag indicators, and how to deal with red flags; and <br>
-e. Carry out the AML/CFT measures in compliance with the PSPM Act and PMLTF Regulations.
+**Training objectives:**:
+
+-   Be aware of the importance of Anti-Money Laundering/Countering the Financing of Terrorism (AML/CFT) in the precious stones and precious metals dealers (“**PSMD**”) sector
+-   Understand and describe your roles and responsibilities on AML/CFT compliance
+-   Identify and deal with red flag indicators
+-   Carry out the AML/CFT measures when transacting with customers
 
 Please click [here](https://form.gov.sg/#!/5f0fc0c3fefd4e00119dc724){:target="_blank"} to sign up for the compliance training.
 
