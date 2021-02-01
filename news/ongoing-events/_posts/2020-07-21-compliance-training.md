@@ -1,6 +1,6 @@
 ---
 title: 'Compliance Training For Registered Dealer'
-date: 2020-07-21T00:00:00.000Z
+date: 2021-02-01T00:00:00.000Z
 permalink: /news/upcoming-events/Compliance-Training/
 
 ---
@@ -16,6 +16,6 @@ c. Be aware of the money laundering (“**ML**”) and terrorism financing (“*
 d. Interpret and identify red flag indicators, and how to deal with red flags; and <br>
 e. Carry out the AML/CFT measures in compliance with the PSPM Act and PMLTF Regulations.
 
-Please click [here](https://form.gov.sg/#!/5f0fc0c3fefd4e00119dc724){:target="_blank"} to indicate your interest for the compliance training.
+Please click [here](https://form.gov.sg/#!/5f0fc0c3fefd4e00119dc724){:target="_blank"} to sign up for the compliance training.
 
 Please refer to the ["**FAQs**"](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx){:target="_blank"} under the Precious Stones and Precious Metals Dealers section for Frequently Asked Questions relating to the regulatory regime. For further queries, please click [here](https://eservices.mlaw.gov.sg/enquiry/){:target="_blank"}.
