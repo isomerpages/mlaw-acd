@@ -2,7 +2,7 @@
 layout: homepage
 title: 'Ministry of Law - ACD'
 permalink: /
-notification: <a href="/news/notices-from-the-registrar/reporting-requirement-for-regulated-dealers-with-effect-from-1-january-2021" target="_blank">New! Reporting Requirement for Regulated Dealers With Effect from 1 January 2021</a>
+notification: <a href="/news/ongoing-events/compliance-training/" target="_blank">Sign up for Compliance Training now!</a>
 sections:
     - hero:
           title: 'Regulatory Regime for Precious Stones and Precious Metals Dealers'
