@@ -23,7 +23,7 @@ As stated in the Certificate of Registration, regulated dealers are registered b
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0lax" rowspan="2">Examples of unacceptable statements</th>
+    <th class="tg-0lax" rowspan="2">Examples of unacceptable statement</th>
     <th class="tg-0lax">Regulated by the Ministry of Law</th>
   </tr>
   <tr>
