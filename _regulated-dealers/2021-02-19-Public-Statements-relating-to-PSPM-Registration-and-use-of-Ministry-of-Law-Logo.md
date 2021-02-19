@@ -1,7 +1,6 @@
 ---
 title: Public Statements relating to PSPM Registration and use of Ministry of Law Logo
 permalink: /Public-Statements-relating-to-PSPM-Registration-and-use-of-Ministry-of-Law-Logo/
-breadcrumb: Public-Statements-relating-to-PSPM-Registration-and-use-of-Ministry-of-Law-Logo
 ---
 
 Regulated dealers are to ensure that their websites, representations and publicity materials do not cause the public to misconstrue that the Registrar of Regulated Dealers of the Ministry of Law (“**the Registrar**”) is regulating them beyond anti-money laundering and countering the financing of terrorism (“**AML/CFT**”) matters. Regulated dealers should also not make unauthorised use of the Ministry of Law logo on their websites or in publicity materials such as newsletters, articles, business cards etc.
@@ -21,8 +20,8 @@ As stated in the Certificate of Registration, regulated dealers are registered b
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 322px">
 <colgroup>
-<col style="width: 220">
-<col style="width: 300px">
+<col style="width: 180">
+<col style="width: 280px">
 </colgroup>
 <thead>
   <tr>
