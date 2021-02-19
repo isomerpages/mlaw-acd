@@ -32,7 +32,7 @@ As stated in the Certificate of Registration, regulated dealers are registered b
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax">Examples of acceptable statement</td>
+    <td class="tg-0lax">Example of acceptable statement</td>
     <td class="tg-0lax">Regulated by the Ministry of Law for <span style="font-weight:bold">purposes of anti-money laundering and countering the financing of terrorism</span></td>
   </tr>
 </tbody>
