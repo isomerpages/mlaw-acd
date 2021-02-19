@@ -1,7 +1,7 @@
 ---
 title: 'Public Statements relating to PSPM Registration and use of Ministry of Law Logo'
 permalink: /Public-Statements-relating-to-PSPM-Registration-and-use-of-Ministry-of-Law-Logo/
-breadcrumb: Public-Statements-relating-to-PSPM-Registration-and-use-of-Ministry-of-Law-Logo
+breadcrumb: Public Statements relating to PSPM Registration and use of Ministry of Law Logo
 
 ---
 
