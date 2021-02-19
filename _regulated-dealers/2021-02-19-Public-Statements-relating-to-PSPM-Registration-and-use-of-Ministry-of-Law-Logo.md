@@ -13,29 +13,25 @@ As stated in the Certificate of Registration, regulated dealers are registered b
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 10px;word-break:normal;}
+  overflow:hidden;padding:10px 20px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 10px;word-break:normal;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+  font-weight:normal;overflow:hidden;padding:10px 20px;word-break:normal;}
+.tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 322px">
-<colgroup>
-<col style="width: 180">
-<col style="width: 280px">
-</colgroup>
+<table class="tg">
 <thead>
   <tr>
-    <th class="tg-0pky" rowspan="2">Examples of unacceptable statements</th>
-    <th class="tg-0pky">Regulated by the Ministry of Law</th>
+    <th class="tg-0lax" rowspan="2">Examples of unacceptable statements</th>
+    <th class="tg-0lax">Regulated by the Ministry of Law</th>
   </tr>
   <tr>
-    <td class="tg-0pky">Approved by the Ministry of Law</td>
+    <td class="tg-0lax">Approved by the Ministry of Law</td>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0pky">Examples of acceptable statement</td>
-    <td class="tg-0pky">Regulated by the Ministry of Law <span style="font-weight:bold">for purposes of anti-money laundering and countering the financing of terrorism</span></td>
+    <td class="tg-0lax">Examples of acceptable statement</td>
+    <td class="tg-0lax">Regulated by the Ministry of Law for <span style="font-weight:bold">purposes of anti-money laundering and countering the financing of terrorism</span></td>
   </tr>
 </tbody>
 </table>
