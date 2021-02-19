@@ -22,8 +22,8 @@ As stated in the Certificate of Registration, regulated dealers are registered b
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 322px">
 <colgroup>
-<col style="width: 220px">
-<col style="width: 300px">
+<col style="width: 220">
+<col style="width: 320px">
 </colgroup>
 <thead>
   <tr>
