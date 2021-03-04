@@ -30,7 +30,7 @@ A summary of the issued FATF statement can be found below.
 </style>
 <table class="tg">
     <tr>
-    <th class="tg-exjp"><span style="font-weight:bold;text-decoration:underline">February 2021 FATF Statement: High-Risk Jurisdictions subject to a Call for Action</span><br>
+    <th class="tg-exjp"><span style="font-weight:800;text-decoration:underline">February 2021 FATF Statement: High-Risk Jurisdictions subject to a Call for Action</span><br>
 On 25 February 2021, the FATF, of which Singapore is a member, issued a statement that highlights the strategic deficiencies in the anti-money laundering/combating the financing of terrorism (AML/CFT) regimes of the DPRK and Iran. While there was a pause in the review process for the list of High-Risk Jurisdictions subject to a Call for Action, and the statement may not necessarily reflect the most recent status of both DPRK and Iran, <b>the FATF's call for action on them remains in effect.</b><br><br>
 • DPRK and Iran are subject to the FATF’s call on countries to apply counter-measures. The FATF calls on its members and urges all jurisdictions to apply effective counter-measures and targeted financial sanctions to protect the international financial system from the ongoing and substantial money laundering and terrorism financing risks.<br><br>Full details can be found at:<br><a href="https://www.fatf-gafi.org/publications/high-risk-and-other-monitored-jurisdictions/documents/call-for-action-february-2021.html" target="_blank">https://www.fatf-gafi.org/publications/high-risk-and-other-monitored-jurisdictions/documents/call-for-action-february-2021.html</a><br><br>
 
