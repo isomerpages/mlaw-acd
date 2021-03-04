@@ -18,7 +18,7 @@ The Registrar of Regulated Dealers hereby notifies all regulated dealers that th
     - Requiring increased external audit requirements for groups with respect to any of their branches and subsidiaries located in the country concerned.<br></th></tr></thead></table>
     
 Accordingly, under regulation 7(1) of the PMLTF Regulations, regulated dealers **must perform enhanced customer due diligence measures** if:
-* The customer, or the person on whose behalf the customer is acting on, is from or in DPRK, Iran or a foreign country or territory identified to have inadequate measures to prevent money laundering and terorrism financing; or
+* The customer, or the person on whose behalf the customer is acting on, is from or in DPRK, Iran or a foreign country or territory identified to have inadequate measures to prevent money laundering or terorrism financing; or
 * The transaction relates to DPRK, Iran, or a foreign country or territory identified to have inadequate measures to prevent money laundering or terrorism financing.
 
 A summary of the issued FATF statement can be found below.
