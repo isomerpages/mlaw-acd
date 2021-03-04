@@ -2,7 +2,7 @@
 layout: homepage
 title: 'Ministry of Law - ACD'
 permalink: /
-notification: <a href="/news/ongoing-events/compliance-training/" target="_blank">Sign up for Compliance Training now!</a>
+notification: <a href="/news/ongoing-events/compliance-training/" target="_blank">FATF Public Statement - Countries/Jurisdictions with Strategic Deficiencies (latest!)</a>
 sections:
     - hero:
           title: 'Regulatory Regime for Precious Stones and Precious Metals Dealers'
