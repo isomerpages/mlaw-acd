@@ -6,7 +6,7 @@ breadcrumb: Registration
 ---
 
 
-<a href="#Registration">Registration </a> | <a href="#Who is Required to Register?">Who is Required to Register? </a> |<a href="#Registration Application Process">Registration Application Process </a> | <a href="#Information Needed">Information Needed</a> | <a href="#Fees, Registering your Place(s) of Business and Period of Registration">Fees, Registering your Place(s) of Business and Period of Registration </a> | <a href="#I Need Help with Registration">I Need Help with Registration </a>
+<a href="#Registration">Registration </a> | <a href="#Who is Required to Register?">Who is Required to Register? </a> | <a href="#Fees and Registering your Place(s) of Business">Fees and Registering your Place(s) of Business </a> |<a href="#Registration Application Process">Registration Application Process </a> | <a href="#Information Needed">Information Needed</a> | <a href="#Fees, Registering your Place(s) of Business and Period of Registration">Fees, Registering your Place(s) of Business and Period of Registration </a> | <a href="#I Need Help with Registration">I Need Help with Registration </a>
 
 #### <a id="Registration"></a> Registration
 
@@ -23,6 +23,70 @@ Examples of regulated dealers who are required to register include, but are not 
 Foreign dealers may refer [here](/regulatory-regime/#Regulatory%20Compliance%20for%20Foreign%20Dealers) on the requirements to register.
 
 Please refer to the [PSPM Act](https://sso.agc.gov.sg/Act/PSPMPMLTFA2019){:target="_blank"} for the official definitions. If you are not certain whether you are required to register, you may wish to seek legal advice.
+
+#### <a id="Fees and Registering your Place(s) of Business"></a> Fees and Registering your Place(s) of Business
+
+**Fees and registering your place(s) of business**Regulated dealers must pay an application fee of S$120 to register with the Registrar. All payment must be made through [GoBusiness Licensing Portal](https://www.gobusiness.gov.sg/licences).  
+  
+Registration is on an annual basis. If the Registrar provides in-principle approval for your application, you must pay a registration fee based on the registration tier and the number of outlets operated:
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-n533{background-color:#dae8fc;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 100%">
+<colgroup>
+<col style="width: 25%">
+<col style="width: 30%">
+<col style="width: 25%">
+<col style="width: 20%">
+<thead>
+  <tr>
+    <th class="tg-n533">Registration Tier Available</th>
+    <th class="tg-n533">Registration Condition Imposed </th>
+    <th class="tg-n533">Registration Fees</th>
+    <th class="tg-n533">Duration</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-7btt" rowspan="2">Class A</td>
+    <td class="tg-0pky" rowspan="2">The registration is subject to a condition that the net price of every precious stone, precious metal, precious product or asset-backed token that is or is to be sold by the registered dealer be less than $2,000 apiece.</td>
+    <td class="tg-0pky" rowspan="2">$250 per outlet annually</td>
+    <td class="tg-0pky" rowspan="2">To be renewed annually</td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+    <td class="tg-amwm" rowspan="2">Class B</td>
+    <td class="tg-0lax" rowspan="2">The registered dealer is allowed to sell precious stones, precious metals, precious products or asset-backed tokens of any value.</td>
+    <td class="tg-0lax" rowspan="2">$350 per outlet annually</td>
+    <td class="tg-0lax" rowspan="2">To be renewed annually</td>
+  </tr>
+  <tr>
+  </tr>
+</tbody>
+</table>
+
+**Illustration:**  
+Regulated dealer "ABC Pte Ltd" has two places of business:  
+
+1. one flagship jewellery outlet in Marina Bay Sands; and  
+2. one jewellery outlet in Bugis.  
+  
+ABC Pte Ltd applies for a Class B Certificate of Registration.  
+  
+ABC Pte Ltd must pay a total of **S$820**:
+
+
 
 #### <a id="Registration Application Process"></a> Registration Application Process
 <a href="/images/Overview%20of%20Reg%20Process%2020191031.pdf" target="_blank"><img src="/images/Overview%20of%20Reg%20Process%2020191031.png"></a> <br>
