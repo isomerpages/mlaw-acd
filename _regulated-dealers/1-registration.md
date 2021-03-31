@@ -35,11 +35,9 @@ Registration is on an annual basis. If the Registrar provides in-principle appro
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-n533{background-color:#dae8fc;border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-7btt{border-color:inherit;font-weight:bold;text-align:center;vertical-align:top}
+.tg .tg-fzo1{background-color:#DAE8FC;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 100%">
 <colgroup>
@@ -50,15 +48,15 @@ Registration is on an annual basis. If the Registrar provides in-principle appro
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-n533">Registration Tier Available</th>
-    <th class="tg-n533">Registration Condition Imposed </th>
-    <th class="tg-n533">Registration Fees</th>
-    <th class="tg-n533">Duration</th>
+    <th class="tg-fzo1">Registration Tier Available</th>
+    <th class="tg-fzo1">Registration Condition Imposed </th>
+    <th class="tg-fzo1">Registration Fees</th>
+    <th class="tg-fzo1">Duration</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-7btt" rowspan="2">Class A</td>
+    <td class="tg-fymr" rowspan="2">Class A</td>
     <td class="tg-0pky" rowspan="2">The registration is subject to a condition that the net price of every precious stone, precious metal, precious product or asset-backed token that is or is to be sold by the registered dealer be less than $2,000 apiece.</td>
     <td class="tg-0pky" rowspan="2">$250 per outlet annually</td>
     <td class="tg-0pky" rowspan="2">To be renewed annually</td>
@@ -66,10 +64,10 @@ Registration is on an annual basis. If the Registrar provides in-principle appro
   <tr>
   </tr>
   <tr>
-    <td class="tg-amwm" rowspan="2">Class B</td>
-    <td class="tg-0lax" rowspan="2">The registered dealer is allowed to sell precious stones, precious metals, precious products or asset-backed tokens of any value.</td>
-    <td class="tg-0lax" rowspan="2">$350 per outlet annually</td>
-    <td class="tg-0lax" rowspan="2">To be renewed annually</td>
+    <td class="tg-fymr" rowspan="2">Class B</td>
+    <td class="tg-0pky" rowspan="2">The registered dealer is allowed to sell precious stones, precious metals, precious products or asset-backed tokens of any value.</td>
+    <td class="tg-0pky" rowspan="2">$350 per outlet annually</td>
+    <td class="tg-0pky" rowspan="2">To be renewed annually</td>
   </tr>
   <tr>
   </tr>
