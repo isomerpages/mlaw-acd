@@ -6,8 +6,7 @@ breadcrumb: Registration
 ---
 
 
-<a href="#Registration">Registration </a> | <a href="#Who is Required to Register?">Who is Required to Register? </a> | <a href="#Fees and Registering your Place(s) of Business">Fees and Registering your Place(s) of Business </a> |<a href="#Registration Application Process">Registration Application Process </a> | <a href="#Information Needed">Information Needed</a> | <a href="#I Need Help with Registration">I Need Help with Registration </a> | <a href="#Renewal of Registration">Renewal of Registration </a>
-| <a href="#Fees, Registering your Place(s) of Business and Period of Registration">Fees, Registering your Place(s) of Business and Period of Registration </a>
+<a href="#Registration">Registration </a> | <a href="#Who is Required to Register?">Who is Required to Register? </a> | <a href="#Fees and Registering your Place(s) of Business">Fees and Registering your Place(s) of Business </a> |<a href="#Registration Application Process">Registration Application Process </a> | <a href="#Information Needed">Information Needed</a> | <a href="#I Need Help with Registration">I Need Help with Registration </a>
 
 #### <a id="Registration"></a> Registration
 
