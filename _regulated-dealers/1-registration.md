@@ -83,6 +83,48 @@ Regulated dealer "ABC Pte Ltd" has two places of business:
 ABC Pte Ltd applies for a Class B Certificate of Registration.  
   
 ABC Pte Ltd must pay a total of **S$820**:
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-o8ut{background-color:#dae8fc;color:#323232;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-ekg0{background-color:#EFEFEF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-yla0{font-weight:bold;text-align:left;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 100%">
+<colgroup>
+<col style="width: 70%">
+<col style="width: 30%">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-o8ut">Type of Fee</th>
+    <th class="tg-o8ut">Working</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">Registration fee for Class B:</td>
+    <td class="tg-0lax">S$350</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">2 places of business</td>
+    <td class="tg-cly1">x 2</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"> </td>
+    <td class="tg-yla0">S$700</td>
+  </tr>
+  <tr>
+    <td class="tg-ekg0">Grand Total:</td>
+    <td class="tg-ekg0">S$700</td>
+  </tr>
+</tbody>
+</table>
 
 
 
