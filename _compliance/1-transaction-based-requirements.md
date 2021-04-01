@@ -21,6 +21,8 @@ The transaction-based requirements that apply to regulated dealers include, but 
 * [Malay](https://youtu.be/7ESKY_2SfXU){:target="_blank"}
 * [Tamil](https://youtu.be/oUAsmTT7Odw){:target="_blank"}
 
+<a href="/images/TransactionBasedRequirementsPoster.pdf" target="_blank"><img src="/images/TransactionBasedRequirementsPoster.png"></a> <br>
+
 #### <a id="Customer Due Diligence"></a> Customer Due Diligence
 
 CDD is the process of obtaining your customers' identifying information, recording the information and verifying who they are before transacting with them. The objective is to help you determine the money laundering/terrorism financing ("**ML/TF**") risks and take appropriate mitigating measures to address them.
