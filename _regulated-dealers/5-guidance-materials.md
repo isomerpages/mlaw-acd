@@ -98,7 +98,12 @@ The [GoBusiness Licensing Guide](/images//GoBusiness%20Licensing%20Guide%20For%2
 .tg .tg-y02l{border-color:inherit;color:#00E;text-align:left;text-decoration:underline;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 </style>
-<table class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 100%">
+<colgroup>
+<col style="width: 30%">
+<col style="width: 35%">
+<col style="width: 35%">
+</colgroup>
 <thead>
   <tr>
     <th class="tg-fymr">Entity-Based Requirements Video</th>
@@ -108,23 +113,23 @@ The [GoBusiness Licensing Guide](/images//GoBusiness%20Licensing%20Guide%20For%2
 </thead>
 <tbody>
   <tr>
-    <td class="tg-y02l"><a href="https://www.youtube.com/watch?v=l6R8ovdrn4g" target="_blank" rel="noopener noreferrer">Entity-Based Requirements Video (English)</a></td>
-    <td class="tg-y02l"><a href="https://www.youtube.com/watch?v=g6HGL8SHrQY" target="_blank" rel="noopener noreferrer">Transaction-Based Requirements Video (English)</a></td>
-    <td class="tg-y02l"><a href="https://www.youtube.com/watch?v=KRS30HOmjyk">Must-Know for Foreign Dealers Video (English)</a></td>
+    <td class="tg-y02l"><a href="https://www.youtube.com/watch?v=l6R8ovdrn4g" target="_blank" rel="noopener noreferrer">English</a></td>
+    <td class="tg-y02l"><a href="https://www.youtube.com/watch?v=g6HGL8SHrQY" target="_blank" rel="noopener noreferrer">English</a></td>
+    <td class="tg-y02l"><a href="https://www.youtube.com/watch?v=KRS30HOmjyk" target="_blank" rel="noopener noreferrer">English</a></td>
   </tr>
   <tr>
-    <td class="tg-y02l"><a href="https://www.youtube.com/watch?v=mFkp6e6eAEY" target="_blank" rel="noopener noreferrer">Entity-Based Requirements Video (Chinese)</a></td>
-    <td class="tg-y02l"><a href="https://www.youtube.com/watch?v=CpUUhEWT59Q" target="_blank" rel="noopener noreferrer">Transaction-Based Requirements Video (Chinese)</a></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-y02l"><a href="https://www.youtube.com/watch?v=7ESKY_2SfXU" target="_blank" rel="noopener noreferrer">Transaction-Based Requirements Video (Malay)</a></td>
+    <td class="tg-y02l"><a href="https://www.youtube.com/watch?v=mFkp6e6eAEY" target="_blank" rel="noopener noreferrer">Chinese</a></td>
+    <td class="tg-y02l"><a href="https://www.youtube.com/watch?v=CpUUhEWT59Q" target="_blank" rel="noopener noreferrer">Chinese</a></td>
     <td class="tg-0pky"></td>
   </tr>
   <tr>
     <td class="tg-0pky"></td>
-    <td class="tg-y02l"><a href="https://www.youtube.com/watch?v=oUAsmTT7Odw" target="_blank" rel="noopener noreferrer">Transaction-Based Requirements Video (Tamil)</a></td>
+    <td class="tg-y02l"><a href="https://www.youtube.com/watch?v=7ESKY_2SfXU" target="_blank" rel="noopener noreferrer">Malay</a></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-y02l"><a href="https://www.youtube.com/watch?v=oUAsmTT7Odw" target="_blank" rel="noopener noreferrer">Tamil</a></td>
     <td class="tg-0pky"></td>
   </tr>
 </tbody>
