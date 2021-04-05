@@ -131,8 +131,9 @@ The [GoBusiness Licensing Guide](/images//GoBusiness%20Licensing%20Guide%20For%2
 </table>
 
 **Requirements for PSMDs Posters**:
-[Entity-Based Requirements Poster (English)](/images/EntityBasedRequirementsPoster.pdf) {:target="_blank"}
-[Transaction-Based Requirements Poster (English)](/images/TransactionBasedRequirementsPoster.pdf) {:target="_blank"} 
+* [Entity-Based Requirements Poster (English)](/images/EntityBasedRequirementsPoster.pdf){:target="_blank"}
+* [Transaction-Based Requirements Poster (English)](/images/TransactionBasedRequirementsPoster.pdf){:target="_blank"}
+
 
 
 
