@@ -100,15 +100,15 @@ The [GoBusiness Licensing Guide](/images//GoBusiness%20Licensing%20Guide%20For%2
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 100%">
 <colgroup>
-<col style="width: 30%">
-<col style="width: 35%">
-<col style="width: 35%">
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 34%">
 </colgroup>
 <thead>
   <tr>
-    <th class="tg-fymr">Entity-Based Requirements Video</th>
-    <th class="tg-fymr">Transaction-Based Requirements Video</th>
-    <th class="tg-fymr">Must-Know for Foreign Dealers Video</th>
+    <th class="tg-fymr">Entity-Based Requirements</th>
+    <th class="tg-fymr">Transaction-Based Requirements</th>
+    <th class="tg-fymr">Must-Know for Foreign Dealers</th>
   </tr>
 </thead>
 <tbody>
