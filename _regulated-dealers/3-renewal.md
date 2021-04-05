@@ -10,7 +10,7 @@ breadcrumb: Renewal
 
 #### <a id="Renewal of Registration"></a> Renewal of Registration
 
-It is an offence if you act or hold out to be a regulated dealer without being registered or exempted.
+It is an <u>offence</u> if you act or hold out to be a regulated dealer without being registered or exempted.
 
 If your registration period is expiring in the next 3 months, and you intend to continue your business as a regulated dealer, you should renew your registration as soon as possible. It may take around 4 weeks for the Registrar to process an application for renewal before granting the renewal. It may take longer if additional information is required. If your renewal is not approved before the expiration of your registration, your registration will lapse and you will have to submit a new registration application.
 
