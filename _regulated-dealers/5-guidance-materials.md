@@ -84,3 +84,56 @@ This Notice for Customers is available in 4 languages - English, Chinese, Malay 
 #### 6. GoBusiness Licensing Guide for Precious Stones and Precious Metals Dealers ("**GoBusiness Licensing Guide**")
 
 The [GoBusiness Licensing Guide](/images//GoBusiness%20Licensing%20Guide%20For%20Regulated%20Dealers_ACD_20191127.pdf){:target="_blank"} gives regulated dealers a step-by-step walkthrough of the application, renewal and amendment processes in GoBusiness Licensing Portal.
+
+#### 7. Requirements for PSMDs Posters and Videos
+
+**Requirements for PSMDs Videos**:
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-y02l{border-color:inherit;color:#00E;text-align:left;text-decoration:underline;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-fymr">Entity-Based Requirements Video</th>
+    <th class="tg-fymr">Transaction-Based Requirements Video</th>
+    <th class="tg-fymr">Must-Know for Foreign Dealers Video</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-y02l"><a href="https://www.youtube.com/watch?v=l6R8ovdrn4g" target="_blank" rel="noopener noreferrer">Entity-Based Requirements Video (English)</a></td>
+    <td class="tg-y02l"><a href="https://www.youtube.com/watch?v=g6HGL8SHrQY" target="_blank" rel="noopener noreferrer">Transaction-Based Requirements Video (English)</a></td>
+    <td class="tg-y02l"><a href="https://www.youtube.com/watch?v=KRS30HOmjyk">Must-Know for Foreign Dealers Video (English)</a></td>
+  </tr>
+  <tr>
+    <td class="tg-y02l"><a href="https://www.youtube.com/watch?v=mFkp6e6eAEY" target="_blank" rel="noopener noreferrer">Entity-Based Requirements Video (Chinese)</a></td>
+    <td class="tg-y02l"><a href="https://www.youtube.com/watch?v=CpUUhEWT59Q" target="_blank" rel="noopener noreferrer">Transaction-Based Requirements Video (Chinese)</a></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-y02l"><a href="https://www.youtube.com/watch?v=7ESKY_2SfXU" target="_blank" rel="noopener noreferrer">Transaction-Based Requirements Video (Malay)</a></td>
+    <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"></td>
+    <td class="tg-y02l"><a href="https://www.youtube.com/watch?v=oUAsmTT7Odw" target="_blank" rel="noopener noreferrer">Transaction-Based Requirements Video (Tamil)</a></td>
+    <td class="tg-0pky"></td>
+  </tr>
+</tbody>
+</table>
+
+**Requirements for PSMDs Posters**:
+[Entity-Based Requirements Poster (English)](/images/EntityBasedRequirementsPoster.pdf) {:target="_blank"}
+[Transaction-Based Requirements Poster (English)](/images/TransactionBasedRequirementsPoster.pdf) {:target="_blank"} 
+
+
+
+
