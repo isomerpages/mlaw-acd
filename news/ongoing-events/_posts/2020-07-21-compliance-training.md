@@ -10,7 +10,7 @@ The Anti-Money Laundering/Countering the Financing of Terrorism Division ("**ACD
 
 The Compliance Training aims to enable your customer-facing staff and compliance officer to fulfill the transaction-based requirements with knowledge on when and how to perform Customer Due Diligence (“**CDD**”) and Enhanced Customer Due Diligence (“**ECDD**”) and when and how to file Cash Transaction Report (“**CTR**”) and Suspicious Transaction Report (“**STR**”).
 
-**Training objectives:**
+**Training objectives**
 
 -   Be aware of the importance of Anti-Money Laundering/Countering the Financing of Terrorism (AML/CFT) in the Precious Stones and Precious Metals Dealers (“**PSMD**”) sector
 -   Understand and describe your roles and responsibilities on AML/CFT compliance
