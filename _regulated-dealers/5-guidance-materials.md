@@ -88,7 +88,6 @@ The [GoBusiness Licensing Guide](/images//GoBusiness%20Licensing%20Guide%20For%2
 #### 7. Requirements for PSMDs Posters and Videos
 
 **Requirements for PSMDs Videos**:
-
 <u> Entity-Based Requirements
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l6R8ovdrn4g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 * [English](https://youtu.be/l6R8ovdrn4g){:target="_blank"}
