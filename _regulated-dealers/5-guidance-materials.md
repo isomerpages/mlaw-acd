@@ -97,7 +97,7 @@ The [GoBusiness Licensing Guide](/images//GoBusiness%20Licensing%20Guide%20For%2
 <u> Transaction-Based Requirements
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g6HGL8SHrQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 * [English](https://youtu.be/g6HGL8SHrQY){:target="_blank"}
-* [Mandarin](https://youtu.be/CpUUhEWT59Q){:target="_blank"}
+* [Chinese](https://youtu.be/CpUUhEWT59Q){:target="_blank"}
 * [Malay](https://youtu.be/7ESKY_2SfXU){:target="_blank"}
 * [Tamil](https://youtu.be/oUAsmTT7Odw){:target="_blank"}
   
