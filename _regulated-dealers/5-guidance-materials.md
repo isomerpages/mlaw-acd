@@ -88,52 +88,21 @@ The [GoBusiness Licensing Guide](/images//GoBusiness%20Licensing%20Guide%20For%2
 #### 7. Requirements for PSMDs Posters and Videos
 
 **Requirements for PSMDs Videos**:
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-y02l{border-color:inherit;color:#00E;text-align:left;text-decoration:underline;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
-<table class="tg" style="undefined;table-layout: fixed; width: 100%">
-<colgroup>
-<col style="width: 33%">
-<col style="width: 33%">
-<col style="width: 34%">
-</colgroup>
-<thead>
-  <tr>
-    <th class="tg-fymr">Entity-Based Requirements</th>
-    <th class="tg-fymr">Transaction-Based Requirements</th>
-    <th class="tg-fymr">Must-Know for Foreign Dealers</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-y02l"><a href="https://www.youtube.com/watch?v=l6R8ovdrn4g" target="_blank" rel="noopener noreferrer">English</a></td>
-    <td class="tg-y02l"><a href="https://www.youtube.com/watch?v=g6HGL8SHrQY" target="_blank" rel="noopener noreferrer">English</a></td>
-    <td class="tg-y02l"><a href="https://www.youtube.com/watch?v=KRS30HOmjyk" target="_blank" rel="noopener noreferrer">English</a></td>
-  </tr>
-  <tr>
-    <td class="tg-y02l"><a href="https://www.youtube.com/watch?v=mFkp6e6eAEY" target="_blank" rel="noopener noreferrer">Chinese</a></td>
-    <td class="tg-y02l"><a href="https://www.youtube.com/watch?v=CpUUhEWT59Q" target="_blank" rel="noopener noreferrer">Chinese</a></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-y02l"><a href="https://www.youtube.com/watch?v=7ESKY_2SfXU" target="_blank" rel="noopener noreferrer">Malay</a></td>
-    <td class="tg-0pky"></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky"></td>
-    <td class="tg-y02l"><a href="https://www.youtube.com/watch?v=oUAsmTT7Odw" target="_blank" rel="noopener noreferrer">Tamil</a></td>
-    <td class="tg-0pky"></td>
-  </tr>
-</tbody>
-</table>
+
+<u> Entity-Based Requirements
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l6R8ovdrn4g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+* [English](https://youtu.be/l6R8ovdrn4g){:target="_blank"}
+* [Chinese](https://youtu.be/mFkp6e6eAEY){:target="_blank"}
+
+<u> Transaction-Based Requirements
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6HGL8SHrQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+* [English](https://youtu.be/g6HGL8SHrQY){:target="_blank"}
+* [Mandarin](https://youtu.be/CpUUhEWT59Q){:target="_blank"}
+* [Malay](https://youtu.be/7ESKY_2SfXU){:target="_blank"}
+* [Tamil](https://youtu.be/oUAsmTT7Odw){:target="_blank"}
+  
+<u> Must-Know for Foreign Dealers
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KRS30HOmjyk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Requirements for PSMDs Posters**:
 * [Entity-Based Requirements Poster (English)](/images/EntityBasedRequirementsPoster.pdf){:target="_blank"}
