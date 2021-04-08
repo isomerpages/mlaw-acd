@@ -68,3 +68,7 @@ Regulation 21 of the PMLTF Regulations is amended to simplify the notification r
 - any change in the address of the registered dealer given to the Registrar for the service of documents;
 - any change in telephone number, facsimile number, email address or other contact details of the registered dealer; or
 - any change of any key personnel of the registered dealer.
+
+**Frequently Asked Questions**
+ 
+We have collated a list of frequently asked questions on the new requirements. Regulated dealers may wish to refer to these FAQs in the [FAQ section](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx){:target="_blank"}.
