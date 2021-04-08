@@ -1,17 +1,17 @@
 ---
 title: 'New Registration Scheme And Notification Requirements With Effect From 10 April 2021'
-date: 2021-04-07T00:00:00.000Z
+date: 2021-04-10T00:00:00.000Z
 permalink: /news/notices-from-the-registrar/new-registration-scheme-and-notification-requirements-10-Apr-2021
 
 ---
 
 **New Registration Scheme** <br>
 
-For new registrations and renewal applications submitted from 10 April 2021, the following fees, as set out in Regulation 18 of the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations (“**PMLTF Regulations**”), will apply.
+For new registration and renewal applications submitted from 10 April 2021, the following fees, as set out in Regulation 18 of the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations (“**PMLTF Regulations**”), will apply.
 
-- **<u>New applications</u>** – The application fee for new entrants will be reduced from $140 to $120.
+- **<u>New applications</u>** – The application fee for new entrants will be reduced from S$140 to S$120.
 - **<u>Renewal</u>**  – Regulated dealers are no longer required to pay a renewal application fee. This will be factored into the registration fees.
-- **<u>Registration</u>** – Registration fees for new applicants and renewal applications where the <u>net price</u> (Inclusive of GST) of every precious stone, precious metal, precious product or asset-backed token that is <u>or is to be</u> sold by the registered dealer is less than $2,000 apiece, will be $250 per outlet per year. Otherwise, it will be $350 per outlet per year. See table below for schedule.
+- **<u>Registration</u>** – Registration fees for new applicants and renewal applications where the <u>net price</u> (Inclusive of GST) of every precious stone, precious metal, precious product or asset-backed token that is <u>or is to be</u> sold by the registered dealer is less than S$2,000 apiece, will be SS$250 per outlet per year. Otherwise, it will be S$350 per outlet per year. See table below for schedule.
 - **<u>Registration period</u>** – New registrations and renewals will be valid for one (1) year.
 - **<u>Transition period</u>** – Regulated dealers who have a valid registration before 10 April 2021, will continue with their registration until expiry.
 
