@@ -1,6 +1,6 @@
 ---
 title: 'New Registration Scheme And Notification Requirements With Effect From 10 April 2021'
-date: 2021-04-07T00:00:00.000Z
+date: 2021-04-10T00:00:00.000Z
 permalink: /news/notices-from-the-registrar/new-registration-scheme-and-notification-requirements-10-Apr-2021
 
 ---
