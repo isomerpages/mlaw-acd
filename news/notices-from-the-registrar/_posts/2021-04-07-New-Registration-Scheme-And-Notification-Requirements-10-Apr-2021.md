@@ -9,7 +9,7 @@ permalink: /news/notices-from-the-registrar/new-registration-scheme-and-notifica
 
 For new registrations and renewal applications submitted from 10 April 2021, the following fees, as set out in Regulation 18 of the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations (“**PMLTF Regulations**”), will apply.
 
-- <u>**New applications**</u> – The application fee for new entrants will be reduced from $140 to $120.
+- **<u>New applications</u>** – The application fee for new entrants will be reduced from $140 to $120.
 - <u>**Renewal**</u>  – Regulated dealers are no longer required to pay a renewal application fee. This will be factored into the registration fees.
 - <u>**Registration**</u> – Registration fees for new applicants and renewal applications where the <u>net price</u> (Inclusive of GST) of every precious stone, precious metal, precious product or asset-backed token that is <u>or is to be</u> sold by the registered dealer is less than $2,000 apiece, will be $250 per outlet per year. Otherwise, it will be $350 per outlet per year. See table below for schedule.
 - <u>**Registration period**</u> – New registrations and renewals will be valid for one (1) year.
