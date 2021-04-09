@@ -49,7 +49,7 @@ If the Registrar provides in-principle approval for your renewal application, re
 <tbody>
   <tr>
     <td class="tg-1wig" rowspan="2">Class A</td>
-    <td class="tg-0lax" rowspan="2">The registration is subject to a condition that the net price of every precious stone, precious metal, precious product or asset-backed token that is or is to be sold by the registered dealer be less than S$2,000 apiece.</td>
+    <td class="tg-0lax" rowspan="2">The registration is subject to a condition that the net price of every precious stone, precious metal, precious product or asset-backed token that is or is to be sold by the registered dealer be less than S$2,000 a piece.</td>
     <td class="tg-0lax" rowspan="2">S$250 per outlet annually</td>
     <td class="tg-0lax" rowspan="2">To be renewed annually</td>
   </tr>
