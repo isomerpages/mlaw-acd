@@ -11,7 +11,7 @@ For new registration and renewal applications submitted from 10 April 2021, the 
 
 - **<u>New applications</u>** – The application fee for new entrants will be reduced from S$140 to S$120.
 - **<u>Renewal</u>**  – Regulated dealers are no longer required to pay a renewal application fee. This will be factored into the registration fees.
-- **<u>Registration</u>** – Registration fees for new applicants and renewal applications where the <u>net price</u> (Inclusive of GST) of every precious stone, precious metal, precious product or asset-backed token that is <u>or is to be</u> sold by the registered dealer is less than S$2,000 apiece, will be SS$250 per outlet per year. Otherwise, it will be S$350 per outlet per year. See table below for schedule.
+- **<u>Registration</u>** – Registration fees for new applicants and renewal applications where the <u>net price</u> (Inclusive of GST) of every precious stone, precious metal, precious product or asset-backed token that is <u>or is to be</u> sold by the registered dealer is less than S$2,000 a piece, will be SS$250 per outlet per year. Otherwise, it will be S$350 per outlet per year. See table below for schedule.
 - **<u>Registration period</u>** – New registrations and renewals will be valid for one (1) year.
 - **<u>Transition period</u>** – Regulated dealers who have a valid registration before 10 April 2021, will continue with their registration until expiry.
 
@@ -43,7 +43,7 @@ For new registration and renewal applications submitted from 10 April 2021, the 
 <tbody>
   <tr>
     <td class="tg-fymr" rowspan="2">Class A</td>
-    <td class="tg-0pky" rowspan="2">The registration is subject to a condition that the net price of every precious stone, precious metal, precious product or asset-backed token that is or is to be sold by the registered dealer be less than S$2,000 apiece.</td>
+    <td class="tg-0pky" rowspan="2">The registration is subject to a condition that the net price of every precious stone, precious metal, precious product or asset-backed token that is or is to be sold by the registered dealer be less than S$2,000 a piece.</td>
     <td class="tg-0pky" rowspan="2">S$250 per outlet annually</td>
     <td class="tg-0pky" rowspan="2">To be renewed annually</td>
   </tr>
