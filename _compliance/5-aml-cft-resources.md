@@ -19,7 +19,7 @@ You may refer to the [MAS Website Subscriber Services Guide](/images/MAS%20Websi
 
 The IMC-TD acts as Singapore's authority relating to the designation of terrorists. This prohibits any person/ entity from dealing with or providing any financial assistance to designated subjects, as required under the TSOFA.
 
-On MHA’s website on [IMC-TD](https://www.mha.gov.sg/inter-ministry-committee-terrorist-designation-(imc-td)){:target="_blank"}, you will find information on counter terrorism financing legislation, IMC-TD’s process of designation, and relevant news articles.
+On MHA’s website on [IMC-TD](https://www.mha.gov.sg/what-we-do/managing-security-threats/countering-the-financing-of-terrorism){:target="_blank"}, you will find information on counter terrorism financing legislation, IMC-TD’s process of designation, and relevant news articles.
 
 To find out more about your obligations as a regulated dealer on countering terrorism financing, please click [here](/images/Measures%20relating%20to%20prevention%20of%20terrorism%20financing.pdf){:target="_blank"}.
 

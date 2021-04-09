@@ -37,7 +37,7 @@ You may refer to the [MAS Website Subscriber Services Guide](/images/MAS%20Websi
 
 The IMC-TD acts as Singapore's authority relating to the designation of terrorists. This prohibits any person/ entity from dealing with or providing any financial assistance to designated subjects, as required under the TSOFA.
 
-On MHA’s website on [IMC-TD](https://www.mha.gov.sg/inter-ministry-committee-terrorist-designation-(imc-td)){:target="_blank"}, you will find information on counter terrorism financing legislation, IMC-TD’s process of designation, and relevant news articles.
+On MHA’s website on [IMC-TD](https://www.mha.gov.sg/what-we-do/managing-security-threats/countering-the-financing-of-terrorism){:target="_blank"}, you will find information on counter terrorism financing legislation, IMC-TD’s process of designation, and relevant news articles.
 
 To find out more about your obligations as a regulated dealer on countering terrorism financing, please click [here](/images/Measures%20relating%20to%20prevention%20of%20terrorism%20financing.pdf){:target="_blank"}.
 
@@ -84,3 +84,31 @@ This Notice for Customers is available in 4 languages - English, Chinese, Malay 
 #### 6. GoBusiness Licensing Guide for Precious Stones and Precious Metals Dealers ("**GoBusiness Licensing Guide**")
 
 The [GoBusiness Licensing Guide](/images//GoBusiness%20Licensing%20Guide%20For%20Regulated%20Dealers_ACD_20191127.pdf){:target="_blank"} gives regulated dealers a step-by-step walkthrough of the application, renewal and amendment processes in GoBusiness Licensing Portal.
+
+#### 7. Requirements for PSMDs Posters and Videos
+
+**Requirements for PSMDs Videos**:
+
+<u> Entity-Based Requirements
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l6R8ovdrn4g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+* [English](https://youtu.be/l6R8ovdrn4g){:target="_blank"}
+* [Chinese](https://youtu.be/mFkp6e6eAEY){:target="_blank"}
+
+<u> Transaction-Based Requirements
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6HGL8SHrQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+* [English](https://youtu.be/g6HGL8SHrQY){:target="_blank"}
+* [Chinese](https://youtu.be/CpUUhEWT59Q){:target="_blank"}
+* [Malay](https://youtu.be/7ESKY_2SfXU){:target="_blank"}
+* [Tamil](https://youtu.be/oUAsmTT7Odw){:target="_blank"}
+  
+<u> Must-Know for Foreign Dealers
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KRS30HOmjyk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Requirements for PSMDs Posters**:
+* [Entity-Based Requirements Poster (English)](/images/EntityBasedRequirementsPoster.pdf){:target="_blank"}
+* [Transaction-Based Requirements Poster (English)](/images/TransactionBasedRequirementsPoster.pdf){:target="_blank"}
+
+
+
+
+

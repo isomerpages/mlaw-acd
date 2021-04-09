@@ -13,13 +13,16 @@ The transaction-based requirements that apply to regulated dealers include, but 
 * Perform Customer Due Diligence ("**CDD**") or Enhanced Customer Due Diligence ("**ECDD**") measures under circumstances that are prescribed by the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019 ("**PSPM Act**").<br>
 * File Cash Transaction Report ("**CTR**") with the [Suspicious Transaction Reporting Office ("**STRO**")](https://www.police.gov.sg/advisories/crime/commercial-crimes/suspicious-transaction-reporting-office){:target="_blank"} for cash and cash equivalent transactions exceeding S$20,000. Apply for a [STRO Online Notices and Reporting platform ("**SONAR**") account](https://www.police.gov.sg/sonar){:target="_blank"} to e-file your CTR. By e-filing via SONAR, a copy of the CTR would be extended to ACD. <br>
 * File Suspicious Transaction Report ("**STR**") with [STRO](https://www.police.gov.sg/advisories/crime/commercial-crimes/suspicious-transaction-reporting-office){:target="_blank"} where there is suspicion of ML/TF. Apply for a [SONAR account](https://www.police.gov.sg/sonar){:target="_blank"} to e-file your STR. By e-filing via SONAR, a copy of the STR would be extended to ACD.<br>
-* Subscribe to the [Monetary Authority of Singapore ("**MAS**")](https://www.mas.gov.sg/subscription-services){:target="_blank"} and [Ministry of Home Affairs ("**MHA**")](https://www.mha.gov.sg/inter-ministry-committee-terrorist-designation-(imc-td)){:target="_blank"} websites for the lists of designated individuals and entities and terrorist designation. You will be alerted via email whenever there is an update to the lists.
+* Subscribe to the [Monetary Authority of Singapore ("**MAS**")](https://www.mas.gov.sg/subscription-services){:target="_blank"} and [Ministry of Home Affairs ("**MHA**")](https://www.mha.gov.sg/what-we-do/managing-security-threats/countering-the-financing-of-terrorism){:target="_blank"} websites for the lists of designated individuals and entities and terrorist designation. You will be alerted via email whenever there is an update to the lists.
 
 **Transaction-Based Requirements for Precious Stones and Precious Metals Dealers (“PSMD”):** Watch the videos to find out more about the transaction-based requirements.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6HGL8SHrQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 * [English](https://youtu.be/g6HGL8SHrQY){:target="_blank"}
 * [Mandarin](https://youtu.be/CpUUhEWT59Q){:target="_blank"}
 * [Malay](https://youtu.be/7ESKY_2SfXU){:target="_blank"}
 * [Tamil](https://youtu.be/oUAsmTT7Odw){:target="_blank"}
+
+<a href="/images/TransactionBasedRequirementsPoster.pdf" target="_blank"><img src="/images/TransactionBasedRequirementsPoster.png"></a> <br>
 
 #### <a id="Customer Due Diligence"></a> Customer Due Diligence
 

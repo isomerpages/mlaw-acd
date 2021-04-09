@@ -6,7 +6,7 @@ breadcrumb: Registration
 ---
 
 
-<a href="#Registration">Registration </a> | <a href="#Who is Required to Register?">Who is Required to Register? </a> |<a href="#Registration Application Process">Registration Application Process </a> | <a href="#Information Needed">Information Needed</a> | <a href="#Fees, Registering your Place(s) of Business and Period of Registration">Fees, Registering your Place(s) of Business and Period of Registration </a> | <a href="#I Need Help with Registration">I Need Help with Registration </a>
+<a href="#Registration">Registration </a> | <a href="#Who is Required to Register?">Who is Required to Register? </a> | <a href="#Fees and Registering your Place(s) of Business">Fees and Registering your Place(s) of Business </a> |<a href="#Registration Application Process">Registration Application Process </a> | <a href="#Information Needed">Information Needed</a> | <a href="#I Need Help with Registration">I Need Help with Registration </a>
 
 #### <a id="Registration"></a> Registration
 
@@ -23,6 +23,113 @@ Examples of regulated dealers who are required to register include, but are not 
 Foreign dealers may refer [here](/regulatory-regime/#Regulatory%20Compliance%20for%20Foreign%20Dealers) on the requirements to register.
 
 Please refer to the [PSPM Act](https://sso.agc.gov.sg/Act/PSPMPMLTFA2019){:target="_blank"} for the official definitions. If you are not certain whether you are required to register, you may wish to seek legal advice.
+
+#### <a id="Fees and Registering your Place(s) of Business"></a> Fees and Registering your Place(s) of Business
+
+Regulated dealers must pay an application fee of S$120 to register with the Registrar. All payment must be made through [GoBusiness Licensing Portal](https://www.gobusiness.gov.sg/licences){:target="_blank"}.  
+  
+Registration is on an annual basis. If the Registrar provides in-principle approval for your application, you must pay a registration fee based on the registration tier and the number of outlets operated:
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-fzo1{background-color:#DAE8FC;border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-fymr{border-color:inherit;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 100%">
+<colgroup>
+<col style="width: 25%">
+<col style="width: 30%">
+<col style="width: 25%">
+<col style="width: 20%">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-fzo1">Registration Tier Available</th>
+    <th class="tg-fzo1">Registration Condition Imposed </th>
+    <th class="tg-fzo1">Registration Fees</th>
+    <th class="tg-fzo1">Duration</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-fymr" rowspan="2">Class A</td>
+    <td class="tg-0pky" rowspan="2">The registration is subject to a condition that the net price of every precious stone, precious metal, precious product or asset-backed token that is or is to be sold by the registered dealer be less than S$2,000 a piece.</td>
+    <td class="tg-0pky" rowspan="2">S$250 per outlet annually</td>
+    <td class="tg-0pky" rowspan="2">To be renewed annually</td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+    <td class="tg-fymr" rowspan="2">Class B</td>
+    <td class="tg-0pky" rowspan="2">The registered dealer is allowed to sell precious stones, precious metals, precious products or asset-backed tokens of any value.</td>
+    <td class="tg-0pky" rowspan="2">S$350 per outlet annually</td>
+    <td class="tg-0pky" rowspan="2">To be renewed annually</td>
+  </tr>
+  <tr>
+  </tr>
+</tbody>
+</table>
+
+**Illustration:**  
+Regulated dealer "ABC Pte Ltd" has two places of business:  
+  
+1. One flagship jewellery outlet in Marina Bay Sands; and  
+2. One jewellery outlet in Bugis.  
+  
+ABC Pte Ltd applies for a Class B Certificate of Registration.  
+  
+ABC Pte Ltd must pay a total of **S$820**:
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-cly1{text-align:left;vertical-align:middle}
+.tg .tg-1wig{font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-o8ut{background-color:#dae8fc;color:#323232;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-ekg0{background-color:#EFEFEF;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-yla0{font-weight:bold;text-align:left;vertical-align:middle}
+</style>
+<table class="tg" style="undefined;table-layout: fixed; width: 100%">
+<colgroup>
+<col style="width: 70%">
+<col style="width: 30%">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-o8ut">Type of Fee</th>
+    <th class="tg-o8ut">Working</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-0lax">Application fee</td>
+    <td class="tg-1wig">S$120</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Registration fee for Class B:</td>
+    <td class="tg-0lax">S$350</td>
+  </tr>
+  <tr>
+    <td class="tg-cly1">2 places of business</td>
+    <td class="tg-cly1">x 2</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax"> </td>
+    <td class="tg-yla0">S$700</td>
+  </tr>
+  <tr>
+    <td class="tg-ekg0">Grand Total:</td>
+    <td class="tg-ekg0">S$820</td>
+  </tr>
+</tbody>
+</table>
 
 #### <a id="Registration Application Process"></a> Registration Application Process
 <a href="/images/Overview%20of%20Reg%20Process%2020191031.pdf" target="_blank"><img src="/images/Overview%20of%20Reg%20Process%2020191031.png"></a> <br>
@@ -96,77 +203,6 @@ You may submit your application via the [GoBusiness Licensing Portal](https://ww
   </tr>
 </table>
 
-#### <a id="Fees, Registering your Place(s) of Business and Period of Registration"></a> Fees, Registering your Place(s) of Business and Period of Registration
-<b>Fees and registering your place(s) of business</b><br>
-Regulated dealers must pay an application fee of S$140 for each application to register with the Registrar. All payment must be made through [GoBusiness Licensing Portal](https://www.gobusiness.gov.sg/licences){:target="_blank"} using the following e-payment methods: PayPal, VISA, MasterCard, American Express or Discover.<br><br>
-If the Registrar provides in-principle approval for your application, regulated dealers must pay a registration fee of S$300 per [place of business](https://acd.mlaw.gov.sg/registration-of-temporary-outlets/){:target="_blank"} per year calculated based on the number of outlets you operate and the period for which you register.
-<table>
-  <tr>
-    <th></th>
-    <th>Application fee</th>
-    <th>Registration fee</th>
-  </tr>
-  <tr>
-    <td>Sum <br>payable</td>
-    <td>S$140 <br>per application</td>
-    <td>S$300 <br>per place of business<br>per year of registration</td>
-  </tr>
-</table>
-
-<b>Period of registration</b><br>
-An applicant may apply for a specific class of registration that will determine the period of registration, i.e.:
-1.  Class 1 (1 year duration);
-2.  Class 2 (2 year duration); and
-3.  Class 3 (3 year duration).
-
-For the avoidance of doubt, the Registrar has the discretion to grant a different class of registration than the class of registration applied for.
-
-<table>
-  <tr>
-    <td>
-<b>Illustration:</b>
-<br>Regulated dealer "ABC Pte Ltd" has two places of business:<br><br>
-1.    one flagship jewellery outlet in Marina Bay Sands; and<br>
-2.    one jewellery outlet in Bugis.<br><br>
-ABC Pte Ltd applies for a Class 3 Certificate of Registration.<br><br> 
-ABC Pte Ltd must pay a total of <b>S$1,940</b>:<br>
-      
-  <style type="text/css">
-  .tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
-  .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-  .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-  .tg .tg-dvid{font-weight:bold;background-color:#efefef;border-color:inherit;text-align:left;vertical-align:top}
-  .tg .tg-1gim{font-weight:bold;background-color:#efefef;border-color:inherit;text-align:center}
-  .tg .tg-xldj{border-color:inherit;text-align:left}
-  .tg .tg-quj4{border-color:inherit;text-align:right}
-  .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-  .tg .tg-dvpl{border-color:inherit;text-align:right;vertical-align:top}
-  .tg .tg-8i46{font-weight:bold;text-decoration:underline;background-color:#efefef;border-color:inherit;text-align:right;vertical-align:top}
-  </style>
-      
-  <table class="tg">
-    <tr>
-      <th class="tg-1gim">Type of Fee</th>
-      <th class="tg-1gim">Working</th>
-    </tr>
-    <tr>
-      <td class="tg-xldj">Application fee</td>
-      <td class="tg-quj4"><span style="font-weight:bold">S$140</span></td>
-    </tr>
-    <tr>
-      <td class="tg-0pky">Registration fee for:<br>2 places of business<br>3 years of registration</td>
-      <td class="tg-dvpl">S$300<span style="font-weight:bold"> </span><br>x 2 <br><span style="text-decoration:underline">x 3</span><br><span style="font-weight:bold">S$1,800</span></td>
-    </tr>
-    <tr>
-      <td class="tg-dvid">Grand Total:</td>
-      <td class="tg-8i46">S$1,940</td>
-  </tr>
-</table>
-                   
-    </td>
-  </tr>
-</table>
-
 
 #### <a id="I Need Help with Registration"></a> I Need Help with Registration
 <a href="/images/Helplines_20191127.pdf" target="_blank"><img src="/images/Helplines_20191127.png"></a>
@@ -174,3 +210,4 @@ ABC Pte Ltd must pay a total of <b>S$1,940</b>:<br>
 * If you face any technical issues when using GoBusiness Licensing Portal, you may wish to refer to the [GoBusiness Licensing Portal webpage](https://www.gobusiness.gov.sg/licences){:target="_blank"} or contact [GoBusiness Licensing Portal Helpdesk](https://www.ifaq.gov.sg/GoBusiness/apps/fcd_faqmain.aspx){:target="_blank"}.
 * If you are not sure how to complete the application form, you may wish to refer to the [GoBusiness Licensing Portal Guide for Regulated Dealers (Step-by-Step with Screenshots)](/images/GoBusiness%20Licensing%20Guide%20For%20Regulated%20Dealers_ACD_20191127.pdf){:target="_blank"} or [FAQs for Precious Stones and Precious Metals Dealers](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx){:target="_blank"}.
 * Regulated dealers should also visit [here](/Public-Statements-relating-to-PSPM-Registration-and-use-of-Ministry-of-Law-Logo/) for information on the use of public statements relating to your PSPM registration and the Ministry of Law logo.
+
