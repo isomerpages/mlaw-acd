@@ -2,7 +2,7 @@
 layout: homepage
 title: 'Ministry of Law - ACD'
 permalink: /
-notification: <a href="/news/notices-from-the-registrar/february-2021-fatf-statement/" target="_blank">FATF Public Statement - Countries/Jurisdictions with Strategic Deficiencies (latest!)</a>
+notification: <a href="/news/upcoming-events/sign-up-for-online-training-on-submission-of-semi-annual-returns/" target="_blank">Sign up for Online Training on Submission of semi-Annual Returns!</a>
 sections:
     - hero:
           title: 'Regulatory Regime for Precious Stones and Precious Metals Dealers'
