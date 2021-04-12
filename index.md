@@ -2,7 +2,7 @@
 layout: homepage
 title: 'Ministry of Law - ACD'
 permalink: /
-notification: <a href="/news/upcoming-events/sign-up-for-online-training-on-submission-of-semi-annual-returns/" target="_blank">Sign up for Online Training on Submission of semi-Annual Returns!</a>
+notification: <a href="/news/upcoming-events/sign-up-for-online-training-on-submission-of-semi-annual-returns/" target="_blank">Sign Up for Online Training on Submission of Semi-Annual Returns!</a>
 sections:
     - hero:
           title: 'Regulatory Regime for Precious Stones and Precious Metals Dealers'
