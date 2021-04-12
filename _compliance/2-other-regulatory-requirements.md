@@ -17,6 +17,8 @@ With effect from 1 January 2021, regulated dealers are required to submit mandat
 Regulated dealers should refer to the [content for reporting](/images/Content for Reporting_20201229 (Final).xlsx){:target="_blank"} set out by the Ministry of Law to understand the reporting requirement and ensure that the information are collected in the required format during the reporting period.
  
 Regulated dealers will have to submit the semi-annual returns electronically through the upcoming e-Portal for regulated dealers.
+
+Please click [here](https://acd.mlaw.gov.sg/news/upcoming-events/sign-up-for-online-training-on-submission-of-semi-annual-returns/){:target="_blank"} to find out more about online training on submission of semi-annual returns.
  
 Please click [here](https://acd.mlaw.gov.sg/news/notices-from-the-registrar/reporting-requirement-for-regulated-dealers-with-effect-from-1-january-2021){:target="_blank"} to view the notice on the reporting requirement issued by the Registrar. You may also refer to the [FAQs](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx){:target="_blank"} for more information on the reporting requirement.
 
