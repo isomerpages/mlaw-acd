@@ -214,5 +214,7 @@ You may submit your application via the [GoBusiness Licensing Portal](https://ww
 
 #### <a id="Cancellation of Registration"></a> Cancellation of Registration
 
-If you do not wish to continue operating as a registered dealer, you may cancel your registration with ACD by submitting a cancellation application via the [GoBusiness Licensing Portal](https://www.gobusiness.gov.sg/licences){:target="_blank"}. 
+If you do not wish to continue operating as a registered dealer (i.e. you are neither carrying on the business of regulated dealing nor business as an intermediary for regulated dealing), submit a cancellation application via the [GoBusiness Licensing Portal](https://www.gobusiness.gov.sg/licences){:target="_blank"}. Fees are not payable for cancellation application.
+
+
 
