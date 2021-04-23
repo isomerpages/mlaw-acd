@@ -28,6 +28,12 @@ Pursuant to the Precious Stones and Precious Metals (Prevention of Money Launder
 
 <a href="/images/Duty to Notify Registrar of Changes table_Final v2_20201217.pdf"><img src="/images/Duty to Notify Registrar of Changes table_Final v2_20201217.png"></a>
 
+**Note: Cancellation of Registration**
+
+If you do not wish to continue operating as a registered dealer (i.e. you are neither carrying on the business of regulated dealing nor business as an intermediary for regulated dealing), submit a cancellation application via the [GoBusiness Licensing Portal](https://www.gobusiness.gov.sg/licences){:target="_blank"}. Fees are not payable for cancellation application.
+
+
+
 #### <a id="Ongoing Monitoring of Transactions"></a> Ongoing Monitoring of Transactions
 
 Regulated dealers are required to conduct ongoing monitoring of the transactions carried out by your customer to ascertain that they are consistent with your knowledge of the customer.
