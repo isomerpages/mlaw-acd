@@ -8,7 +8,7 @@ permalink: /news/ongoing-events/Compliance-Training/
 
 The Anti-Money Laundering/Countering the Financing of Terrorism Division ("**ACD**") of the Ministry of Law is organising a Compliance Training for the registered dealers in the Precious Stones and Precious Metals Dealers ("**PSMD**") sector. The Compliance Training is now only available online in English. We will launch the Mandarin sessions at a later date. If you are unable to attend the current available dates, you may sign up for future dates as MinLaw will be running the Compliance Training till end of 2021. 
 
-The Compliance Training aims to enable your customer-facing staff and compliance officer to fulfill the transaction-based requirements with knowledge on when and how to perform Customer Due Diligence (“**CDD**”) and Enhanced Customer Due Diligence (“**ECDD**”) and when and how to file Cash Transaction Report (“**CTR**”) and Suspicious Transaction Report (“**STR**”).
+The Compliance Training aims to enable your customer-facing staff and compliance officer to fulfil the transaction-based requirements with knowledge on when and how to perform Customer Due Diligence (“**CDD**”) and Enhanced Customer Due Diligence (“**ECDD**”) and when and how to file Cash Transaction Report (“**CTR**”) and Suspicious Transaction Report (“**STR**”).
 
 **Training objectives:**
 
