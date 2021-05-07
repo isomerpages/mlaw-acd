@@ -20,6 +20,8 @@ links:
             external: true	
           - title: Notices from the Registrar	
             url: /news/notices-from-the-registrar/
+          - title: Guidance Papers
+            url: /guidance-papers/
   - title: 'Regulated Dealers'
     collection: regulated-dealers
   - title: Compliance
