@@ -29,7 +29,7 @@ width: 30%;
 | 1 | Submit a Registration or Renewal application | <a href="https://www.gobusiness.gov.sg/licences">GoBusiness Licensing portal</a>{:target="_blank"}  | [Registration](/registration/){:target="_blank"}/[Renewal](/renewal/){:target="_blank"} |
 | 2 |Submit a change in your company details | <a href="https://www.bizfile.gov.sg">ACRA<sup>1</sup></a>{:target="_blank"}  | [Duty to Notify Registrar of Change in Particulars and Circumstances](/other-regulatory-requirements/){:target="_blank"} |
 | 3 | Submit a Cash Transaction Report ("**CTR**") or Suspicious Transaction Report ("**STR"**) | <a href="https://www.police.gov.sg/sonar">SONAR<sup>2</sup></a>{:target="_blank"}  | [Transaction-Based Requirements](/transaction-based-requirements/){:target="_blank"} |
-| 4 | Submit semi-annual return and access monitoring lists | myPal (to be announced in June)  | [Reporting Requirements](/reporting-requirements/){:target="_blank"} |
+| 4 | Submit semi-annual return and access monitoring lists | myPal <br> (to be announced in June)  | [Reporting Requirements](/other-regulatory-requirements/#Reporting%20Requirement){:target="_blank"} |
 
 <br>
 <style type="text/css">
