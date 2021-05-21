@@ -14,7 +14,7 @@ On 3 April 2020, additional safe distancing measures were announced as Singapore
 
 For online and retail businesses which can continue to operate with telecommuting, the threat of fraud and illicit finance remains. We hope to remind you to keep your relevant employees updated of the developing financial crime risks, so that they remain vigilant against criminal activities, such as money laundering, terrorism and proliferation financing. You should also ensure that all anti-money laundering and countering the financing of terrorism (AML/CFT) measures are in place, such as conducting the appropriate level of Customer Due Diligence (CDD), focusing on higher risk transactions and higher risk customers, and reporting suspicious transactions via the [SONAR platform](https://www.police.gov.sg/sonar){:target="_blank"}.
 
-Our website will continue to provide you with guidance and advice on how to implement your AML/CFT policies and processes. We are working on providing more online learning materials as our face-to-face AML/CFT workshops have been put on hold. Should you require more information on AML/CFT measures, please refer to our [Guidelines for Regulated Dealers](/images/Guidelines%20for%20regulated%20dealers_20201214_V2.0Final.pdf){:target="_blank"} or reach us [here](https://eservices.mlaw.gov.sg/enquiry/){:target="_blank"}.
+Our website will continue to provide you with guidance and advice on how to implement your AML/CFT policies and processes. We are working on providing more online learning materials as our face-to-face AML/CFT workshops have been put on hold. Should you require more information on AML/CFT measures, please refer to our [Guidelines for Regulated Dealers](/images/Guidelines for regulated dealers_20201214_V2.0Final (Updated).pdf){:target="_blank"} or reach us [here](https://eservices.mlaw.gov.sg/enquiry/){:target="_blank"}.
 
 **Support for SMEs**
 
@@ -30,7 +30,7 @@ On 6 April 2020, the Solidarity Budget was announced by the Government to provid
 
 **Stay safe**
 
-Thank you for playing your part in keeping your business and Singapore safe from criminal abuse during this difficult period.  We urge all dealers to remain vigilant against crime, stay safe and abide by the advisories issued by the Government to reduce the risk of further local transmission of COVID-19. More information on the advisories can be found [here](https://www.moh.gov.sg/covid-19/advisories-for-various-sectors){:target="_blank"}.
+Thank you for playing your part in keeping your business and Singapore safe from criminal abuse during this difficult period.  We urge all dealers to remain vigilant against crime, stay safe and abide by the advisories issued by the Government to reduce the risk of further local transmission of COVID-19. More information on the advisories can be found [here](https://www.moh.gov.sg/covid-19/){:target="_blank"}.
 
 Yours sincerely,
 
