@@ -29,7 +29,7 @@ Pursuant to the Precious Stones and Precious Metals (Prevention of Money Launder
 <a href="/images/Duty to Notify Registrar of Changes table_Final v3_20210604.pdf"><img src="/images/Duty to Notify Registrar of Changes table_Final v3_20210604.png"></a>
 
 **Note: Cancellation of Registration**
-Duty to Notify Registrar of Changes table_Final v2_20201217.pdf
+Duty to Notify Registrar of Changes table_Final v3_20210604.pdf
 If you do not wish to continue operating as a registered dealer (i.e. you are neither carrying on the business of regulated dealing nor business as an intermediary for regulated dealing), submit a cancellation application via the [GoBusiness Licensing Portal](https://www.gobusiness.gov.sg/licences){:target="_blank"}. Fees are not payable for cancellation application.
 
 
