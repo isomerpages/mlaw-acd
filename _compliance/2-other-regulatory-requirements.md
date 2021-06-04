@@ -22,11 +22,7 @@ Please click [here](https://acd.mlaw.gov.sg/news/past-events/sign-up-for-online-
  
 Please click [here](https://acd.mlaw.gov.sg/news/notices-from-the-registrar/reporting-requirement-for-regulated-dealers-with-effect-from-1-january-2021){:target="_blank"} to view the notice on the reporting requirement issued by the Registrar. You may also refer to the [FAQs](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx){:target="_blank"} for more information on the reporting requirement.
 
-#### <a id="Duty to Notify Registrar of Change in ParticRegulated dealers will have to submit the semi-annual returns electronically through the upcoming e-Portal for regulated dealers.
-20
-​
-21
-Please click [here](https://acd.mlaw.gov.sg/news/upcoming-events/sign-up-for-online-training-on-submission-of-semi-annual-returns/){:target="_blank"} to find out more about online training on submission of semi-annual returnsulars and Circumstances"></a> Duty to Notify Registrar of Change in Particulars and Circumstances
+#### <a id="Duty to Notify Registrar of Change in Particulars and Circumstances"></a> Duty to Notify Registrar of Change in Particulars and Circumstances
 
 Pursuant to the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations (“**PMLTF Regulations**”), registered dealers have the duty to notify the Registrar of Regulated Dealers of change in particulars and circumstances.
 
