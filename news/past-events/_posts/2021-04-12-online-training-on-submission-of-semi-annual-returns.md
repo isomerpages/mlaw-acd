@@ -13,7 +13,7 @@ The training aims to provide guidance on:
  - understanding the information required for submission; and
  - how to submit the semi-annual returns.
 
-We would like to thank all participants for their support of this event. Please stay tuned to our website for the upcoming semi-annual return instruction guide and demo video!
+We would like to thank all participants for their support of this event. Please stay tuned to our website for the upcoming semi-annual return instruction guide and guidance video!
 
 Please refer to the ["**FAQs**"](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx){:target="_blank"} under the Precious Stones and Precious Metals Dealers section for Frequently Asked Questions relating to the regulatory regime. For further queries, please click [here](https://eservices.mlaw.gov.sg/enquiry/){:target="_blank"}.
 
