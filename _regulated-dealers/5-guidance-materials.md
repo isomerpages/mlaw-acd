@@ -112,6 +112,9 @@ The [GoBusiness Licensing Guide](/images//GoBusiness%20Licensing%20Guide%20For%2
 <u> Must-Know for Foreign Dealers
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KRS30HOmjyk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<u> Submission of Semi-Annual Return using <i>my</i>Pal
+<iframe width="560" height="315" src="https://youtu.be/Jpcj4iYSOSM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  
 **Requirements for PSMDs Posters**:
 * [Entity-Based Requirements Poster (English)](/images/EntityBasedRequirementsPoster.pdf){:target="_blank"}
 * [Transaction-Based Requirements Poster (English)](/images/TransactionBasedRequirementsPoster.pdf){:target="_blank"}
