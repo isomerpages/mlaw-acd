@@ -32,7 +32,7 @@ Regulated dealers are required to keep records of the customer due diligence ("*
 
 MinLaw conducted a series of inspections and compliance reviews of regulated dealers targeted at assessing their level of compliance with the PSPM Act and PMLTF Regulations.
 
-The [Guidance Paper](/images/Guidance Paper_20210616.pdf){:target="_blank"} sets out the key findings and MinLaw’s supervisory expectations of effective AML/CFT controls in PSMD Sector. 
+The [Guidance Paper](/images/Guidance Paper_20210616.pdf){:target="_blank"} sets out the key findings and MinLaw’s supervisory expectations of effective AML/CFT controls in the precious stones and precious metals dealer ("**PSMD**") Sector. 
 
 Regulated dealers should study the learning points and incorporate them in a manner proportionate to the risk profile of their business activities and customers. The regulated dealers should note that examples highlighted in this paper are non-exhaustive and they should continue to implement appropriate AML/CFT controls that commensurate with the nature and complexity of their business.
 
