@@ -9,7 +9,7 @@ The [Guidance Paper on Strengthening AML/CFT Controls in the PSPM Sector (“**G
  
 MinLaw conducted a series of inspections and compliance reviews of regulated dealers from June 2020 to March 2021 targeted at assessing their level of the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019 and Regulations.
 
-The Guidance Paper summarises the key findings and elaborates on the sound practices observed and Minlaw’s supervisory expectations of effective AML/CFT controls in the PSMD Sector.  
+The Guidance Paper summarises the key findings and elaborates on the sound practices observed and MinLaw’s supervisory expectations of effective AML/CFT controls in the PSMD Sector.  
 
 In the Guidance Paper, MinLaw has identified four key areas for improvement, namely:
 
