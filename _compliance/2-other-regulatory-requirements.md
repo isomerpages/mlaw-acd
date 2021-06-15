@@ -16,9 +16,9 @@ With effect from 1 January 2021, regulated dealers are required to submit mandat
 
 Regulated dealers should refer to the [content for reporting](/images/Content for Reporting_20201229 (Final).xlsx){:target="_blank"} set out by the Ministry of Law to understand the reporting requirement and ensure that the information are collected in the required format during the reporting period.
  
-Regulated dealers will have to submit the semi-annual returns electronically through the upcoming my Precious Stones and Precious Metals Dealer’s Portal (_my_Pal).
+Regulated dealers will have to submit the semi-annual returns electronically through the upcoming my Precious Stones and Precious Metals Dealer’s Portal (<i>my</i>Pal).
 
-Please watch this [guidance video](https://youtu.be/Jpcj4iYSOSM){:target="_blank"} to preview myPal and how to submit the semi-annual returns.
+Please watch this [guidance video](https://youtu.be/Jpcj4iYSOSM){:target="_blank"} to preview <i>my</i>Pal and how to submit the semi-annual returns.
  
 Please click [here](https://acd.mlaw.gov.sg/news/notices-from-the-registrar/reporting-requirement-for-regulated-dealers-with-effect-from-1-january-2021){:target="_blank"} to view the notice on the reporting requirement issued by the Registrar. You may also refer to the [FAQs](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx){:target="_blank"} for more information on the reporting requirement.
 
@@ -26,7 +26,7 @@ Please click [here](https://acd.mlaw.gov.sg/news/notices-from-the-registrar/repo
 
 Pursuant to the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations (“**PMLTF Regulations**”), registered dealers have the duty to notify the Registrar of Regulated Dealers of change in particulars and circumstances.
 
-<a href="/images/Duty to Notify Registrar of Changes table_Final v3_20210604.pdf"><img src="/images/Duty to Notify Registrar of Changes table_Final v3_20210604.png"></a>
+<a href="/images/Duty to Notify Registrar oamend f Changes table_Final v3_20210604.pdf"><img src="/images/Duty to Notify Registrar of Changes table_Final v3_20210604.png"></a>
 
 **Note: Cancellation of Registration**
 
