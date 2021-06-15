@@ -31,7 +31,7 @@ Each key area for improvement comprises the following elements:
 
 4. Key learning points – To highlight MinLaw’s supervisory expectations.
 
-MinLaw will be conducting online briefings on 7 July 2021 and 12 July 2021 to take regulated dealers through the Guidance Paper. The briefings will only be available in English. Each dealer may only send 1 representative to attend. Please click on the [link](https://go.gov.sg/pspm-guidance-paper-2021) to sign up.
+MinLaw will be conducting online briefings on 7 July 2021 and 12 July 2021 to take regulated dealers through the Guidance Paper. The briefings will only be available in English. Each dealer may only send 1 representative to attend. Please click on the [link](https://go.gov.sg/pspm-guidance-paper-2021){:target="_blank"} to sign up.
 
 **FOR REGULATED DEALERS TO TAKE ACTION**:
 
@@ -39,4 +39,4 @@ MinLaw will be conducting online briefings on 7 July 2021 and 12 July 2021 to ta
 
 - Regulated dealers should evaluate the effectiveness of their AML/CFT measures against the findings and good practices highlighted in this Guidance Paper and take appropriate steps to address any gaps.
 
-- Regulated dealers may wish to attend MinLaw’s briefings on 7 July and 12 July 2021. Interested dealers may sign up for the briefings [here](https://go.gov.sg/pspm-guidance-paper-2021).
+- Regulated dealers may wish to attend MinLaw’s briefings on 7 July and 12 July 2021. Interested dealers may sign up for the briefings [here](https://go.gov.sg/pspm-guidance-paper-2021){:target="_blank"}.
