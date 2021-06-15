@@ -28,7 +28,7 @@ The Guidelines also provide [sample forms and checklists<sup>1</sup>](/images/Gu
 
 Regulated dealers are required to keep records of the customer due diligence ("**CDD**") and enhanced customer due diligence ("**ECDD**") performed. The [sample forms](/images/Sample CDD and ECDD Form (Version 2.0) Final (Updated).docx) are extracted from the Guidelines and available in Microsoft Word document format for ease of editing. <br>
 
-#### 3. Guidance Paper on Strengthening AML/CFT Controls in the PSPM Sector
+#### 3. Guidance Paper on Strengthening AML/CFT Controls in the Precious Stones and Precious Metals (PSPM) Sector
 
 MinLaw conducted a series of inspections and compliance reviews of regulated dealers targeted at assessing their level of compliance with the PSPM Act and PMLTF Regulations.
 
