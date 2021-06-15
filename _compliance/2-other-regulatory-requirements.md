@@ -16,7 +16,7 @@ With effect from 1 January 2021, regulated dealers are required to submit mandat
 
 Regulated dealers should refer to the [content for reporting](/images/Content for Reporting_20201229 (Final).xlsx){:target="_blank"} set out by the Ministry of Law to understand the reporting requirement and ensure that the information are collected in the required format during the reporting period.
  
-Regulated dealers will have to submit the semi-annual returns electronically through the upcoming my Precious Stones and Precious Metals Dealer’s Portal (<i>my</i>Pal).
+Regulated dealers will have to submit the semi-annual returns electronically through the upcoming <i>my</i> Precious Stones and Precious Metals Dealer’s Portal (<i>my</i>Pal).
 
 Please watch this [guidance video](https://youtu.be/Jpcj4iYSOSM){:target="_blank"} to preview <i>my</i>Pal and how to submit the semi-annual returns.
  
