@@ -1,6 +1,6 @@
 ---
 title: 'Guidance Paper on Strengthening AML/CFT Controls in the PSPM Sector issued on 16 June 2021'
-date: 2021-06-16T00:00:00.000Z
+date: 2021-06-15T00:00:00.000Z
 permalink: /news/notices-from-the-registrar/guidance-paper-issued-on-16-jun-2021
 
 ---
