@@ -93,9 +93,9 @@ This Notice for Customers is available in 4 languages - English, Chinese, Malay 
 
 The [GoBusiness Licensing Guide](/images//GoBusiness%20Licensing%20Guide%20For%20Regulated%20Dealers_ACD_20191127.pdf){:target="_blank"} gives regulated dealers a step-by-step walkthrough of the application, renewal and amendment processes in GoBusiness Licensing Portal.
 
-#### 8. Requirements for PSMDs Posters and Videos
+#### 8. Videos and Posters
 
-**Requirements for PSMDs Videos**:
+The following videos and posters provide useful summary to the regulatory requirements for regulated dealers.
 
 <u> Entity-Based Requirements
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l6R8ovdrn4g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
