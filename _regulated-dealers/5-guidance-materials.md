@@ -28,12 +28,20 @@ The Guidelines also provide [sample forms and checklists<sup>1</sup>](/images/Gu
 
 Regulated dealers are required to keep records of the customer due diligence ("**CDD**") and enhanced customer due diligence ("**ECDD**") performed. The [sample forms](/images/Sample CDD and ECDD Form (Version 2.0) Final (Updated).docx) are extracted from the Guidelines and available in Microsoft Word document format for ease of editing. <br>
 
-#### 3. Monetary Authority of Singapore's ("**MAS**") website - Lists of Designated Individuals and Entities
+#### 3. Guidance Paper on Strengthening AML/CFT Controls in the Precious Stones and Precious Metals (PSPM) Sector
+
+MinLaw conducted a series of inspections and compliance reviews of regulated dealers targeted at assessing their level of compliance with the PSPM Act and PMLTF Regulations.
+
+The [Guidance Paper](/images/Guidance Paper_20210616.pdf){:target="_blank"} sets out the key findings and MinLaw’s supervisory expectations of effective AML/CFT controls in the precious stones and precious metals dealer ("**PSMD**") Sector. 
+
+Regulated dealers should study the learning points and incorporate them in a manner proportionate to the risk profile of their business activities and customers. The regulated dealers should note that examples highlighted in this paper are non-exhaustive and they should continue to implement appropriate AML/CFT controls that commensurate with the nature and complexity of their business.
+
+#### 4. Monetary Authority of Singapore's ("**MAS**") website - Lists of Designated Individuals and Entities
 
 MAS publishes [lists](https://www.mas.gov.sg/regulation/anti-money-laundering/targeted-financial-sanctions/lists-of-designated-individuals-and-entities){:target="_blank"} of individuals and entities designated under the United Nations Act ("**UN Act**") and the Terrorism (Suppression of Financing) Act ("**TSOFA**"). Regulated dealers should [subscribe](https://www.mas.gov.sg/subscription-services){:target="_blank"} to the MAS mailing list to receive updated lists of designated individuals and entities. Regulated dealers are required to screen their customers against the lists before engaging in any business or commercial activity with them.<br><br>
 You may refer to the [MAS Website Subscriber Services Guide](/images/MAS%20Website%20Subscriber%20Services%20Guide_20191105_V1Final.pdf){:target="_blank"} for a step-by-step guide to the subscription process.<br>
 
-#### 4. Inter-Ministry Committee on Terrorist Designation ("**IMC-TD**")
+#### 5. Inter-Ministry Committee on Terrorist Designation ("**IMC-TD**")
 
 The IMC-TD acts as Singapore's authority relating to the designation of terrorists. This prohibits any person/ entity from dealing with or providing any financial assistance to designated subjects, as required under the TSOFA.
 
@@ -41,7 +49,7 @@ On MHA’s website on [IMC-TD](https://www.mha.gov.sg/what-we-do/managing-securi
 
 To find out more about your obligations as a regulated dealer on countering terrorism financing, please click [here](/images/Measures%20relating%20to%20prevention%20of%20terrorism%20financing.pdf){:target="_blank"}.
 
-#### 5. Notice for Customers from the Ministry of Law ("**Notice for Customers**")
+#### 6. Notice for Customers from the Ministry of Law ("**Notice for Customers**")
 
 The Notice for Customers explains that regulated dealers are required to collect identifying information from customers under the regulatory regime. Regulated dealers may wish to consider using the Notice for Customers to educate their customers on the AML/CFT requirements.
 
@@ -81,34 +89,32 @@ This Notice for Customers is available in 4 languages - English, Chinese, Malay 
 
 <a href="/images/NoticeForCustomersPoster(Eng)Mar2020.pdf" target="_blank"><img src="/images/NoticeForCustomersPoster(Eng)Mar2020.jpg"></a>
 
-#### 6. GoBusiness Licensing Guide for Precious Stones and Precious Metals Dealers ("**GoBusiness Licensing Guide**")
+#### 7. GoBusiness Licensing Guide for Precious Stones and Precious Metals Dealers ("**GoBusiness Licensing Guide**")
 
 The [GoBusiness Licensing Guide](/images//GoBusiness%20Licensing%20Guide%20For%20Regulated%20Dealers_ACD_20191127.pdf){:target="_blank"} gives regulated dealers a step-by-step walkthrough of the application, renewal and amendment processes in GoBusiness Licensing Portal.
 
-#### 7. Requirements for PSMDs Posters and Videos
+#### 8. Videos and Posters
 
-**Requirements for PSMDs Videos**:
+The following videos and posters provide useful summary to the regulatory requirements for regulated dealers.
 
-<u> Entity-Based Requirements
+<u> Video: Entity-Based Requirements
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l6R8ovdrn4g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 * [English](https://youtu.be/l6R8ovdrn4g){:target="_blank"}
 * [Chinese](https://youtu.be/mFkp6e6eAEY){:target="_blank"}
 
-<u> Transaction-Based Requirements
+<u> Video: Transaction-Based Requirements
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g6HGL8SHrQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 * [English](https://youtu.be/g6HGL8SHrQY){:target="_blank"}
 * [Chinese](https://youtu.be/CpUUhEWT59Q){:target="_blank"}
 * [Malay](https://youtu.be/7ESKY_2SfXU){:target="_blank"}
 * [Tamil](https://youtu.be/oUAsmTT7Odw){:target="_blank"}
   
-<u> Must-Know for Foreign Dealers
+<u> Video: Must-Know for Foreign Dealers
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KRS30HOmjyk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-**Requirements for PSMDs Posters**:
+  
+**Posters:**
 * [Entity-Based Requirements Poster (English)](/images/EntityBasedRequirementsPoster.pdf){:target="_blank"}
 * [Transaction-Based Requirements Poster (English)](/images/TransactionBasedRequirementsPoster.pdf){:target="_blank"}
-
-
-
-
-
+  
+<u> Video: Submission of Semi-Annual Return using <i>my</i>Pal
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jpcj4iYSOSM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
