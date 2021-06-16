@@ -118,5 +118,3 @@ The [GoBusiness Licensing Guide](/images//GoBusiness%20Licensing%20Guide%20For%2
   
 <u> Submission of Semi-Annual Return using <i>my</i>Pal
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jpcj4iYSOSM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Please click on this guidance video [here](https://youtu.be/Jpcj4iYSOSM){:target="_blank"} to preview <i>my</i>Pal and how to submit the semi-annual returns.
