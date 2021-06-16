@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sign Up For Online Briefing On Guidance Paper
-date: 2021-06-15
+date: 2021-06-16
 permalink: /news/ongoing-events/sign-up-for-online-briefing-on-guidance-paper/
 ---
 
