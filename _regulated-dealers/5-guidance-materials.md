@@ -97,24 +97,24 @@ The [GoBusiness Licensing Guide](/images//GoBusiness%20Licensing%20Guide%20For%2
 
 The following videos and posters provide useful summary to the regulatory requirements for regulated dealers.
 
-<u> Entity-Based Requirements
+<u> Video: Entity-Based Requirements
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l6R8ovdrn4g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 * [English](https://youtu.be/l6R8ovdrn4g){:target="_blank"}
 * [Chinese](https://youtu.be/mFkp6e6eAEY){:target="_blank"}
 
-<u> Transaction-Based Requirements
+<u> Video: Transaction-Based Requirements
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g6HGL8SHrQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 * [English](https://youtu.be/g6HGL8SHrQY){:target="_blank"}
 * [Chinese](https://youtu.be/CpUUhEWT59Q){:target="_blank"}
 * [Malay](https://youtu.be/7ESKY_2SfXU){:target="_blank"}
 * [Tamil](https://youtu.be/oUAsmTT7Odw){:target="_blank"}
   
-<u> Must-Know for Foreign Dealers
+<u> Video: Must-Know for Foreign Dealers
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KRS30HOmjyk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
-**Requirements for PSMDs Posters**:
+**Posters:**
 * [Entity-Based Requirements Poster (English)](/images/EntityBasedRequirementsPoster.pdf){:target="_blank"}
 * [Transaction-Based Requirements Poster (English)](/images/TransactionBasedRequirementsPoster.pdf){:target="_blank"}
   
-<u> Submission of Semi-Annual Return using <i>my</i>Pal
+<u> Video: Submission of Semi-Annual Return using <i>my</i>Pal
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jpcj4iYSOSM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
