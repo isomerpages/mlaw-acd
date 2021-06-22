@@ -38,7 +38,7 @@ Regulated dealers should study the learning points and incorporate them in a man
 
 #### 4. Semi-Annual Return Instruction Guide
 
-The [Instruction Guide](/images/Submit Semi-Annual Return Guide_20210623.pdf){:target="_blank"} and [guidance video](https://youtu.be/Jpcj4iYSOSM){:target="_blank"} provide regulated dealers with a step-by-step walkthrough (with screenshots) on how to navigate and submit the semi-annual return via <i>my</i>Pal. Please click [here](https://acd.mlaw.gov.sg/news/notices-from-the-registrar/reporting-requirement-for-regulated-dealers-with-effect-from-1-january-2021){:target="_blank"} for information on the reporting requirement.
+The [Instruction Guide](/images/Submit Semi-Annual Return Guide_20210623.pdf){:target="_blank"} and [guidance video](https://youtu.be/Jpcj4iYSOSM){:target="_blank"} provide regulated dealers with a step-by-step walkthrough (with screenshots) on how to navigate and submit the semi-annual return via <i>my</i>Pal. Please click [here](https://acd.mlaw.gov.sg/other-regulatory-requirements){:target="_blank"} for information on the reporting requirement.
 
 #### 5. Monetary Authority of Singapore's ("**MAS**") website - Lists of Designated Individuals and Entities
 
