@@ -15,9 +15,9 @@ The training aims to provide guidance on:
 
 We would like to thank all participants for their support of this event in May 2021.
 
-Regulated dealers will have to submit the semi-annual returns electronically through the <i>my</i> Precious Stones and Precious Metals Dealer’s Portal (<i>my</i>Pal). The instruction guide to use <i>my</i>Pal will be available soon.
+Regulated dealers will have to submit the semi-annual returns electronically through the <i>my</i> Precious Stones and Precious Metals Dealer’s Portal (<i>my</i>Pal).
 
-Please watch this [guidance video](https://youtu.be/Jpcj4iYSOSM){:target="_blank"} to preview <i>my</i>Pal and how to submit the semi-annual returns.
+Please watch this [guidance video](https://youtu.be/Jpcj4iYSOSM){:target="_blank"} to preview <i>my</i>Pal and how to submit the semi-annual return. You may refer to the instruction guide for a step-by-step walkthrough (with screenshots) on how to navigate and submit the semi-annual return via <i>my</i>Pal. Please click [here](https://eservices.mlaw.gov.sg/mypal){:target="_blank"} to access <i>my</i>Pal to complete your submission.
 
 Please refer to the ["**FAQs**"](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx){:target="_blank"} under the Precious Stones and Precious Metals Dealers section for Frequently Asked Questions relating to the regulatory regime. For further queries, please click [here](https://eservices.mlaw.gov.sg/enquiry/){:target="_blank"}.
 
