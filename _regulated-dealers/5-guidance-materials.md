@@ -36,12 +36,16 @@ The [Guidance Paper](/images/Guidance Paper_20210616.pdf){:target="_blank"} sets
 
 Regulated dealers should study the learning points and incorporate them in a manner proportionate to the risk profile of their business activities and customers. The regulated dealers should note that examples highlighted in this paper are non-exhaustive and they should continue to implement appropriate AML/CFT controls that commensurate with the nature and complexity of their business.
 
-#### 4. Monetary Authority of Singapore's ("**MAS**") website - Lists of Designated Individuals and Entities
+#### 4. Semi-Annual Return Instruction Guide
+
+The [instruction guide](/images/Semi-Annual Return Instruction Guide_20210623.pdf){:target="_blank"} and [guidance video](https://youtu.be/Jpcj4iYSOSM){:target="_blank"} provide regulated dealers with a step-by-step walkthrough (with screenshots) on how to navigate and submit the semi-annual return via <i>my</i>Pal. Please click [here](https://acd.mlaw.gov.sg/other-regulatory-requirements){:target="_blank"} for information on the reporting requirement.
+
+#### 5. Monetary Authority of Singapore's ("**MAS**") website - Lists of Designated Individuals and Entities
 
 MAS publishes [lists](https://www.mas.gov.sg/regulation/anti-money-laundering/targeted-financial-sanctions/lists-of-designated-individuals-and-entities){:target="_blank"} of individuals and entities designated under the United Nations Act ("**UN Act**") and the Terrorism (Suppression of Financing) Act ("**TSOFA**"). Regulated dealers should [subscribe](https://www.mas.gov.sg/subscription-services){:target="_blank"} to the MAS mailing list to receive updated lists of designated individuals and entities. Regulated dealers are required to screen their customers against the lists before engaging in any business or commercial activity with them.<br><br>
 You may refer to the [MAS Website Subscriber Services Guide](/images/MAS%20Website%20Subscriber%20Services%20Guide_20191105_V1Final.pdf){:target="_blank"} for a step-by-step guide to the subscription process.<br>
 
-#### 5. Inter-Ministry Committee on Terrorist Designation ("**IMC-TD**")
+#### 6. Inter-Ministry Committee on Terrorist Designation ("**IMC-TD**")
 
 The IMC-TD acts as Singapore's authority relating to the designation of terrorists. This prohibits any person/ entity from dealing with or providing any financial assistance to designated subjects, as required under the TSOFA.
 
@@ -49,7 +53,7 @@ On MHA’s website on [IMC-TD](https://www.mha.gov.sg/what-we-do/managing-securi
 
 To find out more about your obligations as a regulated dealer on countering terrorism financing, please click [here](/images/Measures%20relating%20to%20prevention%20of%20terrorism%20financing.pdf){:target="_blank"}.
 
-#### 6. Notice for Customers from the Ministry of Law ("**Notice for Customers**")
+#### 7. Notice for Customers from the Ministry of Law ("**Notice for Customers**")
 
 The Notice for Customers explains that regulated dealers are required to collect identifying information from customers under the regulatory regime. Regulated dealers may wish to consider using the Notice for Customers to educate their customers on the AML/CFT requirements.
 
@@ -89,11 +93,11 @@ This Notice for Customers is available in 4 languages - English, Chinese, Malay 
 
 <a href="/images/NoticeForCustomersPoster(Eng)Mar2020.pdf" target="_blank"><img src="/images/NoticeForCustomersPoster(Eng)Mar2020.jpg"></a>
 
-#### 7. GoBusiness Licensing Guide for Precious Stones and Precious Metals Dealers ("**GoBusiness Licensing Guide**")
+#### 8. GoBusiness Licensing Guide for Precious Stones and Precious Metals Dealers ("**GoBusiness Licensing Guide**")
 
 The [GoBusiness Licensing Guide](/images//GoBusiness%20Licensing%20Guide%20For%20Regulated%20Dealers_ACD_20191127.pdf){:target="_blank"} gives regulated dealers a step-by-step walkthrough of the application, renewal and amendment processes in GoBusiness Licensing Portal.
 
-#### 8. Videos and Posters
+#### 9. Videos and Posters
 
 The following videos and posters provide useful summary to the regulatory requirements for regulated dealers.
 
