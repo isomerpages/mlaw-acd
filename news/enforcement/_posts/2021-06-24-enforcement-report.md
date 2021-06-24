@@ -9,4 +9,4 @@ MinLaw conducted a series of enforcement activities on regulated dealers from Oc
  
 The Anti-Money Laundering/Countering the Financing of Terrorism Division (“**ACD**”) [Enforcement Report](/images/ACD Enforcement Report_20210624.pdf){:target="_blank"} summarises the enforcement activities carried out by ACD and outlines ACD’s enforcement principles and priorities. The report also features case studies to educate regulated dealers on the key findings and consequences of non-compliance. 
  
-Regulated dealers should read the ACD Enforcement Report to understand how the role of regulatory enforcement helps to mitigate money laundering/terrorism financing (“**ML/TF**”) risk in the PSMD sector.
+Regulated dealers should read the Enforcement Report to understand how the role of regulatory enforcement helps to mitigate money laundering/terrorism financing (“**ML/TF**”) risk in the PSMD sector.
