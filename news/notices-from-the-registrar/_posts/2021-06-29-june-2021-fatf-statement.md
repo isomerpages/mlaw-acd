@@ -56,8 +56,8 @@ The FATF has also issued an updated statement in June 2021 on jurisdictions unde
 <span style="font-weight:normal">Pakistan</span><br>
 <span style="font-weight:normal">Panama</span><br>
 <span style="font-weight:normal">Philippines <i>(new)</i></span><br>
-<span style="font-weight:normal">Senegal <i>(new)</i></span><br>
-<span style="font-weight:normal">South Sudan (new)</span><br>
+<span style="font-weight:normal">Senegal</span><br>
+<span style="font-weight:normal">South Sudan <i>(new)</i></span><br>
 <span style="font-weight:normal">Syria</span><br>
 <span style="font-weight:normal">Uganda</span><br>
 <span style="font-weight:normal">Yemen</span><br>
