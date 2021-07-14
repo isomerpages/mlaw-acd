@@ -123,5 +123,5 @@ The following videos and posters provide useful summary to the regulatory requir
 <u> Video: Submission of Semi-Annual Return using <i>my</i>Pal
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Jpcj4iYSOSM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<u> Video: How to prepare risk assessment and internal policies, procedures and controls ("**IPPC**")
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Y49v8hvHpB0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<u> Video: How to prepare risk assessment and internal policies, procedures and controls ("IPPC")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y49v8hvHpB0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
