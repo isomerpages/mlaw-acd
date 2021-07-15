@@ -2,7 +2,7 @@
 layout: homepage
 title: 'Ministry of Law - ACD'
 permalink: /
-notification: <a href="/news/ongoing-events/sign-up-for-online-briefing-on-guidance-paper" target="_blank">Sign up for Guidance Paper briefing now!</a>
+notification: <a href="entity-based-requirements/" target="_blank">How to perform risk assessment and internal policies, procedures and controls ("IPPC")? Click here!</a>
 sections:
     - hero:
           title: 'Regulatory Regime for Precious Stones and Precious Metals Dealers'
