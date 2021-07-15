@@ -101,6 +101,12 @@ The [GoBusiness Licensing Guide](/images//GoBusiness%20Licensing%20Guide%20For%2
 
 The following videos and posters provide useful summary to the regulatory requirements for regulated dealers.
 
+<u> Video: Submission of Semi-Annual Return using <i>my</i>Pal
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jpcj4iYSOSM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<u> Video: How to perform risk assessment and develop internal policies, procedures and controls ("IPPC")
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Y49v8hvHpB0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <u> Video: Entity-Based Requirements
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l6R8ovdrn4g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 * [English](https://youtu.be/l6R8ovdrn4g){:target="_blank"}
@@ -119,9 +125,3 @@ The following videos and posters provide useful summary to the regulatory requir
 **Posters:**
 * [Entity-Based Requirements Poster (English)](/images/EntityBasedRequirementsPoster.pdf){:target="_blank"}
 * [Transaction-Based Requirements Poster (English)](/images/TransactionBasedRequirementsPoster.pdf){:target="_blank"}
-  
-<u> Video: Submission of Semi-Annual Return using <i>my</i>Pal
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jpcj4iYSOSM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<u> Video: How to prepare risk assessment and internal policies, procedures and controls ("IPPC")
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Y49v8hvHpB0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
