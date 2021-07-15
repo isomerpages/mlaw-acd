@@ -17,5 +17,5 @@ Regulated dealers are required to perform an assessment of the money laundering 
 
 <a href="/images/EntityBasedRequirementsPoster.pdf" target="_blank"><img src="/images/EntityBasedRequirementsPoster.png"></a> <br>
 
-<u> Video: How to prepare risk assessment and internal policies, procedures and controls ("IPPC")
+<u> Video: How to perform risk assessment and develop internal policies, procedures and controls ("IPPC")
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Y49v8hvHpB0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
