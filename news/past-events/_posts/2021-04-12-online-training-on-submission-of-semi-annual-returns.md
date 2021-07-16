@@ -1,7 +1,7 @@
 ---
 title: 'Online Training On Submission Of Semi-Annual Returns'
 date: 2021-04-12T00:00:00.000Z
-permalink: /news/past-events/online-training-on-submission-of-semi-annual-returns/
+permalink: /news/past-events/sign-up-for-online-training-on-submission-of-semi-annual-returns/
 
 ---
 
