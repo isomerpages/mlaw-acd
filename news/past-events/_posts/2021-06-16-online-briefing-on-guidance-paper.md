@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Sign Up For Online Briefing On Guidance Paper
+title: Online Briefing On Guidance Paper
 date: 2021-06-16
-permalink: /news/past-events/sign-up-for-online-briefing-on-guidance-paper/
+permalink: /news/past-events/online-briefing-on-guidance-paper/
 ---
 
 The Anti-Money Laundering/Countering the Financing of Terrorism Division (“**ACD**”) of Ministry of Law is organising online briefings in July 2021 for registered precious stones and precious metals dealer (“**PSMD**”) to take regulated dealers through the [Guidance Paper](/images/Guidance Paper_20210616.pdf){:target="_blank"}. 
