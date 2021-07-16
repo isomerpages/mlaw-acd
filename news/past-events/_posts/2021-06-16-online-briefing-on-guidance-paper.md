@@ -27,6 +27,6 @@ Each key area for improvement comprises the following elements:
 
 4. Key learning points – To highlight MinLaw’s supervisory expectations.
 
-MinLaw will be conducting online briefings on 7 July 2021 and 12 July 2021 to take regulated dealers through the Guidance Paper. The briefings will only be available in English. Each dealer may only send 1 representative to attend. Please click [here](https://go.gov.sg/pspm-guidance-paper-2021){:target="_blank"} to sign up for the online briefing.
+We would like to thank all participants for their support of this event in July 2021. The presentation slides and video recording of the briefing will be shared with registered dealers and available on our website soon. Please stay tuned!
 
 Please refer to the ["**FAQs**"](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx){:target="_blank"} under the Precious Stones and Precious Metals Dealers section for Frequently Asked Questions relating to the regulatory regime. For further queries, please click [here](https://eservices.mlaw.gov.sg/enquiry/){:target="_blank"}.
