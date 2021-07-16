@@ -40,3 +40,5 @@ MinLaw will be conducting online briefings on 7 July 2021 and 12 July 2021 to ta
 - Regulated dealers should evaluate the effectiveness of their AML/CFT measures against the findings and good practices highlighted in this Guidance Paper and take appropriate steps to address any gaps.
 
 - Regulated dealers may wish to attend MinLaw’s briefings on 7 July and 12 July 2021. Interested dealers may sign up for the briefings [here](https://go.gov.sg/pspm-guidance-paper-2021){:target="_blank"}.
+
+[<i>Update in July 2021</i>: We would like to thank all participants for their support of this event in July 2021. The presentation slides and video recording of the briefing will be shared with registered dealers and available on our website soon. Please stay tuned!]
