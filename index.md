@@ -2,7 +2,7 @@
 layout: homepage
 title: 'Ministry of Law - ACD'
 permalink: /
-notification: <a href="entity-based-requirements/" target="_blank">How to perform risk assessment and internal policies, procedures and controls ("IPPC")? Click here!</a>
+notification: If you need dedicated help on the submission of the semi-annual return during Phase 2 (Heightened Alert), there is no need to visit the MinLaw Services Centre. Please call the MinLaw hotline 1800 2255 529 from Monday to Friday, 8.30am to 5.00pm, or write in via the <a href="https://eservices.mlaw.gov.sg/enquiry/" target="_blank">online enquiry form</a> and we will have someone follow up with you.
 sections:
     - hero:
           title: 'Regulatory Regime for Precious Stones and Precious Metals Dealers'
@@ -23,9 +23,9 @@ sections:
                   description: 'Overview of regulatory regime'
                   url: /regulatory-regime/
                   external: false
-                - title: 'Duty to notify Registrar of change in particulars and circumstances'
-                  description: 'Notify on amendments'
-                  url: /other-regulatory-requirements/
+                - title: 'Entity-Based Requirements'
+                  description: 'Perform risk assessment and IPPC'
+                  url: /entity-based-requirements/
                   external: false
     - resources:
           title: 'Latest News'
