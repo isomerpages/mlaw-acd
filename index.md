@@ -24,7 +24,7 @@ sections:
                   url: /regulatory-regime/
                   external: false
                 - title: 'Entity-Based Requirements'
-                  description: 'Overview of entity-based requirements'
+                  description: 'Perform risk assessment and IPPC'
                   url: /entity-based-requirements/
                   external: false
     - resources:
