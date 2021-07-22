@@ -2,7 +2,7 @@
 layout: homepage
 title: 'Ministry of Law - ACD'
 permalink: /
-notification: If you need dedicated help on the submission of the semi-annual return during Phase 2 (Heightened Alert), there is no need to visit the MinLaw Services Centre. Please call the MinLaw hotline 1800 2255 529 from Monday to Friday, 8.30am to 5.00pm, or write in via the online enquiry form on the MinLaw website at [https://eservices.mlaw.gov.sg/enquiry/](https://eservices.mlaw.gov.sg/enquiry/){:target="_blank"} and we will have someone follow up with you.
+notification: If you need dedicated help on the submission of the semi-annual return during Phase 2 (Heightened Alert), there is no need to visit the MinLaw Services Centre. Please call the MinLaw hotline 1800 2255 529 from Monday to Friday, 8.30am to 5.00pm, or write in via the online enquiry form on the MinLaw [website](https://eservices.mlaw.gov.sg/enquiry/){:target="_blank"} and we will have someone follow up with you.
 sections:
     - hero:
           title: 'Regulatory Regime for Precious Stones and Precious Metals Dealers'
