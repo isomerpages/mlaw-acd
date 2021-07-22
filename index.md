@@ -23,9 +23,9 @@ sections:
                   description: 'Overview of regulatory regime'
                   url: /regulatory-regime/
                   external: false
-                - title: 'Duty to notify Registrar of change in particulars and circumstances'
-                  description: 'Notify on amendments'
-                  url: /other-regulatory-requirements/
+                - title: 'Entity-Based Requirements'
+                  description: 'Overview of entity-based requirements'
+                  url: /entity-based-requirements/
                   external: false
     - resources:
           title: 'Latest News'
