@@ -30,7 +30,7 @@ sections:
     - resources:
           title: 'Latest News'
           subtitle: 'News for Regulated Dealers'
-          button: 'More Information'
+          button: 'More Information on ACD news'
           url: /news/
 
 ---
