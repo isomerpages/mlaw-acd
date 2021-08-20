@@ -28,19 +28,6 @@ sections:
                   url: /entity-based-requirements/
                   external: false
                   
-# Programmes Section
-info-title: Products and Services
-info-subtitle: Co-creating for better value
-info-description: Using technology to make an impact, inspire change. We have programmes for citizens, businesses and government agencies to get on board. Be involved now. 
-info-more-button: Products and Services
-info-more-button-url: /products-and-services/?utm_source=products_homepage
-
-info-title: Products 
-info-subtitle: Co-creating for better value
-info-description: Using technology to make an impact, inspire change. We have programmes for citizens, businesses and government agencies to get on board. Be involved now. 
-info-more-button: Products and Services
-info-more-button-url: /products-and-services/?utm_source=products_homepage
-
     - resources:
           title: 'Latest News'
           subtitle: 'News for Regulated Dealers'
