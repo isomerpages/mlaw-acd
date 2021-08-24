@@ -27,7 +27,13 @@ sections:
                   description: 'Perform risk assessment and IPPC'
                   url: /entity-based-requirements/
                   external: false
-     
+    title: International Safety@Sea Week 2021
+      subtitle: 30 August - 1 September 2021
+   - infobar:
+      title: Spotlight on Maritime Safety, Technology & the Environment
+      description: Join us at this annual gathering of the international maritime
+        community as we discuss maritime safety, technology and environmental
+        protection over 5 sessions. 
    - infopic:
          description: ACD message one
          image: /images/Induction%20Briefing%20Photo.jpg
