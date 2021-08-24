@@ -27,6 +27,9 @@ sections:
                   description: 'Perform risk assessment and IPPC'
                   url: /entity-based-requirements/
                   external: false
+    - infobar:
+         title: Spotlight on Maritime Safety, Technology & the Environment
+         description: Join us at this annual gathering of the international maritime community as we discuss maritime safety, technology and environmental
     - infopic:
          description: ACD message one
          image: /images/Induction%20Briefing%20Photo.jpg
