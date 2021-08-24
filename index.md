@@ -28,14 +28,6 @@ sections:
                   url: /entity-based-requirements/
                   external: false
   
-   - infopic:
-         description: ACD message one
-         image: /images/Induction%20Briefing%20Photo.jpg
-         alt: Image alt text
-         title: testing
-         subtitle: 30 Aug | 16:00 - 18:00 (GMT+8)
-         button: View Programme
-         url: /renewal/
     - resources:
           title: 'Latest News'
           subtitle: 'News for Regulated Dealers'
