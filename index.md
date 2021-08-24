@@ -27,25 +27,14 @@ sections:
                   description: 'Perform risk assessment and IPPC'
                   url: /entity-based-requirements/
                   external: false
-    - infobar:
-         title: Spotlight on Maritime Safety, Technology & the Environment
-         description: Join us at this annual gathering of the international maritime community as we discuss maritime safety, technology and environmental
     - infopic:
-         description: ACD message one
-         image: /images/Induction%20Briefing%20Photo.jpg
-         alt: Image alt text
-         title: testing
-         subtitle: 30 Aug | 16:00 - 18:00 (GMT+8)
-         button: View Programme
-         url: /renewal/
-   - infopic:
-         title: ACD message 2
-         subtitle: 31 Aug | 14:30 - 16:00 (GMT+8)
-         description: Safer Carriage of Goods – What More Must Be Done?
-         button: VIEW PROGRAMME
-         url: /regulatory-regime/
-         image: /images/Updated%20Registration%20Flowchart.png
-         alt: Image alt text
+        title: Integrity
+        subtitle: Core Values
+        description: Integrity drives everything we do at the Ministry of ABC
+        button: Learn More
+        url: /renewal/
+        image: /images/Induction%20Briefing%20Photo.jpg
+        alt: Members of the Ministry of ABC shaking hands
          
     - resources:
           title: 'Latest News'
