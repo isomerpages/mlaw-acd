@@ -35,7 +35,7 @@ sections:
         url: /entity-based-requirements/
         image: /images/Induction%20Briefing%20Photo.jpg
         alt: Understanding Entity-Based Requirements
-     - infopic:
+    - infopic:
         title: For Regulated Dealer
         subtitle: " "
         description: Learn more about the regime and etc
