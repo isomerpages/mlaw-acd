@@ -36,7 +36,11 @@ sections:
          subtitle: 30 Aug | 16:00 - 18:00 (GMT+8)
          button: View Programme
          url: /renewal/
-      
+    - resources:
+          title: 'Latest News'
+          subtitle: 'News for Regulated Dealers'
+          button: 'More Information on ACD news'
+          url: /news/
 ---
 
 
