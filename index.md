@@ -29,21 +29,21 @@ sections:
                   external: false
      
    - infopic:
-      description: ACD message one
-      image: /images/Induction%20Briefing%20Photo.jpg
-      alt: Image alt text
-      title: testing
-      subtitle: 30 Aug | 16:00 - 18:00 (GMT+8)
-      button: View Programme
-      url: /renewal/
+         description: ACD message one
+         image: /images/Induction%20Briefing%20Photo.jpg
+         alt: Image alt text
+         title: testing
+         subtitle: 30 Aug | 16:00 - 18:00 (GMT+8)
+         button: View Programme
+         url: /renewal/
   - infopic:
-      title: ACD message 2
-      subtitle: 31 Aug | 14:30 - 16:00 (GMT+8)
-      description: Safer Carriage of Goods – What More Must Be Done?
-      button: VIEW PROGRAMME
-      url: /programme/iss-conference-plenary-1
-      image: /images/Updated%20Registration%20Flowchart.png
-      alt: Image alt text
+         title: ACD message 2
+         subtitle: 31 Aug | 14:30 - 16:00 (GMT+8)
+         description: Safer Carriage of Goods – What More Must Be Done?
+         button: VIEW PROGRAMME
+         url: /regulatory-regime/
+         image: /images/Updated%20Registration%20Flowchart.png
+         alt: Image alt text
       
     - resources:
           title: 'Latest News'
