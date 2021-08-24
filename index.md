@@ -28,13 +28,13 @@ sections:
                   url: /entity-based-requirements/
                   external: false
     - infopic:
-        title: Integrity
-        subtitle: Core Values
-        description: Integrity drives everything we do at the Ministry of ABC
+        title: Newly Registered Dealer
+        subtitle: " "
+        description: Start by performing your risk assessment and internal policies, procedures and controls. Refer to the resources provided in your welcome email.
         button: Learn More
-        url: /renewal/
+        url: /entity-based-requirements/
         image: /images/Induction%20Briefing%20Photo.jpg
-        alt: Members of the Ministry of ABC shaking hands
+        alt: Understanding Entity-Based Requirements
          
     - resources:
           title: 'Latest News'
