@@ -27,6 +27,9 @@ sections:
                   description: 'Perform risk assessment and IPPC'
                   url: /entity-based-requirements/
                   external: false
+    - infobar:
+        title: Journey of a Regulated Dealer
+        description: Begin your tour by doing this!            
     - infopic:
         title: For Newly Registered Regulated Dealer
         subtitle: " "
