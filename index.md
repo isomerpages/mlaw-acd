@@ -2,7 +2,7 @@
 layout: homepage
 title: 'Ministry of Law - ACD'
 permalink: /
-notification: <a href="/news/upcoming-events/sign-up-for-online-training-on-submission-of-semi-annual-returns/" target="_blank">Sign up for Compliance Training now!</a>
+notification: <a href="/news/ongoing-events/compliance-training/" target="_blank">Sign up for the Compliance Training to build your AML/CFT capabilities!</a>
 sections:
     - hero:
           title: 'Regulatory Regime for Precious Stones and Precious Metals Dealers'
