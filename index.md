@@ -28,14 +28,22 @@ sections:
                   url: /entity-based-requirements/
                   external: false
     - infopic:
-        title: Newly Registered Dealer
+        title: For Newly Registered Regulated Dealer
         subtitle: " "
         description: Start by performing your risk assessment and internal policies, procedures and controls. Refer to the resources provided in your welcome email.
         button: Learn More
         url: /entity-based-requirements/
         image: /images/Induction%20Briefing%20Photo.jpg
         alt: Understanding Entity-Based Requirements
-         
+     - infopic:
+        title: For Regulated Dealer
+        subtitle: " "
+        description: Learn more about the regime and etc
+        button: Learn More
+        url: /renewal/
+        image: /images/Updated%20Registration%20Flowchart.png
+        alt: Flowchart and process
+        
     - resources:
           title: 'Latest News'
           subtitle: 'News for Regulated Dealers'
