@@ -2,7 +2,7 @@
 layout: homepage
 title: 'Ministry of Law - ACD'
 permalink: /
-notification: If you need dedicated help on the submission of the semi-annual return during Phase 2 (Heightened Alert), there is no need to visit the MinLaw Services Centre. Please call the MinLaw hotline 1800 2255 529 from Monday to Friday, 8.30am to 5.00pm, or write in via the <a href="https://eservices.mlaw.gov.sg/enquiry/" target="_blank">online enquiry form</a> and we will have someone follow up with you.
+notification: <a href="https://form.gov.sg/#!/5f0fc0c3fefd4e00119dc724" target="_blank">Sign up for the Compliance Training to build your AML/CFT capabilities!</a>
 sections:
     - hero:
           title: 'Regulatory Regime for Precious Stones and Precious Metals Dealers'
@@ -27,12 +27,12 @@ sections:
                   description: 'Perform risk assessment and IPPC'
                   url: /entity-based-requirements/
                   external: false
+    
     - resources:
           title: 'Latest News'
           subtitle: 'News for Regulated Dealers'
           button: 'More Information on ACD news'
           url: /news/
-
 ---
 
 
