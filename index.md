@@ -27,7 +27,7 @@ sections:
                   description: 'Perform risk assessment and IPPC'
                   url: /entity-based-requirements/
                   external: false
-   - infopic:
+    - infopic:
          description: ACD message one
          image: /images/Induction%20Briefing%20Photo.jpg
          alt: Image alt text
@@ -35,7 +35,7 @@ sections:
          subtitle: 30 Aug | 16:00 - 18:00 (GMT+8)
          button: View Programme
          url: /renewal/
-  - infopic:
+   - infopic:
          title: ACD message 2
          subtitle: 31 Aug | 14:30 - 16:00 (GMT+8)
          description: Safer Carriage of Goods – What More Must Be Done?
