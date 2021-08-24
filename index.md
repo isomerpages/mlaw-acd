@@ -43,6 +43,7 @@ sections:
          url: /regulatory-regime/
          image: /images/Updated%20Registration%20Flowchart.png
          alt: Image alt text
+         
     - resources:
           title: 'Latest News'
           subtitle: 'News for Regulated Dealers'
