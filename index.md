@@ -36,7 +36,7 @@ sections:
           description: Start by developing your risk assessment and internal policies, procedures and controls. Refer to the resources provided in your welcome email. <insert pic of RA and IPPC>
           button: Learn More
           url: /entity-based-requirements/
-          image: /images/Induction%20Briefing%20Photo.jpg
+          image: /images//RA%20%26%20IPPC%20icon.png
           alt: Understanding Entity-Based Requirements
     - infopic:
           title: Submit Semi-Annual Return via myPal
