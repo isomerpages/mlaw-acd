@@ -39,7 +39,7 @@ sections:
           image: /images//RA%20%26%20IPPC%20icon.png
           alt: Understanding Entity-Based Requirements
     - infopic:
-          title: Submit Semi-Annual Return via myPal
+          title: Submit Semi-Annual Return via myPal (or reserve for RRB's registration?)
           subtitle: " "
           description: Find out how you could use myPal for your day-to-day business, including submitting your semi-annual return <insert pic of myPal>
           button: Learn More
