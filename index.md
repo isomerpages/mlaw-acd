@@ -27,7 +27,34 @@ sections:
                   description: 'Perform risk assessment and IPPC'
                   url: /entity-based-requirements/
                   external: false
-    
+    - infobar:
+          title: Journey of a Regulated Dealer
+          description: Begin your tour by doing this!            
+    - infopic:
+          title: Fulfil Entity-Based Requirements
+          subtitle: " "
+          description: Start by developing your risk assessment and internal policies, procedures and controls. Refer to the resources provided in your welcome email. <insert pic of RA and IPPC>
+          button: Learn More
+          url: /entity-based-requirements/
+          image: /images/Induction%20Briefing%20Photo.jpg
+          alt: Understanding Entity-Based Requirements
+    - infopic:
+          title: Submit Semi-Annual Return via myPal
+          subtitle: " "
+          description: Find out how you could use myPal for your day-to-day business, including submitting your semi-annual return <insert pic of myPal>
+          button: Learn More
+          url: //other-regulatory-requirements/#Reporting%20Requirement/
+          image: /images/Updated%20Registration%20Flowchart.png
+          alt: How to use myPal for your business
+    - infopic:
+          title: Building your AML/CFT capabilitities
+          subtitle: " "
+          description: Learn more about the regime from the various guidances and trainings provided
+          button: Learn More
+          url: /news/
+          image: /images/Shaun%20the%20Shield%20logo.png
+          alt: Build your AML/CFT capabilities      
+ 
     - resources:
           title: 'Latest News'
           subtitle: 'News for Regulated Dealers'
