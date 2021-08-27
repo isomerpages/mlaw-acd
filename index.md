@@ -43,7 +43,7 @@ sections:
           subtitle: " "
           description: Find out how you could use myPal for your day-to-day business, including submitting your semi-annual return <insert pic of myPal>
           button: Learn More
-          url: //other-regulatory-requirements/#Reporting%20Requirement/
+          url: /other-regulatory-requirements/#Reporting%20Requirement/
           image: /images/Updated%20Registration%20Flowchart.png
           alt: How to use myPal for your business
     - infopic:
