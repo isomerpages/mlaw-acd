@@ -51,7 +51,7 @@ sections:
           subtitle: " "
           description: Learn more about the regime from the various guidances and trainings provided
           button: Learn More about AML/CFT
-          url: /guidance-materials/#Videos%20and%20Posters/
+          url: <a href="#Videos and Posters">
           image: /images/Shaun%20the%20Shield%20logo.png
           alt: Build your AML/CFT capabilities      
  
