@@ -44,7 +44,7 @@ sections:
           description: Find out how you could use myPal for your day-to-day business, including submitting your semi-annual return <insert pic of myPal>
           button: Learn More about myPal
           url: /other-regulatory-requirements/#Reporting%20Requirement/
-          image: /images/Updated%20Registration%20Flowchart.png
+          image: /images/myPal.png
           alt: How to use myPal for your business
     - infopic:
           title: Building your AML/CFT capabilitities
