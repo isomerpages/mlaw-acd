@@ -5,8 +5,6 @@ breadcrumb: 'Guidance Materials'
 
 ---
 
-<a href="#Guidelines for Regulated Dealers">Guidelines for Regulated Dealers </a>| <a href="#Sample forms for CDD and ECDD">Sample forms for CDD and ECDD </a> | <a href="#Guidance Paper on Strengthening AML/CFT Controls in the Precious Stones and Precious Metals (PSPM) Sector">Guidance Paper on Strengthening AML/CFT Controls in the Precious Stones and Precious Metals (PSPM) Sector </a> | <a href="#Videos and Posters">Videos and Posters </a>
-
 #### <a id="Guidelines for Regulated Dealers"></a> 1. Guidelines for Regulated Dealers
 
 The [Guidelines for Regulated Dealers in the Precious Stones and Precious Metals Dealers Sector on Anti-Money Laundering/Countering the Financing of Terrorism ("**Guidelines**")](/images/Guidelines for regulated dealers_20201214_V2.0Final (Updated).pdf){:target="_blank"} are meant to help regulated dealers understand the regulatory requirements under the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019 ("**PSPM Act**") and Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations 2020 ("**PMLTF Regulations**").<a href="#footnote1"></a><br><br> 
@@ -93,6 +91,8 @@ This Notice for Customers is available in 4 languages - English, Chinese, Malay 
     <td class="tg-0lax"><a href="/images/NoticeForCustomersPoster(Tamil)Mar2020.pdf" target="_blank">Notice for Customers (Tamil PDF)</a></td>
   </tr>
 </table>
+
+<a href="/images/NoticeForCustomersPoster(Eng)Mar2020.pdf" target="_blank"><img src="/images/NoticeForCustomersPoster(Eng)Mar2020.jpg"></a>
 
 #### 8. GoBusiness Licensing Guide for Precious Stones and Precious Metals Dealers ("**GoBusiness Licensing Guide**")
 
