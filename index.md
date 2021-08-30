@@ -39,15 +39,15 @@ sections:
           image: /images//RA%20%26%20IPPC%20icon.png
           alt: Understanding Entity-Based Requirements
     - infopic:
-          title: Learn about the requirements
+          title: Watch the videos prepared
           subtitle: " "
-          description: Watch the videos to learn about the requirements before you start your transaction.
+          description: Understand the various reuqirements before you start your transaction.
           button: Learn More from videos
           url: /guidance-materials/#Videos%20and%20Posters
           image: /images/myPal.png
           alt: How to use myPal for your business
     - infopic:
-          title: Building your AML/CFT capabilitities
+          title: Building your AML/CFT capabilities
           subtitle: " "
           description: Learn more about the regime from the guidance papers issued by Ministry of Law.
           button: Learn More about AML/CFT
