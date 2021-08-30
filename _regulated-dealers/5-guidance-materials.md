@@ -5,8 +5,9 @@ breadcrumb: 'Guidance Materials'
 
 ---
 
+<a href="#Guidelines for Regulated Dealers">Guidelines for Regulated Dealers </a>| <a href="#Sample forms for CDD and ECDD">Sample forms for CDD and ECDD </a> | <a href="#Guidance Paper on Strengthening AML/CFT Controls in the Precious Stones and Precious Metals (PSPM) Sector">Guidance Paper on Strengthening AML/CFT Controls in the Precious Stones and Precious Metals (PSPM) Sector </a> | <a href="#Videos and Posters">Videos and Posters </a>
 
-#### 1. Guidelines for Regulated Dealers
+#### <a id="Guidelines for Regulated Dealers"></a> 1. Guidelines for Regulated Dealers
 
 The [Guidelines for Regulated Dealers in the Precious Stones and Precious Metals Dealers Sector on Anti-Money Laundering/Countering the Financing of Terrorism ("**Guidelines**")](/images/Guidelines for regulated dealers_20201214_V2.0Final (Updated).pdf){:target="_blank"} are meant to help regulated dealers understand the regulatory requirements under the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019 ("**PSPM Act**") and Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations 2020 ("**PMLTF Regulations**").<a href="#footnote1"></a><br><br> 
 The Guidelines also provide [sample forms and checklists<sup>1</sup>](/images/Guidelines for regulated dealers_Annexes_20201214_V2.0Final (Updated).docx){:target="_blank"} to assist regulated dealers in meeting their regulatory obligations.  <b>However, regulated dealers remain responsible for ensuring that their Anti-Money Laundering/Countering the Financing of Terrorism ("**AML/CFT**") measures are appropriately designed for their business and commensurate with their money laundering/terrorism financing ("**ML/TF**") risk exposure.</b><br><br>
@@ -24,11 +25,11 @@ The Guidelines also provide [sample forms and checklists<sup>1</sup>](/images/Gu
   </tr>
 </table>
 
-#### 2. Sample forms for CDD and ECDD
+#### <a id="Sample forms for CDD and ECDD"></a> 2. Sample forms for CDD and ECDD
 
 Regulated dealers are required to keep records of the customer due diligence ("**CDD**") and enhanced customer due diligence ("**ECDD**") performed. The [sample forms](/images/Sample CDD and ECDD Form (Version 2.0) Final (Updated).docx) are extracted from the Guidelines and available in Microsoft Word document format for ease of editing. <br>
 
-#### 3. Guidance Paper on Strengthening AML/CFT Controls in the Precious Stones and Precious Metals (PSPM) Sector
+#### <a id="Guidance Paper on Strengthening AML/CFT Controls in the Precious Stones and Precious Metals (PSPM) Sector"></a> 3. Guidance Paper on Strengthening AML/CFT Controls in the Precious Stones and Precious Metals (PSPM) Sector
 
 MinLaw conducted a series of inspections and compliance reviews of regulated dealers targeted at assessing their level of compliance with the PSPM Act and PMLTF Regulations.
 
@@ -99,7 +100,7 @@ This Notice for Customers is available in 4 languages - English, Chinese, Malay 
 
 The [GoBusiness Licensing Guide](/images//GoBusiness%20Licensing%20Guide%20For%20Regulated%20Dealers_ACD_20191127.pdf){:target="_blank"} gives regulated dealers a step-by-step walkthrough of the application, renewal and amendment processes in GoBusiness Licensing Portal.
 
-#### 9. Videos and Posters
+#### <a id="Videos and Posters"></a> 9. Videos and Posters
 
 The following videos and posters provide useful summary to the regulatory requirements for regulated dealers.
 
