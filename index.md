@@ -33,25 +33,25 @@ sections:
     - infopic:
           title: Fulfil Entity-Based Requirements
           subtitle: " "
-          description: Start by developing your risk assessment and internal policies, procedures and controls. Refer to the resources provided in your welcome email. <insert pic of RA and IPPC>
+          description: Start by developing your risk assessment and internal policies, procedures and controls. Refer to the resources provided in your welcome email.
           button: Learn More about Entity-Based Requirements
           url: /entity-based-requirements/
           image: /images//RA%20%26%20IPPC%20icon.png
           alt: Understanding Entity-Based Requirements
     - infopic:
-          title: Submit Semi-Annual Return via myPal (or reserve for RRB's registration?)
+          title: Learn about the requirements
           subtitle: " "
-          description: Find out how you could use myPal for your day-to-day business, including submitting your semi-annual return <insert pic of myPal>
-          button: Learn More about myPal
-          url: /other-regulatory-requirements/#Reporting%20Requirement/
+          description: Watch the videos to learn about the requirements before you start your transaction.
+          button: Learn More from videos
+          url: /guidance-materials/#Videos%20and%20Posters
           image: /images/myPal.png
           alt: How to use myPal for your business
     - infopic:
           title: Building your AML/CFT capabilitities
           subtitle: " "
-          description: Learn more about the regime from the various guidances and trainings provided
+          description: Learn more about the regime from the guidance papers issued by Ministry of Law.
           button: Learn More about AML/CFT
-          url: /guidance-materials/#Videos%20and%20Posters
+          url: /guidance-papers/
           image: /images/Shaun%20the%20Shield%20logo.png
           alt: Build your AML/CFT capabilities      
  
