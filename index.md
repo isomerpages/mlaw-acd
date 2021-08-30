@@ -51,7 +51,7 @@ sections:
           subtitle: " "
           description: Learn more about the regime from the various guidances and trainings provided
           button: Learn More about AML/CFT
-          url: /news/notices-from-the-registrar/guidance-paper-issued-on-16-jun-2021
+          url: /guidance-papers/
           image: /images/Shaun%20the%20Shield%20logo.png
           alt: Build your AML/CFT capabilities      
  
