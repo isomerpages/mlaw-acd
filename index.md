@@ -52,7 +52,7 @@ sections:
           description: Be aware of the supervisory expectations expected on regulated dealers in the precious stones and precious metals dealer sector.
           button: Learn More about guidance paper
           url: /guidance-papers/
-          image: /images/Guidance%20Paper.PNG
+          image: /images/Guidance%20Paper.png
           alt: Learn from guidance paper      
  
     - resources:
