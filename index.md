@@ -54,8 +54,7 @@ sections:
           url: /guidance-papers/
           image: /images/Guidance%20Paper.png
           alt: Learn from guidance paper      
- 
-    - resources:
+     - resources:
           title: 'Latest News'
           subtitle: 'News for Regulated Dealers'
           button: 'More Information on ACD news'
