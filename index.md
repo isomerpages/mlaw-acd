@@ -52,7 +52,7 @@ sections:
           description: Learn more about the regime from the guidance paper issued by Ministry of Law.
           button: Learn More about AML/CFT
           url: /guidance-papers/
-          image: /images/Shaun%20the%20Shield%20logo.png
+          image: /images/Guidance%20Paper.PNG
           alt: Learn from guidance paper      
  
     - resources:
