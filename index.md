@@ -47,7 +47,7 @@ sections:
           subtitle: " "
           description: Understand the various reuqirements before you start your transaction.
           button: Learn More from videos
-          url: /guidance-materials/#Videos%20and%20Posters
+          url: /guidance-videos-and-posters/#Videos%20and%20Posters
           image: /images/myPal.png
           alt: How to use myPal for your business
     - infopic:
