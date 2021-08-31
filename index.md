@@ -53,7 +53,8 @@ sections:
           button: Learn More about guidance paper
           url: /guidance-papers/
           image: /images/Guidance%20Paper.png
-          alt: Learn from guidance paper      
+          alt: Learn from guidance paper     
+          
      - resources:
           title: 'Latest News'
           subtitle: 'News for Regulated Dealers'
