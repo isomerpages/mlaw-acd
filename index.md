@@ -8,13 +8,9 @@ sections:
           title: 'Regulatory Regime for Precious Stones and Precious Metals Dealers'
           subtitle: 'Anti-Money Laundering / Countering the Financing of Terrorism Division (ACD)'
           background: /images/bullion1.jpg
-          button: 'Guidance Materials<br>for Regulated Dealers'
-          url: /guidance-materials/
+          button: 'Submit Semi-Annual Return<br>via myPal'
+          url: /guidance-materials/#Semi-Annual%20Return%20Instruction%20Guide
           key_highlights:
-                - title: 'Semi-Annual Return'
-                  description: Submit your return via myPal
-                  url: /guidance-materials/#Semi-Annual%20Return%20Instruction%20Guide
-                  external: false
                 - title: Renewal
                   description: 'Overview of renewal process'
                   url: /renewal/
@@ -33,7 +29,7 @@ sections:
                   external: false
     - infobar:
           title: Journey of a Regulated Dealer
-          description: Begin your AML/CFT journey by following these steps           
+          description: Begin your AML/CFT journey by following the guidances below           
     - infopic:
           title: Fulfil Entity-Based Requirements
           subtitle: " "
@@ -41,15 +37,15 @@ sections:
           button: Learn More about Entity-Based Requirements
           url: /entity-based-requirements/
           image: /images//RA%20%26%20IPPC%20icon.png
-          alt: Understanding Entity-Based Requirements
+          alt: Fulfil Entity-Based Requirements
     - infopic:
-          title: Watch the videos prepared
+          title: Watch the guidance videos
           subtitle: " "
-          description: Understand the various reuqirements before you start your transaction.
+          description: Understand the requirements of a regulated dealer before you perform a transaction.
           button: Learn More from videos
           url: /guidance-videos-and-posters/#Videos%20and%20Posters
           image: /images/myPal.png
-          alt: How to use myPal for your business
+          alt: Watch the guidance videos
     - infopic:
           title: Learn from guidance paper
           subtitle: " "
