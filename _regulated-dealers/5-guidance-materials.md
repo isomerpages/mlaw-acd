@@ -5,7 +5,11 @@ breadcrumb: 'Guidance Materials'
 
 ---
 
-#### 1. Guidelines for Regulated Dealers
+#### <a id="Semi-Annual Return Instruction Guide"></a> 1. Semi-Annual Return Instruction Guide
+
+The [instruction guide](/images/Semi-Annual Return Instruction Guide_20210623.pdf){:target="_blank"} and [guidance video](https://youtu.be/Jpcj4iYSOSM){:target="_blank"} provide regulated dealers with a step-by-step walkthrough (with screenshots) on how to navigate and submit the semi-annual return via <i>my</i>Pal. Please click [here](https://acd.mlaw.gov.sg/other-regulatory-requirements){:target="_blank"} for information on the reporting requirement.
+
+#### 2. Guidelines for Regulated Dealers
 
 The [Guidelines for Regulated Dealers in the Precious Stones and Precious Metals Dealers Sector on Anti-Money Laundering/Countering the Financing of Terrorism ("**Guidelines**")](/images/Guidelines for regulated dealers_20201214_V2.0Final (Updated).pdf){:target="_blank"} are meant to help regulated dealers understand the regulatory requirements under the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019 ("**PSPM Act**") and Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations 2020 ("**PMLTF Regulations**").<a href="#footnote1"></a><br><br> 
 The Guidelines also provide [sample forms and checklists<sup>1</sup>](/images/Guidelines for regulated dealers_Annexes_20201214_V2.0Final (Updated).docx){:target="_blank"} to assist regulated dealers in meeting their regulatory obligations.  <b>However, regulated dealers remain responsible for ensuring that their Anti-Money Laundering/Countering the Financing of Terrorism ("**AML/CFT**") measures are appropriately designed for their business and commensurate with their money laundering/terrorism financing ("**ML/TF**") risk exposure.</b><br><br>
@@ -23,11 +27,11 @@ The Guidelines also provide [sample forms and checklists<sup>1</sup>](/images/Gu
   </tr>
 </table>
 
-#### 2. Sample forms for CDD and ECDD
+#### 3. Sample forms for CDD and ECDD
 
 Regulated dealers are required to keep records of the customer due diligence ("**CDD**") and enhanced customer due diligence ("**ECDD**") performed. The [sample forms](/images/Sample CDD and ECDD Form (Version 2.0) Final (Updated).docx) are extracted from the Guidelines and available in Microsoft Word document format for ease of editing. <br>
 
-#### 3. Guidance Paper on Strengthening AML/CFT Controls in the Precious Stones and Precious Metals (PSPM) Sector
+#### 4. Guidance Paper on Strengthening AML/CFT Controls in the Precious Stones and Precious Metals (PSPM) Sector
 
 MinLaw conducted a series of inspections and compliance reviews of regulated dealers targeted at assessing their level of compliance with the PSPM Act and PMLTF Regulations.
 
@@ -36,10 +40,6 @@ The [Guidance Paper](/images/Guidance Paper_20210616.pdf){:target="_blank"} sets
 Please click [here](/images/Guidance Paper Briefing slides_20210712.pdf){:target="_blank"} to view the Guidance Paper Briefing slides. The video for the Guidance Paper Briefing is available [here](https://youtu.be/RaOrZNbtMFM){:target="_blank"}.
 
 Regulated dealers should study the learning points and incorporate them in a manner proportionate to the risk profile of their business activities and customers. The regulated dealers should note that examples highlighted in this paper are non-exhaustive and they should continue to implement appropriate AML/CFT controls that commensurate with the nature and complexity of their business.
-
-#### 4. Semi-Annual Return Instruction Guide
-
-The [instruction guide](/images/Semi-Annual Return Instruction Guide_20210623.pdf){:target="_blank"} and [guidance video](https://youtu.be/Jpcj4iYSOSM){:target="_blank"} provide regulated dealers with a step-by-step walkthrough (with screenshots) on how to navigate and submit the semi-annual return via <i>my</i>Pal. Please click [here](https://acd.mlaw.gov.sg/other-regulatory-requirements){:target="_blank"} for information on the reporting requirement.
 
 #### 5. Monetary Authority of Singapore's ("**MAS**") website - Lists of Designated Individuals and Entities
 
