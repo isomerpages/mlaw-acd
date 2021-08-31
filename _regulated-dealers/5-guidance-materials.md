@@ -97,35 +97,3 @@ This Notice for Customers is available in 4 languages - English, Chinese, Malay 
 #### 8. GoBusiness Licensing Guide for Precious Stones and Precious Metals Dealers ("**GoBusiness Licensing Guide**")
 
 The [GoBusiness Licensing Guide](/images//GoBusiness%20Licensing%20Guide%20For%20Regulated%20Dealers_ACD_20191127.pdf){:target="_blank"} gives regulated dealers a step-by-step walkthrough of the application, renewal and amendment processes in GoBusiness Licensing Portal.
-
-#### <a id="Videos and Posters"></a> 9. Videos and Posters
-
-The following videos and posters provide useful summary to the regulatory requirements for regulated dealers.
-
-<u> Video: Submission of Semi-Annual Return using <i>my</i>Pal
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jpcj4iYSOSM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<u> Video: How to perform risk assessment and develop internal policies, procedures and controls ("IPPC")
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Y49v8hvHpB0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<u> Video: Guidance Paper Briefing
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RaOrZNbtMFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<u> Video: Entity-Based Requirements
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l6R8ovdrn4g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-* [English](https://youtu.be/l6R8ovdrn4g){:target="_blank"}
-* [Chinese](https://youtu.be/mFkp6e6eAEY){:target="_blank"}
-
-<u> Video: Transaction-Based Requirements
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6HGL8SHrQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-* [English](https://youtu.be/g6HGL8SHrQY){:target="_blank"}
-* [Chinese](https://youtu.be/CpUUhEWT59Q){:target="_blank"}
-* [Malay](https://youtu.be/7ESKY_2SfXU){:target="_blank"}
-* [Tamil](https://youtu.be/oUAsmTT7Odw){:target="_blank"}
-  
-<u> Video: Must-Know for Foreign Dealers
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KRS30HOmjyk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  
-**Posters:**
-* [Entity-Based Requirements Poster (English)](/images/EntityBasedRequirementsPoster.pdf){:target="_blank"}
-* [Transaction-Based Requirements Poster (English)](/images/TransactionBasedRequirementsPoster.pdf){:target="_blank"}
