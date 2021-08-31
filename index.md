@@ -11,21 +11,25 @@ sections:
           button: 'Guidance Materials<br>for Regulated Dealers'
           url: /guidance-materials/
           key_highlights:
-                - title: 'List of Registered Dealers'
-                  description: 'Get the latest list of Registered Dealers in Singapore'
-                  url: /list-of-registered-dealers/
+                - title: 'Semi-Annual Return'
+                  description: Submit your return via myPal
+                  url: /guidance-materials/#Semi-Annual%20Return%20Instruction%20Guide
                   external: false
                 - title: Renewal
                   description: 'Overview of renewal process'
                   url: /renewal/
                   external: false
+                - title: 'List of Registered Dealers'
+                  description: 'Get the latest list of Registered Dealers in Singapore'
+                  url: /list-of-registered-dealers/
+                  external: false
                 - title: 'Regulatory Regime'
                   description: 'Overview of regulatory regime'
                   url: /regulatory-regime/
                   external: false
-                - title: 'Entity-Based Requirements'
-                  description: 'Perform risk assessment and IPPC'
-                  url: /entity-based-requirements/
+                - title: 'Notices from the Registrar'
+                  description: 'Stay informed of the latest announcements'
+                  url: /news/notices-from-the-registrar/
                   external: false
     - infobar:
           title: Journey of a Regulated Dealer
@@ -47,13 +51,13 @@ sections:
           image: /images/myPal.png
           alt: How to use myPal for your business
     - infopic:
-          title: Building your AML/CFT capabilities
+          title: Learn from guidance paper
           subtitle: " "
-          description: Learn more about the regime from the guidance papers issued by Ministry of Law.
+          description: Learn more about the regime from the guidance paper issued by Ministry of Law.
           button: Learn More about AML/CFT
           url: /guidance-papers/
           image: /images/Shaun%20the%20Shield%20logo.png
-          alt: Build your AML/CFT capabilities      
+          alt: Learn from guidance paper      
  
     - resources:
           title: 'Latest News'
