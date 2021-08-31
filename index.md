@@ -29,7 +29,7 @@ sections:
                   external: false
     - infobar:
           title: Journey of a Regulated Dealer
-          description: Begin your AML/CFT journey by following the guidances below           
+          description: Begin your AML/CFT journey with the guidances provided below           
     - infopic:
           title: Fulfil Entity-Based Requirements
           subtitle: " "
@@ -47,10 +47,10 @@ sections:
           image: /images/Watch%20Guidance%20Videos.png
           alt: Watch the guidance videos
     - infopic:
-          title: Understand the guidance paper
+          title: Read the guidance paper
           subtitle: " "
-          description: Learn more about the regime from the guidance paper issued by Ministry of Law.
-          button: Learn More about AML/CFT
+          description: Be aware of the supervisory expectations expected on regulated dealers in the precious stones and precious metals dealer sector.
+          button: Learn More about guidance paper
           url: /guidance-papers/
           image: /images/Guidance%20Paper.PNG
           alt: Learn from guidance paper      
