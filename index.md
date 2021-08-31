@@ -44,7 +44,7 @@ sections:
           description: Understand the requirements of a regulated dealer before you perform a transaction.
           button: Learn More from videos
           url: /guidance-videos-and-posters/#Videos%20and%20Posters
-          image: /imagesWatch%20Guidance%20Videos.png
+          image: /images/Watch%20Guidance%20Videos.png
           alt: Watch the guidance videos
     - infopic:
           title: Understand the guidance paper
