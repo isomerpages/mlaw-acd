@@ -28,37 +28,36 @@ sections:
                   url: /news/notices-from-the-registrar/
                   external: false
     - infobar:
-           title: Journey of a Regulated Dealer
-           description: Begin your AML/CFT journey with the guidances provided below         
+          title: Journey of a Regulated Dealer
+          description: Begin your AML/CFT journey by following the guidances below           
     - infopic:
-           title: Fulfil Entity-Based Requirements
-           subtitle: " "
-           description: Start by developing your risk assessment and internal policies, procedures and controls. Refer to the resources provided in your welcome email.
-           button: Learn More about Entity-Based Requirements
-           url: /entity-based-requirements/
-           image: /images//RA%20%26%20IPPC%20icon.png/
-           alt: Fulfil Entity-Based Requirements
+          title: Fulfil Entity-Based Requirements
+          subtitle: " "
+          description: Start by developing your risk assessment and internal policies, procedures and controls. Refer to the resources provided in your welcome email.
+          button: Learn More about Entity-Based Requirements
+          url: /entity-based-requirements/
+          image: /images//RA%20%26%20IPPC%20icon.png
+          alt: Fulfil Entity-Based Requirements
     - infopic:
-           title: Learn from guidance videos
-           subtitle: " "
-           description: Understand the requirements of a regulated dealer before you perform a transaction.
-           button: Learn More from videos
-           url: /guidance-videos-and-posters/#Videos%20and%20Posters
-           image: /images/Watch%20Guidance%20Videos.png/
-           alt: Watch the guidance videos
+          title: Learn from guidance videos
+          subtitle: " "
+          description: Understand the requirements of a regulated dealer before you perform a transaction.
+          button: Learn More from videos
+          url: /guidance-videos-and-posters/#Videos%20and%20Posters
+          image: /imagesWatch%20Guidance%20Videos.png
+          alt: Watch the guidance videos
     - infopic:
-           title: Read the guidance paper
-           subtitle: " "
-           description: Be aware of the supervisory expectations expected on regulated dealers in the precious stones and precious metals dealer sector.
-           button: Learn More about guidance paper
-           url: /guidance-papers/
-           image: /images/Guidance%20Paper.png/
-           alt: Learn from guidance paper      
-     - resources:
+          title: Understand the guidance paper
+          subtitle: " "
+          description: Learn more about the regime from the guidance paper issued by Ministry of Law.
+          button: Learn More about AML/CFT
+          url: /guidance-papers/
+          image: /images/Guidance%20Paper.PNG
+          alt: Learn from guidance paper      
+ 
+    - resources:
           title: 'Latest News'
           subtitle: 'News for Regulated Dealers'
           button: 'More Information on ACD news'
           url: /news/
 ---
-
-
