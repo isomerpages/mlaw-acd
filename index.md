@@ -39,7 +39,7 @@ sections:
           image: /images//RA%20%26%20IPPC%20icon.png
           alt: Fulfil Entity-Based Requirements
     - infopic:
-          title: Watch the guidance videos
+          title: Learn from guidance videos
           subtitle: " "
           description: Understand the requirements of a regulated dealer before you perform a transaction.
           button: Learn More from videos
@@ -47,7 +47,7 @@ sections:
           image: /images/myPal.png
           alt: Watch the guidance videos
     - infopic:
-          title: Learn from guidance paper
+          title: Understand the guidance paper
           subtitle: " "
           description: Learn more about the regime from the guidance paper issued by Ministry of Law.
           button: Learn More about AML/CFT
