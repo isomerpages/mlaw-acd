@@ -15,44 +15,38 @@ Under the Compliance Review Programme ("**CRP**"), the Ministry of Law has appoi
 The Reviewer will assess the registered dealers' level of compliance with the PSPM Act and PMLTF Regulations and provide guidance, where necessary. The reviews will be conducted through a combination of correspondence via emails, phone calls and meetings. Registered dealers will receive a report highlighting non-compliances, areas for improvement and required remedial and corrective actions (if any).
 
 **Information of Reviewers** <br>
-1.	Ashley Goh Sio Wui
-2.	Axel Ng Jia Xue
-3.	Chan Jun Wei
-4.	Chan Na Ching Inez
-5.	Cheung Yuet Ting
-6.	Chng Su Yun
-7.	Choi Ai Jia Vanessa
-8.	Constance Tan Hui Fang
-9.	Elizabeth Lee Rouhui
-10.	Fang Shengyu Ian
-11.	Goh Guan Cong Jolvin
-12.	Ho Ming Hui
-13.	Justin Seah Jun Yu
-14.	Khong Wai Leong Daryl
-15.	Koh Xuan Kai
-16.	Lee Wei Hao
-17.	Lee Xin Ying Rayna
-18.	Lim Li Xian, Alair
-19.	Lim Shitian Dawn
+1.	Chan Jun Wei
+2.	Chang Zhing Fang Ceslie
+3.	Cheung Yuet Ting
+4.	Chng Su Yun
+5.	Choi Ai Jia Vanessa
+6.	Goh Guan Cong Jolvin
+7.	Goh Sio Wui Ashley
+8.	Ho Ming Hui
+9.	Ho Marcus Yong Hui
+10.	Ian Fang
+11.	Kantha Rupan
+12.	Khong Wai Leong Daryl
+13.	Koh Xuan Kai
+14.	Lee Rouhui Elizabeth
+15.	Lee Wei Hao Terence
+16.	Lee Xin Ying Rayna
+17.	Lek Jing Ting
+18.	Leung Chung Yun Daniel
+19.	Lim Li Xian Alair
 20.	Lim Yi Jieh Edna
-21.	Marcus Ho Yong Hui
-22.	Neo Wen Jun
-23.	Ng Gui Rui
-24.	Ng Shiyun Sedrilyn
-25.	Ng Yiru Jane
-26.	Nicholas Koh Ngee Hao
-27.	Nicole Ng
-28.	Ong Lay Teng Andrew
-29.	Ong Ziheng Xavier
-30.	Shi Yongsheng Wylson
-31.	Siew Teck Li Carene
-32.	Sivakumar Kiresnasamy
-33.	Soh Yu Xian
-34.	Tee Ren Jie Shamus
-35.	Tian Wan Xin Karsandra
-36.	Wong Lai Yee
-37.	Wong Ren Jie Samuel
-38.	Yeo Yu Ling Amber
+21.	Neo Wen Jun
+22.	Ng Gui Rui
+23.	Ng Jia Xue Axel
+24.	Nicholas Koh
+25.	Ong Lay Teng Andrew
+26.	Shi Wylson Yongsheng 
+27.	Sow Zhao Sean
+28.	Tee Ren Jie Shamus
+29.	Tian Wan Xin Karsandra
+30.	Wong Lai Yee
+31.	Yan Steven Li
+32.	Yeo Yu Ling Amber
 
 #### Safeguarding Registered Dealers’ Information
 
