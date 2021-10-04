@@ -2,7 +2,7 @@
 layout: homepage
 title: 'Ministry of Law - ACD'
 permalink: /
-notification: <a href="https://form.gov.sg/#!/5f0fc0c3fefd4e00119dc724" target="_blank">Sign up for the Compliance Training to build your AML/CFT capabilities!</a>
+notification: PLease note that GoBusiness Licensing Portal is undergoing maintenance and you may not be able to access it for the time being
 sections:
     - hero:
           title: 'Regulatory Regime for Precious Stones and Precious Metals Dealers'
