@@ -2,7 +2,7 @@
 layout: homepage
 title: 'Ministry of Law - ACD'
 permalink: /
-notification: PLease note that GoBusiness Licensing Portal is undergoing maintenance and you may not be able to access it for the time being
+notification: PLease note that GoBusiness Licensing Portal is undergoing maintenance and you may not be able to access it for the time being.
 sections:
     - hero:
           title: 'Regulatory Regime for Precious Stones and Precious Metals Dealers'
