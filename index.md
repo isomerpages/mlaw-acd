@@ -2,7 +2,7 @@
 layout: homepage
 title: 'Ministry of Law - ACD'
 permalink: /
-notification: <a href="https://form.gov.sg/#!/5f0fc0c3fefd4e00119dc724" target="_blank">Sign up for the Compliance Training to build your AML/CFT capabilities!</a>
+notification: <a href="/news/notices-from-the-registrar/october-2021-fatf-statement/" target="_blank">FATF Public Statement - Countries/Jurisdictions with Strategic Deficiencies (latest!)</a>
 sections:
     - hero:
           title: 'Regulatory Regime for Precious Stones and Precious Metals Dealers'
