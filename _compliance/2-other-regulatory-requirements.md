@@ -26,7 +26,9 @@ Please click [here](https://acd.mlaw.gov.sg/news/notices-from-the-registrar/repo
 
 Pursuant to the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations (“**PMLTF Regulations**”), registered dealers have the duty to notify the Registrar of Regulated Dealers of change in particulars and circumstances.
 
-<a href="/images/Duty to Notify Registrar of Changes table_Final v3_20210604.pdf"><img src="/images/Duty to Notify Registrar of Changes table_Final v3_20210604.png"></a>
+The notification is to be submitted in **GoBusiness Licensing Portal** via an amendment application. You need to tick the checkbox (for each section that you wish to amend) in order to update your records with MinLaw. Refer to the table below for more details on how to submit the amendment application.
+
+<a href="/images/Duty to Notify Registrar of Changes table_Final v4_20211118.pdf"><img src="/images/Duty to Notify Registrar of Changes table_Final v4_20211118.png"></a>
 
 **Note: Cancellation of Registration**
 
