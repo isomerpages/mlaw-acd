@@ -15,38 +15,45 @@ Under the Compliance Review Programme ("**CRP**"), the Ministry of Law has appoi
 The Reviewer will assess the registered dealers' level of compliance with the PSPM Act and PMLTF Regulations and provide guidance, where necessary. The reviews will be conducted through a combination of correspondence via emails, phone calls and meetings. Registered dealers will receive a report highlighting non-compliances, areas for improvement and required remedial and corrective actions (if any).
 
 **Information of Reviewers** <br>
-1.	Chan Jun Wei
-2.	Chang Zhing Fang Ceslie
-3.	Cheung Yuet Ting
-4.	Chng Su Yun
-5.	Choi Ai Jia Vanessa
-6.	Goh Guan Cong Jolvin
-7.	Goh Sio Wui Ashley
-8.	Ho Ming Hui
-9.	Ho Marcus Yong Hui
-10.	Ian Fang
-11.	Kantha Rupan
-12.	Khong Wai Leong Daryl
-13.	Koh Xuan Kai
-14.	Lee Rouhui Elizabeth
-15.	Lee Wei Hao Terence
-16.	Lee Xin Ying Rayna
-17.	Lek Jing Ting
-18.	Leung Chung Yun Daniel
-19.	Lim Li Xian Alair
-20.	Lim Yi Jieh Edna
-21.	Neo Wen Jun
-22.	Ng Gui Rui
-23.	Ng Jia Xue Axel
-24.	Nicholas Koh
-25.	Ong Lay Teng Andrew
-26.	Shi Wylson Yongsheng 
-27.	Sow Zhao Sean
-28.	Tee Ren Jie Shamus
-29.	Tian Wan Xin Karsandra
-30.	Wong Lai Yee
-31.	Yan Steven Li
-32.	Yeo Yu Ling Amber
+1.	Amber Yeo
+2.	Andrew Ong
+3.	Carene Siew
+4.	Chan, Jun Wei
+5.	Chang, Ceslie Zhing Fang
+6.	Cheung, Yuet Ting
+7.	Chng, Su Yun
+8.	Claire Foo Xin Hui
+9.	Dawn Lim
+10.	Fu, Freya Zijia
+11.	Goh, Ashley Sio Wui
+12.	Ho, Marcus Yong Hui
+13.	Ian Fang
+14.	Jolvin Goh
+15.	Khoo, Nathan
+16.	Koh Xuan Kai
+17.	Koh, Mei Ting
+18.	Kulandhyan, Hemadharrshini
+19.	Lee, Rayna Xin Ying
+20.	Lee, Wei Hao
+21.	Lim, Alair Li Xian
+22.	Lim, Edna Yi Jieh
+23.	Muthipalani, Myili
+24.	Neo, Wen Jun
+25.	Ng Gui Rui
+26.	Ng, Axel Jia Xue
+27.	Ng, Jane
+28.	Nicholas Koh
+29.	Quek, Stephanie En Yi
+30.	Shi, Wylson Yongsheng
+31.	Sow, Zhao Sean
+32.	Srivalsan, Krishna
+33.	Tan Chin Lin
+34.	Tan, Wan Xuan
+35.	Tee, Shamus Ren Jie
+36.	Tian, Karsandra Wan Xin
+37.	Vanessa Choi
+38.	Wong, Lai Yee
+39.	Yan, Steven Li
 
 #### Safeguarding Registered Dealers’ Information
 
