@@ -5,4 +5,4 @@ breadcrumb: Safeguarding-PSMD-Sector
 
 ---
 
-<a href="/images/Safeguarding%20the%20Precious%20Stones%20and%20Precious%20Metals%20Dealers%20Sector.pdf" target="_blank"><img src="/images/Safeguarding%20the%20Precious%20Stones%20and%20Precious%20Metals%20Dealers%20Sector.png"></a>
+<a href="/images/Safeguarding%20PSMD%20Sector_Jan2020.pdf" target="_blank"><img src="/images/Safeguarding%20PSMD%20Sector_Jan2020.png"></a>
