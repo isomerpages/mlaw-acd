@@ -1,6 +1,6 @@
 ---
 title: 'Sign Up For Compliance Training'
-date: 2021-02-01T00:00:00.000Z
+date: 2021-12-07T00:00:00.000Z
 permalink: /news/past-events/Compliance-Training/
 
 ---
