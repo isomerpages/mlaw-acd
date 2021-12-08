@@ -29,31 +29,32 @@ The Reviewer will assess the registered dealers' level of compliance with the PS
 12.	Ho, Marcus Yong Hui
 13.	Ian Fang
 14.	Jolvin Goh
-15.	Khoo, Nathan
-16.	Koh Xuan Kai
-17.	Koh, Mei Ting
-18.	Kulandhyan, Hemadharrshini
-19.	Lee, Rayna Xin Ying
-20.	Lee, Wei Hao
-21.	Lim, Alair Li Xian
-22.	Lim, Edna Yi Jieh
-23.	Muthipalani, Myili
-24.	Neo, Wen Jun
-25.	Ng Gui Rui
-26.	Ng, Axel Jia Xue
-27.	Ng, Jane
-28.	Nicholas Koh
-29.	Quek, Stephanie En Yi
-30.	Shi, Wylson Yongsheng
-31.	Sow, Zhao Sean
-32.	Srivalsan, Krishna
-33.	Tan Chin Lin
-34.	Tan, Wan Xuan
-35.	Tee, Shamus Ren Jie
-36.	Tian, Karsandra Wan Xin
-37.	Vanessa Choi
-38.	Wong, Lai Yee
-39.	Yan, Steven Li
+15.	Kantha Rupan S/O Arivalagan
+16.	Khoo, Nathan
+17.	Koh Xuan Kai
+18.	Koh, Mei Ting
+19.	Kulandhyan, Hemadharrshini
+20.	Lee, Rayna Xin Ying
+21.	Lee, Wei Hao
+22.	Lim, Alair Li Xian
+23.	Lim, Edna Yi Jieh
+24.	Muthipalani, Myili
+25.	Neo, Wen Jun
+26.	Ng Gui Rui
+27.	Ng, Axel Jia Xue
+28.	Ng, Jane
+29.	Nicholas Koh
+30.	Quek, Stephanie En Yi
+31.	Shi, Wylson Yongsheng
+32.	Sow, Zhao Sean
+33.	Srivalsan, Krishna
+34.	Tan Chin Lin
+35.	Tan, Wan Xuan
+36.	Tee, Shamus Ren Jie
+37.	Tian, Karsandra Wan Xin
+38.	Vanessa Choi
+39.	Wong, Lai Yee
+40.	Yan, Steven Li
 
 #### Safeguarding Registered Dealers’ Information
 
