@@ -2,7 +2,7 @@
 layout: homepage
 title: 'Ministry of Law - ACD'
 permalink: /
-notification: <a href="/news/notices-from-the-registrar/october-2021-fatf-statement/" target="_blank">FATF Public Statement - Countries/Jurisdictions with Strategic Deficiencies (latest!)</a>
+notification: If you suspect that an investment scheme could be fraudulent or is being misused for any illicit activity, you should consider reporting it to the police immediately at [https://eservices.police.gov.sg/content/policehubhome/homepage/police-report.html](https://eservices.police.gov.sg/content/policehubhome/homepage/police-report.html){:target="_blank"} or at any Neighbourhood Police Centre.
 sections:
     - hero:
           title: 'Regulatory Regime for Precious Stones and Precious Metals Dealers'
