@@ -2,7 +2,7 @@
 layout: homepage
 title: 'Ministry of Law - ACD'
 permalink: /
-notification: If you suspect that an investment scheme could be fraudulent or is being misused for any illicit activity, you should <a href="https://eservices.police.gov.sg/content/policehubhome/homepage/police-report.html" target="_blank">consider reporting it to the police immediately</a> or at any Neighbourhood Police Centre.
+notification: <a href="/list-of-registered-dealers/" target="_blank">If you suspect that an investment scheme could be fraudulent or is being misused for any illicit activity, you should <a href="https://eservices.police.gov.sg/content/policehubhome/homepage/police-report.html" target="_blank">consider reporting it to the police immediately</a> or at any Neighbourhood Police Centre.</a>
 sections:
     - hero:
           title: 'Regulatory Regime for Precious Stones and Precious Metals Dealers'
