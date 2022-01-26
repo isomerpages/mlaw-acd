@@ -26,6 +26,8 @@ links:
     collection: regulated-dealers
   - title: Compliance
     collection: compliance
+  - title: myPal
+    url: https://eservices.mlaw.gov.sg/mypal
   - title: Customers
     collection: customers
   - title: News
