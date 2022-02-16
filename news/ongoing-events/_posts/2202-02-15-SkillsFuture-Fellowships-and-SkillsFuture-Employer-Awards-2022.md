@@ -12,5 +12,6 @@ The SkillsFuture Fellowships and the SkillsFuture Employer Awards are open for a
 <img src="/images/SSG2.jpg">
 <img src="/images/SSG3.jpg">
 <img src="/images/SSG4.jpg">
+
 For more information, you may refer to the following resources if you are interested in making applications for 
-the SkillsFuture Fellowships and the SkillsFuture Employer Awards. For enquiries, please contact Singapore National Employers Federation (SNEF), the appointed Programme Manager for the awards at sfa@snef.gov.sg.
+the SkillsFuture Fellowships and the SkillsFuture Employer Awards. For enquiries, please contact Singapore National Employers Federation (SNEF), the appointed Programme Manager for the awards at <a href="mailto:sfa@snef.org.sg">sfa@snef.org.sg</a>
