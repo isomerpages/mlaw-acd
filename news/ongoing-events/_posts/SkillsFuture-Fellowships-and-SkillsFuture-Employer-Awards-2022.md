@@ -4,6 +4,11 @@ title: SkillsFuture Fellowships and SkillsFuture Employer Awards 2022
 date: 2022-02-15
 permalink: /news/ongoing-events/SkillsFuture-Fellowships-and-SkillsFuture-Employer-Awards-2022/
 ---
-ACD and Enterprise Singapore (ESG) worked on financial support for regulated dealers on the purchase of pre-scoped AML/CFT screening solutions via the Productivity Solutions Grant (PSG).
-<a href="/images/Financial%20Support%20for%20AMLCFT%20Screening%20Solutions_20201110.pdf" target="_blank"><img src="/images/Financial%20Support%20for%20AMLCFT%20Screening%20Solutions_20201110.jpg"></a>
-For assistance, please contact ESG at +65 6898 1800, or email at enquiry@enterprisesg.gov.sg. 
+Dear regulated dealers,
+ 
+The SkillsFuture Fellowships and the SkillsFuture Employer Awards are open for applications till 21 Mar 2022. The SkillsFuture Fellowships recognise individuals who have developed skills mastery, while the SkillsFuture Employer Awards recognise employers who are exemplary in developing their employees through their careers. All applications will be evaluated by a panel of judges comprising senior representatives from the industry, unions and the government.
+
+<a href="/images/SSG1.pdf" target="_blank"><img src="/images/SSG1.jpg"></a>
+ 
+For more information, you may refer to the following resources if you are interested in making applications for 
+the SkillsFuture Fellowships and the SkillsFuture Employer Awards. For enquiries, please contact Singapore National Employers Federation (SNEF), the appointed Programme Manager for the awards at sfa@snef.gov.sg.
