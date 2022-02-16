@@ -18,4 +18,5 @@ the SkillsFuture Fellowships and the SkillsFuture Employer Awards. For enquiries
 
 <div style="text-align:center"><a href="/images/SkillsFuture_Fellowships_FAQ_2022.pdf" target="_blank">SkillsFuture Fellowships FAQ</a></div>
 
+
 <div style="text-align:center"><a href="/images/SkillsFuture_Employer_Awards_FAQ_2022.pdf" target="_blank">SkillsFuture Employer Awards FAQ</a></div>
