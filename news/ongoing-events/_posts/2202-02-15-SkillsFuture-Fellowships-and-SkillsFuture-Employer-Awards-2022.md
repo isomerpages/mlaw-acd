@@ -8,7 +8,7 @@ Dear regulated dealers,
  
 The SkillsFuture Fellowships and the SkillsFuture Employer Awards are open for applications till 21 Mar 2022. The SkillsFuture Fellowships recognise individuals who have developed skills mastery, while the SkillsFuture Employer Awards recognise employers who are exemplary in developing their employees through their careers. All applications will be evaluated by a panel of judges comprising senior representatives from the industry, unions and the government.
 
-<a href="/images/SSG1.pdf" target="_blank"><img src="/images/SSG1.png"></a>
+<a href="http://skillsfuture.gov.sg/sfea" target="_blank"><img src="/images/SSG1.png"></a>
 <img src="/images/SSG2.jpg">
 <img src="/images/SSG3.jpg">
 <img src="/images/SSG4.jpg">
