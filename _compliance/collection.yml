@@ -1,0 +1,11 @@
+collections:
+  compliance:
+    output: true
+    order:
+      - entity-based-requirements.md
+      - transaction-based-requirements.md
+      - other-regulatory-requirements.md
+      - aml-cft-supervisory-expectations.md
+      - offences-breaches-under-the-pspm-act-and-pmltf-regulations.md
+      - compliance-review-programme.md
+      - aml-cft-resources.md
