@@ -3,45 +3,39 @@ description: 'ACD is a Division in the Ministry of Law in charge of supervising 
 url: 'https://acd.mlaw.gov.sg'
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
-plugins:
-    - jekyll-feed
-    - jekyll-assets
-    - jekyll-paginate
-    - jekyll-sitemap
 paginate: 12
 custom_css_path: /misc/custom.css
 custom_print_css_path: /assets/css/print.css
 facebook-pixel: 533742290627102
 google-tag-manager: GTM-K75DXG8
-collections:
-    regulation:
-        output: true
-    compliance:
-        output: true
-    customers:
-        output: true
-    regulated-dealers:
-        output: true
 resources_name: news
 exclude:
-    - travis-script.js
-    - .travis.yml
-    - README.md
-    - package.json
-    - package-lock.json
-    - node_modules
-    - vendor/bundle/
-    - vendor/cache/
-    - vendor/gems/
-    - vendor/ruby/
-    - Gemfile
-    - Gemfile.lock
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
 favicon: /images/mlawfavicon.ico
 google_analytics: UA-10405444-19
 permalink: none
 baseurl: ""
 defaults:
-    - scope:
-          path: ""
-      values:
-          layout: page
+  - scope:
+      path: ""
+    values:
+      layout: page
+staging: https://isomer-acd-staging.netlify.app
+prod: https://isomer-acd-prod.netlify.app
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme

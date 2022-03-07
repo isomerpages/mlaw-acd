@@ -1,0 +1,11 @@
+collections:
+  information-for-regulated-dealers:
+    output: false
+    order:
+      - registration-of-regulated-dealers.md
+      - duty-to-notify-registrar-of-change-in-particulars-and-circumstances.md
+      - regulatory-compliance.md
+      - guidance-materials.md
+      - key-resources.md
+      - list-of-registered-dealers.md
+      - compliance-review-programme.md
