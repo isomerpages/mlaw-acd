@@ -4,6 +4,11 @@
 
 @charset "utf-8";
 
+// Agency brand colors
+$primary: {{- site.colors.primary-color -}};
+$secondary: {{- site.colors.secondary-color -}};
+$secondary-hover: lighten($secondary, 10%);
+
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;
 
