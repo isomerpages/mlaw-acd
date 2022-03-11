@@ -2,9 +2,10 @@
 layout: homepage
 title: Ministry of Law - ACD
 permalink: /
-notification: <a href="/march-2022-fatf-statement" target="_blank">March 2022
-  FATF Public Statement - Countries/Jurisdictions with Strategic Deficiencies
-  (latest!)</a>
+notification: <a
+  href="/news/notices-from-the-registrar/march-2022-fatf-statement"
+  target="_blank">March 2022 FATF Public Statement - Countries/Jurisdictions
+  with Strategic Deficiencies (latest!)</a>
 sections:
   - hero:
       title: Regulatory Regime for Precious Stones and Precious Metals Dealers
