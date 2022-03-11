@@ -7,7 +7,7 @@ description: ""
 ---
 **Action by regulated dealers against high-risk jurisdictions**<br>
 
-The Registrar of Regulated Dealers hereby notifies all regulated dealers that the Financial Action Task Force (“**FATF**”) has issued statements dated 21 October 2021 on:
+The Registrar of Regulated Dealers hereby notifies all regulated dealers that the Financial Action Task Force (“**FATF**”) has issued statements dated 4 March 2022 on:
 * Counter-measures<sup>1</sup> against the Democratic People’s Republic of Korea (“**DPRK**”) and Iran; and
 * List of Jurisdictions under Increased Monitoring.
     
