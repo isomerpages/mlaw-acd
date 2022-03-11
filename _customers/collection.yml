@@ -1,0 +1,6 @@
+collections:
+  customers:
+    output: true
+    order:
+      - what-i-should-know.md
+      - notice-for-customers.md

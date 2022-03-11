@@ -1,0 +1,12 @@
+collections:
+  regulated-dealers:
+    output: true
+    order:
+      - regulatory-regime.md
+      - registration.md
+      - registration-of-temporary-outlets.md
+      - renewal.md
+      - list-of-registered-dealers.md
+      - guidance-materials.md
+      - guidance-videos-and-posters.md
+      - e-services.md
