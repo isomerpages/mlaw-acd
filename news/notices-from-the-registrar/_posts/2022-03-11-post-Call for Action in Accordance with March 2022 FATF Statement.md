@@ -47,8 +47,8 @@ The FATF has also issued an updated statement in March 2022 on jurisdictions und
 <span style="font-weight:normal">Cayman Islands</span><br>
 <span style="font-weight:normal">Haiti</span><br>
 <span style="font-weight:normal">Jamaica</span><br>
-<span style="font-weight:normal">Jordan <i>(new)</i></span><br>
-<span style="font-weight:normal">Mali <i>(new)</i></span><br>
+<span style="font-weight:normal">Jordan</span><br>
+<span style="font-weight:normal">Mali</span><br>
 <span style="font-weight:normal">Malta</span><br>
 <span style="font-weight:normal">Morocco</span><br>
 <span style="font-weight:normal">Myanmar</span><br>
@@ -59,10 +59,10 @@ The FATF has also issued an updated statement in March 2022 on jurisdictions und
 <span style="font-weight:normal">Senegal</span><br>
 <span style="font-weight:normal">South Sudan</span><br>
 <span style="font-weight:normal">Syria</span><br>
-<span style="font-weight:normal">Turkey <i>(new)</i></span><br>
+<span style="font-weight:normal">Turkey</span><br>
 <span style="font-weight:normal">Uganda</span><br>
 <span style="font-weight:normal">Yemen</span><br>
-<span style="font-weight:normal">Zimbabwe</span></th></tr></thead></table>
+	<span style="font-weight:normal">United Arab Emirates <i>(new)</i></span></th></tr></thead></table>
 <br>Full details can be found at:<br><a href="https://www.fatf-gafi.org/publications/high-risk-and-other-monitored-jurisdictions/documents/increased-monitoring-march-2022.html" target="_blank">https://www.fatf-gafi.org/publications/high-risk-and-other-monitored-jurisdictions/documents/increased-monitoring-march-2022.html</a><br></th>
   </tr>
 </table>
