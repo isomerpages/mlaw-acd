@@ -1,12 +1,9 @@
 ---
-title: 'List of Registered Dealers'
+title: List of Registered Dealers
 permalink: /list-of-registered-dealers/
-breadcrumb: 'List of Registered Dealers'
-
+breadcrumb: List of Registered Dealers
 ---
-
-
-Click [here](/images/List%20of%20Registered%20Dealers.pdf){:target="_blank"} to view the complete list of registered dealers<sup>1</sup> in Singapore. 
+Click [here](/files/List%20of%20Registered%20Dealers.pdf){:target="_blank"} to view the complete list of registered dealers<sup>1</sup> in Singapore. 
 
 Report possible unregistered dealers to the Anti-Money Laundering/Countering the Financing of Terrorism Division ("**ACD**") [here](https://eservices.mlaw.gov.sg/enquiry/){:target="_blank"}.
 
