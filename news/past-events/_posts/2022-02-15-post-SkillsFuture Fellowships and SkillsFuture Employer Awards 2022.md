@@ -2,8 +2,10 @@
 layout: post
 title: SkillsFuture Fellowships and SkillsFuture Employer Awards 2022
 date: 2022-02-15
-permalink: /news/ongoing-events/SkillsFuture-Fellowships-and-SkillsFuture-Employer-Awards-2022/
+permalink: /news/past-events/SkillsFuture-Fellowships-and-SkillsFuture-Employer-Awards-2022/
+description: ""
 ---
+
 [Applications **closed** on 28 Mar 2022]
 
 Dear regulated dealers,
