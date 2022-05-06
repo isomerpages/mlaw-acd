@@ -66,7 +66,8 @@ sections:
   - infopic:
       title: Journey of a Regulated Dealer
       subtitle: Interactive guide
-      description: Infopic description
+      description: An interactive guide to help regulated dealers comply with the
+        AML/CFT regulatory requirements under the PSPM Act.
       button: Click here to start your journey
       url: /files/Journey.pdf
       image: /images/Journey1.png
