@@ -69,7 +69,7 @@ sections:
       description: Infopic description
       button: Click here to start your journey
       url: /files/Journey.pdf
-      image: /images/Journey.png
+      image: /images/Journey1.png
       alt: Interactive Guide
   - resources:
       title: Latest News
