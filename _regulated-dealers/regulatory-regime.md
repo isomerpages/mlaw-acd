@@ -83,7 +83,7 @@ test6
 
 | **Language** | **Format** |
 | -------- | -------- |
-| English     | [PDF](files/FD.pdf)     |
+| English     | [PDF](/files/FD.pdf)     |
 
 
 
