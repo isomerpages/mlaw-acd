@@ -63,11 +63,6 @@ sections:
       url: /guidance-papers/
       image: /images/Guidance%20Paper.PNG
       alt: Learn from guidance paper
-  - resources:
-      title: Latest News
-      subtitle: News for Regulated Dealers
-      button: More Information on ACD news
-      url: /news/
   - infopic:
       title: Journey of a Regulated Dealer
       subtitle: Interactive guide
@@ -75,4 +70,9 @@ sections:
       button: Click here to start your journey
       url: /files/Journey.pdf
       image: /images/Journey.png
+  - resources:
+      title: Latest News
+      subtitle: News for Regulated Dealers
+      button: More Information on ACD news
+      url: /news/
 ---
