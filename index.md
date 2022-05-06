@@ -68,4 +68,11 @@ sections:
       subtitle: News for Regulated Dealers
       button: More Information on ACD news
       url: /news/
+  - infopic:
+      title: Journey of a Regulated Dealer
+      subtitle: Interactive guide
+      description: Infopic description
+      button: Click here to start your journey
+      url: /files/Journey.pdf
+      image: /images/Journey.png
 ---
