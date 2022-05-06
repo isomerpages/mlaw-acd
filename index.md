@@ -34,6 +34,8 @@ sections:
   - infobar:
       title: Journey of a Regulated Dealer
       description: Begin your AML/CFT journey with the guidances provided below
+      button: interactive guide
+      url: /files/Journey.pdf
   - infopic:
       title: Fulfil Entity-Based Requirements
       subtitle: " "
