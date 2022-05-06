@@ -70,6 +70,7 @@ sections:
       button: Click here to start your journey
       url: /files/Journey.pdf
       image: /images/Journey.png
+      alt: Interactive Guide
   - resources:
       title: Latest News
       subtitle: News for Regulated Dealers
