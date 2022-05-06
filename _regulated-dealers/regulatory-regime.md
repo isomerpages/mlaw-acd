@@ -76,11 +76,11 @@ Learn more about [regime](/regulatory-regime/), [registration](/registration/) a
 **Must-Know for Foreign Dealers:** Watch the [video](https://youtu.be/KRS30HOmjyk){:target="_blank"} to find out more about the regulatory requirements for foreign dealers.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KRS30HOmjyk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-test3
+test4
 
 <img src="/images/FD.png"
-				 width="400" 
-				 height="500" />
+				 width="200" 
+				 height="40" />
 
 #### <a id="Our Role in AML/CFT"></a> Our Role in AML/CFT 
 
