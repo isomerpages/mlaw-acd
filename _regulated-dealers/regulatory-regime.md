@@ -78,7 +78,14 @@ Learn more about [regime](/regulatory-regime/), [registration](/registration/) a
 
 test6
 
-<img src="/images/FD.png" width="400" height="500" alt="FD">
+<img src="/images/FD.png" style="width:300px;" />
+
+
+| **Language** | **Format** |
+| -------- | -------- |
+| English     | PDF     |
+
+
 
 #### <a id="Our Role in AML/CFT"></a> Our Role in AML/CFT 
 
