@@ -78,7 +78,7 @@ Learn more about [regime](/regulatory-regime/), [registration](/registration/) a
 
 test
 
-<img src="/images/What you need to know as a FD in PSPM1.png" width="10" height="10">
+<img src="/images/What you need to know as a FD in PSPM1.png" width="10" height="10" alt="FD">
 
 #### <a id="Our Role in AML/CFT"></a> Our Role in AML/CFT 
 
