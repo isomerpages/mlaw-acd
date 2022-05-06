@@ -78,7 +78,7 @@ Learn more about [regime](/regulatory-regime/), [registration](/registration/) a
 
 **Poster**: What you need to know as a Foreign Dealer in Precious Stones and Precious Metals
 
-<img src="/images/FD.png" style="width:300px;" />
+<img src="/images/FD.png" style="width:150px;" />
 
 
 | **Language** | **Format** |
