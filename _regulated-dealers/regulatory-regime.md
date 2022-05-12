@@ -98,42 +98,8 @@ Learn more about [regime](/regulatory-regime/), [registration](/registration/) a
 <br>
 <br>
 <br>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br>
+<br>
 
 | **Language** | **Format** |
 | -------- | -------- |
