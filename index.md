@@ -34,8 +34,6 @@ sections:
   - infobar:
       title: Journey of a Regulated Dealer
       description: Begin your AML/CFT journey with the guidances provided below
-      button: interactive guide
-      url: /files/Journey.pdf
   - infopic:
       title: Fulfil Entity-Based Requirements
       subtitle: " "
@@ -64,7 +62,7 @@ sections:
       image: /images/Guidance%20Paper.PNG
       alt: Learn from guidance paper
   - infopic:
-      title: Journey of a Regulated Dealer
+      title: Key information for regulated dealers
       subtitle: Interactive guide
       description: An interactive guide to help regulated dealers comply with the
         AML/CFT regulatory requirements under the PSPM Act.
