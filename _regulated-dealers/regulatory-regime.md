@@ -85,6 +85,15 @@ Learn more about [regime](/regulatory-regime/), [registration](/registration/) a
 | English     | [PDF](/files/FD.pdf)     |
 
 
+
+
+
+
+
+
+
+
+
 #### <a id="Our Role in AML/CFT"></a> Our Role in AML/CFT 
 
 Singapore is a member of the Financial Action Task Force ("**FATF**"), an inter-governmental body that sets international standards aimed to prevent money laundering and terrorism financing ("**ML/TF**"), and the harm these illegal activities cause to society. There are currently more than 200 countries and jurisdictions committed to implementing anti-money laundering/countering the financing of terrorism ("**AML/CFT**") measures in accordance to the recommendations set by the FATF.
