@@ -1,11 +1,8 @@
 ---
-title: 'Regulatory Regime'
+title: Regulatory Regime
 permalink: /regulatory-regime/
-breadcrumb: 'Regulatory Regime'
-
+breadcrumb: Regulatory Regime
 ---
-
-
 <a href="#About the Regime">About the Regime </a>| <a href="#Exemptions">Exemptions </a> | <a href="#Regulatory Compliance for Foreign Dealers">Regulatory Compliance for Foreign Dealers </a> | <a href="#Our Role in AML/CFT">Our Role in AML/CFT </a>
 
 #### <a id="About the Regime"></a> About the Regime
@@ -78,6 +75,37 @@ Learn more about [regime](/regulatory-regime/), [registration](/registration/) a
 
 **Must-Know for Foreign Dealers:** Watch the [video](https://youtu.be/KRS30HOmjyk){:target="_blank"} to find out more about the regulatory requirements for foreign dealers.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KRS30HOmjyk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Poster**: Important for Foreign Dealers to Take Note
+
+<a href="/files/FD.pdf" target="_blank"><img src="/images/FD.png" style ="width: 350px" align= "left" > </a><br>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+| **Language** | **Format** |
+| -------- | -------- |
+| English     | [PDF](/files/FD.pdf)     |
+
 
 #### <a id="Our Role in AML/CFT"></a> Our Role in AML/CFT 
 

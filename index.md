@@ -12,8 +12,8 @@ sections:
       subtitle: Anti-Money Laundering / Countering the Financing of Terrorism Division
         (ACD)
       background: /images/bullion1.jpg
-      button: Submit Semi-Annual Return<br>via myPal
-      url: /guidance-materials/#Semi-Annual%20Return%20Instruction%20Guide
+      button: Guidance Materials<br>for Regulated Dealers
+      url: /guidance-materials/
       key_highlights:
         - title: Renewal
           description: Overview of renewal process
@@ -61,6 +61,15 @@ sections:
       url: /guidance-papers/
       image: /images/Guidance%20Paper.PNG
       alt: Learn from guidance paper
+  - infopic:
+      title: Key information for regulated dealers
+      subtitle: Interactive guide
+      description: An interactive guide to help regulated dealers comply with the
+        AML/CFT regulatory requirements under the PSPM Act.
+      button: Click here to start your journey
+      url: /files/Journey.pdf
+      image: /images/Journey1.png
+      alt: Interactive Guide
   - resources:
       title: Latest News
       subtitle: News for Regulated Dealers
