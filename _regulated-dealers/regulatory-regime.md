@@ -78,7 +78,7 @@ Learn more about [regime](/regulatory-regime/), [registration](/registration/) a
 
 **Poster**: Important for Foreign Dealers to Take Note
 
-<a href="/images/FD.png" target="_blank"><img src="/images/FD.png" style="width:350px;" style="float:left;"> </a>
+<a href="/images/FD.png" target="_blank"><img src="/images/FD.png" style="width:350px;" align="left"> </a>
 
 | **Language** | **Format** |
 | -------- | -------- |
