@@ -76,9 +76,9 @@ Learn more about [regime](/regulatory-regime/), [registration](/registration/) a
 **Must-Know for Foreign Dealers:** Watch the [video](https://youtu.be/KRS30HOmjyk){:target="_blank"} to find out more about the regulatory requirements for foreign dealers.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KRS30HOmjyk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Poster**: What you need to know as a Foreign Dealer in Precious Stones and Precious Metals
+**Poster**: Important for Foreign Dealers to Take Note
 
-<a href="/images/FD.png" target="_blank"><img src="/images/FD.png" style="width:150px;" />
+<a href="/images/FD.png" target="_blank"><img src="/images/FD.png" style="width:350px;" />
 
 
 | **Language** | **Format** |
