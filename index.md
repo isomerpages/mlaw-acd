@@ -12,8 +12,8 @@ sections:
       subtitle: Anti-Money Laundering / Countering the Financing of Terrorism Division
         (ACD)
       background: /images/bullion1.jpg
-      button: Submit Semi-Annual Return<br>via myPal
-      url: /guidance-materials/#Semi-Annual%20Return%20Instruction%20Guide
+      button: Guidance Materials<br>for Regulated Dealers
+      url: /guidance-materials/
       key_highlights:
         - title: Renewal
           description: Overview of renewal process
