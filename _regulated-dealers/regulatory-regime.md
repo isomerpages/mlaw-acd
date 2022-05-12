@@ -78,20 +78,12 @@ Learn more about [regime](/regulatory-regime/), [registration](/registration/) a
 
 **Poster**: Important for Foreign Dealers to Take Note
 
-<a href="/images/FD.png" target="_blank"><img src="/images/FD.png" style="width:350px; float:left" /> </a>
+<a href="/images/FD.png" target="_blank"><img src="/images/FD.png" style="width:350px;" 
+align="left">
 
 | **Language** | **Format** |
 | -------- | -------- |
 | English     | [PDF](/files/FD.pdf)     |
-
-
-
-
-
-
-.
-
-
 
 
 #### <a id="Our Role in AML/CFT"></a> Our Role in AML/CFT 
