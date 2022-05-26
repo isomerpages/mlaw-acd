@@ -35,6 +35,15 @@ sections:
       title: Journey of a Regulated Dealer
       description: Begin your AML/CFT journey with the guidances provided below
   - infopic:
+      title: Key information for regulated dealers
+      subtitle: Interactive guide
+      description: An interactive guide to help regulated dealers comply with the
+        AML/CFT regulatory requirements under the PSPM Act.
+      button: Click here to start your journey
+      url: /files/Journey.pdf
+      image: /images/Journey1.png
+      alt: Interactive Guide
+  - infopic:
       title: Fulfil Entity-Based Requirements
       subtitle: " "
       description: Start by developing your risk assessment and internal policies,
@@ -61,15 +70,6 @@ sections:
       url: /guidance-papers/
       image: /images/Guidance%20Paper.PNG
       alt: Learn from guidance paper
-  - infopic:
-      title: Key information for regulated dealers
-      subtitle: Interactive guide
-      description: An interactive guide to help regulated dealers comply with the
-        AML/CFT regulatory requirements under the PSPM Act.
-      button: Click here to start your journey
-      url: /files/Journey.pdf
-      image: /images/Journey1.png
-      alt: Interactive Guide
   - resources:
       title: Latest News
       subtitle: News for Regulated Dealers
