@@ -56,31 +56,10 @@ Foreign dealers should refer <a href="#Regulatory Compliance for Foreign Dealers
 
 #### <a id="Regulatory Compliance for Foreign Dealers"></a> Regulatory Compliance for Foreign Dealers
 
-**Who are foreign dealers?**<br>
-Foreign dealer means a regulated dealer that -<br>
-(a) is -<br>
-(i) registered or incorporated outside Singapore, in the case of a body corporate or unincorporate; or<br>
-(ii) habitually resident outside Singapore, in the case of an individual; and
-   
-(b) does not have a permanent establishment, a place of management or a branch in Singapore at which the regulated dealer carries on the business of regulated dealing or business as an intermediary for regulated dealing.
-
-**What are the regulatory compliance requirements for foreign dealers?**<br>
-Foreign dealers are subject to all other transaction-based requirements under the PSPM Act, which include conducting customer due diligence ("**CDD**"), keeping records, and filing of Cash Transaction Reports ("**CTR**") and Suspicious Transaction Reports ("**STR**").  
-
-**Do foreign dealers need to register?**<br>
-A foreign dealer carrying on a business of regulated dealing, or business as an intermediary for regulated dealing, in Singapore on a transitory basis is exempt from registration. Transitory basis means the foreign dealer carries on business in Singapore for not more than a total of 90 days in a year.
-
-Any person who acts or holds out to be a regulated dealer without being registered or exempted, may face criminal penalties of up to S$75,000 in fine and/or up to 3 years' imprisonment.<br><br>
-Learn more about [regime](/regulatory-regime/), [registration](/registration/) and [transaction-based requirements](/transaction-based-requirements/).
-
-**Must-Know for Foreign Dealers:** Watch the [video](https://youtu.be/KRS30HOmjyk){:target="_blank"} to find out more about the regulatory requirements for foreign dealers.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KRS30HOmjyk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 **Poster**: Important for Foreign Dealers to Take Note
 
 <a href="/files/FD.pdf" target="_blank"><img src="/images/FD.png" style ="width: 350px" align= "left" > </a><br>
 
-<br>
 <br>
 <br>
 <br>
@@ -106,6 +85,25 @@ Learn more about [regime](/regulatory-regime/), [registration](/registration/) a
 | -------- | -------- |
 | English     | [PDF](/files/FD.pdf)     |
 
+**Who are foreign dealers?**<br>
+Foreign dealer means a regulated dealer that -<br>
+(a) is -<br>
+(i) registered or incorporated outside Singapore, in the case of a body corporate or unincorporate; or<br>
+(ii) habitually resident outside Singapore, in the case of an individual; and
+   
+(b) does not have a permanent establishment, a place of management or a branch in Singapore at which the regulated dealer carries on the business of regulated dealing or business as an intermediary for regulated dealing.
+
+**What are the regulatory compliance requirements for foreign dealers?**<br>
+Foreign dealers are subject to all other transaction-based requirements under the PSPM Act, which include conducting customer due diligence ("**CDD**"), keeping records, and filing of Cash Transaction Reports ("**CTR**") and Suspicious Transaction Reports ("**STR**").  
+
+**Do foreign dealers need to register?**<br>
+A foreign dealer carrying on a business of regulated dealing, or business as an intermediary for regulated dealing, in Singapore on a transitory basis is exempt from registration. Transitory basis means the foreign dealer carries on business in Singapore for not more than a total of 90 days in a year.
+
+Any person who acts or holds out to be a regulated dealer without being registered or exempted, may face criminal penalties of up to S$75,000 in fine and/or up to 3 years' imprisonment.<br><br>
+Learn more about [regime](/regulatory-regime/), [registration](/registration/) and [transaction-based requirements](/transaction-based-requirements/).
+
+**Must-Know for Foreign Dealers:** Watch the [video](https://youtu.be/KRS30HOmjyk){:target="_blank"} to find out more about the regulatory requirements for foreign dealers.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KRS30HOmjyk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### <a id="Our Role in AML/CFT"></a> Our Role in AML/CFT 
 
