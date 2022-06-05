@@ -1,8 +1,7 @@
 ---
-title: 'AML/CFT Resources'
+title: AML/CFT Resources
 permalink: /aml-cft-resources/
-breadcrumb: 'AML/CFT Resources'
-
+breadcrumb: AML/CFT Resources
 ---
 #### 1. Financial Support for Anti-Money Laundering/Countering the Financing of Terrorism (AML/CFT) Screening Solutions
 
@@ -54,6 +53,8 @@ width: 30%;
 | [Trade-Based Money Laundering - Private Sector](http://www.fatf-gafi.org/media/fatf/documents/Handout-Trade-Based-Money-Laundering-Private-Sector.pdf){:target="_blank"} | Dec 2020 |
 | [Trade-Based Money Laundering - Trends and Developments](http://www.fatf-gafi.org/media/fatf/content/Trade-Based-Money-Laundering-Trends-and-Developments.pdf){:target="_blank"} | Dec 2020 |
 | [Guidance on Proliferation Financing Risk Assessment and Mitigation](https://www.fatf-gafi.org/media/fatf/documents/reports/Guidance-Proliferation-Financing-Risk-Assessment-Mitigation.pdf){:target="_blank"} | Jun 2021 |
+| [Money Laundering from Environmental Crime](https://www.fatf-gafi.org/media/fatf/documents/reports/Money-Laundering-from-Environmental-Crime.pdf){:target="_blank"} | Jun 2022 |
+
 
 <br>
 <style type="text/css">
