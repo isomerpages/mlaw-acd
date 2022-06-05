@@ -2,10 +2,7 @@
 title: Registration
 permalink: /registration/
 breadcrumb: Registration
-
 ---
-
-
 <a href="#Registration">Registration </a> | <a href="#Who is Required to Register?">Who is Required to Register? </a> | <a href="#Fees and Registering your Place(s) of Business">Fees and Registering your Place(s) of Business </a> |<a href="#Registration Application Process">Registration Application Process </a> | <a href="#Information Needed">Information Needed</a> | <a href="#I Need Help with Registration">I Need Help with Registration </a> | <a href="#Cancellation of Registration">Cancellation of Registration </a>
 
 #### <a id="Registration"></a> Registration
@@ -134,7 +131,7 @@ ABC Pte Ltd must pay a total of **S$820**:
 #### <a id="Registration Application Process"></a> Registration Application Process
 <a href="/images/Overview%20of%20Reg%20Process%2020191031.pdf" target="_blank"><img src="/images/Overview%20of%20Reg%20Process%2020191031.png"></a> <br>
 
-You may submit your application via the [GoBusiness Licensing Portal](https://www.gobusiness.gov.sg/licences){:target="_blank"}. You may refer to the [GoBusiness Licensing Guide for Regulated Dealers](/images/GoBusiness%20Licensing%20Guide%20For%20Regulated%20Dealers_ACD_20191127.pdf){:target="_blank"} for a step-by-step guide to the application process.
+You may submit your application via the [GoBusiness Licensing Portal](https://www.gobusiness.gov.sg/licences){:target="_blank"}. You may refer to the [GoBusiness Licensing Guide for Regulated Dealers](/files/GoBusiness Licensing Guide for Regulated Dealers_ACD_20220601.pdf){:target="_blank"} for a step-by-step guide to the application process.
 
 
 #### <a id="Information Needed"></a> Information Needed
@@ -215,6 +212,3 @@ You may submit your application via the [GoBusiness Licensing Portal](https://ww
 #### <a id="Cancellation of Registration"></a> Cancellation of Registration
 
 If you do not wish to continue operating as a registered dealer (i.e. you are neither carrying on the business of regulated dealing nor business as an intermediary for regulated dealing), submit a cancellation application via the [GoBusiness Licensing Portal](https://www.gobusiness.gov.sg/licences){:target="_blank"}. Fees are not payable for cancellation application.
-
-
-
