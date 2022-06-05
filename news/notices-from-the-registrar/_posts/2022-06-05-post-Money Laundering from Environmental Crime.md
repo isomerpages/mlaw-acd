@@ -13,18 +13,18 @@ These generally refer to any criminal offence that harms and endangers the envir
 
 **Why are environmental crimes a concern?**
 
-Some of the key concerns highlighted in a Financial Action Task Force (“FATF”) Report are:
+Some of the key concerns highlighted in a Financial Action Task Force (“**FATF**”) Report are:
 
-Environmental crime is estimated to be **amongst the highest proceeds-generating crime** in the world.
-**Criminals frequently mix legal and illegal goods and payments** early in the resource supply chains to conceal their illicit source. This makes it difficult to detect suspicious financial flows later in the value chain.
-**Criminals may use ‘shell and front’ companies to launder gains** from environmental crimes such as illegal mining. 
+1. Environmental crime is estimated to be **amongst the highest proceeds-generating crime** in the world.
+2. **Criminals frequently mix legal and illegal goods and payments** early in the resource supply chains to conceal their illicit source. This makes it difficult to detect suspicious financial flows later in the value chain.
+3. **Criminals may use ‘shell and front’ companies to launder gains** from environmental crimes such as illegal mining. 
  
 
 **What can you do?**
 
 Regulated Dealers are encouraged to:
 
-**Be alert to the potential risk indicators** outlined in the FATF Report such as customers with mining licences operating in or around conflict zones or transactions with frequent payments from companies involved in mining to a recipient unrelated to the person’s activity or business.
-**Take the appropriate mitigation measures** such as reporting suspicious transactions to guard against the risk that your business may be abused, where relevant. 
+1. **Be alert to the potential risk indicators** outlined in the FATF Report such as customers with mining licences operating in or around conflict zones or transactions with frequent payments from companies involved in mining to a recipient unrelated to the person’s activity or business.
+2. **Take the appropriate mitigation measures** such as reporting suspicious transactions to guard against the risk that your business may be abused, where relevant. 
  
-Click here <https://go.gov.sg/fatf-environmental-crime-report> for the FATF Report. 
+Click [here](https://go.gov.sg/fatf-environmental-crime-report){:target="_blank"} for the FATF Report.
