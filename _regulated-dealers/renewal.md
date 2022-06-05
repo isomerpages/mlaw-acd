@@ -2,19 +2,16 @@
 title: Renewal
 permalink: /renewal/
 breadcrumb: Renewal
-
 ---
-
-
 <a href="#Renewal of Registration">Renewal of Registration</a> | <a href="#Renewal Application Process">Renewal Application Process </a> | <a href="#Fees, Registering your Place(s) of Business and Period of Registration">Fees, Registering your Place(s) of Business and Period of Registration </a> | <a href="#Information Needed">Information Needed</a> | <a href="#I Need Help with Renewal">I Need Help with Renewal </a>
 
 #### <a id="Renewal of Registration"></a> Renewal of Registration
 
 It is an <u>offence</u> if you act or hold out to be a regulated dealer without being registered or exempted.
 
-If your registration period is expiring in the next 3 months, and you intend to continue your business as a regulated dealer, you should renew your registration as soon as possible. It may take around 4 weeks for the Registrar to process an application for renewal before granting the renewal. It may take longer if additional information is required. If your renewal is not approved before the expiration of your registration, your registration will lapse and you will have to submit a new registration application.
+If your registration period is expiring in the next 2 months, and you intend to continue your business as a regulated dealer, you should renew your registration as soon as possible. It may take around 4 weeks for the Registrar to process an application for renewal before granting the renewal. It may take longer if additional information is required. If your renewal is not approved before the expiration of your registration, your registration will lapse and you are not allowed to continue your business of regulated dealing.
 
-**Note:** In your renewal application, your particulars will be auto-populated in the renewal application form. You should ensure that these are updated with the [Accounting and Corporate Regulatory Authority (“**ACRA**”)](https://www.bizfile.gov.sg/). The renewal process will take very little of your time if there are no changes to your registration information. Hence, we encourage you to submit your renewal application as soon as possible.
+**Note:** In your renewal application, your particulars will be auto-populated in the renewal application form. You should ensure that these are updated with the [Accounting and Corporate Regulatory Authority (“**ACRA**”)](https://www.bizfile.gov.sg/). We encourage you to submit your renewal application as soon as possible.
 
 #### <a id="Fees, Registering your Place(s) of Business and Period of Registration"></a> Fees, Registering your Place(s) of Business and Period of Registration
 
