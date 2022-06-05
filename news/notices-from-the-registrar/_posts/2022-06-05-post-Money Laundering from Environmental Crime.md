@@ -5,8 +5,6 @@ date: 2022-06-05
 layout: post
 description: ""
 ---
-Dear Regulated Dealer,
-
 **What are environmental crimes?**  
 
 These generally refer to any criminal offence that harms and endangers the environment. Types of environment crimes **includes illegal mining**, which refers to mining activity that is undertaken without state permission or with state permission obtained through corruption.
