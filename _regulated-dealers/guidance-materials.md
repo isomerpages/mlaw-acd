@@ -94,4 +94,4 @@ This Notice for Customers is available in 4 languages - English, Chinese, Malay 
 
 #### 8. GoBusiness Licensing Guide for Precious Stones and Precious Metals Dealers ("**GoBusiness Licensing Guide**")
 
-The [GoBusiness Licensing Guide](/files/GoBusiness Licensing Guide for Regulated Dealers_ACD_20220601.pdf){:target="_blank"} gives regulated dealers a step-by-step walkthrough of the application, renewal and amendment processes in GoBusiness Licensing Portal.
+The [GoBusiness Licensing Guide](/files/GoBusiness Licensing Guide for Regulated Dealers_ACD_20220603.pdf){:target="_blank"} gives regulated dealers a step-by-step walkthrough of the application, renewal and amendment processes in GoBusiness Licensing Portal.
