@@ -116,7 +116,6 @@ ABC Pte Ltd must pay a total of **S$700**:
 </table>
 
 #### <a id="Renewal Application Process"></a> Renewal Application Process
-<a href="/images/Overview%20of%20Renewal%20Application%20Process_20200409.pdf" target="_blank"><img src="/images/Overview%20of%20Renewal%20Application%20Process_20200409.png"></a> <br>
 
 You may submit your application via the [GoBusiness Licensing Portal](https://www.gobusiness.gov.sg/licences){:target="_blank"}. You may refer to the [GoBusiness Licensing Guide for Regulated Dealers](/files/GoBusiness Licensing Guide for Regulated Dealers_ACD_20220601.pdf){:target="_blank"} for a step-by-step guide to the renewal application process.
 
