@@ -1,10 +1,8 @@
 ---
-title: 'Guidance Materials'
+title: Guidance Materials
 permalink: /guidance-materials/
-breadcrumb: 'Guidance Materials'
-
+breadcrumb: Guidance Materials
 ---
-
 #### <a id="Semi-Annual Return Instruction Guide"></a> 1. Semi-Annual Return Instruction Guide
 
 The [instruction guide](/images/Semi-Annual Return Instruction Guide_20211222.pdf){:target="_blank"} and [guidance video](https://youtu.be/Jpcj4iYSOSM){:target="_blank"} provide regulated dealers with a step-by-step walkthrough (with screenshots) on how to navigate and submit the semi-annual return via [<i>my</i>Pal](https://eservices.mlaw.gov.sg/mypal){:target="_blank"}. Please click [here](https://acd.mlaw.gov.sg/other-regulatory-requirements){:target="_blank"} for information on the reporting requirement.
@@ -96,4 +94,4 @@ This Notice for Customers is available in 4 languages - English, Chinese, Malay 
 
 #### 8. GoBusiness Licensing Guide for Precious Stones and Precious Metals Dealers ("**GoBusiness Licensing Guide**")
 
-The [GoBusiness Licensing Guide](/images//GoBusiness%20Licensing%20Guide%20For%20Regulated%20Dealers_ACD_20191127.pdf){:target="_blank"} gives regulated dealers a step-by-step walkthrough of the application, renewal and amendment processes in GoBusiness Licensing Portal.
+The [GoBusiness Licensing Guide](/files/GoBusiness Licensing Guide for Regulated Dealers_ACD_20220603.pdf){:target="_blank"} gives regulated dealers a step-by-step walkthrough of the application, renewal and amendment processes in GoBusiness Licensing Portal.

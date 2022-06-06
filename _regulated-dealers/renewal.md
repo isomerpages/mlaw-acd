@@ -2,19 +2,16 @@
 title: Renewal
 permalink: /renewal/
 breadcrumb: Renewal
-
 ---
-
-
 <a href="#Renewal of Registration">Renewal of Registration</a> | <a href="#Renewal Application Process">Renewal Application Process </a> | <a href="#Fees, Registering your Place(s) of Business and Period of Registration">Fees, Registering your Place(s) of Business and Period of Registration </a> | <a href="#Information Needed">Information Needed</a> | <a href="#I Need Help with Renewal">I Need Help with Renewal </a>
 
 #### <a id="Renewal of Registration"></a> Renewal of Registration
 
 It is an <u>offence</u> if you act or hold out to be a regulated dealer without being registered or exempted.
 
-If your registration period is expiring in the next 3 months, and you intend to continue your business as a regulated dealer, you should renew your registration as soon as possible. It may take around 4 weeks for the Registrar to process an application for renewal before granting the renewal. It may take longer if additional information is required. If your renewal is not approved before the expiration of your registration, your registration will lapse and you will have to submit a new registration application.
+If your registration period is expiring in the next 2 months, and you intend to continue your business as a regulated dealer, you should renew your registration as soon as possible. It may take around 4 weeks for the Registrar to process an application for renewal before granting the renewal. It may take longer if additional information is required. If your renewal is not approved before the expiration of your registration, your registration will lapse and you are not allowed to continue your business of regulated dealing.
 
-**Note:** In your renewal application, your particulars will be auto-populated in the renewal application form. You should ensure that these are updated with the [Accounting and Corporate Regulatory Authority (“**ACRA**”)](https://www.bizfile.gov.sg/). The renewal process will take very little of your time if there are no changes to your registration information. Hence, we encourage you to submit your renewal application as soon as possible.
+**Note:** In your renewal application, your particulars will be auto-populated in the renewal application form. You should ensure that these are updated with the [Accounting and Corporate Regulatory Authority (“**ACRA**”)](https://www.bizfile.gov.sg/). We encourage you to submit your renewal application as soon as possible.
 
 #### <a id="Fees, Registering your Place(s) of Business and Period of Registration"></a> Fees, Registering your Place(s) of Business and Period of Registration
 
@@ -119,9 +116,8 @@ ABC Pte Ltd must pay a total of **S$700**:
 </table>
 
 #### <a id="Renewal Application Process"></a> Renewal Application Process
-<a href="/images/Overview%20of%20Renewal%20Application%20Process_20200409.pdf" target="_blank"><img src="/images/Overview%20of%20Renewal%20Application%20Process_20200409.png"></a> <br>
 
-You may submit your application via the [GoBusiness Licensing Portal](https://www.gobusiness.gov.sg/licences){:target="_blank"}. You may refer to the [GoBusiness Licensing Guide for Regulated Dealers](/images/GoBusiness%20Licensing%20Guide%20For%20Regulated%20Dealers_ACD_20191127.pdf){:target="_blank"} for a step-by-step guide to the renewal application process.
+You may submit your application via the [GoBusiness Licensing Portal](https://www.gobusiness.gov.sg/licences){:target="_blank"}. You may refer to the [GoBusiness Licensing Guide for Regulated Dealers](/files/GoBusiness Licensing Guide for Regulated Dealers_ACD_20220603.pdf){:target="_blank"} for a step-by-step guide to the renewal application process.
 
 The Registrar of Regulated Dealers may impose additional conditions or waive existing conditions for registration, for the renewed registration period.
 
@@ -191,4 +187,4 @@ The Registrar of Regulated Dealers may impose additional conditions or waive exi
 <a href="/images/Helplines_20191127.pdf" target="_blank"><img src="/images/Helplines_20191127.png"></a>
 
 * If you face any technical issues when using GoBusiness Licensing Portal, you may wish to refer to the [GoBusiness Licensing Portal webpage](https://www.gobusiness.gov.sg/licences){:target="_blank"} or contact [GoBusiness Licensing Portal Helpdesk](https://www.ifaq.gov.sg/GoBusiness/apps/fcd_faqmain.aspx){:target="_blank"}.
-* If you are not sure how to complete the application form, you may wish to refer to the [GoBusiness Licensing Portal Guide for Regulated Dealers (Step-by-Step with Screenshots)](/images/GoBusiness%20Licensing%20Guide%20For%20Regulated%20Dealers_ACD_20191127.pdf){:target="_blank"} or [FAQs for Precious Stones and Precious Metals Dealers](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx){:target="_blank"}.
+* If you are not sure how to complete the application form, you may wish to refer to the [GoBusiness Licensing Portal Guide for Regulated Dealers (Step-by-Step with Screenshots)](/files/GoBusiness Licensing Guide for Regulated Dealers_ACD_20220603.pdf){:target="_blank"} or [FAQs for Precious Stones and Precious Metals Dealers](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx){:target="_blank"}.
