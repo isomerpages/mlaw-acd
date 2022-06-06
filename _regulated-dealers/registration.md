@@ -131,7 +131,7 @@ ABC Pte Ltd must pay a total of **S$820**:
 #### <a id="Registration Application Process"></a> Registration Application Process
 <a href="/images/Overview%20of%20Reg%20Process%2020191031.pdf" target="_blank"><img src="/images/Overview%20of%20Reg%20Process%2020191031.png"></a> <br>
 
-You may submit your application via the [GoBusiness Licensing Portal](https://www.gobusiness.gov.sg/licences){:target="_blank"}. You may refer to the [GoBusiness Licensing Guide for Regulated Dealers](/files/GoBusiness Licensing Guide for Regulated Dealers_ACD_20220601.pdf){:target="_blank"} for a step-by-step guide to the application process.
+You may submit your application via the [GoBusiness Licensing Portal](https://www.gobusiness.gov.sg/licences){:target="_blank"}. You may refer to the [GoBusiness Licensing Guide for Regulated Dealers](/files/GoBusiness Licensing Guide for Regulated Dealers_ACD_20220603.pdf){:target="_blank"} for a step-by-step guide to the application process.
 
 
 #### <a id="Information Needed"></a> Information Needed
@@ -205,7 +205,7 @@ You may submit your application via the [GoBusiness Licensing Portal](https://ww
 <a href="/images/Helplines_20191127.pdf" target="_blank"><img src="/images/Helplines_20191127.png"></a>
 
 * If you face any technical issues when using GoBusiness Licensing Portal, you may wish to refer to the [GoBusiness Licensing Portal webpage](https://www.gobusiness.gov.sg/licences){:target="_blank"} or contact [GoBusiness Licensing Portal Helpdesk](https://www.ifaq.gov.sg/GoBusiness/apps/fcd_faqmain.aspx){:target="_blank"}.
-* If you are not sure how to complete the application form, you may wish to refer to the [GoBusiness Licensing Portal Guide for Regulated Dealers (Step-by-Step with Screenshots)](/files/GoBusiness Licensing Guide for Regulated Dealers_ACD_20220601.pdf){:target="_blank"} or [FAQs for Precious Stones and Precious Metals Dealers](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx){:target="_blank"}.
+* If you are not sure how to complete the application form, you may wish to refer to the [GoBusiness Licensing Portal Guide for Regulated Dealers (Step-by-Step with Screenshots)](/files/GoBusiness Licensing Guide for Regulated Dealers_ACD_20220603.pdf){:target="_blank"} or [FAQs for Precious Stones and Precious Metals Dealers](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx){:target="_blank"}.
 * Regulated dealers should also visit [here](/Public-Statements-relating-to-PSPM-Registration-and-use-of-Ministry-of-Law-Logo/) for information on the use of public statements relating to your PSPM registration and the Ministry of Law logo.
 
 
