@@ -1,11 +1,8 @@
 ---
-title: 'Remain Vigilant during COVID-19'
+title: Remain Vigilant during COVID-19
 date: 2020-04-06T00:00:00.000Z
 permalink: /news/notices-from-the-registrar/remain-vigilant-during-covid-19
-
 ---
-
-
 Dear Registered Dealer
 
 On 3 April 2020, additional safe distancing measures were announced as Singapore adopts stricter measures to stem the transmission of COVID-19. These measures include the closure of most retail outlets from 7 April 2020.
@@ -14,7 +11,7 @@ On 3 April 2020, additional safe distancing measures were announced as Singapore
 
 For online and retail businesses which can continue to operate with telecommuting, the threat of fraud and illicit finance remains. We hope to remind you to keep your relevant employees updated of the developing financial crime risks, so that they remain vigilant against criminal activities, such as money laundering, terrorism and proliferation financing. You should also ensure that all anti-money laundering and countering the financing of terrorism (AML/CFT) measures are in place, such as conducting the appropriate level of Customer Due Diligence (CDD), focusing on higher risk transactions and higher risk customers, and reporting suspicious transactions via the [SONAR platform](https://www.police.gov.sg/sonar){:target="_blank"}.
 
-Our website will continue to provide you with guidance and advice on how to implement your AML/CFT policies and processes. We are working on providing more online learning materials as our face-to-face AML/CFT workshops have been put on hold. Should you require more information on AML/CFT measures, please refer to our [Guidelines for Regulated Dealers](/images/Guidelines for regulated dealers_20201214_V2.0Final (Updated).pdf){:target="_blank"} or reach us [here](https://eservices.mlaw.gov.sg/enquiry/){:target="_blank"}.
+Our website will continue to provide you with guidance and advice on how to implement your AML/CFT policies and processes. We are working on providing more online learning materials as our face-to-face AML/CFT workshops have been put on hold. Should you require more information on AML/CFT measures, please refer to our [Guidelines for Regulated Dealers](/images/Guidelines for regulated dealers_20201214_V2.0Final (Updated).pdf){:target="_blank"} or reach us [here](https://www.go.gov.sg/contactminlaw){:target="_blank"}.
 
 **Support for SMEs**
 
