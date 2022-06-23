@@ -1,10 +1,8 @@
 ---
-title: 'Reporting Requirement for Regulated Dealers with effect from 1 January 2021'
+title: Reporting Requirement for Regulated Dealers with effect from 1 January 2021
 date: 2020-12-28T00:00:00.000Z
 permalink: /news/notices-from-the-registrar/reporting-requirement-for-regulated-dealers-with-effect-from-1-January-2021
-
 ---
-
 In the Notice from the Registrar to regulated dealers on 14 December 2020, the Registrar of Regulated Dealers notified all regulated dealers that they are required to submit semi-annual returns related to their business and transactions with effect from **1 January 2021**.
 
 **Background**
@@ -13,7 +11,7 @@ The purpose of the Precious Stones and Precious Metals (Prevention of Money Laun
  
 **Content for Reporting**
  
-With effect from 1 January 2021, regulated dealers are required to submit mandatory semi-annual returns related to their business and transactions. The first reporting period will be from 1 January 2021 to 30 June 2021, and the first submission will be due within 30 days, i.e. by 30 July 2021. Regulated dealers should refer to the [content for reporting](/images/Content for Reporting_20201229 (Final).xlsx){:target="_blank"} set out by the Ministry of Law to understand the reporting requirement and ensure that the information are collected in the required format during the reporting period.
+With effect from 1 January 2021, regulated dealers are required to submit mandatory semi-annual returns related to their business and transactions. The first reporting period will be from 1 January 2021 to 30 June 2021, and the first submission will be due within 30 days, i.e. by 30 July 2021. Regulated dealers should refer to the [content for reporting](/images/Content for Reporting_20220622.xlsx){:target="_blank"} set out by the Ministry of Law to understand the reporting requirement and ensure that the information are collected in the required format during the reporting period.
  
 **Mode of Submission**
  

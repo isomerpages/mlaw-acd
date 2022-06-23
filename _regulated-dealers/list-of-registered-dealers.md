@@ -5,7 +5,7 @@ breadcrumb: List of Registered Dealers
 ---
 Click [here](/files/List%20of%20Registered%20Dealers.pdf){:target="_blank"} to view the complete list of registered dealers<sup>1</sup> in Singapore. 
 
-Report possible unregistered dealers to the Anti-Money Laundering/Countering the Financing of Terrorism Division ("**ACD**") [here](https://eservices.mlaw.gov.sg/enquiry/){:target="_blank"}.
+Report possible unregistered dealers to the Anti-Money Laundering/Countering the Financing of Terrorism Division ("**ACD**") [here](https://www.go.gov.sg/contactminlaw){:target="_blank"}.
 
 #### <a id="What is Covered Under the Regulations?"></a> What is Covered Under the Regulations?
 
