@@ -12,7 +12,7 @@ sections:
       subtitle: Anti-Money Laundering / Countering the Financing of Terrorism Division
         (ACD)
       background: /images/bullion1.jpg
-      button: SUBMIT ANNUAL RETURN<br>VIA MYPAL
+      button: SUBMIT SEMI-ANNUAL RETURN<br>VIA MYPAL
       url: https://www.go.gov.sg/mypal
       key_highlights:
         - title: Renewal
