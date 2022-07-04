@@ -11,7 +11,7 @@ Report possible unregistered dealers to the Anti-Money Laundering/Countering the
 
 The registered dealers in the list are regulated by the Registrar of Regulated Dealers ("**the Registrar**") **<u>for anti-money laundering and countering the financing of terrorism</u>** ("**AML/CFT**") purposes in their business of regulated dealing<sup>2</sup> or business as an intermediary for regulated dealing under the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019 (“**PSPM Act**”). 
 
-Regulated dealers are to ensure that their websites, representations and publicity materials do not cause the public to misconstrue that the Registrar is regulating you beyond AML/CFT matters. Please visit [here](/Public-Statements-relating-to-PSPM-Registration-and-use-of-Ministry-of-Law-Logo/) for information on the use of public statements relating to your PSPM registration and the Ministry of Law logo.  
+Regulated dealers are to ensure that their websites, representations and publicity materials do not cause the public to misconstrue that the Registrar is regulating them beyond AML/CFT matters. Please visit [here](/Public-Statements-relating-to-PSPM-Registration-and-use-of-Ministry-of-Law-Logo/) for information on the use of public statements relating to the PSPM registration and the Ministry of Law logo.  
  
 #### <a id="Investments are Not Covered Under the Regulations"></a> Investments are Not Covered Under the Regulations
 
