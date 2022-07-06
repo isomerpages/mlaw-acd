@@ -5,6 +5,8 @@ breadcrumb: List of Registered Dealers
 ---
 Click [here](/files/List%20of%20Registered%20Dealers.pdf){:target="_blank"} to view the complete list of registered dealers<sup>1</sup> in Singapore. 
 
+Pursuant to Section 10(1) of the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019 ("**PSPM Act**"), the Registrar of Regulated Dealers ("**the Registrar**") may cancel or suspend the registration of a registered dealer for a period not exceeding 6 months if the Registrar is satisfied that it is not in the public interest for the registered dealer to continue to carry on the business of regulated dealing or business as an intermediary in Singapore.
+
 Report possible unregistered dealers to the Anti-Money Laundering/Countering the Financing of Terrorism Division ("**ACD**") [here](https://www.go.gov.sg/contactminlaw){:target="_blank"}.
 
 #### <a id="What is Covered Under the Regulations?"></a> What is Covered Under the Regulations?
