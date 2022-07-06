@@ -7,7 +7,7 @@ Click [here](/files/List%20of%20Registered%20Dealers.pdf){:target="_blank"} to v
 
 Pursuant to Section 10(1) of the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019 ("**PSPM Act**"), the Registrar of Regulated Dealers ("**the Registrar**") may cancel or suspend the registration of a registered dealer for a period not exceeding 6 months if the Registrar is satisfied that it is not in the public interest for the registered dealer to continue to carry on the business of regulated dealing or business as an intermediary in Singapore.
 
-Section 11(5) of the PSPM Act provides that the cancellation or suspension of registration does not affect the enforcement by the registered dealer or former registered dealer of any right or claim against any person. The legal rights of the customers will not be impacted by the suspension.
+Section 11(5) of the PSPM Act provides that the cancellation or suspension of registration does not affect the enforcement by the registered dealer or former registered dealer of any right or claim against any person. Therefore, the legal rights of the customers will not be impacted by the suspension.
 
 **List of registered dealers with registration cancelled/suspended**
 
