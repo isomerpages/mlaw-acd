@@ -6,12 +6,12 @@ description: ""
 ---
 Registered dealers are regulated by the Ministry of Law under the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019 ("**PSPM Act**") for the purpose of anti-money laundering and countering the financing of terrorism ("**AML/CFT**") **<u>only</u>**. The Ministry of Law **<u>does not</u>** audit, supervise or certify the registered dealer for **<u>any other</u>** purpose. The Ministry of Law also makes no warranty or representation as to any aspect of the business of the registered dealer.
 
-Regulated dealers are to ensure that their websites, representations and publicity materials do not cause the public to misconstrue that the Registrar of Regulated Dealers ("**the Registrar**") is regulating them beyond AML/CFT matters. Regulated dealers should also not make unauthorised use of the Ministry of Law logo on their websites or in publicity materials such as newsletters, articles, business cards etc.
+Registered dealers are to ensure that their websites, representations and publicity materials do not cause the public to misconstrue that the Registrar of Regulated Dealers ("**the Registrar**") is regulating them beyond AML/CFT matters. Registered dealers should also not make unauthorised use of the Ministry of Law logo on their websites or in publicity materials such as newsletters, articles, business cards etc.
 
 
 #### Public Statements relating to PSPM Registration
 
-Public statements and representations which suggest that Ministry of Law is regulating such businesses beyond AML/CFT matters could be misconstrued and may create unnecessary confusion amongst the public. Regulated dealers should take immediate appropriate action to correct any such public statements or representations which are unacceptable.
+Public statements and representations which suggest that Ministry of Law is regulating such businesses beyond AML/CFT matters could be misconstrued and may create unnecessary confusion amongst the public. Registered dealers should take immediate appropriate action to correct any such public statements or representations which are unacceptable.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
