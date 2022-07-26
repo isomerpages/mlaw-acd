@@ -4,14 +4,14 @@ permalink: /Regulation-Coverage
 breadcrumb: Public Statements relating to PSPM Registration and use of Ministry of Law Logo
 description: ""
 ---
-Regulated dealers registered with the Ministry of Law are regulated by the Registrar of Regulated Dealers ("**the Registrar**") for anti-money laundering and countering the financing of terrorism ("**AML/CFT**") purposes in their business of regulated dealing or business as an intermediary for regulated dealing under the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019 ("**PSPM Act**"). To understand your obligations as a regulated dealer, please click [here](/entity-based-requirements/).
+Registered dealers are regulated by the Ministry of Law under the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019 ("**PSPM Act**") for the purpose of anti-money laundering and countering the financing of terrorism ("**AML/CFT**") <u>**only**</u>. The Ministry of Law <u>**does not**</u> audit, supervise or certify the registered dealer for <u>**any other**</u> purpose. The Ministry of Law also makes no warranty or representation as to any aspect of the business of the registerered dealer.
 
-Regulated dealers are to ensure that their websites, representations and publicity materials do not cause the public to misconstrue that the Registrar is regulating them beyond AML/CFT matters. Regulated dealers should also not make unauthorised use of the Ministry of Law logo on their websites or in publicity materials such as newsletters, articles, business cards etc.
+Regulated dealers are to ensure that their websites, representations and publicity materials do not cause the public to misconstrue that the Registrar of Regulated Dealers ("**the Registrar**") is regulating them beyond AML/CFT matters. Regulated dealers should also not make unauthorised use of the Ministry of Law logo on their websites or in publicity materials such as newsletters, articles, business cards etc.
 
 
 #### Public Statements relating to PSPM Registration
 
-As stated in the Certificate of Registration, regulated dealers are registered by the Registrar in the business of regulated dealing or business as an intermediary for regulated dealing, <u>strictly for the purposes of AML/CFT</u>. Public statements and representations which suggest that Ministry of Law is regulating such businesses beyond AML/CFT matters could be misconstrued and may create unnecessary confusion amongst the public. Regulated dealers should take immediate appropriate action to correct any such public statements or representations which are unacceptable.
+Public statements and representations which suggest that Ministry of Law is regulating such businesses beyond AML/CFT matters could be misconstrued and may create unnecessary confusion amongst the public. Regulated dealers should take immediate appropriate action to correct any such public statements or representations which are unacceptable.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -24,7 +24,7 @@ As stated in the Certificate of Registration, regulated dealers are registered b
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0lax" rowspan="2">Examples of unacceptable statement</th>
+    <th class="tg-0lax" rowspan="2">Non-exhaustive examples of <span style="font-weight:bold">unacceptable</span> statement</th>
     <th class="tg-0lax">Regulated by the Ministry of Law</th>
   </tr>
   <tr>
@@ -33,8 +33,8 @@ As stated in the Certificate of Registration, regulated dealers are registered b
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax">Example of acceptable statement</td>
-    <td class="tg-0lax">Regulated by the Ministry of Law for <span style="font-weight:bold">purposes of anti-money laundering and countering the financing of terrorism</span></td>
+    <td class="tg-0lax">Example of <span style="font-weight:bold">acceptable</span> statement</td>
+    <td class="tg-0lax">Regulated by the Ministry of Law for <span style="font-weight:bold">purposes of anti-money laundering and countering the financing of terrorism only</span></td>
   </tr>
 </tbody>
 </table>
