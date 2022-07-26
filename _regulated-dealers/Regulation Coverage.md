@@ -4,7 +4,7 @@ permalink: /Regulation-Coverage
 breadcrumb: Public Statements relating to PSPM Registration and use of Ministry of Law Logo
 description: ""
 ---
-Regulated dealers registered with the Ministry of Law are regulated by the Registrar of Regulated Dealers ("**the Registrar**") for anti-money laundering and countering the financing of terrorism ("**AML/CFT**") purposes in their business of regulated dealing or business as an intermediary for regulated dealing under the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019 ("**PSPM Act**"). To understand your obligations as a regulated dealer, please click [here](/compliance).
+Regulated dealers registered with the Ministry of Law are regulated by the Registrar of Regulated Dealers ("**the Registrar**") for anti-money laundering and countering the financing of terrorism ("**AML/CFT**") purposes in their business of regulated dealing or business as an intermediary for regulated dealing under the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019 ("**PSPM Act**"). To understand your obligations as a regulated dealer, please click [here](/entity-based-requirements/).
 
 Regulated dealers are to ensure that their websites, representations and publicity materials do not cause the public to misconstrue that the Registrar is regulating them beyond AML/CFT matters. Regulated dealers should also not make unauthorised use of the Ministry of Law logo on their websites or in publicity materials such as newsletters, articles, business cards etc.
 
