@@ -15,22 +15,12 @@ Report possible unregistered dealers to the Anti-Money Laundering/Countering the
 
 #### <a id="What is Covered Under the Regulations?"></a> What is Covered Under the Regulations?
 
-The registered dealers in the list are regulated by the Registrar of Regulated Dealers ("**the Registrar**") **<u>for anti-money laundering and countering the financing of terrorism</u>** ("**AML/CFT**") purposes in their business of regulated dealing<sup>2</sup> or business as an intermediary for regulated dealing under the PSPM Act. 
+The registered dealers in the list are regulated by the Registrar of Regulated Dealers ("**the Registrar**") **<u>for anti-money laundering and countering the financing of terrorism</u>** ("**AML/CFT**") purposes in their business of regulated dealing<sup>2</sup> or business as an intermediary for regulated dealing under the PSPM Act. The Ministry of Law does not audit, supervise or certify registered dealer for any other purpose. 
+
+Hence, registered dealers must not represent or suggest that their businesses have been approved or endorsed by the Ministry of Law in any way. Customers should exercise due caution and the Ministry of Law makes no warranty or representation as to any aspect of the business of the registered dealer.
 
 Regulated dealers are to ensure that their websites, representations and publicity materials do not cause the public to misconstrue that the Registrar is regulating them beyond AML/CFT matters. Please visit [here](/Public-Statements-relating-to-PSPM-Registration-and-use-of-Ministry-of-Law-Logo/) for information on the use of public statements relating to the PSPM registration and the Ministry of Law logo.  
  
-#### <a id="Investments are Not Covered Under the Regulations"></a> Investments are Not Covered Under the Regulations
-
-Precious stones and precious metals may be offered in various forms of investment schemes, financial products and services by the registered dealers. These offerings as a form of investment and wealth solutions are **<u>not</u>** approved by Ministry of Law nor regulated under the PSPM Act.
-
-Exercise caution and conduct sufficient research on any investment schemes.
-
-MoneySense is Singapore’s national financial education programme. Useful information relating to investments is available at [https://www.moneysense.gov.sg/investments](https://www.moneysense.gov.sg/investments){:target="_blank"}. Useful MoneySense Consumer Alerts and resources include:
- * Dealing with unregulated persons [https://www.moneysense.gov.sg/articles/2018/11/dealing-with-unregulated-persons](https://www.moneysense.gov.sg/articles/2018/11/dealing-with-unregulated-persons){:target="_blank"}
- * How to spot an investment scam [https://www.moneysense.gov.sg/articles/2018/10/how-to-spot-an-investment-scam](https://www.moneysense.gov.sg/articles/2018/10/how-to-spot-an-investment-scam){:target="_blank"}
- 
-If you suspect that an investment scheme could be fraudulent or is being misused for any illicit activity, you should consider reporting it to the police immediately at [https://eservices.police.gov.sg/content/policehubhome/homepage/police-report.html](https://eservices.police.gov.sg/content/policehubhome/homepage/police-report.html){:target="_blank"} or at any Neighbourhood Police Centre.
-
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border-width:1px;border-style:solid;border-color:black;margin:0px auto;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 0px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
