@@ -13,7 +13,7 @@ Hence, registered dealers are not allowed to represent or suggest that their bus
 
 Investments are not covered under the regulations. 
 
-Click [here](/Regulation-Coverage/) to find out more.
+Click [here](/Regulation-Coverage/) to understand more.
 
 #### What does it mean to me as a customer?
 You may be required to provide your personal information and identification documents for verification purposes when you purchase the precious stones, precious metals and/or precious products ("**PSPMs**") from regulated dealers. Some common PSPM include diamond and gold jewellery, platinum wedding bands and gold or silver bullion bars. A full list of PSPM is available under our [Regulatory Regime](/regulatory-regime/). By providing these information and documents promptly, you play a part in protecting the precious stones and precious metals dealers sector and Singapore from being misused for criminal activities.
