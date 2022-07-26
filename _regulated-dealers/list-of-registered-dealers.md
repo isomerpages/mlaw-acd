@@ -15,9 +15,7 @@ Report possible unregistered dealers to the Anti-Money Laundering/Countering the
 
 #### <a id="What is Covered Under the Regulations?"></a> What is Covered Under the Regulations?
 
-The registered dealers in the list are regulated by the Registrar of Regulated Dealers ("**the Registrar**") **<u>for anti-money laundering and countering the financing of terrorism</u>** ("**AML/CFT**") purposes in their business of regulated dealing<sup>2</sup> or business as an intermediary for regulated dealing under the PSPM Act. The Ministry of Law does not audit, supervise or certify registered dealer for any other purpose. 
-
-Hence, registered dealers must not represent or suggest that their businesses have been approved or endorsed by the Ministry of Law in any way. Customers should exercise due caution and the Ministry of Law makes no warranty or representation as to any aspect of the business of the registered dealer.
+The registered dealers in the list are regulated by the Registrar of Regulated Dealers ("**the Registrar**") **<u>for anti-money laundering and countering the financing of terrorism</u>** ("**AML/CFT**") purposes in their business of regulated dealing<sup>2</sup> or business as an intermediary for regulated dealing under the PSPM Act.  
 
 Regulated dealers are to ensure that their websites, representations and publicity materials do not cause the public to misconstrue that the Registrar is regulating them beyond AML/CFT matters. Please visit [here](/Regulation-Coverage/) for information on the use of public statements relating to the PSPM registration and the Ministry of Law logo.  
  
