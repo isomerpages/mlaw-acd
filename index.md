@@ -2,10 +2,9 @@
 layout: homepage
 title: Ministry of Law - ACD
 permalink: /
-notification: <a
-  href="/news/notices-from-the-registrar/june-2022-fatf-statement"
-  target="_blank">June 2022 FATF Public Statement - Countries/Jurisdictions with
-  Strategic Deficiencies (latest!)</a>
+notification: <a href="/regulation-coverage" target="_blank">Statements,
+  representations or suggestions relating to registration as a regulated dealer
+  and the use of Ministry of Law logo</a>
 sections:
   - hero:
       title: Regulatory Regime for Precious Stones and Precious Metals Dealers
