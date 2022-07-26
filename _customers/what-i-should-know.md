@@ -11,7 +11,7 @@ Registered dealers are regulated by the Ministry of Law under the Precious Stone
 
 Hence, registered dealers are not allowed to represent or suggest that their businesses have been approved or endorsed by the Ministry of Law in any way. They are to also ensure that their websites, representations and publicity materials do not cause the public to misconstrue that the Registrar of Regulated Dealers is regulating them beyond anti-money laundering and countering the financing of terrorism (“**AML/CFT**”) matters. Customers should exercise due caution and the Ministry of Law makes no warranty or representation as to any aspect of the business of the registered dealer. Click here to understand more.
 
-Investments are not covered under the regulations. Click [here](/Regulation-Coverage/) to find out more.
+Investments are not covered under the regulations. Click [here](/Regulation-Coverage/) to find out <a href="#Investments are Not Covered Under the Regulations">more</a>.
 
 #### What does it mean to me as a customer?
 You may be required to provide your personal information and identification documents for verification purposes when you purchase the PSPMs from regulated dealers. Some common PSPM include diamond and gold jewellery, platinum wedding bands and gold or silver bullion bars. A full list of PSPM is available under our [Regulatory Regime](/regulatory-regime/). By providing these information and documents promptly, you play a part in protecting the PSMD sector and Singapore from being misused for criminal activities.
