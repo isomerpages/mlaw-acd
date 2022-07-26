@@ -24,13 +24,13 @@ Public statements and representations which suggest that Ministry of Law is regu
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0lax" rowspan="2">Non-exhaustive examples of <span style="font-weight:bold">unacceptable</span> statement</th>
+    <th class="tg-0lax" rowspan="2">Non-exhaustive examples of <span style="font-weight:bold">unacceptable</span> statements:</th>
     <th class="tg-0lax">Certified / Regulated / Approved by the Ministry of Law</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-0lax">Example of <span style="font-weight:bold">acceptable</span> statement</td>
+    <td class="tg-0lax">Example of <span style="font-weight:bold">acceptable</span> statement:</td>
     <td class="tg-0lax">Regulated by the Ministry of Law for purposes of anti-money laundering and countering the financing of terrorism <span style="font-weight:bold"><u>only</u></span></td>
   </tr>
 </tbody>
