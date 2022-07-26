@@ -2,11 +2,11 @@ collections:
   regulated-dealers:
     output: true
     order:
-      - Regulation Coverage.md
       - regulatory-regime.md
       - registration.md
       - registration-of-temporary-outlets.md
       - renewal.md
+      - Regulation Coverage.md
       - list-of-registered-dealers.md
       - guidance-materials.md
       - guidance-videos-and-posters.md
