@@ -3,7 +3,7 @@ layout: homepage
 title: Ministry of Law - ACD
 permalink: /
 notification: <a href="/regulation-coverage" target="_blank">Statements,
-  representatinos or suggestions relating to registration as a regulated dealer
+  representations or suggestions relating to registration as a regulated dealer
   and the use of Ministry of Law logo</a>
 sections:
   - hero:
