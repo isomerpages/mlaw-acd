@@ -19,7 +19,7 @@ The registered dealers in the list are regulated by the Registrar of Regulated D
 
 Hence, registered dealers must not represent or suggest that their businesses have been approved or endorsed by the Ministry of Law in any way. Customers should exercise due caution and the Ministry of Law makes no warranty or representation as to any aspect of the business of the registered dealer.
 
-Regulated dealers are to ensure that their websites, representations and publicity materials do not cause the public to misconstrue that the Registrar is regulating them beyond AML/CFT matters. Please visit [here](/Public-Statements-relating-to-PSPM-Registration-and-use-of-Ministry-of-Law-Logo/) for information on the use of public statements relating to the PSPM registration and the Ministry of Law logo.  
+Regulated dealers are to ensure that their websites, representations and publicity materials do not cause the public to misconstrue that the Registrar is regulating them beyond AML/CFT matters. Please visit [here](/Regulation-Coverage/) for information on the use of public statements relating to the PSPM registration and the Ministry of Law logo.  
  
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border-width:1px;border-style:solid;border-color:black;margin:0px auto;}
