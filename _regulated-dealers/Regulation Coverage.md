@@ -4,12 +4,9 @@ permalink: /Regulation-Coverage
 breadcrumb: Public Statements relating to PSPM Registration and use of Ministry of Law Logo
 description: ""
 ---
+Regulated dealers registered with the Ministry of Law are regulated by the Registrar of Regulated Dealers ("**the Registrar**") for anti-money laundering and countering the financing of terrorism ("**AML/CFT**") purposes in their business of regulated dealing or business as an intermediary for regulated dealing under the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019 ("**PSPM Act**"). To understand your obligations as a regulated dealer, please click [here](/compliance).
 
-
-
-
-
-Regulated dealers are to ensure that their websites, representations and publicity materials do not cause the public to misconstrue that the Registrar of Regulated Dealers of the Ministry of Law (“**the Registrar**”) is regulating them beyond anti-money laundering and countering the financing of terrorism (“**AML/CFT**”) matters. Regulated dealers should also not make unauthorised use of the Ministry of Law logo on their websites or in publicity materials such as newsletters, articles, business cards etc.
+Regulated dealers are to ensure that their websites, representations and publicity materials do not cause the public to misconstrue that the Registrar is regulating them beyond AML/CFT matters. Regulated dealers should also not make unauthorised use of the Ministry of Law logo on their websites or in publicity materials such as newsletters, articles, business cards etc.
 
 
 #### Public Statements relating to PSPM Registration
@@ -45,3 +42,15 @@ As stated in the Certificate of Registration, regulated dealers are registered b
 #### Use of Ministry of Law Logo
 
 Unauthorised use of the Ministry of Law logo would tantamount to a trade mark infringement. If it is currently displayed on your websites and publicity materials without authorisation, please remove it <u>immediately</u>.
+
+#### <a id="Investments are Not Covered Under the Regulations"></a> Investments are Not Covered Under the Regulations
+
+Precious stones and precious metals may be offered in various forms of investment schemes, financial products and services by the registered dealers. These offerings as a form of investment and wealth solutions are **<u>not</u>** approved by Ministry of Law nor regulated under the PSPM Act.
+
+Exercise caution and conduct sufficient research on any investment schemes.
+
+MoneySense is Singapore’s national financial education programme. Useful information relating to investments is available at [https://www.moneysense.gov.sg/investments](https://www.moneysense.gov.sg/investments){:target="_blank"}. Useful MoneySense Consumer Alerts and resources include:
+ * Dealing with unregulated persons [https://www.moneysense.gov.sg/articles/2018/11/dealing-with-unregulated-persons](https://www.moneysense.gov.sg/articles/2018/11/dealing-with-unregulated-persons){:target="_blank"}
+ * How to spot an investment scam [https://www.moneysense.gov.sg/articles/2018/10/how-to-spot-an-investment-scam](https://www.moneysense.gov.sg/articles/2018/10/how-to-spot-an-investment-scam){:target="_blank"}
+ 
+If you suspect that an investment scheme could be fraudulent or is being misused for any illicit activity, you should consider reporting it to the police immediately at [https://eservices.police.gov.sg/content/policehubhome/homepage/police-report.html](https://eservices.police.gov.sg/content/policehubhome/homepage/police-report.html){:target="_blank"} or at any Neighbourhood Police Centre.
