@@ -5,14 +5,13 @@ date: 2022-08-01
 layout: post
 description: ""
 ---
-
 Dear Regulated Dealer,
 
 The terrorism threat to Singapore remains high. With the relaxation of the pandemic restriction and resumption of cross-border travel, we have to stay vigilant to the possibility of a terrorist attack against Singapore or its interests overseas. 
 
 **Read the Singapore Terrorism Threat Assessment Report (“STTAR”) 2022 published by the Ministry of Home Affairs to find out more.**
 
-Full report at this [link](https://www.mha.gov.sg/docs/default-source/default-document-library/singapore-terrorism-threat-assessment-report-2022.pdf){:target\="\_blank"}.
+Full report at this [link](https://www.mha.gov.sg/docs/default-source/default-document-library/singapore-terrorism-threat-assessment-report-2022.pdf){:target="_blank"}.
 
 **What is STTAR?**
 
