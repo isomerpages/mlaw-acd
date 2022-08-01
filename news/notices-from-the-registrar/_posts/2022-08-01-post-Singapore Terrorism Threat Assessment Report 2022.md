@@ -30,12 +30,12 @@ STTAR is an annual terrorism threat assessment report which highlights informati
 	(a) Decline to enter into any transaction with the customer;<br>
 	(b) Terminate any transaction entered into with the customer; and <br>
 	(c) File a suspicious transaction report and report to the police.
-<br>
+<br><br>
 *   Such measures include, but are not limited to, conducting name screening against the terrorists and terrorist entities under the TSOFA, and the lists of designated persons under the relevant UN Regulations, against the following information sources: <br>
 	(a) MHA’s Inter-Ministry Committee on Terrorist Designation ("**IMC-TD**") [website](https://www.mha.gov.sg/what-we-do/managing-security-threats/countering-the-financing-of-terrorism) on terrorist designation and legislation for countering the financing of terrorism. <br>
-	(b) MAS’ [website](https://www.mas.gov.sg/regulation/anti-money-laundering/targeted-financial-sanctions/lists-of-designated-individuals-and-entities) on targeted financial sanctions under the UN Regulations for the lists of designated individuals and entities.
+	(b) MAS’ [website](https://www.mas.gov.sg/regulation/anti-money-laundering/targeted-financial-sanctions/lists-of-designated-individuals-and-entities) on targeted financial sanctions under the UN Regulations for the lists of designated individuals and entities. <br><br>
 
-*   The Ministry of Law will be rolling out a screening tool in _my_Pal to help registered dealers conduct screening against the lists of designated persons and terrorists and terrorist entities under the TSOFA.  We will share more details on the screening tool soon.  
+*   The Ministry of Law will be rolling out a screening tool in <i>my</i>Pal to help registered dealers conduct screening against the lists of designated persons and terrorists and terrorist entities under the TSOFA.  We will share more details on the screening tool soon.  
 
 #### What can do you do <u>as a member of the public</u>?
 
