@@ -32,12 +32,12 @@ STTAR is an annual terrorism threat assessment report which highlights informati
 	(c) File a suspicious transaction report and report to the police.
 <br><br>
 *   Such measures include, but are not limited to, conducting name screening against the terrorists and terrorist entities under the TSOFA, and the lists of designated persons under the relevant UN Regulations, against the following information sources: <br>
-	(a) MHA’s Inter-Ministry Committee on Terrorist Designation ("**IMC-TD**") [website](https://www.mha.gov.sg/what-we-do/managing-security-threats/countering-the-financing-of-terrorism) on terrorist designation and legislation for countering the financing of terrorism. <br>
-	(b) MAS’ [website](https://www.mas.gov.sg/regulation/anti-money-laundering/targeted-financial-sanctions/lists-of-designated-individuals-and-entities) on targeted financial sanctions under the UN Regulations for the lists of designated individuals and entities. <br><br>
+	(a) MHA’s Inter-Ministry Committee on Terrorist Designation ("**IMC-TD**") [website](https://www.mha.gov.sg/what-we-do/managing-security-threats/countering-the-financing-of-terrorism){:target="_blank"} on terrorist designation and legislation for countering the financing of terrorism. <br>
+	(b) MAS’ [website](https://www.mas.gov.sg/regulation/anti-money-laundering/targeted-financial-sanctions/lists-of-designated-individuals-and-entities){:target="_blank"} on targeted financial sanctions under the UN Regulations for the lists of designated individuals and entities. <br><br>
 
 *   The Ministry of Law will be rolling out a screening tool in <i>my</i>Pal to help registered dealers conduct screening against the lists of designated persons and terrorists and terrorist entities under the TSOFA.  We will share more details on the screening tool soon.  
 
 #### What can do you do <u>as a member of the public</u>?
 
 *   If you notice any **_signs of radicalisation or suspicious activities_**, please report it to the **_Internal Security Department (ISD) at 1800-2626-473_**.
-*   Visit [sgsecure.gov.sg](http://sgsecure.gov.sg/) to learn more about SGSecure or sign up as an SGSecure Responder.
+*   Visit [sgsecure.gov.sg](https://www.sgsecure.gov.sg/){:target="_blank"} to learn more about SGSecure or sign up as an SGSecure Responder.
