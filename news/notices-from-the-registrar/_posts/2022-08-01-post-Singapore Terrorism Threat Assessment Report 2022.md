@@ -20,7 +20,7 @@ STTAR is an annual terrorism threat assessment report which highlights informati
 #### What are the 5 key highlights in STTAR 2022?
 
 1.  **_Terrorism threat to Singapore remains high._** There is currently no specific intelligence of an imminent terrorist attack, but Singapore continues to feature as a target on terrorist propaganda. With the relaxation of pandemic restrictions and resumption of cross-border travel, terrorist elements may become more active.
-2.  **_Threats from Islamist terrorist groups and their violent ideology persists._**  Their virtual network of supporters continues to disseminate propaganda, raise funds and plot attacks.
+2.  **_Threats from Islamist terrorist groups and their violent ideology persist._**  Their virtual network of supporters continues to disseminate propaganda, raise funds and plot attacks.
 3.  **_Spread of radical ideologies online has fuelled the self-radicalisation threat_** in Singapore.
 4.  **_Ongoing development abroad_**, such as in the Middle East, Afghanistan and Ukraine, could also **_affect our security landscape_**.
 5.  **_Public vigilance and preparedness_** are key components of our defence against terrorism.
