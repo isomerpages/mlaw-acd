@@ -2,17 +2,15 @@
 layout: homepage
 title: Ministry of Law - ACD
 permalink: /
-notification: <a href="/regulation-coverage" target="_blank">Statements,
-  representations or suggestions relating to registration as a regulated dealer
-  and the use of Ministry of Law logo</a>
+notification: Keep a look out for the upcoming screening function in <i>my</i>Pal!
 sections:
   - hero:
       title: Regulatory Regime for Precious Stones and Precious Metals Dealers
       subtitle: Anti-Money Laundering / Countering the Financing of Terrorism Division
         (ACD)
       background: /images/bullion1.jpg
-      button: SUBMIT SEMI-ANNUAL RETURN<br>VIA MYPAL
-      url: https://www.go.gov.sg/mypal
+      button: GUIDANCE PAPER<br>FOR REGULATED DEALERS
+      url: /images/Guidance%20Paper_20210616.pdf
       key_highlights:
         - title: Renewal
           description: Overview of renewal process
