@@ -5,7 +5,7 @@ date: 2022-09-01
 layout: post
 description: ""
 ---
-<img src="/image/Regulatory Excellence Award 2022.png">
+<img src="/image/Regulatory%Excellence%Award%2022.png">
 
 The Public Sector Transformation (“**PST**”) Awards is a Whole-of-Government pinnacle platform to recognise and reward public officers and public agencies for excellence in their work and organisational practices.
 
