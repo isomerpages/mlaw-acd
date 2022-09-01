@@ -2,8 +2,7 @@
 layout: homepage
 title: Ministry of Law - ACD
 permalink: /
-notification: <center><b>Keep a look out for the upcoming screening function in
-  <i>my</i>Pal!</b></center>
+notification: <b>Keep a lookout for the upcoming screening function in <i>my</i>Pal!</b>
 sections:
   - hero:
       title: Regulatory Regime for Precious Stones and Precious Metals Dealers
