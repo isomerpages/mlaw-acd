@@ -15,4 +15,4 @@ The Award recognises MinLaw’s efforts to mitigate the money laundering/ terror
 
 This Award is also a testament to the strong working relationship between MinLaw and the regulated dealers in reducing the regulatory burden and enhancing the regulatory effectiveness. MinLaw would like to take this opportunity to thank the commitment and efforts displayed by the regulated dealers towards preserving the reputation of the PSMD sector and safeguarding Singapore against criminal activities.
 
-Read and find out more about MinLaw’s achievement on page 27 of this [e-booklet](https://www.publicserviceweek.gov.sg/files/2022 PSTAC_Award Booklet.pdf).
+Read and find out more about MinLaw’s achievement on page 27 of this [e-booklet](https://www.publicserviceweek.gov.sg/files/2022 PSTAC_Award Booklet.pdf){:target="_blank"}.
