@@ -10,7 +10,7 @@ sections:
         (ACD)
       background: /images/bullion1.jpg
       button: GUIDANCE PAPER<br>FOR REGULATED DEALERS
-      url: /images/Guidance%20Paper_20210616.pdf
+      url: https://acd.mlaw.gov.sg/guidance-materials/
       key_highlights:
         - title: Renewal
           description: Overview of renewal process
