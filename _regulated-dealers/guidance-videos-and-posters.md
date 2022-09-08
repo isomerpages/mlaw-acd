@@ -7,7 +7,7 @@ breadcrumb: Guidance Videos and Posters
 
 The following videos and posters provide useful summary to the regulatory requirements for regulated dealers.
 
-<u> Video 1: How to use Screening Function in *my*Pal <i>my</i>Pal
+<u> Video 1: How to use Screening Function in <i>my</i>Pal
 <iframe width="560" height="315" 
 src="https://www.youtube.com/watch?v=i6at7WyPxRs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
