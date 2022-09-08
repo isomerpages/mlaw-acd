@@ -81,14 +81,6 @@ Foreign dealers should refer <a href="#Regulatory Compliance for Foreign Dealers
 <br>
 <br>
 
-| **Language** | **Format** |
-| -------- | -------- |
-| English     | [PDF](/files/FD.pdf)     |
-| Mandarin     |  [PDF](/files/FD-Mandarin.pdf)     |
-| Bahasa Indonesia          | [PDF](/files/FD-Bahasa_Indonesia.pdf)     |
-| Hebrew     | [PDF](/files/FD-Hebrew.pdf)     |
-| Italian     | [PDF](/files/FD-Italian.pdf)     |
-
 **Who are foreign dealers?**<br>
 Foreign dealer means a regulated dealer that -<br>
 (a) is -<br>
