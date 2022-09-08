@@ -4,7 +4,7 @@ title: Ministry of Law - ACD
 permalink: /
 notification: <b>Screening function is available on <i>my</i>Pal now. Click here
   to find out more!</b>
-  (https://acd.mlaw.gov.sg/news/notices-from-the-registrar/)
+  scr="https://acd.mlaw.gov.sg/news/notices-from-the-registrar/"
 sections:
   - hero:
       title: Regulatory Regime for Precious Stones and Precious Metals Dealers
