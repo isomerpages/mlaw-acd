@@ -3,17 +3,15 @@ title: Guidance Materials
 permalink: /guidance-materials/
 breadcrumb: Guidance Materials
 ---
-#### 1. Monetary Authority of Singapore's ("**MAS**") website - Lists of Designated Individuals and Entities
+<a href="#Monetary Authority of Singapore's website - Lists of Designated Individuals and Entities">Monetary Authority of Singapore's website - Lists of Designated Individuals and Entities </a> | <a href="#Guidelines for Regulated Dealers">Guidelines for Regulated Dealers </a>| <a href="#Sample forms for CDD and ECDD">Sample forms for CDD and ECDD </a> | <a href="#Compliance Toolkit for Regulated Dealers">Compliance Toolkit for Regulated Dealers </a> |<a href="#Guidance Paper on Strengthening AML/CFT Controls in the Precious Stones and Precious Metals (PSPM) Sector">Guidance Paper on Strengthening AML/CFT Controls in the Precious Stones and Precious Metals (PSPM) Sector </a> | <a href="#Semi-Annual Return Instruction Guide">Semi-Annual Return Instruction Guide </a>| <a href="#Inter-Ministry Committee on Terrorist Designation">Inter-Ministry Committee on Terrorist Designation</a> | <a href="#Notice for Customers from the Ministry of Law">Notice for Customers from the Ministry of Law </a> | <a href="#GoBusiness Licensing Guide for Precious Stones and Precious Metals Dealers">GoBusiness Licensing Guide for Precious Stones and Precious Metals Dealers </a>
+
+#### <a id="Monetary Authority of Singapore's website - Lists of Designated Individuals and Entities"></a> 1. Monetary Authority of Singapore's ("**MAS**") website - Lists of Designated Individuals and Entities
 
 MAS publishes [lists](https://www.mas.gov.sg/regulation/anti-money-laundering/targeted-financial-sanctions/lists-of-designated-individuals-and-entities){:target="_blank"} of individuals and entities designated under the United Nations Act ("**UN Act**") and the Terrorism (Suppression of Financing) Act ("**TSOFA**"). Regulated dealers should [subscribe](https://www.mas.gov.sg/subscription-services){:target="_blank"} to the MAS mailing list to receive updated lists of designated individuals and entities. Regulated dealers are required to screen their customers against the lists before engaging in any business or commercial activity with them.<br><br>
 You may refer to the [MAS Website Subscriber Services Guide](/images/MAS%20Website%20Subscriber%20Services%20Guide20191105V1Final.pdf){:target="blank"} for a step-by-step guide to the subscription process.<br><br> 
 The screening function in [*my*Pal](https://go.gov.sg/mypal){:target="_blank"}  allows regulated dealers to conduct screening on the lists of designated individuals and entities. Please refer to the [instruction guide](/files/Screening%20Module%20Instruction%20Guide_20220901.pdf){:target="_blank"}  and [guidance video](https://www.youtube.com/watch?v=i6at7WyPxRs){:target="_blank"} for a step-by-step walkthrough (with screenshots) on how to use the screening function.
 
-#### 2. Semi-Annual Return Instruction Guide
-
-The [instruction guide](/images/Semi-Annual Return Instruction Guide_20220622.pdf){:target="_blank"} and [guidance video](https://youtu.be/Jpcj4iYSOSM){:target="_blank"} provide regulated dealers with a step-by-step walkthrough (with screenshots) on how to navigate and submit the semi-annual return via [<i>my</i>Pal](https://go.gov.sg/mypal){:target="_blank"}. Please click [here](https://acd.mlaw.gov.sg/other-regulatory-requirements){:target="_blank"} for information on the reporting requirement.
-
-#### 3. Guidelines for Regulated Dealers
+#### <a id="Guidelines for Regulated Dealers"></a>2. Guidelines for Regulated Dealers
 
 The [Guidelines for Regulated Dealers in the Precious Stones and Precious Metals Dealers Sector on Anti-Money Laundering/Countering the Financing of Terrorism ("**Guidelines**")](/images/Guidelines for regulated dealers_20201214_V2.0Final (Updated).pdf){:target="_blank"} are meant to help regulated dealers understand the regulatory requirements under the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019 ("**PSPM Act**") and Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations 2020 ("**PMLTF Regulations**").<a href="#footnote1"></a><br><br> 
 The Guidelines also provide [sample forms and checklists<sup>1</sup>](/images/Guidelines for regulated dealers_Annexes_20201214_V2.0Final (Updated).docx){:target="_blank"} to assist regulated dealers in meeting their regulatory obligations.  <b>However, regulated dealers remain responsible for ensuring that their Anti-Money Laundering/Countering the Financing of Terrorism ("**AML/CFT**") measures are appropriately designed for their business and commensurate with their money laundering/terrorism financing ("**ML/TF**") risk exposure.</b><br><br>
@@ -31,11 +29,17 @@ The Guidelines also provide [sample forms and checklists<sup>1</sup>](/images/Gu
   </tr>
 </table>
 
-#### 4. Sample forms for CDD and ECDD
+#### <a id="Sample forms for CDD and ECDD"></a>3. Sample forms for CDD and ECDD
 
 Regulated dealers are required to keep records of the customer due diligence ("**CDD**") and enhanced customer due diligence ("**ECDD**") performed. The [sample forms](/images/Sample CDD and ECDD Form (Version 2.0) Final (Updated).docx) are extracted from the Guidelines and available in Microsoft Word document format for ease of editing. <br>
 
-#### 5. Guidance Paper on Strengthening AML/CFT Controls in the Precious Stones and Precious Metals (PSPM) Sector
+#### <a id="Compliance Toolkit for Regulated Dealers"></a>4. Compliance Toolkit for Regulated Dealers
+
+The Compliance Toolkit aims to guide and facilitate regulated dealers' compliance with the various requirements under the PSPM Act and the PMLTF Regulations. It serves as a quick guide relating to applications, notifications, regulatory submissions and compliance. 
+
+Download and open the [Compliance Toolkit](/images/Compliance%20Toolkit%20for%20PSMD_20220908.pdf){:target="blank"} with a PDF reader on desktop to open the thumbnails. 
+
+#### <a id="Guidance Paper on Strengthening AML/CFT Controls in the Precious Stones and Precious Metals (PSPM) Sector"></a>5. Guidance Paper on Strengthening AML/CFT Controls in the Precious Stones and Precious Metals (PSPM) Sector
 
 MinLaw conducted a series of inspections and compliance reviews of regulated dealers targeted at assessing their level of compliance with the PSPM Act and PMLTF Regulations.
 
@@ -45,7 +49,11 @@ Please click [here](/images/Guidance Paper Briefing slides_20210712.pdf){:target
 
 Regulated dealers should study the learning points and incorporate them in a manner proportionate to the risk profile of their business activities and customers. The regulated dealers should note that examples highlighted in this paper are non-exhaustive and they should continue to implement appropriate AML/CFT controls that commensurate with the nature and complexity of their business.
 
-#### 6. Inter-Ministry Committee on Terrorist Designation ("**IMC-TD**")
+#### <a id="Semi-Annual Return Instruction Guide"></a> 6. Semi-Annual Return Instruction Guide
+
+The [instruction guide](/images/Semi-Annual Return Instruction Guide_20220622.pdf){:target="_blank"} and [guidance video](https://youtu.be/Jpcj4iYSOSM){:target="_blank"} provide regulated dealers with a step-by-step walkthrough (with screenshots) on how to navigate and submit the semi-annual return via [<i>my</i>Pal](https://go.gov.sg/mypal){:target="_blank"}. Please click [here](https://acd.mlaw.gov.sg/other-regulatory-requirements){:target="_blank"} for information on the reporting requirement.
+
+#### <a id="Inter-Ministry Committee on Terrorist Designation"></a>7. Inter-Ministry Committee on Terrorist Designation ("**IMC-TD**")
 
 The IMC-TD acts as Singapore's authority relating to the designation of terrorists. This prohibits any person/ entity from dealing with or providing any financial assistance to designated subjects, as required under the TSOFA.
 
@@ -53,7 +61,7 @@ On MHA’s website on [IMC-TD](https://www.mha.gov.sg/what-we-do/managing-securi
 
 To find out more about your obligations as a regulated dealer on countering terrorism financing, please click [here](/images/Measures%20relating%20to%20prevention%20of%20terrorism%20financing.pdf){:target="_blank"}.
 
-#### 7. Notice for Customers from the Ministry of Law ("**Notice for Customers**")
+#### <a id="Notice for Customers from the Ministry of Law"></a>8. Notice for Customers from the Ministry of Law ("**Notice for Customers**")
 
 The Notice for Customers explains that regulated dealers are required to collect identifying information from customers under the regulatory regime. Regulated dealers may wish to consider using the Notice for Customers to educate their customers on the AML/CFT requirements.
 
@@ -93,6 +101,6 @@ This Notice for Customers is available in 4 languages - English, Chinese, Malay 
 
 <a href="/images/NoticeForCustomersPoster(Eng)Mar2020.pdf" target="_blank"><img src="/images/NoticeForCustomersPoster(Eng)Mar2020.jpg"></a>
 
-#### 8. GoBusiness Licensing Guide for Precious Stones and Precious Metals Dealers ("**GoBusiness Licensing Guide**")
+#### <a id="GoBusiness Licensing Guide for Precious Stones and Precious Metals Dealers"></a>9. GoBusiness Licensing Guide for Precious Stones and Precious Metals Dealers ("**GoBusiness Licensing Guide**")
 
 The [GoBusiness Licensing Guide](/files/GoBusiness Licensing Guide for Regulated Dealers_ACD_20220603.pdf){:target="_blank"} gives regulated dealers a step-by-step walkthrough of the application, renewal and amendment processes in GoBusiness Licensing Portal.
