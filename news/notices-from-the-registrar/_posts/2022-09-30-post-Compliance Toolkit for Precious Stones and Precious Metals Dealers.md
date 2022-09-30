@@ -35,7 +35,6 @@ This Compliance Toolkit aims to guide and facilitate PSMD’s compliance with th
 		</th>
 		</tr>
 </thead>
-<tbody>
 	<tr>
     <td class="tg-wp8o">1</td>
     <td class="tg-73oq"><span style="font-weight:bold">Section A:</span> Applications for approval from the Registrar of Regulated Dealers</td>
