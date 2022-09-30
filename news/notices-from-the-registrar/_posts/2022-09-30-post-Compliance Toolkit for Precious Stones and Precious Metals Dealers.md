@@ -22,7 +22,7 @@ Download and open the [Compliance Toolkit](/images/Compliance%20Toolkit%20for%20
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg {border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-z1qo{background-color:#efefef;border-color:#333333;color:#333333;text-align:left;vertical-align:top}
+.tg-z1qo{background-color:#efefef;border-color:#333333;color:#333333;text-align:left;vertical-align:top}
 .tg .tg-ao2g{border-color:#333333;text-align:center;vertical-align:top}
 .tg .tg-de2y{border-color:#333333;text-align:left;vertical-align:top}
 </style>
