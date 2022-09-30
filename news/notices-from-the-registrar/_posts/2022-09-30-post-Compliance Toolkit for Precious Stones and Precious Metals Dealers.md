@@ -16,17 +16,23 @@ The Compliance Toolkit serves as a quick guide relating to applications, notific
 
 Download and open the [Compliance Toolkit](/images/Compliance%20Toolkit%20for%20PSMD_20220908.pdf){:target="blank"} with a PDF reader on desktop to open the thumbnails.
 
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg tr td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-y6fn{background-color:#c0c0c0;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-phok"><span style="font-weight:bold">S/N</span></th>
+		<th class="tg-phok"><span style="font-weight:bold">S/N</span></th>
     <th class="tg-phok"><span style="font-weight:bold">Information</span></th>
     <th class="tg-phok"><span style="font-weight:bold">What To Expect</span></th>
-  </tr>
-</thead>
-<tbody>
+  </tr></thead><tbody>
   <tr>
     <td class="tg-ao2g">1</td>
     <td class="tg-de2y"><span style="font-weight:bold">Section A: </span>Applications for approval from the Registrar of Regulated Dealers</td>
