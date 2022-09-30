@@ -17,7 +17,7 @@ The Compliance Toolkit serves as a quick guide relating to applications, notific
 Download and open the [Compliance Toolkit](/images/Compliance%20Toolkit%20for%20PSMD_20220908.pdf){:target="blank"} with a PDF reader on desktop to open the thumbnails.
 
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
+.tg {border-collapse:collapse;border-spacing:0;}
 .tg tr td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg tr{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
