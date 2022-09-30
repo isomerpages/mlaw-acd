@@ -23,8 +23,8 @@ This Compliance Toolkit aims to guide and facilitate PSMD’s compliance with th
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-266k{background-color:#9b9b9b;border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-ao2g{border-color:#333333;text-align:center;vertical-align:top}
+.tg .tg-de2y{border-color:#333333;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
@@ -36,25 +36,32 @@ This Compliance Toolkit aims to guide and facilitate PSMD’s compliance with th
 </thead>
 <tbody>
   <tr>
-    <td class="tg-c3ow">1</td>
-    <td class="tg-0pky"><span style="font-weight:bold">Section A:</span> Applications for approval from the Registrar of Regulated Dealers</td>
-    <td class="tg-0pky">This section provides information on how to register and renew your registration with the Registrar.</td>
+    <td class="tg-ao2g">1</td>
+    <td class="tg-de2y"><span style="font-weight:bold">Section A:</span> Applications for approval from the Registrar of Regulated Dealers</td>
+    <td class="tg-de2y">This section provides information on how to register and renew your registration with the Registrar.</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">2</td>
-    <td class="tg-0pky"><span style="font-weight:bold">Section B:</span> Notifications to be submitted to the Registrar of Regulated Dealers</td>
-    <td class="tg-0pky">Registered dealers must notify the Registrar when there are changes to your (i) particulars and circumstances, (ii) place of business and (iii) class of registration.<br><br>This section provides information on the types of notifications to submit and how to notify the Registrar.</td>
+    <td class="tg-ao2g">2</td>
+    <td class="tg-de2y"><span style="font-weight:bold">Section B:</span> Notifications to be submitted to the Registrar of Regulated Dealers</td>
+    <td class="tg-de2y">Registered dealers must notify the Registrar when there are changes to your (i) particulars and circumstances, (ii) place of business and (iii) class of registration.<br><br>This section provides information on the types of notifications to submit and how to notify the Registrar.</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">3</td>
-    <td class="tg-0pky"><span style="font-weight:bold">Section C:</span> Regulatory submissions to the Registrar of Regulated Dealers</td>
-    <td class="tg-0pky">Regulated dealers are required to submit (i) semi-annual returns (“SAR”), (ii) risk assessment and (iii) internal policies, procedures and controls (“IPPC”).<br><br>This section provides information on the submission timeline and how to submit.</td></tr><tr>
-    <td class="tg-c3ow">4</td>
-    <td class="tg-0pky"><span style="font-weight:bold">Section D: </span>Regulatory compliance</td>
-    <td class="tg-0pky">In the course of business, regulated dealers are required to comply with various regulatory requirements to prevent money laundering and terrorism financing in the PSMD sector.<br><br>This section provides information on the regulatory requirements, submission timeline and how to submit.</td></tr><tr>
-    <td class="tg-c3ow">5</td>
-    <td class="tg-0pky"><span style="font-weight:bold">Section E:</span> Useful user guides</td>
-    <td class="tg-0pky">These user guides provide you with a step-by-step guide on the relevant portals such as GoBusiness Licencing, myPal and STRO Online Notices And Reporting platform (SONAR) portals.</td></tr></tbody></table>
+    <td class="tg-ao2g">3</td>
+    <td class="tg-de2y"><span style="font-weight:bold">Section C:</span> Regulatory submissions to the Registrar of Regulated Dealers</td>
+    <td class="tg-de2y">Regulated dealers are required to submit (i) semi-annual returns (“SAR”), (ii) risk assessment and (iii) internal policies, procedures and controls (“IPPC”).<br><br>This section provides information on the submission timeline and how to submit.</td>
+  </tr>
+  <tr>
+    <td class="tg-ao2g">4</td>
+    <td class="tg-de2y"><span style="font-weight:bold">Section D: </span>Regulatory compliance</td>
+    <td class="tg-de2y">In the course of business, regulated dealers are required to comply with various regulatory requirements to prevent money laundering and terrorism financing in the PSMD sector.<br><br>This section provides information on the regulatory requirements, submission timeline and how to submit.</td>
+  </tr>
+  <tr>
+    <td class="tg-ao2g">5</td>
+    <td class="tg-de2y"><span style="font-weight:bold">Section E:</span> Useful user guides</td>
+    <td class="tg-de2y">These user guides provide you with a step-by-step guide on the relevant portals such as GoBusiness Licencing, myPal and STRO Online Notices And Reporting platform (SONAR) portals.</td>
+  </tr>
+</tbody>
+</table>
 
 Anti-Money Laundering/Countering the Financing of Terrorism Division ("ACD")
 Ministry of Law
