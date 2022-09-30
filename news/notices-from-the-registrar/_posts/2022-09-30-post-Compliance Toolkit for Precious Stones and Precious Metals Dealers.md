@@ -28,10 +28,9 @@ Download and open the [Compliance Toolkit](/images/Compliance%20Toolkit%20for%20
 <table class="tg">
 <thead>
   <tr>
-		<th class="tg-phok"><span style="font-weight:bold">S/N</span></th>
-    <th class="tg-phok"><span style="font-weight:bold">Information</span></th>
-    <th class="tg-phok"><span style="font-weight:bold">What To Expect</span></th>
-  </tr></thead><tbody>
+		<th class="tg-phok"><span style="background-color:#efefef;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:15px;font-weight:bold;overflow:hidden;padding:10px 10px;text-align:center;vertical-align:top;word-break:normal">S/N</span></th>
+    <th class="tg-phok"><span style="background-color:#efefef;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:15px;font-weight:bold;overflow:hidden;padding:10px 10px;text-align:center;vertical-align:top;word-break:normal">Information</span></th>
+    <th class="tg-phok"><span style="background-color:#efefef;border-color:inherit;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:15px;font-weight:bold;overflow:hidden;padding:10px 10px;text-align:center;vertical-align:top;word-break:normal">What To Expect</span></th></tr></thead><tbody>
   <tr>
     <td class="tg-ao2g">1</td>
     <td class="tg-de2y"><span style="font-weight:bold">Section A: </span>Applications for approval from the Registrar of Regulated Dealers</td>
@@ -57,4 +56,4 @@ Download and open the [Compliance Toolkit](/images/Compliance%20Toolkit%20for%20
     <td class="tg-de2y"><span style="font-weight:bold">Section E:</span> Useful user guides</td>
     <td class="tg-de2y">These user guides provide you with a step-by-step guide on the relevant portals such as GoBusiness Licencing, <span style="font-style:italic">my</span>Pal and STRO Online Notices And Reporting platform (<span style="font-weight:bold">SONAR</span>) portals.</td>
   </tr>
-	<tr>
+	<tr></tr></tbody></table>
