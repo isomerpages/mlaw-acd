@@ -58,6 +58,6 @@ Download and open the [Compliance Toolkit](/images/Compliance%20Toolkit%20for%20
   <tr>
     <td class="tg-ao2g">5</td>
     <td class="tg-de2y"><span style="font-weight:bold">Section E:</span> Useful user guides</td>
-    <td class="tg-de2y">These user guides provide you with a step-by-step guide on the relevant portals such as GoBusiness Licencing, <span style="font-style:italic">my</span>Pal and STRO Online Notices And Reporting platform (<span style="font-weight:bold">SONAR"</span>) portals.</td>
+    <td class="tg-de2y">These user guides provide you with a step-by-step guide on the relevant portals such as GoBusiness Licencing, <span style="font-style:italic">my</span>Pal and STRO Online Notices And Reporting platform ("<span style="font-weight:bold">SONAR"</span>) portals.</td>
   </tr>
 	<tr></tr></tbody></table>
