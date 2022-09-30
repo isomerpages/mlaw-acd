@@ -31,11 +31,8 @@ This Compliance Toolkit aims to guide and facilitate PSMD’s compliance with th
   <tr>
     <th class="tg-266k"><span style="font-weight:bold">S/N</span></th>
     <th class="tg-266k"><span style="font-weight:bold">Information</span></th>
-    <th class="tg-266k"><span style="font-weight:bold">What To Expect</span></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
+    <th class="tg-266k"><span style="font-weight:bold">What To Expect</span></th></tr>
+</thead><tbody><tr>
     <td class="tg-ao2g">1</td>
     <td class="tg-de2y"><span style="font-weight:bold">Section A:</span> Applications for approval from the Registrar of Regulated Dealers</td>
     <td class="tg-de2y">This section provides information on how to register and renew your registration with the Registrar.</td>
@@ -48,14 +45,10 @@ This Compliance Toolkit aims to guide and facilitate PSMD’s compliance with th
   <tr>
     <td class="tg-ao2g">3</td>
     <td class="tg-de2y"><span style="font-weight:bold">Section C:</span> Regulatory submissions to the Registrar of Regulated Dealers</td>
-    <td class="tg-de2y">Regulated dealers are required to submit (i) semi-annual returns (“SAR”), (ii) risk assessment and (iii) internal policies, procedures and controls (“IPPC”).<br><br>This section provides information on the submission timeline and how to submit.</td>
-  </tr>
-  <tr>
+    <td class="tg-de2y">Regulated dealers are required to submit (i) semi-annual returns (“SAR”), (ii) risk assessment and (iii) internal policies, procedures and controls (“IPPC”).<br><br>This section provides information on the submission timeline and how to submit.</td></tr><tr>
     <td class="tg-ao2g">4</td>
     <td class="tg-de2y"><span style="font-weight:bold">Section D: </span>Regulatory compliance</td>
-    <td class="tg-de2y">In the course of business, regulated dealers are required to comply with various regulatory requirements to prevent money laundering and terrorism financing in the PSMD sector.<br><br>This section provides information on the regulatory requirements, submission timeline and how to submit.</td>
-  </tr>
-  <tr>
+    <td class="tg-de2y">In the course of business, regulated dealers are required to comply with various regulatory requirements to prevent money laundering and terrorism financing in the PSMD sector.<br><br>This section provides information on the regulatory requirements, submission timeline and how to submit.</td></tr><tr>
     <td class="tg-ao2g">5</td>
     <td class="tg-de2y"><span style="font-weight:bold">Section E:</span> Useful user guides</td>
     <td class="tg-de2y">These user guides provide you with a step-by-step guide on the relevant portals such as GoBusiness Licencing, myPal and STRO Online Notices And Reporting platform (SONAR) portals.</td></tr></tbody></table>
