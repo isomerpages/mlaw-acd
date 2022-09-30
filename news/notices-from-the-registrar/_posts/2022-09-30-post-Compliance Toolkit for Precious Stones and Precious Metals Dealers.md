@@ -62,5 +62,3 @@ This Compliance Toolkit aims to guide and facilitate PSMD’s compliance with th
     <td  class="tg-73oq">These user guides provide you with a step-by-step guide on the relevant portals such as GoBusiness Licencing, <span style="font-style:italic">my</span>Pal and STRO Online Notices And Reporting platform ("<span style="font-weight:bold">SONAR</span>") portals.</td>
   </tr>
 	<tr>
-</tbody>
-</table>
