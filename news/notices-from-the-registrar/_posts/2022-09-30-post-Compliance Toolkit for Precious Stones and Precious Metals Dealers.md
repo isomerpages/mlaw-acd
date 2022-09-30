@@ -21,7 +21,7 @@ Download and open the [Compliance Toolkit](/images/Compliance%20Toolkit%20for%20
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg tr td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg tr th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg tr {border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-4sek{background-color:#c0c0c0;border-color:#000000;color:#000000;text-align:left;vertical-align:top}
 .tg .tg-ao2g{border-color:#000000;text-align:center;vertical-align:top}
