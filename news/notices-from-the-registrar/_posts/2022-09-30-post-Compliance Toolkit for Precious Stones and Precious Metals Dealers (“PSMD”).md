@@ -22,15 +22,16 @@ This Compliance Toolkit aims to guide and facilitate PSMD’s compliance with th
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-266k{background-color:#9b9b9b;border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0pky"><span style="font-weight:bold">S/N</span></th>
-    <th class="tg-0pky"><span style="font-weight:bold">Information</span></th>
-    <th class="tg-0pky"><span style="font-weight:bold">What To Expect</span></th>
+    <th class="tg-266k"><span style="font-weight:bold">S/N</span></th>
+    <th class="tg-266k"><span style="font-weight:bold">Information</span></th>
+    <th class="tg-266k"><span style="font-weight:bold">What To Expect</span></th>
   </tr>
 </thead>
 <tbody>
