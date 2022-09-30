@@ -22,15 +22,16 @@ Download and open the [Compliance Toolkit](/images/Compliance%20Toolkit%20for%20
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-de2y{border-color:#333333;text-align:left;vertical-align:top}
+.tg .tg-phok{background-color:#9b9b9b;border-color:#333333;text-align:left;vertical-align:top}
 .tg .tg-ao2g{border-color:#333333;text-align:center;vertical-align:top}
+.tg .tg-de2y{border-color:#333333;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-de2y"><span style="font-weight:bold">S/N</span></th>
-    <th class="tg-de2y"><span style="font-weight:bold">Information</span></th>
-    <th class="tg-de2y"><span style="font-weight:bold">What To Expect</span></th>
+    <th class="tg-phok"><span style="font-weight:bold">S/N</span></th>
+    <th class="tg-phok"><span style="font-weight:bold">Information</span></th>
+    <th class="tg-phok"><span style="font-weight:bold">What To Expect</span></th>
   </tr>
 </thead>
 <tbody>
