@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 Dear Regulated Dealer,
 
 **COMPLIANCE TOOLKIT FOR PRECIOUS STONES AND PRECIOUS METALS DEALERS (“PSMD”)**
@@ -53,6 +52,3 @@ This Compliance Toolkit aims to guide and facilitate PSMD’s compliance with th
     <td class="tg-ao2g">5</td>
     <td class="tg-de2y"><span style="font-weight:bold">Section E:</span> Useful user guides</td>
     <td class="tg-de2y">These user guides provide you with a step-by-step guide on the relevant portals such as GoBusiness Licencing, myPal and STRO Online Notices And Reporting platform (SONAR) portals.</td></tr></tbody></table>
-
-Anti-Money Laundering/Countering the Financing of Terrorism Division ("ACD")
-Ministry of Law
