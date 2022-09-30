@@ -20,7 +20,7 @@ This Compliance Toolkit aims to guide and facilitate PSMD’s compliance with th
 .tg {border-collapse:collapse;border-spacing:0;}
 .tg tr td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg tr{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-vs2s{background-color:#9b9b9b;border-color:#000000;text-align:left;vertical-align:top}
 .tg .tg-wp8o{border-color:#000000;text-align:center;vertical-align:top}
