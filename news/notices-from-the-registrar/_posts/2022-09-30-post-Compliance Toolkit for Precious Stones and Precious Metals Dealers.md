@@ -10,11 +10,11 @@ Dear Regulated Dealer,
 
 **COMPLIANCE TOOLKIT FOR PRECIOUS STONES AND PRECIOUS METALS DEALERS (“PSMD”)**
 
-This Compliance Toolkit aims to guide and facilitate PSMD’s compliance with the various requirements under the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019 (“**PSPM Act**”) and the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations 2020 (“**PMLTF Regs**”).
+This Compliance Toolkit aims to guide and facilitate PSMD’s compliance with the various requirements under the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019 (“**PSPM Act**”) and the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations 2020 (“**PMLTF Regulations**”).
 
-2            The Compliance Toolkit serves as a quick guide relating to applications, notifications, regulatory submissions and compliance.
+The Compliance Toolkit serves as a quick guide relating to applications, notifications, regulatory submissions and compliance.
 
-3            Download and open the [Compliance Toolkit](/images/Compliance%20Toolkit%20for%20PSMD_20220908.pdf){:target="blank"} with a PDF reader on desktop to open the thumbnails.
+Download and open the [Compliance Toolkit](/images/Compliance%20Toolkit%20for%20PSMD_20220908.pdf){:target="blank"} with a PDF reader on desktop to open the thumbnails.
 
 <style type="text/css">
 .tg {border-collapse:collapse;border-spacing:0;}
