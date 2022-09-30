@@ -2,10 +2,9 @@
 layout: homepage
 title: Ministry of Law - ACD
 permalink: /
-notification: <b>Compliance Toolkit for Precious Stones and Precious Metals
-  Dealers is available now. <a
-  href="/news/notices-from-the-registrar/compliance-toolkit-for-psmd/"> Click
-  here to find out more!</a></b>
+notification: <b> <a
+  href="/news/notices-from-the-registrar/compliance-toolkit-for-psmd/"> Download
+  and use the Compliance Toolkit now!</a></b>
 sections:
   - hero:
       title: Regulatory Regime for Precious Stones and Precious Metals Dealers
