@@ -48,20 +48,13 @@ This Compliance Toolkit aims to guide and facilitate PSMD’s compliance with th
   <tr>
     <td class="tg-c3ow">3</td>
     <td class="tg-0pky"><span style="font-weight:bold">Section C:</span> Regulatory submissions to the Registrar of Regulated Dealers</td>
-    <td class="tg-0pky">Regulated dealers are required to submit (i) semi-annual returns (“SAR”), (ii) risk assessment and (iii) internal policies, procedures and controls (“IPPC”).<br><br>This section provides information on the submission timeline and how to submit.</td>
-  </tr>
-  <tr>
+    <td class="tg-0pky">Regulated dealers are required to submit (i) semi-annual returns (“SAR”), (ii) risk assessment and (iii) internal policies, procedures and controls (“IPPC”).<br><br>This section provides information on the submission timeline and how to submit.</td></tr><tr>
     <td class="tg-c3ow">4</td>
     <td class="tg-0pky"><span style="font-weight:bold">Section D: </span>Regulatory compliance</td>
-    <td class="tg-0pky">In the course of business, regulated dealers are required to comply with various regulatory requirements to prevent money laundering and terrorism financing in the PSMD sector.<br><br>This section provides information on the regulatory requirements, submission timeline and how to submit.</td>
-  </tr>
-  <tr>
+    <td class="tg-0pky">In the course of business, regulated dealers are required to comply with various regulatory requirements to prevent money laundering and terrorism financing in the PSMD sector.<br><br>This section provides information on the regulatory requirements, submission timeline and how to submit.</td></tr><tr>
     <td class="tg-c3ow">5</td>
     <td class="tg-0pky"><span style="font-weight:bold">Section E:</span> Useful user guides</td>
-    <td class="tg-0pky">These user guides provide you with a step-by-step guide on the relevant portals such as GoBusiness Licencing, myPal and STRO Online Notices And Reporting platform (SONAR) portals.</td>
-  </tr>
-</tbody>
-</table>
+    <td class="tg-0pky">These user guides provide you with a step-by-step guide on the relevant portals such as GoBusiness Licencing, myPal and STRO Online Notices And Reporting platform (SONAR) portals.</td></tr></tbody></table>
 
 Anti-Money Laundering/Countering the Financing of Terrorism Division ("ACD")
 Ministry of Law
