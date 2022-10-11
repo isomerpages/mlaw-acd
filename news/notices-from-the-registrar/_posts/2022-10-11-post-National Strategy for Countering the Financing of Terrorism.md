@@ -26,7 +26,7 @@ Singapore’s National CFT strategy comprises five key points, which are summari
 
 Click [here](https://acd.mlaw.gov.sg/files/National%20Strategy%20for%20Countering%20the%20Financing%20of%20Terrorism.pdf) to read the full report.
 
-What should I do as a regulated dealer?
+**What should I do as a regulated dealer?**
 
 The TF NFA revealed that regulated dealers are also vulnerable to TF in Singapore, particulary in light of the relative new regulatory regime for the precious stones and precious metals dealer sector. 
  
