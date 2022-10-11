@@ -28,7 +28,7 @@ Click [here](/files/National%20Strategy%20for%20Countering%20the%20Financing%20o
 
 **What should I do <u>as a regulated dealer</u>?**
 
-The TF NFA revealed that regulated dealers are also vulnerable to TF in Singapore, particulary in light of the relative new regulatory regime for the precious stones and precious metals dealer sector. 
+The TF NFA revealed that regulated dealers are also vulnerable to TF in Singapore, particularly in light of the relative new regulatory regime for the precious stones and precious metals dealer sector. 
  
 Regulated dealers are the first line of defence to disrupt and prevent funds from reaching the hands of terrorists and terrorists entities. To help regulated dealers to be more effective in guarding against TF, the Ministry of Law has provided the following resources: 
 1.	A non-exhaustive list of red flag indicators to identify some of the circumstances that could be suspicious and linked to TF in [Annex D of Guidelines for Regulated Dealers](https://acd.mlaw.gov.sg/guidance-materials/#Guidelines%20for%20Regulated%20Dealers); and 
