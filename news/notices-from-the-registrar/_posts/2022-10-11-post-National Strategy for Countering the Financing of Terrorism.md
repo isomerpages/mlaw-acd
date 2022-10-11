@@ -8,7 +8,7 @@ image: ""
 ---
 Dear Regulated Dealer,
 
-**National Strategy for Countering the Financing of Terrorism **
+**National Strategy for Countering the Financing of Terrorism**
 
 Singapore formulated a National Strategy for Countering the Financing of Terrorism (“**CFT**”) based on the findings from the [Terrorism Financing National Risk Assessment (“**TF NRA**”) 2020](https://acd.mlaw.gov.sg/news/notices-from-the-registrar/terrorism-financing-national-risk-assessment-2020).
 
@@ -24,7 +24,7 @@ Singapore’s National CFT strategy comprises five key points, which are summari
 4. ***Decisive Law Enforcement Actions***. We adopt a zero-tolerance stance against any TF activity and will not hesitate to take swift and effective actions.
 5. ***International Partnerships and Cooperation***. In line with our zero-tolerance stance against TF, international cooperation is a key component of Singapore’s CFT strategy.
 
-Click [here](https://acd.mlaw.gov.sg/files/National%20Strategy%20for%20Countering%20the%20Financing%20of%20Terrorism.pdf) to read the full report.
+Click [here](https://acd.mlaw.gov.sg/files/National-Strategy-for-Countering-the-Financing-of-Terrorism.pdf) to read the full report.
 
 **What should I do <u>as a regulated dealer</u>?**
 
