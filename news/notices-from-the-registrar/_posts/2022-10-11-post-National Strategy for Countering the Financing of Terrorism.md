@@ -8,7 +8,7 @@ image: ""
 ---
 Dear Regulated Dealer,
 
-**National Strategy for Countering the Financing of Terrorism**
+#### **National Strategy for Countering the Financing of Terrorism**
 
 Singapore formulated a National Strategy for Countering the Financing of Terrorism (“**CFT**”) based on the findings from the [Terrorism Financing National Risk Assessment (“**TF NRA**”) 2020](https://acd.mlaw.gov.sg/news/notices-from-the-registrar/terrorism-financing-national-risk-assessment-2020).
 
