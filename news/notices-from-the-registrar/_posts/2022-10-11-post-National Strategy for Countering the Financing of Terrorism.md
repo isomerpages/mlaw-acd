@@ -32,4 +32,4 @@ The TF NFA revealed that regulated dealers are also vulnerable to TF in Singapor
  
 Regulated dealers are the first line of defence to disrupt and prevent funds from reaching the hands of terrorists and terrorists entities. To help regulated dealers to be more effective in guarding against TF, the Ministry of Law has provided the following resources: 
 1.	A non-exhaustive list of red flag indicators to identify some of the circumstances that could be suspicious and linked to TF in [Annex D of Guidelines for Regulated Dealers](https://acd.mlaw.gov.sg/guidance-materials/#Guidelines%20for%20Regulated%20Dealers); and 
-2.	A basic screening function which registered dealers can use to conduct screening against the lists of designated persons and terrorists and terrorist entities. You may access this screening function via myPal.
+2.	A basic screening function which registered dealers can use to conduct screening against the lists of designated persons and terrorists and terrorist entities. You may access this screening function via *my*Pal.
