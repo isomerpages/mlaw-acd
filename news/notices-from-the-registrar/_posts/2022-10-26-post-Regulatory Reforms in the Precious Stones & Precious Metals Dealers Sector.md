@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-#### **REGULATORY REFORMS IN THE PRECIOUS STONES & PRECIOUS METALS DEALERS SECTOR** 
+### **REGULATORY REFORMS IN THE PRECIOUS STONES & PRECIOUS METALS DEALERS SECTOR** 
 ###### **BY PARAMJIT SINGH, Registrar of Regulated Dealers, Director, Anti-Money Laundering/Countering the Financing of Terrorism Division (ACD), Ministry of Law**
 
 Money laundering, terrorism financing and proliferation financing (**ML/TF/PF**) can harm society and business. It can lead to security threats and erosion of a country’s competitive advantage and reputation. To anticipate these threats and combat these illicit activities, the Ministry of Law’s Anti-Money Laundering/Countering the Financing of Terrorism Division (**ACD**) works with, regulates, and guides the precious stones and precious metals dealers (**PSMD**) sector in anti-money laundering, countering the financing of terrorism and countering proliferation financing (**AML/CFT/CPF**). 
