@@ -7,13 +7,13 @@ description: ""
 image: ""
 ---
 #### **REGULATORY REFORMS IN THE PRECIOUS STONES & PRECIOUS METALS DEALERS SECTOR** 
-BY PARAMJIT SINGH, Registrar of Regulated Dealers, Director, Anti-Money Laundering/Countering the Financing of Terrorism Division (ACD), Ministry of Law
+###### **BY PARAMJIT SINGH, Registrar of Regulated Dealers, Director, Anti-Money Laundering/Countering the Financing of Terrorism Division (ACD), Ministry of Law**
 
 Money laundering, terrorism financing and proliferation financing (**ML/TF/PF**) can harm society and business. It can lead to security threats and erosion of a country’s competitive advantage and reputation. To anticipate these threats and combat these illicit activities, the Ministry of Law’s Anti-Money Laundering/Countering the Financing of Terrorism Division (**ACD**) works with, regulates, and guides the precious stones and precious metals dealers (**PSMD**) sector in anti-money laundering, countering the financing of terrorism and countering proliferation financing (**AML/CFT/CPF**). 
 
 ACD and PSMD have shared responsibilities in this mission. ACD works with stakeholders to lead, formulate, and implement AML/CFT/CPF policies, strategies, and reforms for the PSMD sector. We support Singapore’s compliance with international AML/CFT/CPF standards. PSMD play an important role by effectively implementing its AML/CFT/CPF policies, procedures and controls within the sector. This shared ownership of regulatory outcomes contributes more effectively to Singapore’s national security and international reputation. It also enhances trust in and competitiveness of the PSMD sector. It ultimately benefits the “Singapore brand” locally and globally.
 
-##### **A Delicate Balancing Act**
+##### **A Delicate Balancing Act** 
 We continuously adapt to keep our regulatory regime relevant to prevent criminal misuse, without stifling bona fide business practices. This requires a delicate balancing act through adopting a “big picture” view. One example of the “big picture” view is a regulatory regime which is efficient and predictable. 
 
 Efficiency is about minimising compliance costs for business and enforcement costs for our agency, without compromising regulatory objectives and outcomes. Predictability is about adopting a clear and consistent logic in our rule-making and implementation.
