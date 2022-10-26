@@ -22,16 +22,13 @@ Efficiency is about minimising compliance costs for business and enforcement cos
 With feedback from the PSMD sector, we introduced the first tranche of regulatory reforms for greater efficiency and predictability in our regime. Some examples of the reforms include:
 
 **• Semi-annual returns (SAR)**
-
-The SAR was introduced in 2021 to help PSMD better understand their ML/TF risk profiles and comply with regulatory requirements. Previously, most PSMD were unfamiliar with their ML/TF risk profiles and spent time extracting the required regulatory information. With SAR, PSMD can better self-assess their risk profiles for better compliance. It helps PSMD to provide accurate and timely regulatory data.
+<br>The SAR was introduced in 2021 to help PSMD better understand their ML/TF risk profiles and comply with regulatory requirements. Previously, most PSMD were unfamiliar with their ML/TF risk profiles and spent time extracting the required regulatory information. With SAR, PSMD can better self-assess their risk profiles for better compliance. It helps PSMD to provide accurate and timely regulatory data.</br>
 
 **• Dual-Tier Registration Scheme**
-
-A more cost-efficient and equitable dual-tier PSMD registration scheme was introduced in 2021 to better commensurate with the level of supervision. Pre-reform, PSMD paid S$440 in regulatory fees per annum/outlet. Post-reform, PSMD register as Class A (if their regulated business is exposed to lower value products) at a rate of S$250 in fees per annum/outlet or Class B (exposed to higher value products) at a rate of S$350.
+<br>A more cost-efficient and equitable dual-tier PSMD registration scheme was introduced in 2021 to better commensurate with the level of supervision. Pre-reform, PSMD paid S$440 in regulatory fees per annum/outlet. Post-reform, PSMD register as Class A (if their regulated business is exposed to lower value products) at a rate of S$250 in fees per annum/outlet or Class B (exposed to higher value products) at a rate of S$350.</br>
 
 **• My Precious Stones and Precious Metals Dealer’s Portal (*my*Pal)**
-
-*my*Pal, a one-stop secure portal was introduced to procure, store, communicate and process regulatory information more efficiently and securely. myPal is mobile-friendly and allows PSMD to submit or access relevant AML/CFT/CPF regulatory information. For example, dealers can access a screening module to download or conduct screening of customers against “monitoring lists” as part of customer due diligence. myPal also digitalises our regulatory work and facilitates data analysis.
+<br>*my*Pal, a one-stop secure portal was introduced to procure, store, communicate and process regulatory information more efficiently and securely. myPal is mobile-friendly and allows PSMD to submit or access relevant AML/CFT/CPF regulatory information. For example, dealers can access a screening module to download or conduct screening of customers against “monitoring lists” as part of customer due diligence. myPal also digitalises our regulatory work and facilitates data analysis.</br>
 
 ##### **Regulatory Reforms 2.0**
 
