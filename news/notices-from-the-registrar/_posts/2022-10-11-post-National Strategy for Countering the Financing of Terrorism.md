@@ -1,11 +1,12 @@
 ---
 title: National Strategy for Countering the Financing of Terrorism
-permalink: /news/notices-from-the-registrar/permalink/
+permalink: /news/notices-from-the-registrar/national-strategy-for-countering-the-financing-of-terrorism/
 date: 2022-10-11
 layout: post
 description: ""
 image: ""
 ---
+
 Dear Regulated Dealer,
 
 #### **National Strategy for Countering the Financing of Terrorism**
