@@ -4,9 +4,9 @@ title: Ministry of Law - ACD
 permalink: /
 notification: <b> <a
   href="/news/notices-from-the-registrar/october-2022-fatf-statement/"
-  target="_blank"> (Latest!) October 2022 FATF Public Statement -
-  Countries/Jurisdictions with Strategic Deficiencies and what you should know
-  when dealing with Myanmar.</a></b>
+  target="_blank"> (Latest!) October 2022 FATF Public Statement - Jurisdictions
+  with Strategic Deficiencies and what you should know when dealing with Myanmar
+  </a></b>
 sections:
   - hero:
       title: Regulatory Regime for Precious Stones and Precious Metals Dealers
