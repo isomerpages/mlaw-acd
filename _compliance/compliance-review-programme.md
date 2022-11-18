@@ -1,11 +1,8 @@
 ---
-title: 'Compliance Review Programme'
+title: Compliance Review Programme
 permalink: /compliance-review-programme/
-breadcrumb: 'Compliance Review Programme'
-
+breadcrumb: Compliance Review Programme
 ---
-
-
 #### Overview
 
 Regulated dealers are required to comply with the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019 ("**PSPM Act**") and Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations 2020 ("**PMLTF Regulations**"), and adhere to the Guidelines for Regulated Dealers in the Precious Stones and Precious Metals Dealers ("**PSMD**") sector on anti-money laundering/countering the financing of terrorism ("**AML/CFT**").
@@ -15,46 +12,55 @@ Under the Compliance Review Programme ("**CRP**"), the Ministry of Law has appoi
 The Reviewer will assess the registered dealers' level of compliance with the PSPM Act and PMLTF Regulations and provide guidance, where necessary. The reviews will be conducted through a combination of correspondence via emails, phone calls and meetings. Registered dealers will receive a report highlighting non-compliances, areas for improvement and required remedial and corrective actions (if any).
 
 **Information of Reviewers** <br>
-1.	Amber Yeo
-2.	Andrew Ong
-3.	Carene Siew
-4.	Chan, Jun Wei
-5.	Chang, Ceslie Zhing Fang
-6.	Cheung, Yuet Ting
-7.	Chng, Su Yun
-8.	Claire Foo Xin Hui
-9.	Dawn Lim
-10.	Fu, Freya Zijia
-11.	Goh, Ashley Sio Wui
-12.	Ho, Marcus Yong Hui
-13.	Ian Fang
-14.	Jolvin Goh
-15.	Kantha Rupan S/O Arivalagan
-16.	Khoo, Nathan
-17.	Koh Xuan Kai
-18.	Koh, Mei Ting
-19.	Kulandhyan, Hemadharrshini
-20.	Lee, Rayna Xin Ying
-21.	Lee, Wei Hao
-22.	Lim, Alair Li Xian
-23.	Lim, Edna Yi Jieh
-24.	Muthipalani, Myili
-25.	Neo, Wen Jun
-26.	Ng Gui Rui
-27.	Ng, Axel Jia Xue
-28.	Ng, Jane
-29.	Nicholas Koh
-30.	Quek, Stephanie En Yi
-31.	Shi, Wylson Yongsheng
-32.	Sow, Zhao Sean
-33.	Srivalsan, Krishna
-34.	Tan Chin Lin
-35.	Tan, Wan Xuan
-36.	Tee, Shamus Ren Jie
-37.	Tian, Karsandra Wan Xin
-38.	Vanessa Choi
-39.	Wong, Lai Yee
-40.	Yan, Steven Li
+      
+1. Agilan Gunasegaran 
+2. Amber Yeo
+3. Andrew Ong
+4. Arivalagan, Kantha Rupan
+5. Carene Siew
+6. Chan, Jun Wei
+7. Chang, Ceslie Zhing Fang
+8. Cheung, Yuet Ting
+9. Chiam, Dawn Yuan Yun
+10. Chng, Su Yun
+11. Chow Pei San
+12. Claire Foo Xin Hui
+13. Danaraj Anbalagan
+14. Dawn Lim
+15. Fong Hui Wen Wynne 
+16. Fu, Freya Zijia
+17. Goh, Ashley Sio Wui
+18. Ho, Marcus Yong Hui
+19. Ian Fang
+20. Khoo, Nathan
+21. Koh Xuan Kai
+22. Koh, Mei Ting
+23. Kulandhyan, Hemadharrshini
+24. Lee Zhi Xin
+25. Lee, Rayna Xin Ying
+26. Lee, Wei Hao
+27. Lek Jing Ting
+28. Lim Jun Bin
+29. Lim, Alair Li Xian
+30. Lim, Edna Yi Jieh
+31. Mohan, Srisuriya
+32. Muthipalani, Myili
+33. Neo, Wen Jun
+34. Ng Jun Hao 
+35. Ng Zhi Jun
+36. Ng, Axel Jia Xue
+37. Ng, Jane
+38. Nicholas Koh
+39. Rhoda Belle Ng
+40. Shi, Wylson Yongsheng
+41. Sim Sheng
+42. Sow, Zhao Sean
+43. Tan Chin Lin
+44. Tay Peng Yong Kelvin
+45. Tian, Karsandra Wan Xin
+46. Toh, Mark Michael Wing Yue
+47. Wong Yee Hern
+48. Yan, Steven Li
 
 #### Safeguarding Registered Dealers’ Information
 
