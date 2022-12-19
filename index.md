@@ -4,7 +4,7 @@ title: Ministry of Law - ACD
 permalink: /
 notification: <b> <a
   href="/other-regulatory-requirements/#Reporting%20Requirement/"
-  target="_blank"> (Latest!) December 2022 Semi-Annual Return Instruction Guide
+  target="_blank"> (Latest!) Updated Semi-Annual Return Instruction Guide
   </a></b>
 sections:
   - hero:
