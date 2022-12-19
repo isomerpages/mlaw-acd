@@ -4,7 +4,8 @@ title: Ministry of Law - ACD
 permalink: /
 notification: <b> <a
   href="/other-regulatory-requirements/#Reporting%20Requirement/"
-  target="_blank"> December 2022 Semi-Annual Returns Latest Updates! </a></b>
+  target="_blank"> (Latest!) December 2022 Semi-Annual Return Instruction Guide
+  </a></b>
 sections:
   - hero:
       title: Regulatory Regime for Precious Stones and Precious Metals Dealers
