@@ -43,7 +43,7 @@ The Compliance Toolkit aims to guide and facilitate regulated dealers' complianc
 
 Download and open the [Compliance Toolkit](/images/Compliance%20Toolkit%20for%20PSMD_20220908.pdf){:target="blank"} with a PDF reader on desktop to open the thumbnails. 
 
-#### <a id="Guidance Paper on Strengthening AML/CFT Controls in the Precious Stones and Precious Metals (PSPM) Sector"></a>5. Guidance Paper on Strengthening AML/CFT Controls in the Precious Stones and Precious Metals (PSPM) Sector
+#### <a id="Guidance Paper on Strengthening AML/CFT Controls in the Precious Stones and Precious Metals (PSPM) Sector"></a>6. Guidance Paper on Strengthening AML/CFT Controls in the Precious Stones and Precious Metals (PSPM) Sector
 
 MinLaw conducted a series of inspections and compliance reviews of regulated dealers targeted at assessing their level of compliance with the PSPM Act and PMLTF Regulations.
 
@@ -55,7 +55,7 @@ Regulated dealers should study the learning points and incorporate them in a man
 
 
 
-#### <a id="Inter-Ministry Committee on Terrorist Designation"></a>6. Inter-Ministry Committee on Terrorist Designation ("**IMC-TD**")
+#### <a id="Inter-Ministry Committee on Terrorist Designation"></a>7. Inter-Ministry Committee on Terrorist Designation ("**IMC-TD**")
 
 The IMC-TD acts as Singapore's authority relating to the designation of terrorists. This prohibits any person/ entity from dealing with or providing any financial assistance to designated subjects, as required under the TSOFA.
 
@@ -63,7 +63,7 @@ On MHA’s website on [IMC-TD](https://www.mha.gov.sg/what-we-do/managing-securi
 
 To find out more about your obligations as a regulated dealer on countering terrorism financing, please click [here](/images/Measures%20relating%20to%20prevention%20of%20terrorism%20financing.pdf){:target="_blank"}.
 
-#### <a id="Notice for Customers from the Ministry of Law"></a>7. Notice for Customers from the Ministry of Law ("**Notice for Customers**")
+#### <a id="Notice for Customers from the Ministry of Law"></a>8. Notice for Customers from the Ministry of Law ("**Notice for Customers**")
 
 The Notice for Customers explains that regulated dealers are required to collect identifying information from customers under the regulatory regime. Regulated dealers may wish to consider using the Notice for Customers to educate their customers on the AML/CFT requirements.
 
@@ -103,6 +103,6 @@ This Notice for Customers is available in 4 languages - English, Chinese, Malay 
 
 <a href="/images/NoticeForCustomersPoster(Eng)Mar2020.pdf" target="_blank"><img src="/images/NoticeForCustomersPoster(Eng)Mar2020.jpg"></a>
 
-#### <a id="GoBusiness Licensing Guide for Precious Stones and Precious Metals Dealers"></a>8. GoBusiness Licensing Guide for Precious Stones and Precious Metals Dealers ("**GoBusiness Licensing Guide**")
+#### <a id="GoBusiness Licensing Guide for Precious Stones and Precious Metals Dealers"></a>9. GoBusiness Licensing Guide for Precious Stones and Precious Metals Dealers ("**GoBusiness Licensing Guide**")
 
 The [GoBusiness Licensing Guide](/files/GoBusiness Licensing Guide for Regulated Dealers_ACD_20220603.pdf){:target="_blank"} gives regulated dealers a step-by-step walkthrough of the application, renewal and amendment processes in GoBusiness Licensing Portal.
