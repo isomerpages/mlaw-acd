@@ -3,7 +3,7 @@ layout: homepage
 title: Ministry of Law - ACD
 permalink: /
 notification: <b> <a
-  href="/news/notices-from-the-registrar/october-2022-fatf-statement/"
+  href="/other-regulatory-requirements/#Reporting%20Requirement/"
   target="_blank"> (Latest!) October 2022 FATF Public Statement - Jurisdictions
   with Strategic Deficiencies and what you should know when dealing with Myanmar
   </a></b>
