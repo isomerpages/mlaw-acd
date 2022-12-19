@@ -51,7 +51,7 @@ Regulated dealers should study the learning points and incorporate them in a man
 
 #### <a id="Semi-Annual Return Instruction Guide"></a> 6. Semi-Annual Return Instruction Guide
 
-The [instruction guide](/images/Semi-Annual Return Instruction Guide_20220622.pdf){:target="_blank"} and [guidance video](https://youtu.be/Jpcj4iYSOSM){:target="_blank"} provide regulated dealers with a step-by-step walkthrough (with screenshots) on how to navigate and submit the semi-annual return via [<i>my</i>Pal](https://go.gov.sg/mypal){:target="_blank"}. Please click [here](https://acd.mlaw.gov.sg/other-regulatory-requirements){:target="_blank"} for information on the reporting requirement.
+The [instruction guide](/files/Semi-Annual Return Instruction Guide_20221213.pdf){:target="_blank"} and [guidance video](https://youtu.be/Jpcj4iYSOSM){:target="_blank"} provide regulated dealers with a step-by-step walkthrough (with screenshots) on how to navigate and submit the semi-annual return via [<i>my</i>Pal](https://go.gov.sg/mypal){:target="_blank"}. Please click [here](https://acd.mlaw.gov.sg/other-regulatory-requirements){:target="_blank"} for information on the reporting requirement.
 
 #### <a id="Inter-Ministry Committee on Terrorist Designation"></a>7. Inter-Ministry Committee on Terrorist Designation ("**IMC-TD**")
 
