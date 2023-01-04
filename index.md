@@ -12,7 +12,7 @@ sections:
       subtitle: Anti-Money Laundering / Countering the Financing of Terrorism Division
         (ACD)
       background: /images/bullion1.jpg
-      button: GUIDANCE PAPER<br>FOR REGULATED DEALERS
+      button: SUBMIT SEMI-ANNUAL RETURN<br>VIA <I>MY</I>PAL
       url: https://acd.mlaw.gov.sg/guidance-papers/
       key_highlights:
         - title: Renewal
