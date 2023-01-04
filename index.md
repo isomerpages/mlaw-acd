@@ -13,7 +13,7 @@ sections:
         (ACD)
       background: /images/bullion1.jpg
       button: SUBMIT SEMI-ANNUAL RETURN<br>VIA <i>my</i>Pal</br>
-      url: https://acd.mlaw.gov.sg/guidance-papers/
+      url: https://go.gov.sg/mypal
       key_highlights:
         - title: Renewal
           description: Overview of renewal process
