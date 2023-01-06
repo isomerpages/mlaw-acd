@@ -3,13 +3,7 @@ title: List of Registered Dealers
 permalink: /list-of-registered-dealers/
 breadcrumb: List of Registered Dealers
 ---
-Click [here](/files/List%20of%20Registered%20Dealers.pdf){:target="_blank"} to view the complete list of registered dealers<sup>1</sup> in Singapore. 
-
-**List of registered dealers with registration suspended**
-
-<table style="border-collapse:collapse;border-spacing:0;table-layout: fixed; width: 662px" class="tg"><colgroup><col style="width: 228px"><col style="width: 176px"><col style="width: 265px"></colgroup><thead><tr><th style="background-color:#c0c0c0;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Name</th><th style="background-color:#c0c0c0;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Registration Number</th><th style="background-color:#c0c0c0;border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;font-weight:bold;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">Period of Suspension</th></tr></thead><tbody><tr><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">TRADENATION PTE. LTD.</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;overflow:hidden;padding:10px 5px;text-align:center;vertical-align:top;word-break:normal">PS20220002525</td><td style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:16px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">6 July 2022 to 5 January 2023</td></tr></tbody></table>
-
-<i>Section 11(5) of the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019 ("**PSPM Act**") provides that suspension of registration does not affect the enforcement by any person of any right or claim against the registered dealer or the enforcement by the registered dealer of any right or claim against any person.</i>
+Click [here](/files/List%20of%20Registered%20Dealers.pdf){:target="_blank"} to view the complete list of registered dealers<sup>1</sup> in Singapore.
 
 Report possible unregistered dealers to the Anti-Money Laundering/Countering the Financing of Terrorism Division ("**ACD**") [here](https://www.go.gov.sg/contactminlaw){:target="_blank"}.
 

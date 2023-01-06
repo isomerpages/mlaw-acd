@@ -4,25 +4,27 @@ links:
     false_collection: true
     url: /guidelines/
     sublinks:
-          - title: Guidelines for Regulated Dealers	     
-            url: /guidelines/	    
-          - title: PSPM Act - Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019	      
-            url: https://sso.agc.gov.sg/Act/PSPMPMLTFA2019	    
-            external: true	     
-          - title: PMLTF Regulations - Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations 2020	      
-            url: https://sso.agc.gov.sg/SL/PSPMPMLTFA2019-S306-2019?DocDate=20190408	
-            external: true	
-          - title: Subsidiary Legislation	
-            url: https://sso.agc.gov.sg/Act/PSPMPMLTFA2019?ViewType=Sl	
-            external: true	
-          - title: Parliamentary Speech	
-            url: https://sprs.parl.gov.sg/search/sprs3topic?reportid=bill-349	
-            external: true	
-          - title: Notices from the Registrar	
-            url: /news/notices-from-the-registrar/
-          - title: Guidance Papers
-            url: /guidance-papers/
-  - title: 'Regulated Dealers'
+      - title: Guidelines for Regulated Dealers
+        url: /guidelines/
+      - title: PSPM Act - Precious Stones and Precious Metals (Prevention of Money
+          Laundering and Terrorism Financing) Act 2019
+        url: https://sso.agc.gov.sg/Act/PSPMPMLTFA2019
+        external: true
+      - title: PMLTF Regulations - Precious Stones and Precious Metals (Prevention of
+          Money Laundering and Terrorism Financing) Regulations 2020
+        url: https://sso.agc.gov.sg/SL/PSPMPMLTFA2019-S306-2019?DocDate=20190408
+        external: true
+      - title: Subsidiary Legislation
+        url: https://sso.agc.gov.sg/Act/PSPMPMLTFA2019?ViewType=Sl
+        external: true
+      - title: Parliamentary Speech
+        url: https://sprs.parl.gov.sg/search/sprs3topic?reportid=bill-349
+        external: true
+      - title: Notices from the Registrar
+        url: /news/notices-from-the-registrar/
+      - title: Guidance Papers
+        url: /guidance-papers/
+  - title: Regulated Dealers
     collection: regulated-dealers
   - title: Compliance
     collection: compliance
