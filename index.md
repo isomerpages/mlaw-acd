@@ -3,17 +3,16 @@ layout: homepage
 title: Ministry of Law - ACD
 permalink: /
 notification: <b> <a
-  href="/other-regulatory-requirements/#Reporting%20Requirement/"
-  target="_blank"> (Latest!) Updated Semi-Annual Return Instruction Guide
-  </a></b>
+  href="/news/notices-from-the-registrar/compliance-toolkit-for-psmd/"> Download
+  and use the Compliance Toolkit now!</a></b>
 sections:
   - hero:
       title: Regulatory Regime for Precious Stones and Precious Metals Dealers
       subtitle: Anti-Money Laundering / Countering the Financing of Terrorism Division
         (ACD)
       background: /images/bullion1.jpg
-      button: SUBMIT SEMI-ANNUAL RETURN<br>VIA myPal</br>
-      url: https://go.gov.sg/mypal
+      button: Compliance Toolkit for PSMD
+      url: /news/notices-from-the-registrar/compliance-toolkit-for-psmd
       key_highlights:
         - title: Renewal
           description: Overview of renewal process

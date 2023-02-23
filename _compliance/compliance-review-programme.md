@@ -46,30 +46,31 @@ The Reviewer will assess the registered dealers' level of compliance with the PS
 31. Lim Jun Bin
 32. Lim Kah Sim
 33. Lim Siew Kim
-34. Mohan Srisuriya
-35. Muthipalani Myili
-36. Neo Wen Jun
-37. Ng Axel Jia Xue
-38. Ng Jane
-39. Ng Jun Hao
-40. Ng Rhoda Belle
-41. Ng Zhi Jun
-42. Nur Liyana Binti Khairul Shah
-43. Ong Andrew 
-44. Shi Wylson Yongsheng
-45. Siew Carene
-46. Sim Shen
-47. Sow Zhao Sean
-48. Tan Chin Lin
-49. Tan Wei Qi
-50. Tay Peng Yong Kelvin
-51. Tian Karsandra Wan Xin 
-52. Toh Mark Michael Wing Yue
-53. Toh Tricia
-54. Wong Yee Hern
-55. Yan Steven Li
-56. Yeo Amber
-57. Yip Seow Wei
+34. Lim, Brandon Wee Yao
+35. Mohan Srisuriya
+36. Muthipalani Myili
+37. Neo Wen Jun
+38. Ng Axel Jia Xue
+39. Ng Jane
+40. Ng Jun Hao
+41. Ng Rhoda Belle
+42. Ng Zhi Jun
+43. Nur Liyana Binti Khairul Shah
+44. Ong Andrew 
+45. Shi Wylson Yongsheng
+46. Siew Carene
+47. Sim Shen
+48. Sow Zhao Sean
+49. Tan Chin Lin
+50. Tan Wei Qi
+51. Tay Peng Yong Kelvin
+52. Tian Karsandra Wan Xin 
+53. Toh Mark Michael Wing Yue
+54. Toh Tricia
+55. Wong Yee Hern
+56. Yan Steven Li
+57. Yeo Amber
+58. Yip Seow Wei
 
 #### Safeguarding Registered Dealers’ Information
 
