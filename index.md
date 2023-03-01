@@ -3,8 +3,8 @@ layout: homepage
 title: Ministry of Law - ACD
 permalink: /
 notification: <b> <a
-  href="/notices-from-the-registrar/february-2023-fatf-statement/"> February
-  2023 FATF Public Statement - Countries/Jurisdictions with Strategic
+  href="/news/notices-from-the-registrar/february-2023-fatf-statement/">
+  February 2023 FATF Public Statement - Countries/Jurisdictions with Strategic
   Deficiencies (latest!) </a></b>
 sections:
   - hero:
