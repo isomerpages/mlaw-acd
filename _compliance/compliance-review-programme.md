@@ -7,70 +7,9 @@ breadcrumb: Compliance Review Programme
 
 Regulated dealers are required to comply with the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019 ("**PSPM Act**") and Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations 2020 ("**PMLTF Regulations**"), and adhere to the Guidelines for Regulated Dealers in the Precious Stones and Precious Metals Dealers ("**PSMD**") sector on anti-money laundering/countering the financing of terrorism ("**AML/CFT**").
 
-Under the Compliance Review Programme ("**CRP**"), the Ministry of Law has appointed a professional services firm, Deloitte & Touche LLP ("**Reviewer**"), to perform compliance reviews on registered dealers.
+Under the Compliance Review Programme ("**CRP**"), the Ministry of Law has appointed a professional services firm, Deloitte &amp; Touche LLP ("**Reviewer**"), to perform compliance reviews on registered dealers.
 
 The Reviewer will assess the registered dealers' level of compliance with the PSPM Act and PMLTF Regulations and provide guidance, where necessary. The reviews will be conducted through a combination of correspondence via emails, phone calls and meetings. Registered dealers will receive a report highlighting non-compliances, areas for improvement and required remedial and corrective actions (if any).
-
-**Information of Reviewers** <br>
-      
-1. Agilan Gunasegaran
-2. Anton Ranil Amarasiri
-3. Arivalagan Kantha Rupan
-4. Chan Jun Wei 
-5. Chang Ceslie Zhing Fang 
-6. Cheung Yuet Ting 
-7. Chiam Dawn Yuan Yun
-8. Chng Su Yun 
-9. Chow Pei San
-10. Claire Foo Xin Hui
-11. Danaraj Anbalagan
-12. Fang Ian
-13. Fong Hui Wen Wynne
-14. Fu Freya Zijia 
-15. Goh Ashley Sio Wui 
-16. Ho Marcus Yong Hui
-17. Hon Wen Xin 
-18. Khoo Nathan
-19. Koh Mei Ting
-20. Koh Nicholas
-21. Koh Xuan Kai
-22. Kulandhyan Hemadharrshini
-23. Lee Rayna Xin Ying 
-24. Lee Wei Hao
-25. Lee Zhi Xin
-26. Lee, Jaelyn Jia Lin
-27. Lek Jing Ting 
-28. Lim Alair Li Xian
-29. Lim Dawn
-30. Lim Edna Yi Jieh 
-31. Lim Jun Bin
-32. Lim Kah Sim
-33. Lim Siew Kim
-34. Lim, Brandon Wee Yao
-35. Mohan Srisuriya
-36. Muthipalani Myili
-37. Neo Wen Jun
-38. Ng Axel Jia Xue
-39. Ng Jane
-40. Ng Jun Hao
-41. Ng Rhoda Belle
-42. Ng Zhi Jun
-43. Nur Liyana Binti Khairul Shah
-44. Ong Andrew 
-45. Shi Wylson Yongsheng
-46. Siew Carene
-47. Sim Shen
-48. Sow Zhao Sean
-49. Tan Chin Lin
-50. Tan Wei Qi
-51. Tay Peng Yong Kelvin
-52. Tian Karsandra Wan Xin 
-53. Toh Mark Michael Wing Yue
-54. Toh Tricia
-55. Wong Yee Hern
-56. Yan Steven Li
-57. Yeo Amber
-58. Yip Seow Wei
 
 #### Safeguarding Registered Dealers’ Information
 
