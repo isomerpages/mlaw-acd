@@ -1,7 +1,7 @@
 ---
 title: 'June 2019 FATF Public Statement - Countries or jurisdictions with strategic deficiencies'
 date: 2019-10-04T00:00:00.000Z
-permalink: /news/notices-from-the-registrar/june-2019-fatf-public-statement
+permalink: /news/notices-from-the-registrar/june-2019-fatf-public-statement/
 
 ---
 

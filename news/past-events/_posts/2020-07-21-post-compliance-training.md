@@ -1,7 +1,7 @@
 ---
 title: Compliance Training
 date: 2021-12-07T00:00:00.000Z
-permalink: /news/past-events/Compliance-Training/
+permalink: /news/past-events/compliance-training/
 ---
 The Anti-Money Laundering/Countering the Financing of Terrorism Division ("**ACD**") of the Ministry of Law is organising a Compliance Training for the registered dealers in the Precious Stones and Precious Metals Dealers ("**PSMD**") sector. 
 

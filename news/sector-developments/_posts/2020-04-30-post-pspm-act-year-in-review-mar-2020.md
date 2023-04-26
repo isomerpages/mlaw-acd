@@ -1,7 +1,7 @@
 ---
 title: 'PSPM Act - Year in Review Mar 2020'
 date: 2020-04-30T00:00:00.000Z
-permalink: /news/sector-developments/PSPM-Act-Year-in-Review-Mar-2020/
+permalink: /news/sector-developments/pspm-act-year-in-review-mar-2020/
 
 ---
 

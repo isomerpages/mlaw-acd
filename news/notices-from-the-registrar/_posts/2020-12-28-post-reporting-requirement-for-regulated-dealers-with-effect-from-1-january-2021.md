@@ -1,7 +1,7 @@
 ---
 title: Reporting Requirement for Regulated Dealers with effect from 1 January 2021
 date: 2020-12-28T00:00:00.000Z
-permalink: /news/notices-from-the-registrar/reporting-requirement-for-regulated-dealers-with-effect-from-1-January-2021
+permalink: /news/notices-from-the-registrar/reporting-requirement-for-regulated-dealers-with-effect-from-1-january-2021/
 ---
 In the Notice from the Registrar to regulated dealers on 14 December 2020, the Registrar of Regulated Dealers notified all regulated dealers that they are required to submit semi-annual returns related to their business and transactions with effect from **1 January 2021**.
 

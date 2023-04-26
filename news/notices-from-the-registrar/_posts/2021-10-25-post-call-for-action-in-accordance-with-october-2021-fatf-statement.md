@@ -1,7 +1,7 @@
 ---
 title: 'Call for Action in Accordance with October 2021 FATF Statement'
 date: 2021-10-25T00:00:00.000Z
-permalink: /news/notices-from-the-registrar/october-2021-fatf-statement
+permalink: /news/notices-from-the-registrar/october-2021-fatf-statement/
 
 ---
 

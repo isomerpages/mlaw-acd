@@ -1,6 +1,6 @@
 ---
 title: 'Safeguarding PSMD Sector'
-permalink: /Safeguarding-PSMD-Sector/
+permalink: /safeguarding-psmd-sector/
 breadcrumb: Safeguarding-PSMD-Sector
 
 ---

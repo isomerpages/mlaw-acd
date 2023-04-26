@@ -1,7 +1,7 @@
 ---
 title: 'Induction Briefings'
 date: 2020-01-21T00:00:00.000Z
-permalink: /news/past-events/Induction-Briefings/
+permalink: /news/past-events/induction-briefings/
 
 ---
 
