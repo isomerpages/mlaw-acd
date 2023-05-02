@@ -1,6 +1,6 @@
 ---
 title: Regulation Coverage
-permalink: /Regulation-Coverage
+permalink: /regulation-coverage/
 breadcrumb: Public Statements relating to PSPM Registration and use of Ministry of Law Logo
 description: ""
 ---

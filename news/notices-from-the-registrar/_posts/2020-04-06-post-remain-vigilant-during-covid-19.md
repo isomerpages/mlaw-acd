@@ -1,7 +1,7 @@
 ---
 title: Remain Vigilant during COVID-19
 date: 2020-04-06T00:00:00.000Z
-permalink: /news/notices-from-the-registrar/remain-vigilant-during-covid-19
+permalink: /news/notices-from-the-registrar/remain-vigilant-during-covid-19/
 ---
 Dear Registered Dealer
 

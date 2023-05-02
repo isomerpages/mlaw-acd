@@ -1,6 +1,6 @@
 ---
 title: 'Offences/Breaches under the PSPM Act and PMLTF Regulations'
-permalink: /Offences-Breaches-under-the-PSPM-Act-and-PMLTF-Regulations/
+permalink: /offences-breaches-under-the-pspm-act-and-pmltf-regulations/
 breadcrumb: 'Offences/Breaches under the PSPM Act and PMLTF Regulations'
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: 'Parliamentary Speech'
 date: 2019-02-11T00:00:00.000Z
-permalink: /news/parliamentary-speech/Parliamentary-Speech
+permalink: /news/parliamentary-speech/parliamentary-speech/
 
 ---
 

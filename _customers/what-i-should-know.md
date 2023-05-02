@@ -13,4 +13,4 @@ Hence, registered dealers are not allowed to represent or suggest that their bus
 
 Investments are not covered under the regulations. 
 
-Click [here](/Regulation-Coverage/) to understand more.
+Click [here](/regulation-coverage/) to understand more.

@@ -1,7 +1,7 @@
 ---
 title: 'Amendments to Subsidiary Legislation under the PSPM Act and the Guidelines for Regulated Dealers (Version 2.0) with effect from 14 Dec 2020'
 date: 2020-12-14T00:00:00.000Z
-permalink: /news/notices-from-the-registrar/amendments-to-subsidiary-legislation-under-PSPM-Act-and-guidelines-for-regulated-dealers-14-dec-2020
+permalink: /news/notices-from-the-registrar/amendments-to-subsidiary-legislation-under-pspm-act-and-guidelines-for-regulated-dealers-14-dec-2020/
 
 ---
 

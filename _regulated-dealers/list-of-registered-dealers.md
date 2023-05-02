@@ -3,7 +3,7 @@ title: List of Registered Dealers
 permalink: /list-of-registered-dealers/
 breadcrumb: List of Registered Dealers
 ---
-Click [here](/files/List%20of%20Registered%20Dealers.pdf){:target="_blank"} to view the complete list of registered dealers<sup>1</sup> in Singapore.
+Click [here](/files/list%20of%20registered%20dealers.pdf){:target="_blank"} to view the complete list of registered dealers<sup>1</sup> in Singapore.
 
 Report possible unregistered dealers to the Anti-Money Laundering/Countering the Financing of Terrorism Division ("**ACD**") [here](https://www.go.gov.sg/contactminlaw){:target="_blank"}.
 
@@ -11,7 +11,7 @@ Report possible unregistered dealers to the Anti-Money Laundering/Countering the
 
 Registered dealers are regulated by the Registrar of Regulated Dealers ("**the Registrar**") **<u>for anti-money laundering and countering the financing of terrorism</u>** ("**AML/CFT**") purposes in their business of regulated dealing<sup>2</sup> or business as an intermediary for regulated dealing under the PSPM Act.  
 
-Registered dealers are to ensure that their websites, representations and publicity materials do not cause the public to misconstrue that the Registrar is regulating them beyond AML/CFT matters. Please visit [here](/Regulation-Coverage/) for information on the use of public statements relating to the registration as a regulated dealer and the Ministry of Law logo.  
+Registered dealers are to ensure that their websites, representations and publicity materials do not cause the public to misconstrue that the Registrar is regulating them beyond AML/CFT matters. Please visit [here](/regulation-coverage/) for information on the use of public statements relating to the registration as a regulated dealer and the Ministry of Law logo.  
  
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;border-width:1px;border-style:solid;border-color:black;margin:0px auto;}
@@ -20,7 +20,7 @@ Registered dealers are to ensure that their websites, representations and public
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 @media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;margin: auto 0px;}}</style>
 <div class="tg-wrap"><table class="tg">
-  <tr>
+  <tbody><tr>
     <td class="tg-0pky"><sup>1</sup> "Registered dealer" means a regulated dealer who is registered under section 7 of the PSPM Act. The list of registered dealers will not contain the following persons who are exempted from registration under the PSPM Act:<br> 
 • A pawnbroker as defined under Section 3 of the Pawnbrokers Act 2015.<br> 
 • Any person licensed, approved, registered or regulated by the Monetary Authority of Singapore under any written law.<br> 
@@ -39,4 +39,4 @@ Registered dealers are to ensure that their websites, representations and public
 • does not have a permanent establishment, a place of management, or a branch in Singapore at which they carry on the business of regulated dealing or business as an intermediary for regulated dealing; and<br> 
 • only carries on business in Singapore for not more than a total of 90 days in a year.<br></td>
   </tr>
-</table></div>
+</tbody></table></div>

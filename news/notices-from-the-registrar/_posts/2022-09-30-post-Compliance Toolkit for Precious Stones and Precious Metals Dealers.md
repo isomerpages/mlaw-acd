@@ -1,6 +1,6 @@
 ---
 title: Compliance Toolkit for Precious Stones and Precious Metals Dealers
-permalink: /news/notices-from-the-registrar/Compliance-Toolkit-for-PSMD/
+permalink: /news/notices-from-the-registrar/compliance-toolkit-for-psmd/
 date: 2022-09-30
 layout: post
 description: ""

@@ -1,7 +1,7 @@
 ---
 title: 'PSMD fined $9,000 for failing to submit cash transaction report'
 date: 2020-08-26T00:00:00.000Z
-permalink: /news/enforcement/PSMD-fined-$9000-for-failing-to-submit-cash-transaction-report/
+permalink: /news/enforcement/psmd-fined-$9000-for-failing-to-submit-cash-transaction-report/
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 'Press Releases'
 date: 2019-09-17T00:00:00.000Z
-permalink: /news/press-releases/Press-Releases
+permalink: /news/press-releases/press-releases/
 
 ---
 
