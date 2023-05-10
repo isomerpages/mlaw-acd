@@ -14,7 +14,7 @@ This Compliance Toolkit aims to guide and facilitate PSMD’s compliance with th
 
 The Compliance Toolkit serves as a quick guide relating to applications, notifications, regulatory submissions and compliance.
 
-Download and open the [Compliance Toolkit](/Files/Compliance%20Toolkit%20for%20PSMD_20230111.pdf){:target="blank"} with a PDF reader on desktop to open the thumbnails.
+Download and open the [Compliance Toolkit](/files/Compliance%20Toolkit%20for%20PSMD_20230111.pdf){:target="blank"} with a PDF reader on desktop to open the thumbnails.
 
 
   <style type="text/css">
