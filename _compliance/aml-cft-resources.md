@@ -51,11 +51,14 @@ width: 30%;
 | [COVID-19 and measures to combat illicit financing (FATF)](https://www.fatf-gafi.org/publications/fatfgeneral/documents/statement-covid-19.html){:target="_blank"} | Apr 2020 |
 | [COVID-19-related Money Laundering and Terrorist Financing Risks and Policy Responses (FATF)](https://www.fatf-gafi.org/media/fatf/documents/COVID-19-AML-CFT.pdf){:target="_blank"} | May 2020 |
 | [Trade-Based Money Laundering - Private Sector](http://www.fatf-gafi.org/media/fatf/documents/Handout-Trade-Based-Money-Laundering-Private-Sector.pdf){:target="_blank"} | Dec 2020 |
-| [Trade-Based Money Laundering - Trends and Developments](http://www.fatf-gafi.org/media/fatf/content/Trade-Based-Money-Laundering-Trends-and-Developments.pdf){:target="_blank"} | Dec 2020 |
-| [Terrorism Financing National Risk  Assessment 2020 ](/images/Terrorism%20Financing%20National%20Risk%20Assessment%202020.pdf){:target="_blank"} | Jan 2021 | [Guidance on Proliferation Financing Risk Assessment and Mitigation](https://www.fatf-gafi.org/media/fatf/documents/reports/Guidance-Proliferation-Financing-Risk-Assessment-Mitigation.pdf){:target="_blank"} | Jun 2021 |
+| [Trade-Based Money Laundering - Trends and Developments](http://www.fatf-gafi.org/media/fatf/content/Trade-Based-Money-L aundering-Trends-and-Developments.pdf){:target="_blank"} | Dec 2020 |
+| %20the%20Financing%20of%20Terrorism.pdf){:target="_blank"} | Oct 2022 |
+| [Terrorism Financing National Risk  Assessment 2020](/images/Terrorism%20Financing%20National%20Risk%20Assessment%202020.pdf){:target="_blank"} | Jan 2021 |
+| [Guidance on Proliferation Financing Risk Assessment and Mitigation](https://www.fatf-gafi.org/media/fatf/documents/reports/Guidance-Proliferation-Financing-Risk-Assessment-Mitigation.pdf){:target="_blank"} | Jun 2021 |
 | [Money Laundering from Environmental Crime](https://www.fatf-gafi.org/media/fatf/documents/reports/Money-Laundering-from-Environmental-Crime.pdf){:target="_blank"} | Jun 2022 |
 | [Singapore Terrorism Threat Assessment Report 2022](https://www.mha.gov.sg/docs/default-source/default-document-library/singapore-terrorism-threat-assessment-report-2022.pdf){:target="_blank"} | Aug 2022 |
 | [National Strategy for Countering the Financing of Terrorism (CFT)](/files/National%20Strategy%20for%20Countering%20the%20Financing%20of%20Terrorism.pdf){:target="_blank"} | Oct 2022 |
+| 
 
 
 <br>
