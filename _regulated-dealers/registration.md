@@ -202,7 +202,7 @@ You may submit your application via the [GoBusiness Licensing Portal](https://ww
 
 
 #### <a id="I Need Help with Registration"></a> I Need Help with Registration
-<a href="/images/Helplines_20191127.pdf" target="_blank"><img src="/images/Helplines_20191127.png"></a>
+<a href="/images/Helplines_20191127.pdf" target="_blank"><img src="/images/Helplines_20191127.PNG"></a>
 
 * If you face any technical issues when using GoBusiness Licensing Portal, you may wish to refer to the [GoBusiness Licensing Portal webpage](https://www.gobusiness.gov.sg/licences){:target="_blank"} or contact [GoBusiness Licensing Portal Helpdesk](https://www.gobusiness.gov.sg/licensing-faqs){:target="_blank"}.
 * If you are not sure how to complete the application form, you may wish to refer to the [GoBusiness Licensing Portal Guide for Regulated Dealers (Step-by-Step with Screenshots)](/files/GoBusiness Licensing Guide for Regulated Dealers_ACD_20220603.pdf){:target="_blank"} or [FAQs for Precious Stones and Precious Metals Dealers](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx){:target="_blank"}.
