@@ -57,7 +57,7 @@ sections:
       description: Understand the requirements of a regulated dealer.
       button: Learn More from videos
       url: /guidance-videos-and-posters/
-      image: /images/Watch%20Guidance%20Videos.png
+      image: /images/Watch Guidance Videos.PNG
       alt: Watch the guidance videos
   - infopic:
       title: Read the guidance paper
