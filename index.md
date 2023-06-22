@@ -45,25 +45,22 @@ sections:
       alt: Interactive Guide
   - infopic:
       title: Fulfil Entity-Based Requirements
-      subtitle: " "
       description: Start by developing your risk assessment and internal policies,
         procedures and controls. Refer to the resources provided in your welcome
         email.
       button: Learn More about Entity-Based Requirements
       url: /entity-based-requirements/
-      image: /images//RA%20%26%20IPPC%20icon.png
+      image: /images/RA & IPPC icon.png
       alt: Fulfil Entity-Based Requirements
   - infopic:
       title: Learn from guidance videos
-      subtitle: " "
       description: Understand the requirements of a regulated dealer.
       button: Learn More from videos
       url: /guidance-videos-and-posters/
-      image: /images/Watch%20Guidance%20Videos.png
+      image: /images/Watch Guidance Videos.PNG
       alt: Watch the guidance videos
   - infopic:
       title: Read the guidance paper
-      subtitle: " "
       description: Be aware of the supervisory expectations expected on regulated
         dealers in the precious stones and precious metals dealer sector.
       button: Learn More about guidance paper
