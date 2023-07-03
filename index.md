@@ -2,18 +2,16 @@
 layout: homepage
 title: Ministry of Law - ACD
 permalink: /
-notification: <b> <a
-  href="/news/notices-from-the-registrar/february-2023-fatf-statement/">
-  February 2023 FATF Public Statement - Countries/Jurisdictions with Strategic
-  Deficiencies (latest!) </a></b>
+notification: <b> <a href="https://go.gov.sg/mypal"> Semi-Annual Return
+  submission is now open. Please submit it through <i>my</i>Pal </a></b>
 sections:
   - hero:
       title: Regulatory Regime for Precious Stones and Precious Metals Dealers
       subtitle: Anti-Money Laundering / Countering the Financing of Terrorism Division
         (ACD)
       background: /images/bullion1.jpg
-      button: Compliance Toolkit for PSMD
-      url: /news/notices-from-the-registrar/compliance-toolkit-for-psmd
+      button: SUBMIT SEMI-ANNUAL RETURN <br>VIA MYPAL<br>
+      url: https://go.gov.sg/mypal
       key_highlights:
         - title: Renewal
           description: Overview of renewal process
