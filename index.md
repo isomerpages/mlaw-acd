@@ -13,7 +13,7 @@ sections:
         (ACD)
       background: /images/bullion1.jpg
       button: SUBMIT SEMI-ANNUAL RETURN <br>VIA MYPAL<br>
-      url: www.go.gov.sg/mypal
+      url: https://go.gov.sg/mypal
       key_highlights:
         - title: Renewal
           description: Overview of renewal process
