@@ -12,7 +12,7 @@ sections:
       subtitle: Anti-Money Laundering / Countering the Financing of Terrorism Division
         (ACD)
       background: /images/bullion1.jpg
-      button: Compliance Toolkit for PSMD
+      button: SUBMIT SEMI-ANNUAL RETURN <br>VIA MYPAL<br>
       url: /news/notices-from-the-registrar/compliance-toolkit-for-psmd
       key_highlights:
         - title: Renewal
