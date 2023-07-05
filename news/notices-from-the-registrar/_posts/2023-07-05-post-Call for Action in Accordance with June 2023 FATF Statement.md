@@ -41,13 +41,15 @@ On 23 June 2023, the FATF, of which Singapore is a member, issued a statement th
 The FATF has also called on its members and other jurisdictions to apply enhanced due diligence measures against Myanmar given its lack of progress to address its strategic deficiencies. The FATF urges Myanmar to work and address its AML/CFT deficiencies and Myanmar will remain on the call for action list until its full action plan is completed.<br><br>Full details can be found at:<br><a href="https://www.fatf-gafi.org/publications/High-risk-and-other-monitored-jurisdictions/Call-for-action-June-2023.html" target="_blank">https://www.fatf-gafi.org/publications/High-risk-and-other-monitored-jurisdictions/Call-for-action-June-2023.html</a><br><br>
 
 <span style="font-weight:bold;text-decoration:underline">June 2023 FATF Statement: Jurisdictions under Increased Monitoring</span><br>
-The FATF has also issued an updated statement in June 2023 on jurisdictions under increased monitoring. This statement provides information on a list of jurisdictions that have committed to action plans to address and strengthen their respective AML/CFT deficiencies. The latest list removed Cambodia and Morocco and included Nigeria and South Africa.<br><br>
+The FATF has also issued an updated statement in June 2023 on jurisdictions under increased monitoring. This statement provides information on a list of jurisdictions that have committed to action plans to address and strengthen their respective AML/CFT deficiencies. The latest list included Cameroon, Croatia and Vietnam.<br><br>
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
 <span style="font-weight:bold">Jurisdiction with strategic deficiencies</span><br>
 <span style="font-weight:normal">Albania</span><br>
 <span style="font-weight:normal">Barbados</span><br>
 <span style="font-weight:normal">Burkina Faso</span><br>
+	<span style="font-weight:normal">Cameroon <i>(new)</i></span><br>
 <span style="font-weight:normal">Cayman Islands</span><br>
+	<span style="font-weight:normal">Croatia <i>(new)</i></span><br>	
 <span style="font-weight:normal">Democratic Republic of Congo</span><br>
 <span style="font-weight:normal">Gibraltar</span><br>
 <span style="font-weight:normal">Haiti</span><br>
@@ -55,18 +57,19 @@ The FATF has also issued an updated statement in June 2023 on jurisdictions unde
 <span style="font-weight:normal">Jordan</span><br>
 <span style="font-weight:normal">Mali</span><br>
 <span style="font-weight:normal">Mozambique</span><br>
-<span style="font-weight:normal">Nigeria <i>(new)</i></span><br>
+<span style="font-weight:normal">Nigeria</span><br>
 <span style="font-weight:normal">Panama</span><br>
 <span style="font-weight:normal">Philippines</span><br>
 <span style="font-weight:normal">Senegal</span><br>
-<span style="font-weight:normal">South Africa <i>(new)</i></span><br>
+<span style="font-weight:normal">South Africa</span><br>
 <span style="font-weight:normal">South Sudan</span><br>
 <span style="font-weight:normal">Syria</span><br>
 	<span style="font-weight:normal">Tanzania</span><br>
-<span style="font-weight:normal">Turkey</span><br>
+<span style="font-weight:normal">Türkiye</span><br>
 <span style="font-weight:normal">Uganda</span><br>
 <span style="font-weight:normal">United Arab Emirates</span><br>
+	<span style="font-weight:normal">Vietnam <i>(new)</i></span><br>
 <span style="font-weight:normal">Yemen</span><br></th></tr></thead></table>
-<br>Full details can be found at:<br><a href="https://www.fatf-gafi.org/publications/high-risk-and-other-monitored-jurisdictions/documents/increased-monitoring-february-2023.html" target="_blank">https://www.fatf-gafi.org/publications/high-risk-and-other-monitored-jurisdictions/documents/increased-monitoring-february-2023.html</a><br></th>
+<br>Full details can be found at:<br><a href="https://www.fatf-gafi.org/publications/high-risk-and-other-monitored-jurisdictions/documents/increased-monitoring-february-2023.html" target="_blank">https://www.fatf-gafi.org/publications/high-risk-and-other-monitored-jurisdictions/documents/increased-monitoring-june-2023.html</a><br></th>
   </tr>
 </tbody></table>
