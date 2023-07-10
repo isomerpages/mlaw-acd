@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-**<u>Action by regulated dealers against high-risk jurisdictions**</u><br>
+**<u>Action by regulated dealers against high-risk jurisdictions</u>**<br>
 
 Dear Regulated Dealer,
 
