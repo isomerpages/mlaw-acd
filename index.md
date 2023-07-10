@@ -3,7 +3,7 @@ layout: homepage
 title: Ministry of Law - ACD
 permalink: /
 notification: <b> <a
-  href="https://acd.mlaw.gov.sg/news/notices-from-the-registrar/february-2023-fatf-statement/">
+  href="https://acd.mlaw.gov.sg/news/notices-from-the-registrar/june-2023-fatf-statement/">
   June 2023 FATF Public Statement - Countries/Jurisdictions with Strategic
   Deficiencies (latest!) </a></b>
 sections:
