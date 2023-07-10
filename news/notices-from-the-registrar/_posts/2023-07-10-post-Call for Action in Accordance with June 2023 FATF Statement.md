@@ -70,6 +70,6 @@ The FATF has also issued an updated statement in June 2023 on jurisdictions unde
 <span style="font-weight:normal">United Arab Emirates</span><br>
 	<span style="font-weight:normal">Vietnam <i>(new)</i></span><br>
 <span style="font-weight:normal">Yemen</span><br></th></tr></thead></table>
-<br>Full details can be found at:<br><a href="https://www.fatf-gafi.org/publications/high-risk-and-other-monitored-jurisdictions/documents/increased-monitoring-february-2023.html" target="_blank">https://www.fatf-gafi.org/publications/high-risk-and-other-monitored-jurisdictions/documents/increased-monitoring-june-2023.html</a><br></th>
+<br>Full details can be found at:<br><a href="https://www.fatf-gafi.org/publications/high-risk-and-other-monitored-jurisdictions/documents/increased-monitoring-june-2023.html" target="_blank">https://www.fatf-gafi.org/publications/high-risk-and-other-monitored-jurisdictions/documents/increased-monitoring-june-2023.html</a><br></th>
   </tr>
 </tbody></table>
