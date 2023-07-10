@@ -2,8 +2,10 @@
 layout: homepage
 title: Ministry of Law - ACD
 permalink: /
-notification: <b> <a href="https://go.gov.sg/mypal"> Semi-Annual Return
-  submission is now open. Please submit it through <i>my</i>Pal </a></b>
+notification: <b> <a
+  href="https://acd.mlaw.gov.sg/news/notices-from-the-registrar/february-2023-fatf-statement/">
+  June 2023 FATF Public Statement - Countries/Jurisdictions with Strategic
+  Deficiencies (latest!) </a></b>
 sections:
   - hero:
       title: Regulatory Regime for Precious Stones and Precious Metals Dealers
