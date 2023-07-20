@@ -1,10 +1,8 @@
 ---
-title: 'Offences/Breaches under the PSPM Act and PMLTF Regulations'
+title: Offences/Breaches under the PSPM Act and PMLTF Regulations
 permalink: /offences-breaches-under-the-pspm-act-and-pmltf-regulations/
-breadcrumb: 'Offences/Breaches under the PSPM Act and PMLTF Regulations'
-
+breadcrumb: Offences/Breaches under the PSPM Act and PMLTF Regulations
 ---
-
 **Table 1** - [Offences/Breaches under Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019](https://sso.agc.gov.sg/Act/PSPMPMLTFA2019){:target="_blank"}
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -142,4 +140,4 @@ breadcrumb: 'Offences/Breaches under the PSPM Act and PMLTF Regulations'
 </table>
 
 
-Regulated dealers are also required to comply with the [Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (“**CDSA**”)](https://sso.agc.gov.sg/Act/CDTOSCCBA1992){:target="_blank"}, in particular Section 48 Tipping-off (Fine not exceeding $30,000 or to imprisonment not exceeding 3 years or to both).
+Regulated dealers are also required to comply with the [Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (“**CDSA**”)](https://sso.agc.gov.sg/Act/CDTOSCCBA1992){:target="_blank"}, in particular Section 57 Tipping-off (Fine not exceeding $250,000 or to imprisonment not exceeding 3 years or to both).
