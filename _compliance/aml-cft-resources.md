@@ -57,7 +57,7 @@ width: 30%;
 | [Money Laundering from Environmental Crime](https://www.fatf-gafi.org/media/fatf/documents/reports/Money-Laundering-from-Environmental-Crime.pdf){:target="_blank"} | Jul 2021 |
 | [Singapore Terrorism Threat Assessment Report 2022](https://www.mha.gov.sg/docs/default-source/default-document-library/singapore-terrorism-threat-assessment-report-2022.pdf){:target="_blank"} | Aug 2022 |
 | [National Strategy for Countering the Financing of Terrorism (CFT)](/files/National%20Strategy%20for%20Countering%20the%20Financing%20of%20Terrorism.pdf){:target="_blank"} | Oct 2022 |
-| [2023 Industry Engagement Session](/files/2023%20Industry%20Engagement%20Session_20230510.pdf){:target="_blank"} | Jul 2023 |
+| [2023 Industry Engagement Session](/files/2023%20industry%20engagement%20session_20230510.pdf){:target="_blank"} | Jul 2023 |
 |
 
 
