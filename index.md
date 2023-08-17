@@ -12,8 +12,8 @@ sections:
       subtitle: Anti-Money Laundering / Countering the Financing of Terrorism Division
         (ACD)
       background: /images/bullion1.jpg
-      button: SUBMIT SEMI-ANNUAL RETURN <br>VIA MYPAL<br>
-      url: https://go.gov.sg/mypal
+      button: DOWNLOAD YOUR <br>COMPLIANCE TOOKLIT<br>
+      url: https://acd.mlaw.gov.sg/files/Compliance%20Toolkit%20for%20PSMD_20230111.pdf
       key_highlights:
         - title: Renewal
           description: Overview of renewal process

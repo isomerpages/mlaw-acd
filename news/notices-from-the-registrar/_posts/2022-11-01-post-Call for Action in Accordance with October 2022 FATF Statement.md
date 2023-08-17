@@ -33,10 +33,10 @@ A summary of the issued FATF statement can be found below.
 .tg .tg-exjp{border-color:#330001;text-align:left;vertical-align:middle}
 </style>
 <table class="tg">
-    <tr>
+    <tbody><tr>
     <th class="tg-exjp">October 2022 FATF Statement: <span style="font-weight:bold;font-size:20px;text-decoration:underline">High-Risk Jurisdictions subject to a Call for Action</span><br>
 On 21 October 2022, the FATF, of which Singapore is a member, issued a statement that highlights the strategic deficiencies in the anti-money laundering/combating the financing of terrorism (AML/CFT) regimes of the DPRK, Iran and Myanmar. <br><br>While there was a pause in the review process for the DPRK and Iran and the statement may not necessarily reflect the most recent status for both jurisdictions, the FATF’s call for action on them remains in effect. The FATF calls on its members and urges all jurisdictions to apply effective counter-measures and targeted financial sanctions to protect the international financial system from the ongoing and substantial money laundering and terrorism financing risks.<br><br>
-The FATF has also called on its members and other jurisdictions to apply enhanced due diligence measures against Myanmar given its lack of progress to address its strategic deficiencies. The FATF urges Myanmar to work and address its AML/CFT deficiencies and Myanmar will remain on the call for action list until its full action plan is completed.<br><br>Full details can be found at:<br><a href="https://www.fatf-gafi.org/publications/high-risk-and-other-monitored-jurisdictions/documents/call-for-action-October-2022.html" target="_blank">https://www.fatf-gafi.org/publications/high-risk-and-other-monitored-jurisdictions/documents/call-for-action-October-2022.html</a><br><br>
+The FATF has also called on its members and other jurisdictions to apply enhanced due diligence measures against Myanmar given its lack of progress to address its strategic deficiencies. The FATF urges Myanmar to work and address its AML/CFT deficiencies and Myanmar will remain on the call for action list until its full action plan is completed.<br><br>Full details can be found at:<br><a href="https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/Call-for-action-october-2022.html" target="_blank">https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/Call-for-action-october-2022.html</a><br><br>
 
 October 2022 FATF Statement: <span style="font-weight:bold;font-size:20px;text-decoration:underline">Jurisdictions under Increased Monitoring</span><br>
 The FATF has also issued an updated statement in October 2022 on jurisdictions under increased monitoring. This statement provides information on a list of jurisdictions that have committed to action plans to address and strengthen their respective AML/CFT deficiencies. The latest list removed Pakistan and Nicaragua and included the Democratic Republic of Congo (DRC), Mozambique and Tanzania<br><br>
@@ -67,4 +67,4 @@ The FATF has also issued an updated statement in October 2022 on jurisdictions u
 <span style="font-weight:normal">Yemen</span><br></th></tr></thead></table>
 <br>Full details can be found at:<br><a href="https://www.fatf-gafi.org/publications/high-risk-and-other-monitored-jurisdictions/documents/increased-monitoring-october-2022.html" target="_blank">https://www.fatf-gafi.org/publications/high-risk-and-other-monitored-jurisdictions/documents/increased-monitoring-october-2022.html</a><br></th>
   </tr>
-</table>
+</tbody></table>
