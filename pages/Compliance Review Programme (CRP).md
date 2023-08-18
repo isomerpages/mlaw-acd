@@ -3,7 +3,7 @@ title: Compliance Review Programme (CRP)
 permalink: /crp-list-of-reviewers/
 description: ""
 ---
-#### **<u>Compliance Review Programme (CRP): List of Reviewers from Deloitte &amp; Touche LLP</u>**
+##### **<u>Compliance Review Programme (CRP): List of Reviewers from Deloitte &amp; Touche LLP</u>**
 
 The Ministry of Law (MinLaw) has appointed the professional services firm, **Deloitte &amp; Touche LLP** (“DT”), to perform compliance reviews on Registered Dealers. The purpose of the CRP is for the reviewers from DT to assess the registered dealers’ level of compliance with the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019 (“PSPM Act”) and Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations 2019 (“PMLTF Regulations”), and provide guidance, where necessary. The compliance reviews will be conducted through correspondence via emails, telephone calls, virtual and on-site meetings.
 
