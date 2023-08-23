@@ -58,7 +58,7 @@ Foreign dealers should refer <a href="#Regulatory Compliance for Foreign Dealers
 
 **Poster**: Important for Foreign Dealers to Take Note
 
-<a href="/files/FD.pdf" target="_blank"><img src="/images/FD.png" style ="width: 350px" align= "left" > </a><br>
+<a href="/files/FD.pdf" target="_blank"><img src="/images/FD.png" style="width: 350px" align="left"> </a><br>
 
 <br>
 <br>
@@ -99,12 +99,12 @@ Any person who acts or holds out to be a regulated dealer without being register
 Learn more about [regime](/regulatory-regime/), [registration](/registration/) and [transaction-based requirements](/transaction-based-requirements/).
 
 **Must-Know for Foreign Dealers:** Watch the [video](https://youtu.be/KRS30HOmjyk){:target="_blank"} to find out more about the regulatory requirements for foreign dealers.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KRS30HOmjyk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KRS30HOmjyk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 #### <a id="Our Role in AML/CFT"></a> Our Role in AML/CFT 
 
 Singapore is a member of the Financial Action Task Force ("**FATF**"), an inter-governmental body that sets international standards aimed to prevent money laundering and terrorism financing ("**ML/TF**"), and the harm these illegal activities cause to society. There are currently more than 200 countries and jurisdictions committed to implementing anti-money laundering/countering the financing of terrorism ("**AML/CFT**") measures in accordance to the recommendations set by the FATF.
 
-Designated non-financial businesses and professions ("**DNFBP**") in Singapore, such as the precious stones and precious metals dealers ("**PSMD**"), have a role to play to ensure that Singapore is effective in implementing its AML/CFT policies through the PSMD sector. The regulatory requirements on the PSMD sector are set out in the PSPM Act and the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations 2020 ("**PMLTF Regulations**"). Regulated dealers should also refer to the [Guidelines for Regulated Dealers](/guidelines/){:target="_blank"}.
+Designated non-financial businesses and professions ("**DNFBP**") in Singapore, such as the precious stones and precious metals dealers ("**PSMD**"), have a role to play to ensure that Singapore is effective in implementing its AML/CFT policies through the PSMD sector. The regulatory requirements on the PSMD sector are set out in the PSPM Act and the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations 2019 ("**PMLTF Regulations**"). Regulated dealers should also refer to the [Guidelines for Regulated Dealers](/guidelines/){:target="_blank"}.
 
 Please refer to the [compliance requirements](/entity-based-requirements/) for more information on how to implement an effective AML/CFT framework for your business.
