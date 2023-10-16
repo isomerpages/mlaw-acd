@@ -96,7 +96,7 @@ Foreign dealers are subject to all other transaction-based requirements under th
 A foreign dealer carrying on a business of regulated dealing, or business as an intermediary for regulated dealing, in Singapore on a transitory basis is exempt from registration. Transitory basis means the foreign dealer carries on business in Singapore for not more than a total of 90 days in a year.
 
 Any person who acts or holds out to be a regulated dealer without being registered or exempted, may face criminal penalties of up to S$75,000 in fine and/or up to 3 years' imprisonment.<br><br>
-Learn more about [regime](/regulatory-regime/), [registration](/registration/) and [transaction-based requirements](/transaction-based-requirements/).
+Learn more about [regime](/regulatory-regime/), [registration](/registration/) and [transaction-based requirements](/transaction-based-requirements/). A foreign dealer must notify the Ministry of Manpower of your intention to work in an exempted activity after entering Singapore, and before starting the activity. Click [here](https://www.mom.gov.sg/passes-and-permits/work-pass-exempt-activities){target="_blank"} for more information.        
 
 **Must-Know for Foreign Dealers:** Watch the [video](https://youtu.be/KRS30HOmjyk){:target="_blank"} to find out more about the regulatory requirements for foreign dealers.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KRS30HOmjyk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
