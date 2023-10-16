@@ -13,6 +13,7 @@ IRAS observed Missing Trader Fraud (“MTF”) arrangements involving Investment
 To protect your business from any involvement or association with such MTF arrangements, please note the following non exhaustive warning signs and due diligence checks:
 
 
+
   <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg tr td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -31,13 +32,12 @@ To protect your business from any involvement or association with such MTF arran
   </tr>
 
 </tbody><tbody>
-<tr>
-
-<td class="tg-de2y"><span style="font-weight:bold">Section A: </span>Applications for approval from the Registrar of Regulated Dealers</td>
+  <tr>
+   
+    <td class="tg-de2y"><span style="font-weight:bold">Section A: </span>Applications for approval from the Registrar of Regulated Dealers</td>
     <td class="tg-de2y">This section provides information on how to register and renew your registration with the Registrar.</td>
   </tr>
   <tr>
-  
 
   </tr>
 	<tr></tr></tbody></table>
