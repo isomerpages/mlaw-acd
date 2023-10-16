@@ -26,15 +26,13 @@ To protect your business from any involvement or association with such MTF arran
 
   <table class="tg">
 <tbody><tr>
-    <th class="tg-4sek"><span style="font-weight:bold">S/N</span></th>
     <th class="tg-4sek"><span style="font-weight:bold">Information</span></th>
     <th class="tg-4sek"><span style="font-weight:bold">What To Expect</span></th>
   </tr>
 
 </tbody><tbody>
   <tr>
-    <td class="tg-ao2g">1</td>
-    <td class="tg-de2y"><span style="font-weight:bold">Section A: </span>Applications for approval from the Registrar of Regulated Dealers</td>
+    <td class="tg-ao2g"><span style="font-weight:bold">Section A: </span>Applications for approval from the Registrar of Regulated Dealers</td>
     <td class="tg-de2y">This section provides information on how to register and renew your registration with the Registrar.</td>
   </tr>
   <tr>
