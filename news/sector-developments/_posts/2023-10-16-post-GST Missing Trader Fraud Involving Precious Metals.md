@@ -12,6 +12,7 @@ IRAS observed Missing Trader Fraud (“MTF”) arrangements involving Investment
 
 To protect your business from any involvement or association with such MTF arrangements, please note the following non exhaustive warning signs and due diligence checks:
 
+
   <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg tr td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -24,18 +25,35 @@ To protect your business from any involvement or association with such MTF arran
 
   <table class="tg">
 <tbody><tr>
-    
-    <th class="tg-4sek"><span style="font-weight:bold">Warning Signs (non exhaustive)</span></th>
-    <th class="tg-4sek"><span style="font-weight:bold">Due diligence checks (non exhaustive)</span></th>
+    <th class="tg-4sek"><span style="font-weight:bold">S/N</span></th>
+    <th class="tg-4sek"><span style="font-weight:bold">Information</span></th>
+    <th class="tg-4sek"><span style="font-weight:bold">What To Expect</span></th>
   </tr>
 
 </tbody><tbody>
   <tr>
-  
-    <td class="tg-de2y"><span style="font-weight:bold">•	High-value deals offered by newly established supplier, </span> with minimal experience in the industry. <br><br><span style="font-weight:bold"> • Very quick turnaround of high-volume transactions, </span> making the business appear unrealistically lucrative. <br><br><span style="font-weight:bold"> • Back-to-back purchase to sale arrangement </span>  with a fixed gold price between the supplier and customers, making the business practically risk free with little or no exposure to price volatility. <br><br><span style="font-weight:bold">• Out of the norm credit terms. </span> For example, supplier delivers the gold to you first, and only requires you to make payment after you receive the payment from the customer. <br><br><span style="font-weight:bold">• Too good to be true deals recommended by unfamiliar introducer. </span> <br><br><span style="font-weight:bold"> • Scrap gold bars in condition or volume that is not ordinarily traded in the market. </span> For example, buying or selling cut or defaced IPM gold bars or cast scrap gold bars in large quantity.<br><br><span style="font-weight:bold"> • Supplier/ introducer is evasive </span> when being asked about the source of its gold supply. <br><br><span style="font-weight:bold"> • Material changes in the transactions with existing suppliers or customers.</span> For example, significant increase in transaction volume or transaction value, or changes in the nature of goods trade.      
-</td><td class="tg-de2y"><span style="font-weight:bold">•	Is your immediate supplier and customer legitimate? </span> Obtain business incorporation details, perform credit checks, request for trade references and verify whether they are credible, and visit their business premises. <br><br><span style="font-weight:bold"> • Is the business arrangement valid?</span>  Understand whether there are valid business reasons for IPM gold bars to be defaced or cut and sold as scrap gold bars, whether there are reasonable explanations for the high volume and/or low price of the scrap gold bars relative to the market price and demand, whether the absence of price volatility risk is in line with commercial practice, and whether there is any value for you to be part of the back-to-back purchase to sales arrangement when the customer could have purchased the goods directly from the supplier. <br><br><span style="font-weight:bold"> • Is the payment arrangement highly favourable? </span> Is there commercial justification for the payment to be made to the supplier only after payment is received from the customer.<br><br><span style="font-weight:bold"> • Are the scrap gold bars authentic? </span> Question the source of the scrap gold bars and whether there is a reasonable explanation for them to be defaced IPM gold bars.<br><br><span style="font-weight:bold"> • Is the introducer legitimate and credible? </span> Obtain more information on the introducer. For example, his/her experience in the trade, and the reason for him/her to offer you the deals instead of carrying out the deals himself/herself.<br><br><span style="font-weight:bold"> • Is there a valid reason for material changes in the transactions? </span> Be alert to unusual changes when transacting with existing suppliers and customers. For example, question whether there is any reasonable explanation for the significant increase in the transaction volume and value.
-	</td></tr>
+    <td class="tg-ao2g">1</td>
+    <td class="tg-de2y"><span style="font-weight:bold">Section A: </span>Applications for approval from the Registrar of Regulated Dealers</td>
+    <td class="tg-de2y">This section provides information on how to register and renew your registration with the Registrar.</td>
+  </tr>
   <tr>
- 
+    <td class="tg-ao2g">2</td>
+    <td class="tg-de2y"><span style="font-weight:bold">Section B:</span> Notifications to be submitted to the Registrar of Regulated Dealers</td>
+    <td class="tg-de2y">Registered dealers must notify the Registrar when there are changes to your (i) particulars and circumstances, (ii) place of business and (iii) class of registration.<br><br>This section provides information on the types of notifications to submit and how to notify the Registrar.</td>
+  </tr>
+  <tr>
+    <td class="tg-ao2g">3</td>
+    <td class="tg-de2y"><span style="font-weight:bold">Section C: </span>Regulatory submissions to the Registrar of Regulated Dealers</td>
+    <td class="tg-de2y">Regulated dealers are required to submit (i) semi-annual returns (“<span style="font-weight:bold">SAR</span>”), (ii) risk assessment and (iii) internal policies, procedures and controls (“<span style="font-weight:bold">IPPC</span>”).<br><br>This section provides information on the submission timeline and how to submit.</td>
+  </tr>
+  <tr>
+    <td class="tg-ao2g">4</td>
+    <td class="tg-de2y"><span style="font-weight:bold">Section D:</span> Regulatory compliance</td>
+    <td class="tg-de2y">In the course of business, regulated dealers are required to comply with various regulatory requirements to prevent money laundering and terrorism financing in the PSMD sector.<br><br>This section provides information on the regulatory requirements, submission timeline and how to submit.</td>
+  </tr>
+  <tr>
+    <td class="tg-ao2g">5</td>
+    <td class="tg-de2y"><span style="font-weight:bold">Section E:</span> Useful user guides</td>
+    <td class="tg-de2y">These user guides provide you with a step-by-step guide on the relevant portals such as GoBusiness Licencing, <span style="font-style:italic">my</span>Pal and STRO Online Notices And Reporting platform ("<span style="font-weight:bold">SONAR</span>") portals.</td>
   </tr>
 	<tr></tr></tbody></table>
