@@ -3,16 +3,16 @@ layout: homepage
 title: Ministry of Law - ACD
 permalink: /
 notification: <b> <a
-  href="https://acd.mlaw.gov.sg/news/notices-from-the-registrar/june-2023-fatf-statement/">
-  June 2023 FATF Public Statement - Countries/Jurisdictions with Strategic
-  Deficiencies (latest!) </a></b>
+  href="https://acd.mlaw.gov.sg/news/sector-developments/gst-missing-trader-fraud-involving-precious-metals/">
+  Click here to learn about GST Missing Trader Fraud Involving Precious Metals
+  </a></b>
 sections:
   - hero:
       title: Regulatory Regime for Precious Stones and Precious Metals Dealers
       subtitle: Anti-Money Laundering / Countering the Financing of Terrorism Division
         (ACD)
       background: /images/bullion1.jpg
-      button: DOWNLOAD YOUR <br>COMPLIANCE TOOLKIT<br>
+      button: DOWNLOAD YOUR<br>COMPLIANCE TOOLKIT
       url: https://acd.mlaw.gov.sg/files/Compliance%20Toolkit%20for%20PSMD_20230111.pdf
       key_highlights:
         - title: Renewal
