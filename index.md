@@ -14,7 +14,7 @@ sections:
       background: /images/bullion1.jpg
       button: Click here to learn about GST Missing Trader Fraud<br>Involving Precious
         Metals
-      url: https://acd.mlaw.gov.sg/files/Compliance%20Toolkit%20for%20PSMD_20230111.pdf
+      url: https://acd.mlaw.gov.sg/news/sector-developments/gst-missing-trader-fraud-involving-precious-metals/
       key_highlights:
         - title: Renewal
           description: Overview of renewal process
