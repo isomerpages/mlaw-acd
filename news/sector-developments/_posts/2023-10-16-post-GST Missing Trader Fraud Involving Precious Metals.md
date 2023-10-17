@@ -8,7 +8,7 @@ image: ""
 ---
 Dear Registered Dealer,
 
-IRAS observed Missing Trader Fraud (“MTF”) arrangements involving Investment Precious Metals gold bars (“IPM”) and scrap gold bars, whereby crime syndicates use a fraud scheme to defraud tax authorities of GST (or equivalent taxes). Under an MTF scheme, IPM gold bars (exempt from GST) are transformed into scrap gold (standard rated supply) by melting, cutting, or defacing them for onward sale by the Missing Trader to businesses along the supply chain. A supplier fails to account for or pay the GST charged on his sales (this supplier is referred to as the “Missing Trader”), while businesses along the supply chain continue to claim credit of input tax or refund of GST on their purchases.
+IRAS observed Missing Trader Fraud (“**MTF**”) arrangements involving Investment Precious Metals gold bars (“**IPM**”) and scrap gold bars, whereby crime syndicates use a fraud scheme to defraud tax authorities of GST (or equivalent taxes). Under an MTF scheme, IPM gold bars (exempt from GST) are transformed into scrap gold (standard rated supply) by melting, cutting, or defacing them for onward sale by the Missing Trader to businesses along the supply chain. A supplier fails to account for or pay the GST charged on his sales (this supplier is referred to as the “**Missing Trader**”), while businesses along the supply chain continue to claim credit of input tax or refund of GST on their purchases.
 
 To protect your business from any involvement or association with such MTF arrangements, please note the following non exhaustive warning signs and due diligence checks:
 
