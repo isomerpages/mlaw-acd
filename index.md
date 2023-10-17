@@ -3,7 +3,7 @@ layout: homepage
 title: Ministry of Law - ACD
 permalink: /
 notification: <b> <a
-  href="https://acd.mlaw.gov.sg/news//sector-developments/gst-missing-trader-fraud-involving-precious-metals/">
+  href="https://acd.mlaw.gov.sg/news/sector-developments/gst-missing-trader-fraud-involving-precious-metals/">
   Click here to learn about GST Missing Trader Fraud Involving Precious Metals
   </a></b>
 sections:
