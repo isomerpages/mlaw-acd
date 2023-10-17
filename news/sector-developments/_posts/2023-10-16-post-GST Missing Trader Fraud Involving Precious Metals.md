@@ -17,7 +17,7 @@ To protect your business from any involvement or association with such MTF arran
   <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg tr td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 45px;word-break:normal;}
+  overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg tr th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-4sek{background-color:#c0c0c0;border-color:#000000;color:#000000;text-align:left;vertical-align:top}
 .tg .tg-ao2g{border-color:#000000;text-align:center;vertical-align:top}
@@ -25,6 +25,10 @@ To protect your business from any involvement or association with such MTF arran
 </style>
 
   <table class="tg">
+	    <colgroup>
+    <col style="width: 500px">
+    <col style="width: 550px">
+    </colgroup>
 <tbody><tr>
     <th class="tg-4sek"><span style="font-weight:bold">Warning Signs (non exhaustive)</span></th>
     <th class="tg-4sek"><span style="font-weight:bold">Due diligence checks (non exhaustive)
