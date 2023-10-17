@@ -12,7 +12,8 @@ sections:
       subtitle: Anti-Money Laundering / Countering the Financing of Terrorism Division
         (ACD)
       background: /images/bullion1.jpg
-      button: DOWNLOAD YOUR <br>COMPLIANCE TOOLKIT<br>
+      button: Click here to learn about GST Missing Trader Fraud<br>Involving Precious
+        Metals
       url: https://acd.mlaw.gov.sg/files/Compliance%20Toolkit%20for%20PSMD_20230111.pdf
       key_highlights:
         - title: Renewal
