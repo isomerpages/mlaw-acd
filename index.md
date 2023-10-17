@@ -12,7 +12,7 @@ sections:
       subtitle: Anti-Money Laundering / Countering the Financing of Terrorism Division
         (ACD)
       background: /images/bullion1.jpg
-      button: Click here to learn about GST Missing Trader Fraud<br>Involving Precious
+      button: Click here to learn about<br>GST Missing Trader Fraud Involving Precious
         Metals
       url: https://acd.mlaw.gov.sg/news/sector-developments/gst-missing-trader-fraud-involving-precious-metals/
       key_highlights:
