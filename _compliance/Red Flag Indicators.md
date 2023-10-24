@@ -11,4 +11,4 @@ While each individual indicator may not be sufficient by itself to suggest ML or
 
 The list is not exhaustive. It may be updated due to changing circumstances and new methods of laundering money or financing terrorism. 
 
-Please refer to the red flag indicators for more information.
+Please refer to the [list of red flag indicators](/images/List%20of%20Red%20Flag%20Indicators_20201214_V2.0.docx){:target="_blank"} for more information.
