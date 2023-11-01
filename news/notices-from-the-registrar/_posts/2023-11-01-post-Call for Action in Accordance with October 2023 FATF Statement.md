@@ -59,7 +59,7 @@ The FATF has also issued an updated statement in October 2023 on jurisdictions u
 <span style="font-weight:normal">Türkiye</span><br>
 <span style="font-weight:normal">Uganda</span><br>
 <span style="font-weight:normal">United Arab Emirates</span><br>
-	<span style="font-weight:normal">Vietnam <i>(new)</i></span><br>
+	<span style="font-weight:normal">Vietnam</span><br>
 <span style="font-weight:normal">Yemen</span><br></th></tr></thead></table>
 <br>Full details can be found at:<br><a href="https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/Increased-monitoring-october-2023.html" target="_blank">https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/Increased-monitoring-october-2023.html</a><br></th>
   </tr>
