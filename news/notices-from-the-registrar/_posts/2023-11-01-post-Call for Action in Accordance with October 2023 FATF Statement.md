@@ -15,7 +15,7 @@ The Registrar of Regulated Dealers hereby notifies all regulated dealers that th
 * Enhanced due diligence measures against Myanmar; and
 * List of Jurisdictions under Increased Monitoring.
     
-Accordingly, under regulation 7(1) of the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations ("**PMLTF Regulations**"), regulated dealers **must perform enhanced customer due diligence** ("**ECDD**") **measures** if:
+Accordingly, under regulation 7(1) of the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations 2019 ("**PMLTF Regulations**"), regulated dealers **must perform enhanced customer due diligence** ("**ECDD**") **measures** if:
 * The customer, or the person on whose behalf the customer is acting on, is from or in DPRK, Iran, Myanmar, or a foreign country or territory identified to have inadequate measures to prevent money laundering or terorrism financing; or
 * The transaction relates to DPRK, Iran, Myanmar, or a foreign country or territory identified to have inadequate measures to prevent money laundering or terrorism financing.
 
