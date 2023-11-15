@@ -37,19 +37,17 @@ The key amendments to the PMLTF Regulations are:
     <tbody><tr>
     <th class="tg-exjp"><span style="font-weight:bold;text-decoration:underline">Amendment Notes</span><br>
 			
-15 November 2023
-Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) (Amendment) Regulations 2023 
+15 November 2023<br>
+<a href="https://sso.agc.gov.sg/SL-Supp/S728-2023/Published/20231110?DocDate=20231110" target="_blank">Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) (Amendment) Regulations 2023</a> 
 
-10 April 2021
-Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations 2019 dated 10 April 2021
+10 April 2021<br><a href="https://sso.agc.gov.sg/SL/PSPMPMLTFA2019-S306-2019/Historical/20210410?DocDate=20231110&amp;ValidDate=20210410" target="_blank">Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations 2019</a> dated 10 April 2021
 
-10 April 2021
-Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) (Amendment) Regulations 2021 
+10 April 2021<br><a href="https://sso.agc.gov.sg/SL-Supp/S260-2021/Published/20210409?DocDate=20210409" target="_blank">Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations 2021</a> 
 
-14 December 2020
-Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations 2019 dated 14 December 2020
+14 December 2020<br><a href="https://sso.agc.gov.sg/SL/PSPMPMLTFA2019-S306-2019/Historical/20201214?DocDate=20210409&amp;ValidDate=20201214" target="_blank">Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations 2019</a> dated 14 December 2020
 
 14 December 2020
-Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) (Amendment) Regulations 2020 
+<a href="https://sso.agc.gov.sg/SL-Supp/S990-2020/Published/20201207170000?DocDate=20201207170000" target="_blank">Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations 2020</a>
 </th></tr></tbody></table>
 
+Anti-Money Laundering/Countering the Financing of Terrorism Division (“**ACD**”)<br>Ministry of Law
