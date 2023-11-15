@@ -26,5 +26,5 @@ Refer to the <a href="https://acd.mlaw.gov.sg/guidelines/" target="_blank">Guide
 -	Regulated dealers should read the revised Guidelines to better understand what is expected of them.
 -	Regulated dealers are strongly encouraged to update the relevant documents, particularly dealers’ Risk Assessment and IPPC, where necessary.
 
-Anti-Money Laundering/Countering the Financing of Terrorism Division (“**ACD**”)
+Anti-Money Laundering/Countering the Financing of Terrorism Division (“**ACD**”)<br>
 Ministry of Law
