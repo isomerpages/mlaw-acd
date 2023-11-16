@@ -15,7 +15,7 @@ The Registrar of Regulated Dealers hereby notifies all regulated dealers that am
 .tg  {border-collapse:collapse;border-spacing:0;border-width:1px;border-style:solid;border-color:black;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:0px;overflow:hidden;word-break:normal;}
-.tg .tg-exjp{border-color:#330001;text-align:left;vertical-align:middle}
+.tg .tg-exjp{border-color:#330001;font-size:16px;text-align:left;vertical-align:middle}
 </style>
 <table class="tg">
     <tbody><tr>
