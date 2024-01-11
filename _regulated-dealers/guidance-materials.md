@@ -19,7 +19,7 @@ The screening function in [*my*Pal](https://go.gov.sg/mypal){:target="_blank"}  
 #### <a id="Guidelines for Regulated Dealers"></a>3. Guidelines for Regulated Dealers
 
 The [Guidelines for Regulated Dealers in the Precious Stones and Precious Metals Dealers Sector on Anti-Money Laundering/Countering the Financing of Terrorism ("**Guidelines**")](/files/guidelines for regulated dealers_20231115_v3.0.pdf){:target="_blank"} are meant to help regulated dealers understand the regulatory requirements under the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019 ("**PSPM Act**") and Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations 2019 ("**PMLTF Regulations**").<a href="#footnote1"></a><br><br> 
-The Guidelines also provide [sample forms and checklists<sup>1</sup>](/files/guidelines for regulated dealers_Annexes_20231115_v3.0.docx){:target="_blank"} to assist regulated dealers in meeting their regulatory obligations.  <b>However, regulated dealers remain responsible for ensuring that their Anti-Money Laundering/Countering the Financing of Terrorism ("**AML/CFT**") measures are appropriately designed for their business and commensurate with their money laundering/terrorism financing ("**ML/TF**") risk exposure.</b><br><br>
+The Guidelines also provide [sample forms and checklists<sup>1</sup>](/files/guidelines for regulated dealers_Annexes_20231115_v3.01.docx){:target="_blank"} to assist regulated dealers in meeting their regulatory obligations.  <b>However, regulated dealers remain responsible for ensuring that their Anti-Money Laundering/Countering the Financing of Terrorism ("**AML/CFT**") measures are appropriately designed for their business and commensurate with their money laundering/terrorism financing ("**ML/TF**") risk exposure.</b><br><br>
 
 
 <style type="text/css">
@@ -42,7 +42,7 @@ Regulated dealers are required to keep records of the customer due diligence ("*
 
 The Compliance Toolkit aims to guide and facilitate regulated dealers' compliance with the various requirements under the PSPM Act and the PMLTF Regulations. It serves as a quick guide relating to applications, notifications, regulatory submissions and compliance. 
 
-Download and open the [Compliance Toolkit](/files/Compliance%20Toolkit%20for%20PSMD_20230111.pdf){:target="blank"} with a PDF reader on desktop to open the thumbnails. 
+Download and open the [Compliance Toolkit](/files/compliance%20toolkit%20for%20psmd_20240111.pdf){:target="blank"} with a PDF reader on desktop to open the thumbnails. 
 
 #### <a id="Guidance Paper on Strengthening AML/CFT Controls in the Precious Stones and Precious Metals (PSPM) Sector"></a>6. Guidance Paper on Strengthening AML/CFT Controls in the Precious Stones and Precious Metals (PSPM) Sector
 
