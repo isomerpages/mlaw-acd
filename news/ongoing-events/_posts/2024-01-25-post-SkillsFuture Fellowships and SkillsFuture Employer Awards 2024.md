@@ -5,7 +5,7 @@ date: 2024-01-25
 layout: post
 description: ""
 image: ""
-variant: markdown
+variant: tiptap
 ---
 <p>Dear regulated dealers,</p>
 <p>The SkillsFuture Fellowships and the SkillsFuture Employer Awards are
@@ -20,11 +20,13 @@ variant: markdown
 <a class="isomer-image-wrapper" href="https://programmes.enterprisejobskills.gov.sg/EmployerAwards/ProgrammeDetails.aspx">
     <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/SSG_3.JPG">
     </a>
-    For more information, you may refer to the following resources if you
+    <p>For more information, you may refer to the following resources if you
         are interested in making applications for the SkillsFuture Fellowships
         and the SkillsFuture Employer Awards.
-		    <br><br><a href="/files/SkillsFuture_Fellowships_FAQ_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">SkillsFuture Fellowships FAQ</a> 
+        <br>
+        <br><a href="/files/SkillsFuture_Fellowships_FAQ_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">SkillsFuture Fellowships FAQ</a> 
         <a href="/files/SkillsFuture_Employer_Awards_FAQ_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">SkillsFuture Employer Awards FAQ</a>
-
-For enquiries, please contact Singapore National Employers Federation
+    </p>
+    <p>For enquiries, please contact Singapore National Employers Federation
         (SNEF), the appointed Programme Manager for the awards at <a href="mailto:sfa@snef.org.sg" rel="noopener noreferrer nofollow" target="_blank">sfa@snef.org.sg.</a>
+    </p>
