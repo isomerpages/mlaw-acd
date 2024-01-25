@@ -5,7 +5,7 @@ date: 2024-01-25
 layout: post
 description: ""
 image: ""
-variant: markdown
+variant: tiptap
 ---
 <p>Dear regulated dealers,</p>
 <p></p>
@@ -26,6 +26,6 @@ variant: markdown
 <p>For enquiries, please contact Singapore National Employers Federation
     (SNEF), the appointed Programme Manager for the awards at &lt;a href="mailto:
     <a href="mailto:sfa@snef.org.sg" rel="noopener noreferrer nofollow" target="_blank">sfa@snef.org.sg</a>"&gt;<a href="mailto:sfa@snef.org.sg" rel="noopener noreferrer nofollow" target="_blank">sfa@snef.org.sg</a>.&lt;/a&gt;</p>
-<p>&lt;a target="_blank" href="/files/SkillsFuture_Fellowships_FAQ_2023.pdf"&gt;SkillsFuture
-    Fellowships FAQ&lt;/a&gt; &lt;a target="_blank" href="/files/SkillsFuture_Employer_Awards_FAQ_2023.pdf"&gt;SkillsFuture
-    Employer Awards FAQ&lt;/a&gt;</p>
+<p><a href="/files/SkillsFuture_Fellowships_FAQ_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">SkillsFuture Fellowships FAQ </a>
+    <a href="/files/SkillsFuture_Employer_Awards_FAQ_2023.pdf" rel="noopener noreferrer nofollow" target="_blank">SkillsFuture Employer Awards FAQ</a>
+</p>
