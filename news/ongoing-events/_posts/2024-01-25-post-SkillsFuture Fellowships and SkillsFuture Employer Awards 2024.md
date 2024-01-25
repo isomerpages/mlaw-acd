@@ -5,7 +5,7 @@ date: 2024-01-25
 layout: post
 description: ""
 image: ""
-variant: markdown
+variant: tiptap
 ---
 <p>Dear regulated dealers,</p>
 <p>The SkillsFuture Fellowships and the SkillsFuture Employer Awards are
