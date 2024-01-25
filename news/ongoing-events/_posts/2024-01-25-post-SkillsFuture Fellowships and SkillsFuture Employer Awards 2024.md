@@ -15,10 +15,7 @@ variant: tiptap
     through their careers. All applications will be evaluated by a panel of
     judges comprising senior representatives from the industry, unions and
     the government.</p>
-<p></p>
-<div class="isomer-image-wrapper">
-    <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SSG1.JPG">
-</div>
+<p></p><a class="isomer-image-wrapper" href="https://www.skillsfuture.gov.sg/sfea"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/SSG1.JPG"></a>
 <p></p><a class="isomer-image-wrapper" href="https://programmes.myskillsfuture.gov.sg/Fellowships/ProgrammeDetails.aspx"><img style="width: 60%;" height="auto" width="100%" alt="" src="/images/SSG_2.JPG"></a>
 <a class="isomer-image-wrapper" href="https://programmes.enterprisejobskills.gov.sg/EmployerAwards/ProgrammeDetails.aspx">
     <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/SSG_3.JPG">
