@@ -20,6 +20,7 @@ variant: tiptap
 <a class="isomer-image-wrapper" href="https://programmes.enterprisejobskills.gov.sg/EmployerAwards/ProgrammeDetails.aspx">
     <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/SSG_3.JPG">
     </a>
+    <p></p>
     <p>For more information, you may refer to the following resources if you
         are interested in making applications for the SkillsFuture Fellowships
         and the SkillsFuture Employer Awards.
