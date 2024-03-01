@@ -24,7 +24,7 @@ Full details can be found at:<br><a href="https://www.fatf-gafi.org/en/publicati
 
 <span style="font-weight:bold;text-decoration:underline"> Jurisdictions under Increased Monitoring</span><br>
 
-Regulated dealers are also expected to take the List of Jurisdictions under Increased Monitoring into consideration when preparing and updating their risk assessment and mitigation plans and perform ECDD measures, when necessary. The latest list removed Barbados, Gibraltar , Uganda and UAE and included Kenya and Namibia.<br><br>
+Regulated dealers are also expected to take the List of Jurisdictions under Increased Monitoring into consideration when preparing and updating their risk assessment and mitigation plans and perform ECDD measures, when necessary. The latest list removed Barbados, Gibraltar, Uganda and UAE and included Kenya and Namibia.<br><br>
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
 <span style="font-weight:bold">Jurisdiction with strategic deficiencies</span><br>
 	<span style="font-weight:normal">Bulgaria</span><br>
