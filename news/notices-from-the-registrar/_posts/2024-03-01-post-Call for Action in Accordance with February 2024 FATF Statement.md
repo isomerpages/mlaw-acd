@@ -48,5 +48,5 @@ Regulated dealers are also expected to take the List of Jurisdictions under Incr
 <span style="font-weight:normal">Türkiye</span><br>
 	<span style="font-weight:normal">Vietnam</span><br>
 <span style="font-weight:normal">Yemen</span><br></th></tr></thead></table>
-<br>Full details can be found at:<br><a href="https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/Increased-monitoring-february-2024.html" target="_blank">https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/Increased-monitoring-february-2024.html</a><br>
+Full details can be found at:<br><a href="https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/Increased-monitoring-february-2024.html" target="_blank">https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/Increased-monitoring-february-2024.html</a><br>
   
