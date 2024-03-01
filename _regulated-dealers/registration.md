@@ -2,6 +2,7 @@
 title: Registration
 permalink: /registration/
 breadcrumb: Registration
+variant: markdown
 ---
 <a href="#Registration">Registration </a> | <a href="#Who is Required to Register?">Who is Required to Register? </a> | <a href="#Fees and Registering your Place(s) of Business">Fees and Registering your Place(s) of Business </a> |<a href="#Registration Application Process">Registration Application Process </a> | <a href="#Information Needed">Information Needed</a> | <a href="#I Need Help with Registration">I Need Help with Registration </a> | <a href="#Cancellation of Registration">Cancellation of Registration </a>
 
@@ -23,7 +24,7 @@ Please refer to the [PSPM Act](https://sso.agc.gov.sg/Act/PSPMPMLTFA2019){:targe
 
 #### <a id="Fees and Registering your Place(s) of Business"></a> Fees and Registering your Place(s) of Business
 
-Regulated dealers must pay an application fee of S$120 to register with the Registrar. All payment must be made through [GoBusiness Licensing Portal](https://www.gobusiness.gov.sg/licences){:target="_blank"}.  
+Regulated dealers must pay an application fee of S$120 to register with the Registrar. All payment must be made through [GoBusiness Licensing Portal](www.go.gov.sg/GoBusiness-login){:target="_blank"}.  
   
 Registration is on an annual basis. If the Registrar provides in-principle approval for your application, you must pay a registration fee based on the registration tier and the number of outlets operated:
 <style type="text/css">
@@ -150,7 +151,7 @@ You may submit your application via the [GoBusiness Licensing Portal](https://ww
 <col style="width: 470">
 <col style="width: 380">
 </colgroup>
-  <tr>
+  <tbody><tr>
     <th class="tg-73oq" colspan="2"><span style="font-weight:bold">Important Notice</span><br><br>
 • Ensure that you have the Corppass and UEN of the business entity that the Registration Certificate will be issued to.<br>
 • You have updated your business particulars with the <a href="https://www.bizfile.gov.sg" target="_blank">Accounting and Corporate Regulatory Authority ("<b>ACRA</b>")</a> so that the updated information can be auto-populated in the application form.<br>
@@ -198,7 +199,7 @@ You may submit your application via the [GoBusiness Licensing Portal](https://ww
 • </span><span style="color:rgb(51, 51, 51)">For applicants who have </span><span style="text-decoration:underline;color:rgb(51, 51, 51)">corporate shareholders</span><span style="color:rgb(51, 51, 51)">, you should attach a copy of your shareholders’ registration information <br>(including particulars of directors, partners, managers, company secretary, outlet managers, substantial shareholders).</span><br><span style="font-weight:700;color:rgb(51, 51, 51)">
 • </span><span style="color:rgb(51, 51, 51)">For applicants who have </span><span style="text-decoration:underline;color:rgb(51, 51, 51)">more than one layer of corporate shareholders</span><span style="color:rgb(51, 51, 51)">, you should attach your organisation structure/ chart <br>up till the individuals who own the group. For listed corporate shareholders, you do not have to provide  the name of all your shareholders. You should still provide a list of those who hold more than 5% shares of the listed company.</span></td>
   </tr>
-</table>
+</tbody></table>
 
 
 #### <a id="I Need Help with Registration"></a> I Need Help with Registration
