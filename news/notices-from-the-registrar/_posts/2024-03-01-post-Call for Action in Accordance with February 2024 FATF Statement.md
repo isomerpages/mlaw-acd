@@ -12,7 +12,7 @@ variant: tiptap
 <p>The Registrar of Regulated Dealers hereby notifies all regulated dealers
 that the Financial Action Task Force (“**FATF**”) has issued statements
 dated 23 February 2024 on:</p>
-<p><em> Counter-measures against the Democratic People’s Republic of Korea (“</em>*DPRK**”)
+<p><em>Counter-measures against the Democratic People’s Republic of Korea (“</em>*DPRK**”)
 and Iran;</p>
 <p>* Enhanced due diligence measures against Myanmar; and</p>
 <p>* List of Jurisdictions under Increased Monitoring.</p>
