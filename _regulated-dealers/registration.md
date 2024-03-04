@@ -206,7 +206,7 @@ You may submit your application via the [GoBusiness Licensing Portal](https://ww
 
 
 #### <a id="I Need Help with Registration"></a> I Need Help with Registration
-<a href="/images/Helplines_20191127.pdf" target="_blank"><img src="/images/Helplines_20191127.PNG"></a>
+<a href="/files/Helplines_20191127.pdf" target="_blank"><img src="/images/Helplines_20240301.PNG"></a>
 
 * If you face any technical issues when using GoBusiness Licensing Portal, you may wish to refer to the [GoBusiness Licensing Portal webpage](https://www.gobusiness.gov.sg/licences){:target="_blank"} or contact [GoBusiness Licensing Portal Helpdesk](https://www.gobusiness.gov.sg/contact-us/){:target="_blank"}.
 
