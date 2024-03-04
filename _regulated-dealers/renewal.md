@@ -185,6 +185,6 @@ The Registrar of Regulated Dealers may impose additional conditions or waive exi
 </tbody></table>
 
 #### <a id="I Need Help with Renewal"></a> I Need Help with Renewal
-<a href="/images/Helplines_20191127.pdf" target="_blank"><img src="/images/Helplines_20191127.PNG"></a>
+<a href="/files/Helplines_20240301.pdf" target="_blank"><img src="/images/helplines_20240301.png"></a>
 
 * If you face any technical issues when using GoBusiness Licensing Portal, you may wish to refer to the [GoBusiness Licensing Portal webpage](https://www.gobusiness.gov.sg/licences){:target="_blank"} or contact [GoBusiness Licensing Portal Helpdesk] (https://www.gobusiness.gov.sg/contact-us/){:target="_blank"}.
