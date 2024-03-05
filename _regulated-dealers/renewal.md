@@ -118,7 +118,7 @@ ABC Pte Ltd must pay a total of **S$700**:
 
 #### <a id="Renewal Application Process"></a> Renewal Application Process
 
-You may submit your application via the [GoBusiness Licensing Portal](https://www.go.gov.sg/GoBusiness-login){:target="_blank"}. For help with GoBusiness Dashboard and enquires about licences, please contact GoBusiness Helpdesk:<br><br> **Telephone**<br> +65 6336 3373<br>**Email**<br> AskGoBiz@crimsonlogic.com.sg<br> **Helpdesk Operating Hours** <br> Monday - Friday: 8.00am - 6.00pm<br> Saturdays: 8.00am - 1.00pm<br> Closed on Sundays and public holidays
+You may submit your application via the [GoBusiness Licensing Portal](https://www.go.gov.sg/GoBusiness-login){:target="_blank"}. For help with GoBusiness Dashboard and enquiries about licences, please contact GoBusiness Helpdesk:<br><br> **Telephone**<br> +65 6336 3373<br>**Email**<br> AskGoBiz@crimsonlogic.com.sg<br> **Helpdesk Operating Hours** <br> Monday - Friday: 8.00am - 6.00pm<br> Saturdays: 8.00am - 1.00pm<br> Closed on Sundays and public holidays
 
 The Registrar of Regulated Dealers may impose additional conditions or waive existing conditions for registration, for the renewed registration period.
 
