@@ -132,7 +132,7 @@ ABC Pte Ltd must pay a total of **S$820**:
 #### <a id="Registration Application Process"></a> Registration Application Process
 <a href="/images/Overview%20of%20Reg%20Process%2020191031.pdf" target="_blank"><img src="/images/Overview%20of%20Reg%20Process%2020191031.png"></a> <br>
 
-You may submit your application via the [GoBusiness Licensing Portal](https://www.go.gov.sg/GoBusiness-login){:target="_blank"}. For help with GoBusiness Dashboard and enquires about licences, please contact GoBusiness Helpdesk:
+You may submit your application via the [GoBusiness Licensing Portal](https://www.go.gov.sg/GoBusiness-login){:target="_blank"}. For help with GoBusiness Dashboard and enquiries about licences, please contact GoBusiness Helpdesk:
 
 **Telephone**<br> +65 6336 3373 <br> **Email**<br> AskGoBiz@crimsonlogic.com.sg<br> **Helpdesk Operating Hours**<br> Monday - Friday: 8.00am - 6.00pm<br> Saturdays: 8.00am - 1.00pm<br> Closed on Sundays and public holidays 
 
