@@ -2,6 +2,7 @@
 title: Renewal
 permalink: /renewal/
 breadcrumb: Renewal
+variant: markdown
 ---
 <a href="#Renewal of Registration">Renewal of Registration</a> | <a href="#Renewal Application Process">Renewal Application Process </a> | <a href="#Fees, Registering your Place(s) of Business and Period of Registration">Fees, Registering your Place(s) of Business and Period of Registration </a> | <a href="#Information Needed">Information Needed</a> | <a href="#I Need Help with Renewal">I Need Help with Renewal </a>
 
@@ -117,7 +118,7 @@ ABC Pte Ltd must pay a total of **S$700**:
 
 #### <a id="Renewal Application Process"></a> Renewal Application Process
 
-You may submit your application via the [GoBusiness Licensing Portal](https://www.gobusiness.gov.sg/licences){:target="_blank"}. You may refer to the [GoBusiness Licensing Guide for Regulated Dealers](/files/GoBusiness Licensing Guide for Regulated Dealers_ACD_20220603.pdf){:target="_blank"} for a step-by-step guide to the renewal application process.
+You may submit your application via the [GoBusiness Licensing Portal](https://www.go.gov.sg/GoBusiness-login){:target="_blank"}. For help with GoBusiness Dashboard and enquiries about licences, please contact GoBusiness Helpdesk:<br><br> **Telephone**<br> +65 6336 3373<br>**Email**<br> AskGoBiz@crimsonlogic.com.sg<br> **Helpdesk Operating Hours** <br> Monday - Friday: 8.00am - 6.00pm<br> Saturdays: 8.00am - 1.00pm<br> Closed on Sundays and public holidays
 
 The Registrar of Regulated Dealers may impose additional conditions or waive existing conditions for registration, for the renewed registration period.
 
@@ -137,7 +138,7 @@ The Registrar of Regulated Dealers may impose additional conditions or waive exi
 <col style="width: 470px">
 <col style="width: 380px">
 </colgroup>
-  <tr>
+  <tbody><tr>
     <th class="tg-73oq" colspan="2"><span style="font-weight:bold">Important Notice</span><br><br>
 • If your registration has expired, you will not be allowed to submit your renewal application. You will be required to submit a new application to be a new registered dealer.<br>
 • Ensure that you have the Corppass and UEN of the business entity for whom the Registration Certificate will be renewed.<br>• You have updated your business particulars with the <a href="https://www.bizfile.gov.sg" target="_blank">Accounting and Corporate Regulatory Authority ("<b>ACRA</b>")</a> so that the updated information can be auto-populated in the application form.<br>
@@ -181,10 +182,9 @@ The Registrar of Regulated Dealers may impose additional conditions or waive exi
   <tr>
     <td class="tg-0pky" colspan="2"><span style="font-weight:bold;color:rgb(51, 51, 51)"><br>Supporting documents to be attached to the application form:</span><br><br><span style="font-weight:700;color:rgb(51, 51, 51)">• </span><span style="color:rgb(51, 51, 51)">For applicants who have directors, partners, managers, company secretary, outlet managers, substantial shareholders who are </span><span style="text-decoration:underline;color:rgb(51, 51, 51)">foreign nationals,</span><span style="color:rgb(51, 51, 51)"> you should attach a copy of their foreign photo identification document such as passport.</span><br><span style="font-weight:700;color:rgb(51, 51, 51)">• </span><span style="color:rgb(51, 51, 51)">For applicants who have </span><span style="text-decoration:underline;color:rgb(51, 51, 51)">corporate shareholders</span><span style="color:rgb(51, 51, 51)">, you should attach a copy of your shareholders’ registration information (including particulars of directors, partners, managers, company secretary, outlet managers, substantial shareholders).</span><br><span style="font-weight:700;color:rgb(51, 51, 51)">• </span><span style="color:rgb(51, 51, 51)">For applicants who have </span><span style="text-decoration:underline;color:rgb(51, 51, 51)">more than one layer of corporate shareholders</span><span style="color:rgb(51, 51, 51)">, you should attach your organisation structure/ chart up till the individuals who own the group. For listed corporate shareholders, you do not have to provide  the name of all your shareholders. You should still provide a list of those who hold more than 5% shares of the listed company.</span></td>
   </tr>
-</table>
+</tbody></table>
 
 #### <a id="I Need Help with Renewal"></a> I Need Help with Renewal
-<a href="/images/Helplines_20191127.pdf" target="_blank"><img src="/images/Helplines_20191127.PNG"></a>
+<a href="/files/Helplines_20240301.pdf" target="_blank"><img src="/images/helplines_20240301.png"></a>
 
-* If you face any technical issues when using GoBusiness Licensing Portal, you may wish to refer to the [GoBusiness Licensing Portal webpage](https://www.gobusiness.gov.sg/licences){:target="_blank"} or contact [GoBusiness Licensing Portal Helpdesk](https://www.ifaq.gov.sg/GoBusiness/apps/fcd_faqmain.aspx){:target="_blank"}.
-* If you are not sure how to complete the application form, you may wish to refer to the [GoBusiness Licensing Portal Guide for Regulated Dealers (Step-by-Step with Screenshots)](/files/GoBusiness Licensing Guide for Regulated Dealers_ACD_20220603.pdf){:target="_blank"} or [FAQs for Precious Stones and Precious Metals Dealers](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx){:target="_blank"}.
+* If you face any technical issues when using GoBusiness Licensing Portal, you may wish to refer to the [GoBusiness Licensing Portal webpage](https://www.gobusiness.gov.sg/licences){:target="_blank"} or contact [GoBusiness Licensing Portal Helpdesk](https://www.gobusiness.gov.sg/contact-us/){:target="_blank"}.

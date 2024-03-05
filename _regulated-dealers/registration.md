@@ -2,6 +2,7 @@
 title: Registration
 permalink: /registration/
 breadcrumb: Registration
+variant: markdown
 ---
 <a href="#Registration">Registration </a> | <a href="#Who is Required to Register?">Who is Required to Register? </a> | <a href="#Fees and Registering your Place(s) of Business">Fees and Registering your Place(s) of Business </a> |<a href="#Registration Application Process">Registration Application Process </a> | <a href="#Information Needed">Information Needed</a> | <a href="#I Need Help with Registration">I Need Help with Registration </a> | <a href="#Cancellation of Registration">Cancellation of Registration </a>
 
@@ -23,7 +24,7 @@ Please refer to the [PSPM Act](https://sso.agc.gov.sg/Act/PSPMPMLTFA2019){:targe
 
 #### <a id="Fees and Registering your Place(s) of Business"></a> Fees and Registering your Place(s) of Business
 
-Regulated dealers must pay an application fee of S$120 to register with the Registrar. All payment must be made through [GoBusiness Licensing Portal](https://www.gobusiness.gov.sg/licences){:target="_blank"}.  
+Regulated dealers must pay an application fee of S$120 to register with the Registrar. All payment must be made through [GoBusiness Licensing Portal](https://www.go.gov.sg/gobusiness-login){:target="_blank"}.  
   
 Registration is on an annual basis. If the Registrar provides in-principle approval for your application, you must pay a registration fee based on the registration tier and the number of outlets operated:
 <style type="text/css">
@@ -131,7 +132,10 @@ ABC Pte Ltd must pay a total of **S$820**:
 #### <a id="Registration Application Process"></a> Registration Application Process
 <a href="/images/Overview%20of%20Reg%20Process%2020191031.pdf" target="_blank"><img src="/images/Overview%20of%20Reg%20Process%2020191031.png"></a> <br>
 
-You may submit your application via the [GoBusiness Licensing Portal](https://www.gobusiness.gov.sg/licences){:target="_blank"}. You may refer to the [GoBusiness Licensing Guide for Regulated Dealers](/files/GoBusiness Licensing Guide for Regulated Dealers_ACD_20220603.pdf){:target="_blank"} for a step-by-step guide to the application process.
+You may submit your application via the [GoBusiness Licensing Portal](https://www.go.gov.sg/GoBusiness-login){:target="_blank"}. For help with GoBusiness Dashboard and enquiries about licences, please contact GoBusiness Helpdesk:
+
+**Telephone**<br> +65 6336 3373 <br> **Email**<br> AskGoBiz@crimsonlogic.com.sg<br> **Helpdesk Operating Hours**<br> Monday - Friday: 8.00am - 6.00pm<br> Saturdays: 8.00am - 1.00pm<br> Closed on Sundays and public holidays 
+
 
 
 #### <a id="Information Needed"></a> Information Needed
@@ -150,7 +154,7 @@ You may submit your application via the [GoBusiness Licensing Portal](https://ww
 <col style="width: 470">
 <col style="width: 380">
 </colgroup>
-  <tr>
+  <tbody><tr>
     <th class="tg-73oq" colspan="2"><span style="font-weight:bold">Important Notice</span><br><br>
 • Ensure that you have the Corppass and UEN of the business entity that the Registration Certificate will be issued to.<br>
 • You have updated your business particulars with the <a href="https://www.bizfile.gov.sg" target="_blank">Accounting and Corporate Regulatory Authority ("<b>ACRA</b>")</a> so that the updated information can be auto-populated in the application form.<br>
@@ -198,17 +202,17 @@ You may submit your application via the [GoBusiness Licensing Portal](https://ww
 • </span><span style="color:rgb(51, 51, 51)">For applicants who have </span><span style="text-decoration:underline;color:rgb(51, 51, 51)">corporate shareholders</span><span style="color:rgb(51, 51, 51)">, you should attach a copy of your shareholders’ registration information <br>(including particulars of directors, partners, managers, company secretary, outlet managers, substantial shareholders).</span><br><span style="font-weight:700;color:rgb(51, 51, 51)">
 • </span><span style="color:rgb(51, 51, 51)">For applicants who have </span><span style="text-decoration:underline;color:rgb(51, 51, 51)">more than one layer of corporate shareholders</span><span style="color:rgb(51, 51, 51)">, you should attach your organisation structure/ chart <br>up till the individuals who own the group. For listed corporate shareholders, you do not have to provide  the name of all your shareholders. You should still provide a list of those who hold more than 5% shares of the listed company.</span></td>
   </tr>
-</table>
+</tbody></table>
 
 
 #### <a id="I Need Help with Registration"></a> I Need Help with Registration
-<a href="/images/Helplines_20191127.pdf" target="_blank"><img src="/images/Helplines_20191127.PNG"></a>
+<a href="/files/Helplines_20240301.pdf" target="_blank"><img src="/images/helplines_20240301.png"></a>
 
-* If you face any technical issues when using GoBusiness Licensing Portal, you may wish to refer to the [GoBusiness Licensing Portal webpage](https://www.gobusiness.gov.sg/licences){:target="_blank"} or contact [GoBusiness Licensing Portal Helpdesk](https://www.gobusiness.gov.sg/licensing-faqs){:target="_blank"}.
-* If you are not sure how to complete the application form, you may wish to refer to the [GoBusiness Licensing Portal Guide for Regulated Dealers (Step-by-Step with Screenshots)](/files/GoBusiness Licensing Guide for Regulated Dealers_ACD_20220603.pdf){:target="_blank"} or [FAQs for Precious Stones and Precious Metals Dealers](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx){:target="_blank"}.
+* If you face any technical issues when using GoBusiness Licensing Portal, you may wish to refer to the [GoBusiness Licensing Portal webpage](https://www.gobusiness.gov.sg/licences){:target="_blank"} or contact [GoBusiness Licensing Portal Helpdesk](https://www.gobusiness.gov.sg/contact-us/){:target="_blank"}.
+
 * Regulated dealers should also visit [here](/regulation-coverage/) for information on the use of public statements relating to the registration as a regulated dealer and the Ministry of Law logo.
 
 
 #### <a id="Cancellation of Registration"></a> Cancellation of Registration
 
-If you do not wish to continue operating as a registered dealer (i.e. you are neither carrying on the business of regulated dealing nor business as an intermediary for regulated dealing), submit a cancellation application via the [GoBusiness Licensing Portal](https://www.gobusiness.gov.sg/licences){:target="_blank"}. Fees are not payable for cancellation application.
+If you do not wish to continue operating as a registered dealer (i.e. you are neither carrying on the business of regulated dealing nor business as an intermediary for regulated dealing), submit a cancellation application via the [GoBusiness Licensing Portal](https://www.go.gov.sg/GoBusiness-login){:target="_blank"}. Fees are not payable for cancellation application.

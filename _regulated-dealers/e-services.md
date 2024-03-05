@@ -2,6 +2,7 @@
 title: E-Services
 permalink: /e-services/
 breadcrumb: E-Services
+variant: markdown
 ---
 #### E-Services for Regulated Dealers
 <br>
@@ -23,7 +24,7 @@ width: 30%;
 
 | No. | Types of Services | Directory | Related Pages |
 | --- | --- | --- | --- |
-| 1 | Submit a Registration or Renewal application | <a href="https://www.gobusiness.gov.sg/licences">GoBusiness Licensing portal</a>{:target="_blank"}  | [Registration](/registration/){:target="_blank"}/[Renewal](/renewal/){:target="_blank"} |
+| 1 | Submit a Registration or Renewal application | <a href="https://www.go.gov.sg/GoBusiness-login">GoBusiness Licensing portal</a>{:target="_blank"}  | [Registration](/registration/){:target="_blank"}/[Renewal](/renewal/){:target="_blank"} |
 | 2 |Submit a change in your company details | <a href="https://www.bizfile.gov.sg">ACRA<sup>1</sup></a>{:target="_blank"}  | [Duty to Notify Registrar of Change in Particulars and Circumstances](/other-regulatory-requirements/){:target="_blank"} |
 | 3 | Submit a Cash Transaction Report ("**CTR**") or Suspicious Transaction Report ("**STR"**) | <a href="https://www.police.gov.sg/sonar">SONAR<sup>2</sup></a>{:target="_blank"}  | [Transaction-Based Requirements](/transaction-based-requirements/){:target="_blank"} |
 | 4 | Submit semi-annual return and access monitoring lists | <a href="https://www.go.gov.sg/mypal"><i>my</i>Pal</a>{:target="_blank"}  | [Reporting Requirements](/other-regulatory-requirements/#Reporting%20Requirement){:target="_blank"} |
@@ -36,8 +37,8 @@ width: 30%;
 .tg .tg-xldj{border-color:inherit;text-align:left}
 </style>
 <table class="tg">
-  <tr>
+  <tbody><tr>
     <th class="tg-xldj"><span style="font-style:inherit"><sup>1</sup> Accounting and Corporate Regulatory Authority</span><br>
 <span style="font-style:inherit"><sup>2</sup> STRO Online Notices and Reporting platform</span></th>
   </tr>
-</table>
+</tbody></table>
