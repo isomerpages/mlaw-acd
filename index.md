@@ -14,19 +14,15 @@ sections:
         - title: Renewal
           description: Overview of renewal process
           url: /renewal/
-          external: false
         - title: List of Registered Dealers
           description: Get the latest list of Registered Dealers in Singapore
           url: /list-of-registered-dealers/
-          external: false
         - title: Regulatory Regime
           description: Overview of regulatory regime
           url: /regulatory-regime/
-          external: false
         - title: Notices from the Registrar
           description: Stay informed of the latest announcements
           url: /news/notices-from-the-registrar/
-          external: false
   - infobar:
       title: Journey of a Regulated Dealer
       description: Begin your AML/CFT journey with the guidances provided below
