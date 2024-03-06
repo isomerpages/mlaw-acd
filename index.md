@@ -2,11 +2,14 @@
 layout: homepage
 title: Ministry of Law - ACD
 permalink: /
-notification: "<b><a href='https://acd.mlaw.gov.sg/news/ongoing-events/skillsfuture-fellowships-and-skillsfuture-employer-awards-2024/'>SkillsFuture Fellowships and SkillsFuture Employer Awards 2024 (latest!)</a></b>"
+notification: <b><a
+  href="https://acd.mlaw.gov.sg/news/ongoing-events/skillsfuture-fellowships-and-skillsfuture-employer-awards-2024/">SkillsFuture
+  Fellowships and SkillsFuture Employer Awards 2024 (latest!)</a></b>
 sections:
   - hero:
       title: Regulatory Regime for Precious Stones and Precious Metals Dealers
-      subtitle: Anti-Money Laundering / Countering the Financing of Terrorism Division (ACD)
+      subtitle: Anti-Money Laundering / Countering the Financing of Terrorism Division
+        (ACD)
       background: /images/bullion1.jpg
       button: SUBMIT SEMI-ANNUAL RETURN<br>VIA MYPAL
       url: https://go.gov.sg/mypal
