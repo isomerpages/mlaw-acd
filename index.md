@@ -2,9 +2,10 @@
 layout: homepage
 title: Ministry of Law - ACD
 permalink: /
-notification: <b><a
-  href="https://acd.mlaw.gov.sg/news/ongoing-events/skillsfuture-fellowships-and-skillsfuture-employer-awards-2024/">SkillsFuture
-  Fellowships and SkillsFuture Employer Awards 2024 (latest!)</a></b>
+notification: <b> <a
+  href="https://acd.mlaw.gov.sg/news/notices-from-the-registrar/february-2024-fatf-statement/">
+  Feb 2024 FATF Public Statement - Countries/Jurisdictions with Strategic
+  Deficiencies (latest!) </a></b>
 sections:
   - hero:
       title: Regulatory Regime for Precious Stones and Precious Metals Dealers
