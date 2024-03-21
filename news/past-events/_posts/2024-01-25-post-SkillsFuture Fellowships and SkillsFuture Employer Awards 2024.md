@@ -7,6 +7,8 @@ description: ""
 image: ""
 variant: markdown
 ---
+[Applications **closed** on 20 Mar 2024]
+
 <p>Dear regulated dealers,</p>
 <p>The SkillsFuture Fellowships and the SkillsFuture Employer Awards are
 open for applications till 20 Mar 2024. The SkillsFuture Fellowships recognise
