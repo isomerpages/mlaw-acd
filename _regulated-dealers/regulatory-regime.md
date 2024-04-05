@@ -2,8 +2,9 @@
 title: Regulatory Regime
 permalink: /regulatory-regime/
 breadcrumb: Regulatory Regime
+variant: markdown
 ---
-<a href="#About the Regime">About the Regime </a>| <a href="#Exemptions">Exemptions </a> | <a href="#Regulatory Compliance for Foreign Dealers">Regulatory Compliance for Foreign Dealers </a> | <a href="#Our Role in AML/CFT">Our Role in AML/CFT </a>
+<a href="#About the Regime">About the Regime </a>| <a href="#Exemptions">Exemptions </a> | <a href="#Regulatory Compliance for Foreign Dealers">Regulatory Compliance for Foreign Dealers </a> | <a href="#Our Role in AML/CFT/CPF">Our Role in AML/CFT/CPF </a>
 
 #### <a id="About the Regime"></a> About the Regime
 
@@ -46,7 +47,7 @@ Please click [here](/entity-based-requirements/) to find out more about the role
 
 #### <a id="Exemptions"></a> Exemptions
 
-The following persons are exempted from registration under the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019 ("**PSPM Act**"):
+The following persons are exempted from registration under the Precious Stones and Precious Metals (Prevention of Money Laundering, Terrorism Financing and Proliferation Financing) Act 2019 ("**PSPM Act**"):
 
 * A pawnbroker as defined under Section 3 of the Pawnbrokers Act 2015.<br> 
 * Any person licensed, approved, registered or regulated by the Monetary Authority of Singapore under any written law.<br> 
@@ -103,9 +104,9 @@ A foreign dealer must notify the Ministry of Manpower of your intention to work 
 **Must-Know for Foreign Dealers:** Watch the [video](https://youtu.be/KRS30HOmjyk){:target="_blank"} to find out more about the regulatory requirements for foreign dealers.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KRS30HOmjyk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-#### <a id="Our Role in AML/CFT"></a> Our Role in AML/CFT 
+#### <a id="Our Role in AML/CFT"></a> Our Role in AML/CFT/CPF 
 
-Singapore is a member of the Financial Action Task Force ("**FATF**"), an inter-governmental body that sets international standards aimed to prevent money laundering and terrorism financing ("**ML/TF**"), and the harm these illegal activities cause to society. There are currently more than 200 countries and jurisdictions committed to implementing anti-money laundering/countering the financing of terrorism ("**AML/CFT**") measures in accordance to the recommendations set by the FATF.
+Singapore is a member of the Financial Action Task Force ("**FATF**"), an inter-governmental body that sets international standards aimed to prevent money laundering, terrorism financing and proliferation financing ("**ML/TF/PF**"), and the harm these illegal activities cause to society. There are currently more than 200 countries and jurisdictions committed to implementing anti-money laundering/countering the financing of terrorism ("**AML/CFT**") measures in accordance to the recommendations set by the FATF.
 
 Designated non-financial businesses and professions ("**DNFBP**") in Singapore, such as the precious stones and precious metals dealers ("**PSMD**"), have a role to play to ensure that Singapore is effective in implementing its AML/CFT policies through the PSMD sector. The regulatory requirements on the PSMD sector are set out in the PSPM Act and the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations 2019 ("**PMLTF Regulations**"). Regulated dealers should also refer to the [Guidelines for Regulated Dealers](/guidelines/){:target="_blank"}.
 
