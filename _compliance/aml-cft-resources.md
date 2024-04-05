@@ -2,6 +2,7 @@
 title: AML/CFT Resources
 permalink: /aml-cft-resources/
 breadcrumb: AML/CFT Resources
+variant: markdown
 ---
 #### 1. Monetary Authority of Singapore's ("**MAS**") website - Lists of Designated Individuals and Entities
 
@@ -16,7 +17,7 @@ On MHA’s website on [IMC-TD](https://www.mha.gov.sg/what-we-do/managing-securi
 
 To find out more about your obligations as a regulated dealer on countering terrorism financing, please click [here](/images/Measures%20relating%20to%20prevention%20of%20terrorism%20financing.pdf){:target="_blank"}.
 
-#### 3. AML/CFT Resources
+#### 3. AML/CFT/CPF Resources
 
 <style>
 table th:first-of-type {
