@@ -8,7 +8,7 @@ variant: markdown
 
 The transaction-based requirements that apply to regulated dealers include, but are not limited to, the following:
 
-* Perform Customer Due Diligence ("**CDD**") or Enhanced Customer Due Diligence ("**ECDD**") measures under circumstances that are prescribed by the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019 ("**PSPM Act**").<br>
+* Perform Customer Due Diligence ("**CDD**") or Enhanced Customer Due Diligence ("**ECDD**") measures under circumstances that are prescribed by the Precious Stones and Precious Metals (Prevention of Money Laundering, Terrorism Financing and Proliferation Financing) Act 2019 ("**PSPM Act**").<br>
 * File Cash Transaction Report ("**CTR**") with the [Suspicious Transaction Reporting Office ("**STRO**")](https://www.police.gov.sg/advisories/crime/commercial-crimes/suspicious-transaction-reporting-office){:target="_blank"} for cash and cash equivalent transactions exceeding S$20,000. Apply for a [STRO Online Notices and Reporting platform ("**SONAR**") account](https://www.police.gov.sg/sonar){:target="_blank"} to e-file your CTR. By e-filing via SONAR, a copy of the CTR would be extended to ACD. <br>
 * File Suspicious Transaction Report ("**STR**") with [STRO](https://www.police.gov.sg/advisories/crime/commercial-crimes/suspicious-transaction-reporting-office){:target="_blank"} where there is suspicion of ML/TF. Apply for a [SONAR account](https://www.police.gov.sg/sonar){:target="_blank"} to e-file your STR. By e-filing via SONAR, a copy of the STR would be extended to ACD.<br>
 * Subscribe to the [Monetary Authority of Singapore ("**MAS**")](https://www.mas.gov.sg/subscription-services){:target="_blank"} and [Ministry of Home Affairs ("**MHA**")](https://www.mha.gov.sg/what-we-do/managing-security-threats/countering-the-financing-of-terrorism){:target="_blank"} websites for the lists of designated individuals and entities and terrorist designation. You will be alerted via email whenever there is an update to the lists.
@@ -24,13 +24,13 @@ The transaction-based requirements that apply to regulated dealers include, but 
 
 #### <a id="Customer Due Diligence"></a> Customer Due Diligence
 
-CDD is the process of obtaining your customers' identifying information, recording the information and verifying who they are before transacting with them. The objective is to help you determine the money laundering/terrorism financing ("**ML/TF**") risks and take appropriate mitigating measures to address them.
+CDD is the process of obtaining your customers' identifying information, recording the information and verifying who they are before transacting with them. The objective is to help you determine the money laundering/terrorism financing/proliferation financing ("**ML/TF/PF**") risks and take appropriate mitigating measures to address them.
 
 In the event where you are unable to perform or complete the required CDD, you must not proceed with the transaction. You should terminate any transaction entered into with the customer and consider whether to file a STR. If you suspect that the customer is in the listings for terrorist designation and designated individuals and entities, you must stop the transaction and report to the police. Please refer to the [Guidelines](/files/guidelines for regulated dealers_20231115_v3.0.pdf){:target="_blank"} for more information.
 
 #### <a id="Enhanced Customer Due Diligence"></a> Enhanced Customer Due Diligence
 
-Where the ML/TF risks are identified to be higher, regulated dealers are expected to take ECDD measures to mitigate and manage those risks.
+Where the ML/TF/PF risks are identified to be higher, regulated dealers are expected to take ECDD measures to mitigate and manage those risks.
 
 Please refer to the [Guidelines](/files/guidelines for regulated dealers_20231115_v3.0.pdf){:target="_blank"} for more information.
 
@@ -59,6 +59,6 @@ Regulated dealers who enter into any designated transaction<sup>1</sup> must sub
 
 #### <a id="Suspicious Transaction Report"></a> Suspicious Transaction Report
 
-Regulated dealers are required to file a STR when there are suspicions on ML/TF activities in the business transaction. This should be filed electronically via [SONAR](https://www.police.gov.sg/sonar){:target="_blank"}. Regulated dealers are reminded that it is an offence under the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act ("**CDSA**") to tip off another person on a STR filed with STRO.
+Regulated dealers are required to file a STR when there are suspicions on ML/TF/PF activities in the business transaction. This should be filed electronically via [SONAR](https://www.police.gov.sg/sonar){:target="_blank"}. Regulated dealers are reminded that it is an offence under the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act ("**CDSA**") to tip off another person on a STR filed with STRO.
 
 Please refer to the [STRO website](https://www.police.gov.sg/advisories/crime/commercial-crimes/suspicious-transaction-reporting-office){:target="_blank"} on how to file a STR.
