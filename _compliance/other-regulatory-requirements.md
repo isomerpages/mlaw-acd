@@ -38,7 +38,7 @@ If you do not wish to continue operating as a registered dealer (i.e. you are ne
 
 Regulated dealers are required to conduct ongoing monitoring of the transactions carried out by your customer to ascertain that they are consistent with your knowledge of the customer.
 
-Regulated dealers are required to periodically review the adequacy of information and documents obtained as a result of the customer due diligence ("**CDD**") measures, particularly in cases where there is a higher risk of money laundering/terrorism financing ("**ML/TF**"). This is to ensure that the information is kept current and relevant.
+Regulated dealers are required to periodically review the adequacy of information and documents obtained as a result of the customer due diligence ("**CDD**") measures, particularly in cases where there is a higher risk of money laundering/terrorism financing/proliferation financing ("**ML/TF/PF**"). This is to ensure that the information is kept current and relevant.
 
 #### <a id="Record Keeping"></a> Record Keeping
 
@@ -46,6 +46,6 @@ Regulated dealers are required to keep relevant documents and information for a 
 
 #### <a id="Notices from the Registrar"></a> Notices from the Registrar
 
-The Registrar of Regulated Dealers regularly issues notices to all regulated dealers with respect to measures for the prevention of ML/TF. These include [Guidelines](/files/guidelines for regulated dealers_20231115_v3.0.pdf){:target="_blank"} to help regulated dealers understand their regulatory requirements and publications by the Financial Action Task Force ("**FATF**").
+The Registrar of Regulated Dealers regularly issues notices to all regulated dealers with respect to measures for the prevention of ML/TF/PF. These include [Guidelines](/files/guidelines for regulated dealers_20231115_v3.0.pdf){:target="_blank"} to help regulated dealers understand their regulatory requirements and publications by the Financial Action Task Force ("**FATF**").
 
 Please click [here](/news/notices-from-the-registrar/){:target="_blank"} to view the notices issued by the Registrar.
