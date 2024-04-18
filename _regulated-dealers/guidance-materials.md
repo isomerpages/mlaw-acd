@@ -18,8 +18,8 @@ The screening function in [*my*Pal](https://go.gov.sg/mypal){:target="_blank"}  
 
 #### <a id="Guidelines for Regulated Dealers"></a>3. Guidelines for Regulated Dealers
 
-The [Guidelines for Regulated Dealers in the Precious Stones and Precious Metals Dealers Sector on Anti-Money Laundering/Countering the Financing of Terrorism ("**Guidelines**")](/files/guidelines for regulated dealers_20231115_v3.0.pdf){:target="_blank"} are meant to help regulated dealers understand the regulatory requirements under the Precious Stones and Precious Metals (Prevention of Money Laundering, Terrorism Financing and Proliferation Financing) Act 2019 ("**PSPM Act**") and Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations 2019 ("**PMLTF Regulations**").<a href="#footnote1"></a><br><br> 
-The Guidelines also provide [sample forms and checklists<sup>1</sup>](/files/guidelines for regulated dealers_Annexes_20231115_v3.01.docx){:target="_blank"} to assist regulated dealers in meeting their regulatory obligations.  <b>However, regulated dealers remain responsible for ensuring that their Anti-Money Laundering/Countering the Financing of Terrorism ("**AML/CFT**") measures are appropriately designed for their business and commensurate with their money laundering/terrorism financing/proliferation financing ("**ML/TF/PF**") risk exposure.</b><br><br>
+The [Guidelines for Regulated Dealers in the Precious Stones and Precious Metals Dealers Sector on Anti-Money Laundering/Countering the Financing of Terrorism/Countering Proliferation Financing ("**Guidelines**")] (Published Date: 15 Nov 2023) (/files/guidelines for regulated dealers_20231115_v3.0.pdf){:target="_blank"} are meant to help regulated dealers understand the regulatory requirements under the Precious Stones and Precious Metals (Prevention of Money Laundering, Terrorism Financing and Proliferation Financing) Act 2019 ("**PSPM Act**") and Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations 2019 ("**PMLTF Regulations**").<a href="#footnote1"></a><br><br> 
+The Guidelines also provide [sample forms and checklists<sup>1</sup>](/files/guidelines for regulated dealers_Annexes_20231115_v3.01.docx){:target="_blank"} to assist regulated dealers in meeting their regulatory obligations.  <b>However, regulated dealers remain responsible for ensuring that their Anti-Money Laundering/Countering the Financing of Terrorism/Countering Proliferation Financing ("**AML/CFT/CPF**") measures are appropriately designed for their business and commensurate with their money laundering/terrorism financing/proliferation financing ("**ML/TF/PF**") risk exposure.</b><br><br>
 
 
 <style type="text/css">
@@ -42,17 +42,17 @@ Regulated dealers are required to keep records of the customer due diligence ("*
 
 The Compliance Toolkit aims to guide and facilitate regulated dealers' compliance with the various requirements under the PSPM Act and the PMLTF Regulations. It serves as a quick guide relating to applications, notifications, regulatory submissions and compliance. 
 
-Download and open the [Compliance Toolkit](/files/compliance%20toolkit%20for%20psmd_20240111.pdf){:target="blank"} with a PDF reader on desktop to open the thumbnails. 
+Download and open the [Compliance Toolkit] (Published Date: 11 Jan 2024)(/files/compliance%20toolkit%20for%20psmd_20240111.pdf){:target="blank"} with a PDF reader on desktop to open the thumbnails. 
 
-#### <a id="Guidance Paper on Strengthening AML/CFT Controls in the Precious Stones and Precious Metals (PSPM) Sector"></a>6. Guidance Paper on Strengthening AML/CFT Controls in the Precious Stones and Precious Metals (PSPM) Sector
+#### <a id="Guidance Paper on Strengthening AML/CFT Controls in the Precious Stones and Precious Metals (PSPM) Sector"></a>6. Guidance Paper on Strengthening AML/CFT/CPF Controls in the Precious Stones and Precious Metals (PSPM) Sector
 
 MinLaw conducted a series of inspections and compliance reviews of regulated dealers targeted at assessing their level of compliance with the PSPM Act and PMLTF Regulations.
 
-The [Guidance Paper](/images/Guidance Paper_20210616.pdf){:target="_blank"} sets out the key findings and MinLaw’s supervisory expectations of effective AML/CFT controls in the precious stones and precious metals dealer ("**PSMD**") Sector. 
+The [Guidance Paper] (Published Date: Jun 2021) (/images/Guidance Paper_20210616.pdf){:target="_blank"} sets out the key findings and MinLaw’s supervisory expectations of effective AML/CFT/CPF controls in the precious stones and precious metals dealer ("**PSMD**") Sector. 
 
 Please click [here](/images/Guidance Paper Briefing slides_20210712.pdf){:target="_blank"} to view the Guidance Paper Briefing slides. The video for the Guidance Paper Briefing is available [here](https://youtu.be/RaOrZNbtMFM){:target="_blank"}.
 
-Regulated dealers should study the learning points and incorporate them in a manner proportionate to the risk profile of their business activities and customers. The regulated dealers should note that examples highlighted in this paper are non-exhaustive and they should continue to implement appropriate AML/CFT controls that commensurate with the nature and complexity of their business.
+Regulated dealers should study the learning points and incorporate them in a manner proportionate to the risk profile of their business activities and customers. The regulated dealers should note that examples highlighted in this paper are non-exhaustive and they should continue to implement appropriate AML/CFT/CPF controls that commensurate with the nature and complexity of their business.
 
 
 
@@ -66,7 +66,7 @@ To find out more about your obligations as a regulated dealer on countering terr
 
 #### <a id="Notice for Customers from the Ministry of Law"></a>8. Notice for Customers from the Ministry of Law ("**Notice for Customers**")
 
-The Notice for Customers explains that regulated dealers are required to collect identifying information from customers under the regulatory regime. Regulated dealers may wish to consider using the Notice for Customers to educate their customers on the AML/CFT requirements.
+The Notice for Customers explains that regulated dealers are required to collect identifying information from customers under the regulatory regime. Regulated dealers may wish to consider using the Notice for Customers to educate their customers on the AML/CFT/CPF requirements.
 
 This Notice for Customers is available in 4 languages - English, Chinese, Malay and Tamil.
 
@@ -106,4 +106,4 @@ This Notice for Customers is available in 4 languages - English, Chinese, Malay 
 
 #### <a id="GoBusiness Licensing Guide for Precious Stones and Precious Metals Dealers"></a>9. GoBusiness Licensing Guide for Precious Stones and Precious Metals Dealers ("**GoBusiness Licensing Guide**")
 
-The [GoBusiness Licensing Guide](/files/GoBusiness Licensing Guide for Regulated Dealers_ACD_20220603.pdf){:target="_blank"} gives regulated dealers a step-by-step walkthrough of the application, renewal and amendment processes in GoBusiness Licensing Portal.
+The [GoBusiness Licensing Guide] (Published Date: 3 June 2022) (/files/GoBusiness Licensing Guide for Regulated Dealers_ACD_20220603.pdf){:target="_blank"} gives regulated dealers a step-by-step walkthrough of the application, renewal and amendment processes in GoBusiness Licensing Portal.
