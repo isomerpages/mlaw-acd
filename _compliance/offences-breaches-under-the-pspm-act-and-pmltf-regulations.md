@@ -55,12 +55,24 @@ variant: markdown
     <td class="tg-0lax">Fine not exceeding $20,000 or to imprisonment for a term not exceeding 2 years or to both</td>
   </tr>
   <tr>
+		<td class="">Cash transaction report (''<span style="font-weight:bold">CTR</span>'')</td>
+			<td class="">Sec 17(1A)</td>
+			<td class="">Incomplete or inaccurate submission of CTR</td>
+			<td class="">Fine not exceeding $20,000 or to imprisonment for a term not exceeding 2 years or to both</td>
+			</tr>
+			<tr>
     <td class="tg-0lax">Record keeping</td>
     <td class="tg-0lax">Sec 18(5)</td>
-    <td class="tg-0lax">Contravention of record keeping requirements</td>
+    <td class="tg-0lax">Contravention of record keeping requirements for regulated dealers.</td>
     <td class="tg-0lax">Fine not exceeding $100,000</td>
   </tr>
   <tr>
+			<td class="">Record keeping</td>
+			<td class="">Sec 18(1A)</td>
+			<td class="">Contravention of record keeping requirements for former regulated dealers.</td>
+			<td class="">Fine not exceeding $100,000
+			</td></tr>
+			<tr>
     <td class="tg-0lax">Risk assessment and internal policies, procedures and controls (“<span style="font-weight:bold">IPPC</span>”)</td>
     <td class="tg-0lax">Sec 19(3)</td>
     <td class="tg-0lax">Contravention of risk assessment and IPPC requirements</td>
