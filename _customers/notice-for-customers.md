@@ -2,10 +2,11 @@
 title: Notice for Customers
 permalink: /notice-for-customers/
 breadcrumb: Notice for Customers
+variant: markdown
 ---
 #### **Notice for Customers**
 
-The Notice for Customers explains that regulated dealers are required to collect identifying information from customers under the regulatory regime. Regulated dealers may wish to consider using the Notice for Customers to educate their customers on the anti-money laundering/countering the financing of terrorism ("**AML/CFT**") requirements.
+The Notice for Customers explains that regulated dealers are required to collect identifying information from customers under the regulatory regime. Regulated dealers may wish to consider using the Notice for Customers to educate their customers on the anti-money laundering/countering the financing of terrorism/countering proliferation financing ("**AML/CFT/CPF**") requirements.
 
 This Notice for Customers is available in 4 languages - English, Chinese, Malay and Tamil.
 
@@ -19,7 +20,7 @@ This Notice for Customers is available in 4 languages - English, Chinese, Malay 
 .tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
 <table class="tg">
-  <tr>
+  <tbody><tr>
     <th class="tg-1wig">Language</th>
     <th class="tg-1wig">Notice for customers</th>
   </tr>
@@ -39,7 +40,7 @@ This Notice for Customers is available in 4 languages - English, Chinese, Malay 
     <td class="tg-1wig">Tamil</td>
     <td class="tg-0lax"><a href="/images/NoticeForCustomersPoster(Tamil)Mar2020.pdf" target="_blank">Notice for Customers (Tamil PDF)</a></td>
   </tr>
-</table>
+</tbody></table>
 
 <a href="/images/NoticeForCustomersPoster(Eng)Mar2020.pdf" target="_blank"><img src="/images/NoticeForCustomersPoster(Eng)Mar2020.jpg"></a>
 
