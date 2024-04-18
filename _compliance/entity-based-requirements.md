@@ -6,7 +6,7 @@ variant: markdown
 ---
 ####  Risk Assessment and Internal Policies, Procedures and Controls
 
-Regulated dealers are required to perform an assessment of the money laundering ("**ML**"), terrorism financing ("**TF**") and proliferation financing ("**PF**") risks faced by their business. They are also required to develop internal policies, procedures and controls ("**IPPC**") to manage their ML/TF risks.
+Regulated dealers are required to perform an assessment of the money laundering ("**ML**"), terrorism financing ("**TF**") and proliferation financing ("**PF**") risks faced by their business. They are also required to develop internal policies, procedures and controls ("**IPPC**") to manage their ML/TF/PF risks.
 
 **Entity-Based Requirements for Precious Stones and Precious Metals Dealers (“PSMD”):** Watch the videos to find out how the regulatory regime safeguards the PSMD sector and begin your journey as a regulated dealer.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l6R8ovdrn4g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
