@@ -150,11 +150,11 @@ The Registrar of Regulated Dealers may impose additional conditions or waive exi
   </tr>
   <tr>
     <td class="tg-0pky">Director<br>Partner<br>Manager<br>Company secretary<br>Substantial shareholder (if you represent a company)</td>
-    <td class="tg-0pky"><b>1. Name*</b><br><b>2. NRIC/ Passport/ FIN No.*</b><br><b>3. Citizenship or Country/ Region of Incorporation*</b><br>4. Date of birth<br>5. Declaration of<br>(a) Any investigations or convictions for offences related to fraud, dishonesty, money laundering, terrorism financing or proliferation financing;<br>(b) Any bankruptcy, insolvency or liquidation;<br>(c) Any lawsuit the person was a party to; and<br>(d) Any breach of AML/CFT requirements<br><br><b>* Information is auto-populated for ACRA registered entities</b></td>
+    <td class="tg-0pky"><b>1. Name*</b><br><b>2. NRIC/ Passport/ FIN No.*</b><br><b>3. Citizenship or Country/ Region of Incorporation*</b><br>4. Date of birth<br>5. Declaration of<br>(a) Any investigations or convictions for offences related to fraud, dishonesty, money laundering, terrorism financing or proliferation financing;<br>(b) Any bankruptcy, insolvency or liq'uidation;<br>(c) Any lawsuit the person was a party to; and<br>(d) Any breach of AML/CFT/CPF requirements<br><br><b>* Information is auto-populated for ACRA registered entities</b></td>
   </tr>
   <tr>
     <td class="tg-0pky">Person holding an analogous position<br>involved in the management of the applicant</td>
-    <td class="tg-0pky" rowspan="2">1. Name<br>2. NRIC/ Passport/ FIN No.<br>3. Citizenship or Country/ Region of Incorporation<br>4. Date of birth<br>5. Declaration of<br>(a) Any investigations or convictions for offences related to fraud, dishonesty, money laundering, terrorism financing or proliferation financing;<br>(b) Any bankruptcy, insolvency or liquidation;<br>(c) Any lawsuit the person was a party to; and<br>(d) Any breach of AML/CFT requirements</td>
+    <td class="tg-0pky" rowspan="2">1. Name<br>2. NRIC/ Passport/ FIN No.<br>3. Citizenship or Country/ Region of Incorporation<br>4. Date of birth<br>5. Declaration of<br>(a) Any investigations or convictions for offences related to fraud, dishonesty, money laundering, terrorism financing or proliferation financing;<br>(b) Any bankruptcy, insolvency or liquidation;<br>(c) Any lawsuit the person was a party to; and<br>(d) Any breach of AML/CFT/CPF requirements</td>
   </tr>
   <tr>
     <td class="tg-0pky">Outlet manager</td>
