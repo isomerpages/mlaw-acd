@@ -8,7 +8,7 @@ variant: markdown
 
 #### <a id="Semi-Annual Return Instruction Guide"></a> 1. Semi-Annual Return Instruction Guide
 
-The [instruction guide] (Published Date: 13 Dec 2022) (/files/Semi-Annual Return Instruction Guide_20221213.pdf){:target="_blank"} and [guidance video](https://youtu.be/Jpcj4iYSOSM){:target="_blank"} provide regulated dealers with a step-by-step walkthrough (with screenshots) on how to navigate and submit the semi-annual return via [<i>my</i>Pal](https://go.gov.sg/mypal){:target="_blank"}. Please click [here](https://acd.mlaw.gov.sg/other-regulatory-requirements){:target="_blank"} for information on the reporting requirement.
+The [instruction guide] (Published Date: 13 Dec 2022) (/files/semi-annual return instruction guide_20240501.pdf){:target="_blank"} and [guidance video](https://youtu.be/Jpcj4iYSOSM){:target="_blank"} provide regulated dealers with a step-by-step walkthrough (with screenshots) on how to navigate and submit the semi-annual return via [<i>my</i>Pal](https://go.gov.sg/mypal){:target="_blank"}. Please click [here](https://acd.mlaw.gov.sg/other-regulatory-requirements){:target="_blank"} for information on the reporting requirement.
 
 #### <a id="Monetary Authority of Singapore's website - Lists of Designated Individuals and Entities"></a> 2. Monetary Authority of Singapore's ("**MAS**") website - Lists of Designated Individuals and Entities
 
