@@ -63,13 +63,13 @@ variant: markdown
 			<tr>
     <td class="tg-0lax">Record keeping</td>
     <td class="tg-0lax">Sec 18(5)</td>
-    <td class="tg-0lax">Contravention of record keeping requirements for regulated dealers.</td>
+    <td class="tg-0lax">Contravention of record keeping requirements for regulated dealers</td>
     <td class="tg-0lax">Fine not exceeding $100,000</td>
   </tr>
   <tr>
 			<td class="">Record keeping</td>
 			<td class="">Sec 18(1A)</td>
-			<td class="">Contravention of record keeping requirements for former regulated dealers.</td>
+			<td class="">Contravention of record keeping requirements for former regulated dealers</td>
 			<td class="">Fine not exceeding $100,000
 			</td></tr>
 			<tr>
