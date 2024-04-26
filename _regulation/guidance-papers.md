@@ -4,11 +4,11 @@ permalink: /guidance-papers/
 breadcrumb: Guidance Papers
 variant: markdown
 ---
-#### [Guidance Paper on Strengthening AML/CFT Controls in the Precious Stones and Precious Metals ("PSPM") Sector] (Published Date: June 2021)(/images/Guidance Paper_20210616.pdf){:target="_blank"}
+#### [Guidance Paper on Strengthening AML/CFT Controls in the Precious Stones and Precious Metals ("PSPM") Sector](/images/Guidance Paper_20210616.pdf){:target="_blank"}
 
 MinLaw conducted a series of inspections and compliance reviews of regulated dealers targeted at assessing their level of compliance with the Precious Stones and Precious Metals (Prevention of Money Laundering, Terrorism Financing and Proliferation Financing) Act 2019 ("**PSPM Act**") and Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations 2019 ("**PMLTF Regulations**").
- 
-The [Guidance Paper] (Published Date: June 2021) (/images/Guidance Paper_20210616.pdf){:target="_blank"} sets out the key findings and MinLaw’s supervisory expectations of effective Anti-Money Laundering/Countering the Financing of Terrorism/Countering Proliferation Financing ("**AML/CFT/CPF**") controls in the precious stones and precious metals dealer ("**PSMD**") Sector. 
+
+The [Guidance Paper](/images/Guidance Paper_20210616.pdf){:target="_blank"} (Published Date: June 2021) sets out the key findings and MinLaw’s supervisory expectations of effective Anti-Money Laundering/Countering the Financing of Terrorism/Countering Proliferation Financing ("**AML/CFT/CPF**") controls in the precious stones and precious metals dealer ("**PSMD**") Sector. 
 
 Please click [here](/images/Guidance Paper Briefing slides_20210712.pdf){:target="_blank"} to view the Guidance Paper Briefing slides (Published Date: July 2021). The video for the Guidance Paper Briefing is available [here](https://youtu.be/RaOrZNbtMFM){:target="_blank"}.
 
