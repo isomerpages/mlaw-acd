@@ -2,5 +2,5 @@ collections:
   regulation:
     output: true
     order:
-      - guidelines-for-regulated-dealers.md
+      - Guidelines for Regulated Dealers.md
       - guidance-papers.md
