@@ -9,7 +9,7 @@ description: ""
 
 #### <a id="Semi-Annual Return Instruction Guide"></a> 1. Semi-Annual Return Instruction Guide
 
-The [instruction guide] (Published Date: 13 Dec 2022) (/files/semi-annual return instruction guide_20240501.pdf){:target="_blank"} and [guidance video](https://youtu.be/Jpcj4iYSOSM){:target="_blank"} provide regulated dealers with a step-by-step walkthrough (with screenshots) on how to navigate and submit the semi-annual return via [<i>my</i>Pal](https://go.gov.sg/mypal){:target="_blank"}. Please click [here](https://acd.mlaw.gov.sg/other-regulatory-requirements){:target="_blank"} for information on the reporting requirement.
+The [instruction guide](/files/semi-annual return instruction guide_20240501.pdf){:target="_blank"} (Published Date: 13 Dec 2022) and [guidance video](https://youtu.be/Jpcj4iYSOSM){:target="_blank"} provide regulated dealers with a step-by-step walkthrough (with screenshots) on how to navigate and submit the semi-annual return via [<i>my</i>Pal](https://go.gov.sg/mypal){:target="_blank"}. Please click [here](https://acd.mlaw.gov.sg/other-regulatory-requirements){:target="_blank"} for information on the reporting requirement.
 
 #### <a id="Monetary Authority of Singapore's website - Lists of Designated Individuals and Entities"></a> 2. Monetary Authority of Singapore's ("**MAS**") website - Lists of Designated Individuals and Entities
 
@@ -43,7 +43,7 @@ Regulated dealers are required to keep records of the customer due diligence ("*
 
 The Compliance Toolkit aims to guide and facilitate regulated dealers' compliance with the various requirements under the PSPM Act and the PMLTF Regulations. It serves as a quick guide relating to applications, notifications, regulatory submissions and compliance. 
 
-Download and open the [Compliance Toolkit] (Published Date: 11 Jan 2024)(/files/compliance%20toolkit%20for%20psmd_20240111.pdf){:target="blank"} with a PDF reader on desktop to open the thumbnails. 
+Download and open the [Compliance Toolkit] (/files/compliance%20toolkit%20for%20psmd_20240111.pdf){:target="blank"} (Published Date: 11 Jan 2024) with a PDF reader on desktop to open the thumbnails. 
 
 #### <a id="Guidance Paper on Strengthening AML/CFT Controls in the Precious Stones and Precious Metals (PSPM) Sector"></a>6. Guidance Paper on Strengthening AML/CFT/CPF Controls in the Precious Stones and Precious Metals (PSPM) Sector
 
@@ -107,4 +107,4 @@ This Notice for Customers is available in 4 languages - English, Chinese, Malay 
 
 #### <a id="GoBusiness Licensing Guide for Precious Stones and Precious Metals Dealers"></a>9. GoBusiness Licensing Guide for Precious Stones and Precious Metals Dealers ("**GoBusiness Licensing Guide**")
 
-The [GoBusiness Licensing Guide] (Published Date: 3 June 2022) (/files/GoBusiness Licensing Guide for Regulated Dealers_ACD_20220603.pdf){:target="_blank"} gives regulated dealers a step-by-step walkthrough of the application, renewal and amendment processes in GoBusiness Licensing Portal.
+The [GoBusiness Licensing Guide](/files/GoBusiness Licensing Guide for Regulated Dealers_ACD_20220603.pdf){:target="_blank"} (Published Date: 3 June 2022) gives regulated dealers a step-by-step walkthrough of the application, renewal and amendment processes in GoBusiness Licensing Portal.
