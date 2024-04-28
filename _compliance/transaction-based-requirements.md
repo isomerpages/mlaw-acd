@@ -32,7 +32,7 @@ In the event where you are unable to perform or complete the required CDD, you m
 
 Where the ML/TF/PF risks are identified to be higher, regulated dealers are expected to take ECDD measures to mitigate and manage those risks.
 
-Please refer to the [Guidelines] (Published Date: 15 Nov 2023) (/files/guidelines for regulated dealers_20231115_v3.0.pdf){:target="_blank"} for more information.
+Please refer to the <a target="_blank" href="/files/guidelines for regulated dealers_20231115_v3.0.pdf">Guidelines</a> for more information.
 
 #### <a id="Cash Transaction Report"></a> Cash Transaction Report
 
