@@ -15,7 +15,7 @@ The <a target="_blank" href="/files/semi-annual_return_instruction_guide_2024050
 
 MAS publishes <a target="_blank" href="https://www.mas.gov.sg/regulation/anti-money-laundering/targeted-financial-sanctions/lists-of-designated-individuals-and-entities">lists</a> of individuals and entities designated under the United Nations Act ("**UN Act**") and the Terrorism (Suppression of Financing) Act ("**TSOFA**"). Regulated dealers should <a target="_blank" href="https://www.mas.gov.sg/subscription-services">subscribe</a> to the MAS mailing list to receive updated lists of designated individuals and entities. Regulated dealers are required to screen their customers against the lists before engaging in any business or commercial activity with them.<br><br>
 You may refer to the <a target="_blank" href="/images/MAS%20Website%20Subscriber%20Services%20Guide_20191105_V1Final.pdf">MAS Website Subscriber Services Guide</a> for a step-by-step guide to the subscription process.<br><br> 
-The screening function in <a target="_blank" href="https://go.gov.sg/mypal"><i>my</i>Pal</a> (Published Date: Aug 2022) allows regulated dealers to conduct screening on the lists of designated individuals and entities. Please refer to the <a target="_blank" href="/files/Screening%20Module%20Instruction%20Guide_20220901.pdf">instruction guide</a>  and <a target="_blank" href="https://www.youtube.com/watch?v=i6at7WyPxRs">guidance video</a> for a step-by-step walkthrough (with screenshots) on how to use the screening function.
+The screening function in <a target="_blank" href="https://go.gov.sg/mypal"><i>my</i>Pal</a> (Published Date: Aug 2022) allows regulated dealers to conduct screening on the lists of designated individuals and entities. Please refer to the <a target="_blank" href="/files/Screening%20Module%20Instruction%20Guide_20220901.pdf">instruction guide</a> and <a target="_blank" href="https://www.youtube.com/watch?v=i6at7WyPxRs">guidance video</a> for a step-by-step walkthrough (with screenshots) on how to use the screening function.
 
 #### <a id="Guidelines for Regulated Dealers"></a>3. Guidelines for Regulated Dealers
 
@@ -104,4 +104,3 @@ This Notice for Customers is available in 4 languages - English, Chinese, Malay 
 </tbody></table>
 
 <a href="/images/NoticeForCustomersPoster(Eng)Mar2020.pdf" target="_blank"><img src="/images/NoticeForCustomersPoster(Eng)Mar2020.jpg"></a>
-
