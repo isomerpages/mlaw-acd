@@ -1,7 +1,7 @@
 ---
-title: AML, CFT, CPF Resources
+title: AML/CFT/CPF Resources
 permalink: /aml-cft-cpf-resources/
-breadcrumb: AML/CFT Resources
+breadcrumb: AML/CFT/CPF Resources
 variant: markdown
 description: ""
 ---
