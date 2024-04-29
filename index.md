@@ -13,7 +13,7 @@ sections:
         (ACD)
       background: /images/bullion1.jpg
       button: DOWNLOAD YOUR<br>COMPLIANCE TOOLKIT
-      url: https://acd.mlaw.gov.sg/files/compliance%20toolkit%20for%20psmd_20240111.pdf
+      url: https://acd.mlaw.gov.sg/files/Compliance_Toolkit_for_PSMD_20240501.pdf
       key_highlights:
         - title: Renewal
           description: Overview of renewal process
