@@ -24,7 +24,7 @@ Please refer to the [PSPM Act](https://sso.agc.gov.sg/Act/PSPMPMLTFA2019){:targe
 
 #### <a id="Fees and Registering your Place(s) of Business"></a> Fees and Registering your Place(s) of Business
 
-Regulated dealers must pay an application fee of S$120 to register with the Registrar. All payment must be made through [GoBusiness Licensing Portal](https://www.go.gov.sg/gobusiness-login){:target="_blank"}.  
+Regulated dealers must pay an application fee of S$120 to register with the Registrar. All payment must be made through [GoBusiness Dashboard](https://www.go.gov.sg/gobusiness-login){:target="_blank"}.  
   
 Registration is on an annual basis. If the Registrar provides in-principle approval for your application, you must pay a registration fee based on the registration tier and the number of outlets operated:
 <style type="text/css">
@@ -132,7 +132,7 @@ ABC Pte Ltd must pay a total of **S$820**:
 #### <a id="Registration Application Process"></a> Registration Application Process
 <a href="/images/Overview%20of%20Reg%20Process%2020191031.pdf" target="_blank"><img src="/images/Overview%20of%20Reg%20Process%2020191031.png"></a> <br>
 
-You may submit your application via the [GoBusiness Licensing Portal](https://www.go.gov.sg/GoBusiness-login){:target="_blank"}. For help with GoBusiness Dashboard and enquiries about licences, please contact GoBusiness Helpdesk:
+You may submit your application via the [GoBusiness Dashboard](https://www.go.gov.sg/GoBusiness-login){:target="_blank"}. For help with GoBusiness Dashboard and enquiries about licences, please contact GoBusiness Helpdesk:
 
 **Telephone**<br> +65 6336 3373 <br> **Email**<br> AskGoBiz@crimsonlogic.com.sg<br> **Helpdesk Operating Hours**<br> Monday - Friday: 8.00am - 6.00pm<br> Saturdays: 8.00am - 1.00pm<br> Closed on Sundays and public holidays 
 
@@ -208,11 +208,11 @@ You may submit your application via the [GoBusiness Licensing Portal](https://ww
 #### <a id="I Need Help with Registration"></a> I Need Help with Registration
 <a href="/files/Helplines_20240408.pdf" target="_blank"><img src="/images/Helplines_20240408.png"></a>
 
-* If you face any technical issues when using GoBusiness Licensing Portal, you may wish to refer to the [GoBusiness Licensing Portal webpage](https://www.gobusiness.gov.sg/licences){:target="_blank"} or contact [GoBusiness Licensing Portal Helpdesk](https://www.gobusiness.gov.sg/contact-us/){:target="_blank"}.
+* If you face any technical issues when using GoBusiness Dashboard, you may wish to refer to the [GoBusiness webpage](https://www.gobusiness.gov.sg/licences){:target="_blank"} or contact [GoBusiness Helpdesk](https://www.gobusiness.gov.sg/contact-us/){:target="_blank"}.
 
 * Regulated dealers should also visit [here](/regulation-coverage/) for information on the use of public statements relating to the registration as a regulated dealer and the Ministry of Law logo.
 
 
 #### <a id="Cancellation of Registration"></a> Cancellation of Registration
 
-If you do not wish to continue operating as a registered dealer (i.e. you are neither carrying on the business of regulated dealing nor business as an intermediary for regulated dealing), submit a cancellation application via the [GoBusiness Licensing Portal](https://www.go.gov.sg/GoBusiness-login){:target="_blank"}. Fees are not payable for cancellation application.
+If you do not wish to continue operating as a registered dealer (i.e. you are neither carrying on the business of regulated dealing nor business as an intermediary for regulated dealing), submit a cancellation application via the [GoBusiness Dashboard](https://www.go.gov.sg/GoBusiness-login){:target="_blank"}. Fees are not payable for cancellation application.
