@@ -8,7 +8,7 @@ variant: markdown
 
 #### <a id="About the Regime"></a> About the Regime
 
-<a href="/images/Money%20Laundering%20%26%20Terrorism%20Financing%20Risks%20in%20the%20Precious%20Stones%20and%20Precious%20Metals%20Dealers%20Sector.pdf" target="_blank"><img src="/images/Money%20Laundering%20%26%20Terrorism%20Financing%20Risks%20in%20the%20Precious%20Stones%20and%20Precious%20Metals%20Dealers%20Sector.jpg"></a>
+<a href="/files/ML_TF_Risks_in_the_PSMD_Sector.pdf" target="_blank"><img src="/images/ML_TF_Risks_in_the_PSMD_Sector.jpg"></a>
 
 The regime covers regulated dealers.
 
