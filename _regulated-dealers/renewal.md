@@ -118,7 +118,7 @@ ABC Pte Ltd must pay a total of **S$700**:
 
 #### <a id="Renewal Application Process"></a> Renewal Application Process
 
-You may submit your application via the [GoBusiness Licensing Portal](https://www.go.gov.sg/GoBusiness-login){:target="_blank"}. For help with GoBusiness Dashboard and enquiries about licences, please contact GoBusiness Helpdesk:<br><br> **Telephone**<br> +65 6336 3373<br>**Email**<br> AskGoBiz@crimsonlogic.com.sg<br> **Helpdesk Operating Hours** <br> Monday - Friday: 8.00am - 6.00pm<br> Saturdays: 8.00am - 1.00pm<br> Closed on Sundays and public holidays
+You may submit your application via the [GoBusiness Dashboard](https://www.go.gov.sg/GoBusiness-login){:target="_blank"}. For help with GoBusiness Dashboard and enquiries about licences, please contact GoBusiness Helpdesk:<br><br> **Telephone**<br> +65 6336 3373<br>**Email**<br> AskGoBiz@crimsonlogic.com.sg<br> **Helpdesk Operating Hours** <br> Monday - Friday: 8.00am - 6.00pm<br> Saturdays: 8.00am - 1.00pm<br> Closed on Sundays and public holidays
 
 The Registrar of Regulated Dealers may impose additional conditions or waive existing conditions for registration, for the renewed registration period.
 
@@ -187,4 +187,4 @@ The Registrar of Regulated Dealers may impose additional conditions or waive exi
 #### <a id="I Need Help with Renewal"></a> I Need Help with Renewal
 <a href="/files/Helplines_20240408.pdf" target="_blank"><img src="/images/Helplines_20240408.png"></a>
 
-* If you face any technical issues when using GoBusiness Licensing Portal, you may wish to refer to the [GoBusiness Licensing Portal webpage](https://www.gobusiness.gov.sg/licences){:target="_blank"} or contact [GoBusiness Licensing Portal Helpdesk](https://www.gobusiness.gov.sg/contact-us/){:target="_blank"}.
+* If you face any technical issues when using GoBusiness Dashboard, you may wish to refer to the [GoBusiness webpage](https://www.gobusiness.gov.sg/licences){:target="_blank"} or contact [GoBusiness Helpdesk](https://www.gobusiness.gov.sg/contact-us/){:target="_blank"}.
