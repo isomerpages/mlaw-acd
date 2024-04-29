@@ -24,13 +24,13 @@ Please click [here](https://acd.mlaw.gov.sg/news/notices-from-the-registrar/repo
 
 Pursuant to the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations (“**PMLTF Regulations**”), registered dealers have the duty to notify the Registrar of Regulated Dealers of change in particulars and circumstances.
 
-The notification is to be submitted in **GoBusiness Licensing Portal** via an amendment application. You need to tick the checkbox (for each section that you wish to amend) in order to update your records with MinLaw. Refer to the table below for more details on how to submit the amendment application.
+The notification is to be submitted in **GoBusiness Dashboard** via an amendment application. You need to tick the checkbox (for each section that you wish to amend) in order to update your records with MinLaw. Refer to the table below for more details on how to submit the amendment application.
 
 <a href="/images/Duty to Notify Registrar of Changes table_Final v4_20211118.pdf"><img src="/images/Duty to Notify Registrar of Changes table_Final v4_20211118.png"></a>
 
 **Note: Cancellation of Registration**
 
-If you do not wish to continue operating as a registered dealer (i.e. you are neither carrying on the business of regulated dealing nor business as an intermediary for regulated dealing), submit a cancellation application via the [GoBusiness Licensing Portal](https://www.gobusiness.gov.sg/licences){:target="_blank"}. Fees are not payable for cancellation application.
+If you do not wish to continue operating as a registered dealer (i.e. you are neither carrying on the business of regulated dealing nor business as an intermediary for regulated dealing), submit a cancellation application via the [GoBusiness Dashboard](https://www.gobusiness.gov.sg/licences){:target="_blank"}. Fees are not payable for cancellation application.
 
 
 
