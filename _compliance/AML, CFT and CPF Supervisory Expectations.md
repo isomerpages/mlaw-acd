@@ -5,4 +5,5 @@ breadcrumb: AML/CFT/CPF Supervisory Expectations
 variant: tiptap
 description: ""
 ---
+<p></p><a class="isomer-image-wrapper" href="https://acd.mlaw.gov.sg/files/ACD-Supervisory-Expectation-May24.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/ACD_Supervisory_Expectation_May24.jpg"></a>
 <p></p>
