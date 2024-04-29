@@ -18,7 +18,7 @@ Regulated dealers will have to submit the semi-annual returns electronically thr
 
 Please watch this [guidance video](https://youtu.be/Jpcj4iYSOSM){:target="_blank"} to preview <i>my</i>Pal and how to submit the semi-annual return. You may refer to the [instruction guide](/files/semi-annual_return_instruction_guide_20240501.pdf){:target="_blank"} for a step-by-step walkthrough (with screenshots) on how to navigate and submit the semi-annual return via <i>my</i>Pal. Please click [here](https://www.go.gov.sg/mypal){:target="_blank"} to access <i>my</i>Pal to complete your submission.
  
-Please click [here](https://acd.mlaw.gov.sg/news/notices-from-the-registrar/reporting-requirement-for-regulated-dealers-with-effect-from-1-january-2021){:target="_blank"} to view the notice on the reporting requirement issued by the Registrar. You may also refer to the [FAQs](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx){:target="_blank"} for more information on the reporting requirement.
+Please click [here](https://acd.mlaw.gov.sg/news/notices-from-the-registrar/reporting-requirement-for-regulated-dealers-with-effect-from-1-january-2021){:target="_blank"} to view the notice on the reporting requirement issued by the Registrar. You may also refer to the [FAQs](https://console-flex-api.ap.sabio.cloud/faq/index.aspx?p=64759355){:target="_blank"} for more information on the reporting requirement.
 
 #### <a id="Duty to Notify Registrar of Change in Particulars and Circumstances"></a> Duty to Notify Registrar of Change in Particulars and Circumstances
 
