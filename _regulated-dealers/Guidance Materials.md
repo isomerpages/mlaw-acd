@@ -43,7 +43,7 @@ Regulated dealers are required to keep records of the customer due diligence ("*
 
 The Compliance Toolkit aims to guide and facilitate regulated dealers' compliance with the various requirements under the PSPM Act and the PMLTF Regulations. It serves as a quick guide relating to applications, notifications, regulatory submissions and compliance. 
 
-Download and open the <a target="_blank" href="/files/compliance%20toolkit%20for%20psmd_20240111.pdf">Compliance Toolkit</a> (Published Date: 11 Jan 2024) with a PDF reader on desktop to open the thumbnails. 
+Download and open the <a target="_blank" href="/files/Compliance_Toolkit_for_PSMD_20240501.pdf">Compliance Toolkit</a> (Published Date: 11 Jan 2024) with a PDF reader on desktop to open the thumbnails. 
 
 #### <a id="Guidance Paper on Strengthening AML/CFT Controls in the Precious Stones and Precious Metals (PSPM) Sector"></a>6. Guidance Paper on Strengthening AML/CFT/CPF Controls in the Precious Stones and Precious Metals (PSPM) Sector
 
