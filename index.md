@@ -34,7 +34,7 @@ sections:
       title: Key information for regulated dealers
       subtitle: Interactive guide
       description: An interactive guide to help regulated dealers comply with the
-        AML/CFT regulatory requirements under the PSPM Act.
+        AML/CFT/CPF regulatory requirements under the PSPM Act.
       button: Click here to start your journey
       url: /files/Journey.pdf
       image: /images/Journey1.png
