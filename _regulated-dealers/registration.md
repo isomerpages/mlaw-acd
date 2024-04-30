@@ -130,7 +130,7 @@ ABC Pte Ltd must pay a total of **S$820**:
 </table>
 
 #### <a id="Registration Application Process"></a> Registration Application Process
-<a href="/images/Overview%20of%20Reg%20Process%2020191031.pdf" target="_blank"><img src="/images/Overview%20of%20Reg%20Process%2020191031.png"></a> <br>
+<a href="/files/Overview_of_Reg_Process_20240501.pdf" target="_blank"><img src="/images/Overview_of_Reg_Process_20240501.jpg"></a> <br>
 
 You may submit your application via the [GoBusiness Dashboard](https://www.go.gov.sg/GoBusiness-login){:target="_blank"}. For help with GoBusiness Dashboard and enquiries about licences, please contact GoBusiness Helpdesk:
 
