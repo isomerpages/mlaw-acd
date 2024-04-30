@@ -25,7 +25,7 @@ Regulated dealers include, but are not limited to, jewellers, bullion traders, j
 
 Intermediaries for regulated dealing who are covered under the regime include, but are not limited to, auction houses and trading platforms.
 
-Importantly, the regime does **not** intend to cover individuals who make one-off purchases and subsequently decide to sell their items to a secondhand goods dealer. Further, pawnbrokers are **not** regulated dealers as they are already subject to AML/CFT measures under the Pawnbrokers Act 2015.
+Importantly, the regime does **not** intend to cover individuals who make one-off purchases and subsequently decide to sell their items to a secondhand goods dealer. Further, pawnbrokers are **not** regulated dealers as they are already subject to AML/CFT/CPF measures under the Pawnbrokers Act 2015.
 
 **What does the regime cover?**<br>
 “Precious stones” (natural or otherwise) include diamonds, sapphires, rubies, emeralds, jade (including nephrite and jadeite), and pearls.
