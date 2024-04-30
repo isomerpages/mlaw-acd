@@ -33,7 +33,7 @@ Importantly, the regime does **not** intend to cover individuals who make one-of
 “Precious metals” include gold, silver, platinum, iridium, osmium, palladium, rhodium, ruthenium, and alloys with at least 2% in weight of any of the metals stated above.
 
 “Precious products” include, but are not limited to, any jewellery, watch, apparel, accessory, ornament or other finished product that: <br>
-(a) derives 50% or more from any precious stone and/or precious metal making up, contained in, or attached to that product; or <br>
+(a) derives 50% or more of its value from any precious stone and/or precious metal making up, contained in, or attached to that product; or <br>
 (b) is above the net price of S$20,000.
 
 An “asset-backed token” is any token, certificate or instrument: <br>
