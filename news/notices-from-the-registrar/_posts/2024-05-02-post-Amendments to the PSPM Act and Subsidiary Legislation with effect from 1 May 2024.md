@@ -8,7 +8,6 @@ description: ""
 image: ""
 variant: markdown
 ---
-
 The Registrar of Regulated Dealers hereby notifies all regulated dealers that amendments to the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019 (“**PSPM Act**”) and the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations 2019 (“**PMLTF Regulations**”) under the PSPM Act will commence on **1 May 2024.**
 
 The key amendments to the PSPM Act and PMLTF Regulations are provided below.
@@ -77,4 +76,5 @@ The key amendments to the PSPM Act and PMLTF Regulations are provided below.
 Regulated dealers may also refer to the [FAQ section](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx){:target="blank"} for more information on the amendments to the PSPM Act and PMLTF Regulations.
 
 Anti-Money Laundering/Countering the Financing of Terrorism Division (“**ACD**”)
+
 Ministry of Law
