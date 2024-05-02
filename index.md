@@ -4,8 +4,8 @@ title: Ministry of Law - ACD
 permalink: /
 notification: <b> <a
   href="https://acd.mlaw.gov.sg/news/notices-from-the-registrar/february-2024-fatf-statement/">
-  Feb 2024 FATF Public Statement - Countries/Jurisdictions with Strategic
-  Deficiencies (latest!) </a></b>
+  Amendments to Subsidiary Legislation under PSPM Act with effect from 1 May
+  2024 (latest!) </a></b>
 sections:
   - hero:
       title: Regulatory Regime for Precious Stones and Precious Metals Dealers
