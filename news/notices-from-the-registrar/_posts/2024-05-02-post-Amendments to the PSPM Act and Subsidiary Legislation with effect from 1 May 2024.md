@@ -75,6 +75,4 @@ The key amendments to the PSPM Act and PMLTF Regulations are provided below.
 
 Regulated dealers may also refer to the [FAQ section](https://console-flex-api.ap.sabio.cloud/faq/index.aspx?p=64759355){:target="blank"} for more information on the amendments to the PSPM Act and PMLTF Regulations.
 
-Anti-Money Laundering/Countering the Financing of Terrorism Division (“**ACD**”)
-
-Ministry of Law
+Anti-Money Laundering/Countering the Financing of Terrorism Division (“**ACD**”)<br>Ministry of Law
