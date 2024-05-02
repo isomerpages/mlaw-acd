@@ -4,6 +4,7 @@ permalink: /news/notices-from-the-registrar/screening-function/
 date: 2022-09-08
 layout: post
 description: ""
+variant: markdown
 ---
 Dear Regulated Dealer,
 
@@ -17,4 +18,4 @@ A [guidance video](https://www.youtube.com/watch?v=i6at7WyPxRs){:target="blank"}
 
 **Frequently Asked Questions**
 
-We have collated a list of frequently asked questions on how to use the screening function. Regulated dealers may wish to refer to these FAQs in the [FAQ section](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx){:target="blank"}.
+We have collated a list of frequently asked questions on how to use the screening function. Regulated dealers may wish to refer to these FAQs in the [FAQ section](https://console-flex-api.ap.sabio.cloud/faq/index.aspx?p=64759355){:target="blank"}.
