@@ -26,7 +26,7 @@ Please refer to the [PSPM Act](https://sso.agc.gov.sg/Act/PSPMPMLTFA2019){:targe
 
 Regulated dealers must pay an application fee of S$120 to register with the Registrar. All payment must be made through [GoBusiness Dashboard](https://www.go.gov.sg/gobusiness-login){:target="_blank"}.  
   
-Registration is on an annual basis. If the Registrar provides in-principle approval for your application, you must pay a registration fee based on the registration tier and the number of outlets operated:
+Registration is on an annual basis. Please see the [Renewal page](/renewal/) for information on renewal. If the Registrar provides in-principle approval for your application, you must pay a registration fee based on the registration tier and the number of outlets operated:
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
