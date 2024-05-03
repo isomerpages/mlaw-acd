@@ -117,7 +117,7 @@ ABC Pte Ltd must pay a total of **S$700**:
 </table>
 
 #### <a id="Renewal Application Process"></a> Renewal Application Process
-<a href="/files/Renewal_Process_20240404.pdf" target="_blank"><img src="/images/Renewal_Process_20240404.jpg"></a> <br>
+<a href="/files/Renewal_Process_20240404.pdf" target="_blank"><img src="/images/Renewal_Process_20240404.png"></a> <br>
 
 You may submit your application via the [GoBusiness Dashboard](https://www.go.gov.sg/GoBusiness-login){:target="_blank"}. For help with GoBusiness Dashboard and enquiries about licences, please contact GoBusiness Helpdesk:<br><br> **Telephone**<br> +65 6336 3373<br>**Email**<br> AskGoBiz@crimsonlogic.com.sg<br> **Helpdesk Operating Hours** <br> Monday - Friday: 8.00am - 6.00pm<br> Saturdays: 8.00am - 1.00pm<br> Closed on Sundays and public holidays
 
