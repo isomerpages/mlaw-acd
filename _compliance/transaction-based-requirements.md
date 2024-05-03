@@ -53,7 +53,7 @@ Regulated dealers who enter into any designated transaction<sup>1</sup> must sub
 </span><br><br><span style="font-weight:400;font-style:normal">(d) a redemption of an asset‑backed token from a customer (who is not a regulated dealer) by a regulated dealer, for cash or a cash equivalent exceeding the threshold amount; 
 </span><br><br><span style="font-weight:400;font-style:normal">(e) 2 or more purchases of any precious stone, precious metal or precious product in a single day by a regulated dealer (who is a secondhand goods dealer), from the same customer, or customers whom the regulated dealer knows act on behalf of the same person (none of whom are regulated dealers), for which cash or a cash equivalent in total exceeding the threshold amount is received as payment; 
 </span><br><br><span style="font-weight:400;font-style:normal">(f) 2 or more redemptions of any asset‑backed token in a single day by a regulated dealer from the same customer, or customers whom the regulated dealer knows act on behalf of the same person (none of whom are regulated dealers), for cash or a cash equivalent exceeding the threshold amount; 
-</span><br><br><span style="font-weight:400;font-style:normal">“threshold amount” means $20,000 or its equivalent in value, or an amount prescribed in substitution.</span><br></th>
+</span><br><br><span style="font-weight:400;font-style:normal">“threshold amount” means S$20,000 or its equivalent in value, or an amount prescribed in substitution.</span><br></th>
   </tr>
 </tbody></table>
 
