@@ -4,8 +4,8 @@ title: Ministry of Law - ACD
 permalink: /
 notification: <b> <a
   href="https://acd.mlaw.gov.sg/news/notices-from-the-registrar/amendments-to-the-pspm-act-and-subsidiary-legislation-with-effect-from-1-may-2024/">
-  Amendments to Subsidiary Legislation under PSPM Act with effect from 1 May
-  2024 (latest!) </a></b>
+  Amendments to PSPM Act and Subsidiary Legislation with effect from 1 May 2024
+  (latest!) </a></b>
 sections:
   - hero:
       title: Regulatory Regime for Precious Stones and Precious Metals Dealers
