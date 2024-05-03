@@ -4,7 +4,7 @@ permalink: /renewal/
 breadcrumb: Renewal
 variant: markdown
 ---
-<a href="#Renewal of Registration">Renewal of Registration</a> | <a href="#Renewal Application Process">Renewal Application Process </a> | <a href="#Fees, Registering your Place(s) of Business and Period of Registration">Fees, Registering your Place(s) of Business and Period of Registration </a> | <a href="#Information Needed">Information Needed</a> | <a href="#I Need Help with Renewal">I Need Help with Renewal </a>
+<a href="#Renewal of Registration">Renewal of Registration</a> | <a href="#Fees, Registering your Place(s) of Business and Period of Registration">Fees, Registering your Place(s) of Business and Period of Registration </a> |<a href="#Renewal Application Process">Renewal Application Process </a> | <a href="#Information Needed">Information Needed</a> | <a href="#I Need Help with Renewal">I Need Help with Renewal </a>
 
 #### <a id="Renewal of Registration"></a> Renewal of Registration
 
@@ -117,8 +117,9 @@ ABC Pte Ltd must pay a total of **S$700**:
 </table>
 
 #### <a id="Renewal Application Process"></a> Renewal Application Process
+<a href="/files/Renewal_Process_20240404.pdf" target="_blank"><img src="/images/Renewal_Process_20240404.png"></a> <br>
 
-You may submit your application via the [GoBusiness Licensing Portal](https://www.go.gov.sg/GoBusiness-login){:target="_blank"}. For help with GoBusiness Dashboard and enquiries about licences, please contact GoBusiness Helpdesk:<br><br> **Telephone**<br> +65 6336 3373<br>**Email**<br> AskGoBiz@crimsonlogic.com.sg<br> **Helpdesk Operating Hours** <br> Monday - Friday: 8.00am - 6.00pm<br> Saturdays: 8.00am - 1.00pm<br> Closed on Sundays and public holidays
+You may submit your application via the [GoBusiness Dashboard](https://www.go.gov.sg/GoBusiness-login){:target="_blank"}. For help with GoBusiness Dashboard and enquiries about licences, please contact GoBusiness Helpdesk:<br><br> **Telephone**<br> +65 6336 3373<br>**Email**<br> AskGoBiz@crimsonlogic.com.sg<br> **Helpdesk Operating Hours** <br> Monday - Friday: 8.00am - 6.00pm<br> Saturdays: 8.00am - 1.00pm<br> Closed on Sundays and public holidays
 
 The Registrar of Regulated Dealers may impose additional conditions or waive existing conditions for registration, for the renewed registration period.
 
@@ -150,11 +151,11 @@ The Registrar of Regulated Dealers may impose additional conditions or waive exi
   </tr>
   <tr>
     <td class="tg-0pky">Director<br>Partner<br>Manager<br>Company secretary<br>Substantial shareholder (if you represent a company)</td>
-    <td class="tg-0pky"><b>1. Name*</b><br><b>2. NRIC/ Passport/ FIN No.*</b><br><b>3. Citizenship or Country/ Region of Incorporation*</b><br>4. Date of birth<br>5. Declaration of<br>(a) Any investigations or convictions for offences related to fraud, dishonesty, money laundering or terrorism financing;<br>(b) Any bankruptcy, insolvency or liquidation;<br>(c) Any lawsuit the person was a party to; and<br>(d) Any breach of AML/CFT requirements<br><br><b>* Information is auto-populated for ACRA registered entities</b></td>
+    <td class="tg-0pky"><b>1. Name*</b><br><b>2. NRIC/ Passport/ FIN No.*</b><br><b>3. Citizenship or Country/ Region of Incorporation*</b><br>4. Date of birth<br>5. Declaration of<br>(a) Any investigations or convictions for offences related to fraud, dishonesty, money laundering, terrorism financing or proliferation financing;<br>(b) Any bankruptcy, insolvency or liquidation;<br>(c) Any lawsuit the person was a party to; and<br>(d) Any breach of AML/CFT/CPF requirements<br><br><b>* Information is auto-populated for ACRA registered entities</b></td>
   </tr>
   <tr>
     <td class="tg-0pky">Person holding an analogous position<br>involved in the management of the applicant</td>
-    <td class="tg-0pky" rowspan="2">1. Name<br>2. NRIC/ Passport/ FIN No.<br>3. Citizenship or Country/ Region of Incorporation<br>4. Date of birth<br>5. Declaration of<br>(a) Any investigations or convictions for offences related to fraud, dishonesty, money laundering or terrorism financing;<br>(b) Any bankruptcy, insolvency or liquidation;<br>(c) Any lawsuit the person was a party to; and<br>(d) Any breach of AML/CFT requirements</td>
+    <td class="tg-0pky" rowspan="2">1. Name<br>2. NRIC/ Passport/ FIN No.<br>3. Citizenship or Country/ Region of Incorporation<br>4. Date of birth<br>5. Declaration of<br>(a) Any investigations or convictions for offences related to fraud, dishonesty, money laundering, terrorism financing or proliferation financing;<br>(b) Any bankruptcy, insolvency or liquidation;<br>(c) Any lawsuit the person was a party to; and<br>(d) Any breach of AML/CFT/CPF requirements</td>
   </tr>
   <tr>
     <td class="tg-0pky">Outlet manager</td>
@@ -185,6 +186,6 @@ The Registrar of Regulated Dealers may impose additional conditions or waive exi
 </tbody></table>
 
 #### <a id="I Need Help with Renewal"></a> I Need Help with Renewal
-<a href="/files/Helplines_20240301.pdf" target="_blank"><img src="/images/helplines_20240301.png"></a>
+<a href="/files/Helplines_20240408.pdf" target="_blank"><img src="/images/Helplines_20240408.png"></a>
 
-* If you face any technical issues when using GoBusiness Licensing Portal, you may wish to refer to the [GoBusiness Licensing Portal webpage](https://www.gobusiness.gov.sg/licences){:target="_blank"} or contact [GoBusiness Licensing Portal Helpdesk](https://www.gobusiness.gov.sg/contact-us/){:target="_blank"}.
+* If you face any technical issues when using GoBusiness Dashboard, you may wish to refer to the [GoBusiness webpage](https://www.gobusiness.gov.sg/licences){:target="_blank"} or contact [GoBusiness Helpdesk](https://www.gobusiness.gov.sg/contact-us/){:target="_blank"}.

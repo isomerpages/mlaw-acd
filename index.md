@@ -3,17 +3,17 @@ layout: homepage
 title: Ministry of Law - ACD
 permalink: /
 notification: <b> <a
-  href="https://acd.mlaw.gov.sg/news/notices-from-the-registrar/february-2024-fatf-statement/">
-  Feb 2024 FATF Public Statement - Countries/Jurisdictions with Strategic
-  Deficiencies (latest!) </a></b>
+  href="https://acd.mlaw.gov.sg/news/notices-from-the-registrar/amendments-to-the-pspm-act-and-subsidiary-legislation-with-effect-from-1-may-2024/">
+  Amendments to PSPM Act and Subsidiary Legislation with effect from 1 May 2024
+  (latest!) </a></b>
 sections:
   - hero:
       title: Regulatory Regime for Precious Stones and Precious Metals Dealers
       subtitle: Anti-Money Laundering / Countering the Financing of Terrorism Division
         (ACD)
       background: /images/bullion1.jpg
-      button: DOWNLOAD YOUR<br>COMPLIANCE TOOLKITT
-      url: https://acd.mlaw.gov.sg/files/compliance%20toolkit%20for%20psmd_20240111.pdf
+      button: DOWNLOAD YOUR<br>COMPLIANCE TOOLKIT
+      url: https://acd.mlaw.gov.sg/files/Compliance_Toolkit_for_PSMD_20240501.pdf
       key_highlights:
         - title: Renewal
           description: Overview of renewal process
@@ -34,7 +34,7 @@ sections:
       title: Key information for regulated dealers
       subtitle: Interactive guide
       description: An interactive guide to help regulated dealers comply with the
-        AML/CFT regulatory requirements under the PSPM Act.
+        AML/CFT/CPF regulatory requirements under the PSPM Act.
       button: Click here to start your journey
       url: /files/Journey.pdf
       image: /images/Journey1.png

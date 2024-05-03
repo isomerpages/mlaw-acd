@@ -2,8 +2,9 @@
 title: Offences/Breaches under the PSPM Act and PMLTF Regulations
 permalink: /offences-breaches-under-the-pspm-act-and-pmltf-regulations/
 breadcrumb: Offences/Breaches under the PSPM Act and PMLTF Regulations
+variant: markdown
 ---
-**Table 1** - [Offences/Breaches under Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019](https://sso.agc.gov.sg/Act/PSPMPMLTFA2019){:target="_blank"}
+**Table 1** - [Offences/Breaches under Precious Stones and Precious Metals (Prevention of Money Laundering, Terrorism Financing and Proliferation Financing) Act 2019](https://sso.agc.gov.sg/Act/PSPMPMLTFA2019){:target="_blank"}
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -54,12 +55,24 @@ breadcrumb: Offences/Breaches under the PSPM Act and PMLTF Regulations
     <td class="tg-0lax">Fine not exceeding $20,000 or to imprisonment for a term not exceeding 2 years or to both</td>
   </tr>
   <tr>
+		<td class="">Cash transaction report (''<span style="font-weight:bold">CTR</span>'')</td>
+			<td class="">Sec 17(1A)</td>
+			<td class="">Incomplete or inaccurate submission of CTR</td>
+			<td class="">Fine not exceeding $20,000 or to imprisonment for a term not exceeding 2 years or to both</td>
+			</tr>
+			<tr>
     <td class="tg-0lax">Record keeping</td>
     <td class="tg-0lax">Sec 18(5)</td>
-    <td class="tg-0lax">Contravention of record keeping requirements</td>
+    <td class="tg-0lax">Contravention of record keeping requirements for regulated dealers</td>
     <td class="tg-0lax">Fine not exceeding $100,000</td>
   </tr>
   <tr>
+			<td class="">Record keeping</td>
+			<td class="">Sec 18(1A)</td>
+			<td class="">Contravention of record keeping requirements for former regulated dealers</td>
+			<td class="">Fine not exceeding $100,000
+			</td></tr>
+			<tr>
     <td class="tg-0lax">Risk assessment and internal policies, procedures and controls (“<span style="font-weight:bold">IPPC</span>”)</td>
     <td class="tg-0lax">Sec 19(3)</td>
     <td class="tg-0lax">Contravention of risk assessment and IPPC requirements</td>

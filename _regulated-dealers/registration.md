@@ -24,7 +24,7 @@ Please refer to the [PSPM Act](https://sso.agc.gov.sg/Act/PSPMPMLTFA2019){:targe
 
 #### <a id="Fees and Registering your Place(s) of Business"></a> Fees and Registering your Place(s) of Business
 
-Regulated dealers must pay an application fee of S$120 to register with the Registrar. All payment must be made through [GoBusiness Licensing Portal](https://www.go.gov.sg/gobusiness-login){:target="_blank"}.  
+Regulated dealers must pay an application fee of S$120 to register with the Registrar. All payment must be made through [GoBusiness Dashboard](https://www.go.gov.sg/gobusiness-login){:target="_blank"}.  
   
 Registration is on an annual basis. If the Registrar provides in-principle approval for your application, you must pay a registration fee based on the registration tier and the number of outlets operated:
 <style type="text/css">
@@ -130,9 +130,9 @@ ABC Pte Ltd must pay a total of **S$820**:
 </table>
 
 #### <a id="Registration Application Process"></a> Registration Application Process
-<a href="/images/Overview%20of%20Reg%20Process%2020191031.pdf" target="_blank"><img src="/images/Overview%20of%20Reg%20Process%2020191031.png"></a> <br>
+<a href="/files/Overview_of_Reg_Process_20240501.pdf" target="_blank"><img src="/images/Overview_of_Reg_Process_20240501.jpg"></a> <br>
 
-You may submit your application via the [GoBusiness Licensing Portal](https://www.go.gov.sg/GoBusiness-login){:target="_blank"}. For help with GoBusiness Dashboard and enquiries about licences, please contact GoBusiness Helpdesk:
+You may submit your application via the [GoBusiness Dashboard](https://www.go.gov.sg/GoBusiness-login){:target="_blank"}. For help with GoBusiness Dashboard and enquiries about licences, please contact GoBusiness Helpdesk:
 
 **Telephone**<br> +65 6336 3373 <br> **Email**<br> AskGoBiz@crimsonlogic.com.sg<br> **Helpdesk Operating Hours**<br> Monday - Friday: 8.00am - 6.00pm<br> Saturdays: 8.00am - 1.00pm<br> Closed on Sundays and public holidays 
 
@@ -167,11 +167,11 @@ You may submit your application via the [GoBusiness Licensing Portal](https://ww
   </tr>
   <tr>
     <td class="tg-0pky">Director<br>Partner<br>Manager<br>Company secretary<br>Substantial shareholder (if you represent a company)</td>
-    <td class="tg-0pky"><b>1. Name*</b><br><b>2. NRIC/ Passport/ FIN No.*</b><br><b>3. Citizenship or Country/ Region of Incorporation*</b><br>4. Date of birth<br>5. Declaration of<br>(a) Any investigations or convictions for offences related to<br> fraud, dishonesty, money laundering or terrorism financing;<br>(b) Any bankruptcy, insolvency or liquidation;<br>(c) Any lawsuit the person was a party to; and<br>(d) Any breach of AML/CFT requirements<br><br><b>* Information is auto-populated for ACRA registered entities</b></td>
+    <td class="tg-0pky"><b>1. Name*</b><br><b>2. NRIC/ Passport/ FIN No.*</b><br><b>3. Citizenship or Country/ Region of Incorporation*</b><br>4. Date of birth<br>5. Declaration of<br>(a) Any investigations or convictions for offences related to<br> fraud, dishonesty, money laundering, terrorism financing or proliferation financing;<br>(b) Any bankruptcy, insolvency or liquidation;<br>(c) Any lawsuit the person was a party to; and<br>(d) Any breach of AML/CFT/CPF requirements<br><br><b>* Information is auto-populated for ACRA registered entities</b></td>
   </tr>
   <tr>
     <td class="tg-0pky">Person holding an analogous position<br>involved in the management of the applicant</td>
-    <td class="tg-0pky" rowspan="2">1. Name<br>2. NRIC/ Passport/ FIN No.<br>3. Citizenship or Country/ Region of Incorporation<br>4. Date of birth<br>5. Declaration of<br>(a) Any investigations or convictions for offences related to<br> fraud, dishonesty, money laundering or terrorism financing;<br>(b) Any bankruptcy, insolvency or liquidation;<br>(c) Any lawsuit the person was a party to; and<br>(d) Any breach of AML/CFT requirements</td>
+    <td class="tg-0pky" rowspan="2">1. Name<br>2. NRIC/ Passport/ FIN No.<br>3. Citizenship or Country/ Region of Incorporation<br>4. Date of birth<br>5. Declaration of<br>(a) Any investigations or convictions for offences related to<br> fraud, dishonesty, money laundering, terrorism financing or proliferation financing;<br>(b) Any bankruptcy, insolvency or liquidation;<br>(c) Any lawsuit the person was a party to; and<br>(d) Any breach of AML/CFT/CPF requirements</td>
   </tr>
   <tr>
     <td class="tg-0pky">Outlet manager</td>
@@ -206,13 +206,13 @@ You may submit your application via the [GoBusiness Licensing Portal](https://ww
 
 
 #### <a id="I Need Help with Registration"></a> I Need Help with Registration
-<a href="/files/Helplines_20240301.pdf" target="_blank"><img src="/images/helplines_20240301.png"></a>
+<a href="/files/Helplines_20240408.pdf" target="_blank"><img src="/images/Helplines_20240408.png"></a>
 
-* If you face any technical issues when using GoBusiness Licensing Portal, you may wish to refer to the [GoBusiness Licensing Portal webpage](https://www.gobusiness.gov.sg/licences){:target="_blank"} or contact [GoBusiness Licensing Portal Helpdesk](https://www.gobusiness.gov.sg/contact-us/){:target="_blank"}.
+* If you face any technical issues when using GoBusiness Dashboard, you may wish to refer to the [GoBusiness webpage](https://www.gobusiness.gov.sg/licences){:target="_blank"} or contact [GoBusiness Helpdesk](https://www.gobusiness.gov.sg/contact-us/){:target="_blank"}.
 
 * Regulated dealers should also visit [here](/regulation-coverage/) for information on the use of public statements relating to the registration as a regulated dealer and the Ministry of Law logo.
 
 
 #### <a id="Cancellation of Registration"></a> Cancellation of Registration
 
-If you do not wish to continue operating as a registered dealer (i.e. you are neither carrying on the business of regulated dealing nor business as an intermediary for regulated dealing), submit a cancellation application via the [GoBusiness Licensing Portal](https://www.go.gov.sg/GoBusiness-login){:target="_blank"}. Fees are not payable for cancellation application.
+If you do not wish to continue operating as a registered dealer (i.e. you are neither carrying on the business of regulated dealing nor business as an intermediary for regulated dealing), submit a cancellation application via the [GoBusiness Dashboard](https://www.go.gov.sg/GoBusiness-login){:target="_blank"}. Fees are not payable for cancellation application.

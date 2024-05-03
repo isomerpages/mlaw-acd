@@ -2,12 +2,13 @@
 title: Regulatory Regime
 permalink: /regulatory-regime/
 breadcrumb: Regulatory Regime
+variant: markdown
 ---
-<a href="#About the Regime">About the Regime </a>| <a href="#Exemptions">Exemptions </a> | <a href="#Regulatory Compliance for Foreign Dealers">Regulatory Compliance for Foreign Dealers </a> | <a href="#Our Role in AML/CFT">Our Role in AML/CFT </a>
+<a href="#About the Regime">About the Regime </a>| <a href="#Exemptions">Exemptions </a> | <a href="#Regulatory Compliance for Foreign Dealers">Regulatory Compliance for Foreign Dealers </a> | <a href="#Our Role in AML/CFT/CPF">Our Role in AML/CFT/CPF </a>
 
 #### <a id="About the Regime"></a> About the Regime
 
-<a href="/images/Money%20Laundering%20%26%20Terrorism%20Financing%20Risks%20in%20the%20Precious%20Stones%20and%20Precious%20Metals%20Dealers%20Sector.pdf" target="_blank"><img src="/images/Money%20Laundering%20%26%20Terrorism%20Financing%20Risks%20in%20the%20Precious%20Stones%20and%20Precious%20Metals%20Dealers%20Sector.jpg"></a>
+<a href="/files/ML_TF_Risks_in_the_PSMD_Sector.pdf" target="_blank"><img src="/images/ML_TF_Risks_in_the_PSMD_Sector.jpg"></a>
 
 The regime covers regulated dealers.
 
@@ -24,17 +25,16 @@ Regulated dealers include, but are not limited to, jewellers, bullion traders, j
 
 Intermediaries for regulated dealing who are covered under the regime include, but are not limited to, auction houses and trading platforms.
 
-Importantly, the regime does **not** intend to cover individuals who make one-off purchases and subsequently decide to sell their items to a secondhand goods dealer. Further, pawnbrokers are **not** regulated dealers as they are already subject to AML/CFT measures under the Pawnbrokers Act 2015.
+Importantly, the regime does **not** intend to cover individuals who make one-off purchases and subsequently decide to sell their items to a secondhand goods dealer. Further, pawnbrokers are **not** regulated dealers as they are already subject to AML/CFT/CPF measures under the Pawnbrokers Act 2015.
 
 **What does the regime cover?**<br>
 “Precious stones” (natural or otherwise) include diamonds, sapphires, rubies, emeralds, jade (including nephrite and jadeite), and pearls.
 
 “Precious metals” include gold, silver, platinum, iridium, osmium, palladium, rhodium, ruthenium, and alloys with at least 2% in weight of any of the metals stated above.
 
-“Precious products” include, but are not limited to, any jewellery, watch, apparel, accessory, ornament or other finished product: <br>
-(a) made up of, containing or having attached to it, any precious stone or precious metal or both; and<br>
-(b) at least 50% of its value which is attributable to the precious stone or precious metal or both. <br>
-(c) determined by the ratio of the market value of the precious stone and precious metal component to the selling price of the product.
+“Precious products” include, but are not limited to, any jewellery, watch, apparel, accessory, ornament or other finished product that: <br>
+(a) derives 50% or more of its value from any precious stone and/or precious metal making up, contained in, or attached to that product; or <br>
+(b) is above the net price of S$20,000.
 
 An “asset-backed token” is any token, certificate or instrument: <br>
 (i) backed by one or more “precious stone”, “precious metal” or “precious product”; and <br>
@@ -46,7 +46,7 @@ Please click [here](/entity-based-requirements/) to find out more about the role
 
 #### <a id="Exemptions"></a> Exemptions
 
-The following persons are exempted from registration under the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019 ("**PSPM Act**"):
+The following persons are exempted from registration under the Precious Stones and Precious Metals (Prevention of Money Laundering, Terrorism Financing and Proliferation Financing) Act 2019 ("**PSPM Act**"):
 
 * A pawnbroker as defined under Section 3 of the Pawnbrokers Act 2015.<br> 
 * Any person licensed, approved, registered or regulated by the Monetary Authority of Singapore under any written law.<br> 
@@ -58,7 +58,7 @@ Foreign dealers should refer <a href="#Regulatory Compliance for Foreign Dealers
 
 **Poster**: Important for Foreign Dealers to Take Note
 
-<a href="/files/FD.pdf" target="_blank"><img src="/images/FD.png" style="width: 350px" align="left"> </a><br>
+<a href="/files/FD.pdf" target="_blank"><img src="/images/FD.jpg" style="width: 350px" align="left"> </a><br>
 
 <br>
 <br>
@@ -103,10 +103,10 @@ A foreign dealer must notify the Ministry of Manpower of your intention to work 
 **Must-Know for Foreign Dealers:** Watch the [video](https://youtu.be/KRS30HOmjyk){:target="_blank"} to find out more about the regulatory requirements for foreign dealers.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KRS30HOmjyk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-#### <a id="Our Role in AML/CFT"></a> Our Role in AML/CFT 
+#### <a id="Our Role in AML/CFT"></a> Our Role in AML/CFT/CPF 
 
-Singapore is a member of the Financial Action Task Force ("**FATF**"), an inter-governmental body that sets international standards aimed to prevent money laundering and terrorism financing ("**ML/TF**"), and the harm these illegal activities cause to society. There are currently more than 200 countries and jurisdictions committed to implementing anti-money laundering/countering the financing of terrorism ("**AML/CFT**") measures in accordance to the recommendations set by the FATF.
+Singapore is a member of the Financial Action Task Force ("**FATF**"), an inter-governmental body that sets international standards aimed to prevent money laundering, terrorism financing and proliferation financing ("**ML/TF/PF**"), and the harm these illegal activities cause to society. There are currently more than 200 countries and jurisdictions committed to implementing anti-money laundering/countering the financing of terrorism/countering proliferation financing ("**AML/CFT/CPF**") measures in accordance to the recommendations set by the FATF.
 
-Designated non-financial businesses and professions ("**DNFBP**") in Singapore, such as the precious stones and precious metals dealers ("**PSMD**"), have a role to play to ensure that Singapore is effective in implementing its AML/CFT policies through the PSMD sector. The regulatory requirements on the PSMD sector are set out in the PSPM Act and the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations 2019 ("**PMLTF Regulations**"). Regulated dealers should also refer to the [Guidelines for Regulated Dealers](/guidelines/){:target="_blank"}.
+Designated non-financial businesses and professions ("**DNFBP**") in Singapore, such as the precious stones and precious metals dealers ("**PSMD**"), have a role to play to ensure that Singapore is effective in implementing its AML/CFT/CPF policies through the PSMD sector. The regulatory requirements on the PSMD sector are set out in the PSPM Act and the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations 2019 ("**PMLTF Regulations**"). Regulated dealers should also refer to the <a target="_blank" href="https://acd.mlaw.gov.sg/guidelines/">Guidelines for Regulated Dealers</a> (Published Date: 2 May 2024).
 
-Please refer to the [compliance requirements](/entity-based-requirements/) for more information on how to implement an effective AML/CFT framework for your business.
+Please refer to the [compliance requirements](/entity-based-requirements/) for more information on how to implement an effective AML/CFT/CPF framework for your business.

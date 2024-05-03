@@ -16,21 +16,21 @@ Regulated dealers should refer to the [content for reporting](/images/Content fo
  
 Regulated dealers will have to submit the semi-annual returns electronically through the <i>my</i> Precious Stones and Precious Metals Dealer’s Portal (<i>my</i>Pal).
 
-Please watch this [guidance video](https://youtu.be/Jpcj4iYSOSM){:target="_blank"} to preview <i>my</i>Pal and how to submit the semi-annual return. You may refer to the [instruction guide](/files/Semi-Annual Return Instruction Guide_20221213.pdf){:target="_blank"} for a step-by-step walkthrough (with screenshots) on how to navigate and submit the semi-annual return via <i>my</i>Pal. Please click [here](https://www.go.gov.sg/mypal){:target="_blank"} to access <i>my</i>Pal to complete your submission.
+Please watch this [guidance video](https://youtu.be/Jpcj4iYSOSM){:target="_blank"} to preview <i>my</i>Pal and how to submit the semi-annual return. You may refer to the [instruction guide](/files/semi-annual_return_instruction_guide_20240501.pdf){:target="_blank"} for a step-by-step walkthrough (with screenshots) on how to navigate and submit the semi-annual return via <i>my</i>Pal. Please click [here](https://www.go.gov.sg/mypal){:target="_blank"} to access <i>my</i>Pal to complete your submission.
  
-Please click [here](https://acd.mlaw.gov.sg/news/notices-from-the-registrar/reporting-requirement-for-regulated-dealers-with-effect-from-1-january-2021){:target="_blank"} to view the notice on the reporting requirement issued by the Registrar. You may also refer to the [FAQs](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx){:target="_blank"} for more information on the reporting requirement.
+Please click [here](https://acd.mlaw.gov.sg/news/notices-from-the-registrar/reporting-requirement-for-regulated-dealers-with-effect-from-1-january-2021){:target="_blank"} to view the notice on the reporting requirement issued by the Registrar. You may also refer to the [FAQs](https://console-flex-api.ap.sabio.cloud/faq/index.aspx?p=64759355){:target="_blank"} for more information on the reporting requirement.
 
 #### <a id="Duty to Notify Registrar of Change in Particulars and Circumstances"></a> Duty to Notify Registrar of Change in Particulars and Circumstances
 
-Pursuant to the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations (“**PMLTF Regulations**”), registered dealers have the duty to notify the Registrar of Regulated Dealers of change in particulars and circumstances.
+Pursuant to the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations 2019 (“**PMLTF Regulations**”), registered dealers have the duty to notify the Registrar of Regulated Dealers of change in particulars and circumstances.
 
-The notification is to be submitted in **GoBusiness Licensing Portal** via an amendment application. You need to tick the checkbox (for each section that you wish to amend) in order to update your records with MinLaw. Refer to the table below for more details on how to submit the amendment application.
+The notification is to be submitted in **GoBusiness Dashboard** via an amendment application. You need to tick the checkbox (for each section that you wish to amend) in order to update your records with MinLaw. Refer to the table below for more details on how to submit the amendment application.
 
-<a href="/images/Duty to Notify Registrar of Changes table_Final v4_20211118.pdf"><img src="/images/Duty to Notify Registrar of Changes table_Final v4_20211118.png"></a>
+<a href="/files/duty to notify registrar of changes table_final v5_20240501.pdf"><img src="/images/duty to notify registrar of changes table_final v5_20240501.png"></a>
 
 **Note: Cancellation of Registration**
 
-If you do not wish to continue operating as a registered dealer (i.e. you are neither carrying on the business of regulated dealing nor business as an intermediary for regulated dealing), submit a cancellation application via the [GoBusiness Licensing Portal](https://www.gobusiness.gov.sg/licences){:target="_blank"}. Fees are not payable for cancellation application.
+If you do not wish to continue operating as a registered dealer (i.e. you are neither carrying on the business of regulated dealing nor business as an intermediary for regulated dealing), submit a cancellation application via the [GoBusiness Dashboard](https://www.gobusiness.gov.sg/licences){:target="_blank"}. Fees are not payable for cancellation application.
 
 
 
@@ -38,14 +38,17 @@ If you do not wish to continue operating as a registered dealer (i.e. you are ne
 
 Regulated dealers are required to conduct ongoing monitoring of the transactions carried out by your customer to ascertain that they are consistent with your knowledge of the customer.
 
-Regulated dealers are required to periodically review the adequacy of information and documents obtained as a result of the customer due diligence ("**CDD**") measures, particularly in cases where there is a higher risk of money laundering/terrorism financing ("**ML/TF**"). This is to ensure that the information is kept current and relevant.
+Regulated dealers are required to periodically review the adequacy of information and documents obtained as a result of the customer due diligence ("**CDD**") measures, particularly in cases where there is a higher risk of money laundering/terrorism financing/proliferation financing ("**ML/TF/PF**"). This is to ensure that the information is kept current and relevant.
 
 #### <a id="Record Keeping"></a> Record Keeping
 
 Regulated dealers are required to keep relevant documents and information for a period of 5 years after the date of transaction, or the date that the information or supporting document is obtained.
 
+A registered dealer may also be asked to keep relevant documents and information for a prescribed period after ceasing to be a registered dealer. If the registered dealer is found to have dispose records during the period of the registration, the registered dealer will be liable for enforcement action against them. With effect from 1 May 2024, regulated dealers that cease registration as regulated dealers, are still subject to this record keeping requirement and must continue to keep these documents and information for the 5 year period.
+
+
 #### <a id="Notices from the Registrar"></a> Notices from the Registrar
 
-The Registrar of Regulated Dealers regularly issues notices to all regulated dealers with respect to measures for the prevention of ML/TF. These include [Guidelines](/files/guidelines for regulated dealers_20231115_v3.0.pdf){:target="_blank"} to help regulated dealers understand their regulatory requirements and publications by the Financial Action Task Force ("**FATF**").
+The Registrar of Regulated Dealers regularly issues notices to all regulated dealers with respect to measures for the prevention of ML/TF/PF. These include [Guidelines](/files/guidelines%20for%20regulated%20dealers_20240502_v4_0.pdf){:target="_blank"} (Published Date: 2 May 2024) to help regulated dealers understand their regulatory requirements and publications by the Financial Action Task Force ("**FATF**").
 
 Please click [here](/news/notices-from-the-registrar/){:target="_blank"} to view the notices issued by the Registrar.
