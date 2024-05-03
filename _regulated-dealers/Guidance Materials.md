@@ -45,15 +45,15 @@ The Compliance Toolkit aims to guide and facilitate regulated dealers' complianc
 
 Download and open the <a target="_blank" href="/files/Compliance_Toolkit_for_PSMD_20240501.pdf">Compliance Toolkit</a> (Published Date: 1 May 2024) with a PDF reader on desktop to open the thumbnails. 
 
-#### <a id="Guidance Paper on Strengthening AML/CFT Controls in the Precious Stones and Precious Metals (PSPM) Sector"></a>6. Guidance Paper on Strengthening AML/CFT/CPF Controls in the Precious Stones and Precious Metals (PSPM) Sector
+#### <a id="Guidance Paper on Strengthening AML/CFT Controls in the Precious Stones and Precious Metals (PSPM) Sector"></a>6. Guidance Paper on Strengthening AML/CFT Controls in the Precious Stones and Precious Metals (PSPM) Sector
 
 MinLaw conducted a series of inspections and compliance reviews of regulated dealers targeted at assessing their level of compliance with the PSPM Act and PMLTF Regulations.
 
-The <a target="_blank" href="/images/Guidance Paper_20210616.pdf">Guidance Paper</a> (Published Date: Jun 2021) sets out the key findings and MinLaw’s supervisory expectations of effective AML/CFT/CPF controls in the precious stones and precious metals dealer ("**PSMD**") Sector. 
+The <a target="_blank" href="/images/Guidance Paper_20210616.pdf">Guidance Paper</a> (Published Date: Jun 2021) sets out the key findings and MinLaw’s supervisory expectations of effective AML/CFT controls in the precious stones and precious metals dealer ("**PSMD**") Sector. 
 
 Please click <a target="_blank" href="/images/Guidance Paper Briefing slides_20210712.pdf">here</a> to view the Guidance Paper Briefing slides. The video for the Guidance Paper Briefing is available <a target="_blank" href="https://youtu.be/RaOrZNbtMFM">here</a>.
 
-Regulated dealers should study the learning points and incorporate them in a manner proportionate to the risk profile of their business activities and customers. The regulated dealers should note that examples highlighted in this paper are non-exhaustive and they should continue to implement appropriate AML/CFT/CPF controls that commensurate with the nature and complexity of their business.
+Regulated dealers should study the learning points and incorporate them in a manner proportionate to the risk profile of their business activities and customers. The regulated dealers should note that examples highlighted in this paper are non-exhaustive and they should continue to implement appropriate AML/CFT controls that commensurate with the nature and complexity of their business.
 
 
 
