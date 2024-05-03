@@ -4,7 +4,7 @@ permalink: /renewal/
 breadcrumb: Renewal
 variant: markdown
 ---
-<a href="#Renewal of Registration">Renewal of Registration</a> | <a href="#Renewal Application Process">Renewal Application Process </a> | <a href="#Fees, Registering your Place(s) of Business and Period of Registration">Fees, Registering your Place(s) of Business and Period of Registration </a> | <a href="#Information Needed">Information Needed</a> | <a href="#I Need Help with Renewal">I Need Help with Renewal </a>
+<a href="#Renewal of Registration">Renewal of Registration</a> | <a href="#Fees, Registering your Place(s) of Business and Period of Registration">Fees, Registering your Place(s) of Business and Period of Registration </a> |<a href="#Renewal Application Process">Renewal Application Process </a> | <a href="#Information Needed">Information Needed</a> | <a href="#I Need Help with Renewal">I Need Help with Renewal </a>
 
 #### <a id="Renewal of Registration"></a> Renewal of Registration
 
