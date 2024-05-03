@@ -10,6 +10,6 @@ MinLaw conducted a series of inspections and compliance reviews of regulated dea
 
 The [Guidance Paper](/images/Guidance Paper_20210616.pdf){:target="_blank"} (Published Date: June 2021) sets out the key findings and MinLaw’s supervisory expectations of effective Anti-Money Laundering/Countering the Financing of Terrorism ("**AML/CFT**") controls in the precious stones and precious metals dealer ("**PSMD**") Sector. 
 
-Please click [here](/images/Guidance Paper Briefing slides_20210712.pdf){:target="_blank"} to view the Guidance Paper Briefing slides (Published Date: July 2021). The video for the Guidance Paper Briefing is available [here](https://youtu.be/RaOrZNbtMFM){:target="_blank"}.
+Please click [here](/images/Guidance Paper Briefing slides_20210712.pdf){:target="_blank"} to view the Guidance Paper Briefing slides. The video for the Guidance Paper Briefing is available [here](https://youtu.be/RaOrZNbtMFM){:target="_blank"}.
 
 Regulated dealers should study the learning points and incorporate them in a manner proportionate to the risk profile of their business activities and customers. The regulated dealers should note that examples highlighted in this paper are non-exhaustive and they should continue to implement appropriate AML/CFT controls that commensurate with the nature and complexity of their business.
