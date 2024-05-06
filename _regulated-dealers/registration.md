@@ -20,7 +20,7 @@ Examples of regulated dealers who are required to register include, but are not 
 
 Foreign dealers may refer [here](/regulatory-regime/#Regulatory%20Compliance%20for%20Foreign%20Dealers) on the requirements to register.
 
-Please refer to the [PSPM Act](https://sso.agc.gov.sg/Act/PSPMPMLTFA2019){:target="_blank"} for the official definitions. If you are not certain whether you are required to register, you may wish to seek legal advice.
+Please refer to the [PSPM Act](https://sso.agc.gov.sg/Act/PSPMPMLTFPFA2019){:target="_blank"} for the official definitions. If you are not certain whether you are required to register, you may wish to seek legal advice.
 
 #### <a id="Fees and Registering your Place(s) of Business"></a> Fees and Registering your Place(s) of Business
 
