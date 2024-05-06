@@ -4,7 +4,7 @@ permalink: /offences-breaches-under-the-pspm-act-and-pmltf-regulations/
 breadcrumb: Offences/Breaches under the PSPM Act and PMLTF Regulations
 variant: markdown
 ---
-**Table 1** - [Offences/Breaches under Precious Stones and Precious Metals (Prevention of Money Laundering, Terrorism Financing and Proliferation Financing) Act 2019](https://sso.agc.gov.sg/Act/PSPMPMLTFA2019){:target="_blank"}
+**Table 1** - [Offences/Breaches under Precious Stones and Precious Metals (Prevention of Money Laundering, Terrorism Financing and Proliferation Financing) Act 2019](https://sso.agc.gov.sg/Act/PSPMPMLTFPFA2019){:target="_blank"}
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -111,7 +111,7 @@ variant: markdown
 </tbody>
 </table>
 
-**Table 2** - [Offences under Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations 2019](https://sso.agc.gov.sg/SL/PSPMPMLTFA2019-S306-2019?DocDate=20201207){:target="_blank"}
+**Table 2** - [Offences under Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations 2019](https://sso.agc.gov.sg//SL/PSPMPMLTFPFA2019-S306-2019?DocDate=20240430){:target="_blank"}
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
