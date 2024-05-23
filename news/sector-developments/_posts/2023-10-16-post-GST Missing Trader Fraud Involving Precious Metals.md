@@ -5,6 +5,7 @@ date: 2023-10-16
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
 Dear Registered Dealer,
 
@@ -47,4 +48,4 @@ To protect your business from any involvement or association with such MTF arran
 	
 Where you are aware or have reasonable grounds to suspect that the supplier, customer, property or transaction is linked to criminal conduct, you should consider filing an STR.
 
-You may refer to this [link](https://www.iras.gov.sg/who-we-are/what-we-do/annual-reports-and-publications/taxbytes@iras/gst/gst-missing-trader-fraud-involving-precious-metals){:target="_blank"} for IRAS’ taxBytes and the IRAS’ [Guide on Due Diligence Checks to Avoid Being involved in Missing Trader Fraud](https://www.iras.gov.sg/media/docs/default-source/e-tax/etax-guide_due-diligence-checks-to-avoid-being-involved-in-missing-trader-fraud.pdf?sfvrsn=7d268b36_25){:target="_blank"} for more information. Thank you.
+You may refer to this [link](https://www.iras.gov.sg/who-we-are/what-we-do/annual-reports-and-publications/taxbytes-iras/gst/gst-missing-trader-fraud-involving-precious-metals){:target="_blank"} for IRAS’ taxBytes and the IRAS’ [Guide on Due Diligence Checks to Avoid Being involved in Missing Trader Fraud](https://www.iras.gov.sg/media/docs/default-source/e-tax/etax-guide_due-diligence-checks-to-avoid-being-involved-in-missing-trader-fraud.pdf?sfvrsn=7d268b36_25){:target="_blank"} for more information. Thank you.
