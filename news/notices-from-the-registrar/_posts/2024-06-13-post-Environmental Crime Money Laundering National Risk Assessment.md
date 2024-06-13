@@ -8,10 +8,10 @@ image: ""
 variant: tiptap
 ---
 <p>Dear Regulated Dealer,</p>
-<p>The Environmental Crimes Money Laundering National Risk Assessment (Env
-Crimes ML NRA) presents an overview of Singapore’s Env Crimes ML risk environment,
-identifies the key threats and vulnerabilities in environmental crimes
-ML that Singapore is exposed to, and outlines risk mitigation measures.</p>
+<p>The Environmental Crimes Money Laundering National Risk Assessment ("<strong>Env Crimes ML NRA</strong>")
+presents an overview of Singapore’s Env Crimes ML risk environment, identifies
+the key threats and vulnerabilities in environmental crimes ML that Singapore
+is exposed to, and outlines risk mitigation measures.</p>
 <p>Singapore’s key exposure to environmental crimes ML stems from its position
 as a transit country:</p>
 <ul data-tight="true" class="tight">
@@ -58,7 +58,7 @@ under the guise of loans or payments, and using cash deposits, electronic
 payments, and third-party wire transfers.</p>
 </li>
 <li>
-<p>Criminals may use shell companies to hide beneficial owners to lauder
+<p>Criminals may use shell companies to hide beneficial owners to launder
 proceeds from environmental crimes such as illegal mining.</p>
 </li>
 <li>
