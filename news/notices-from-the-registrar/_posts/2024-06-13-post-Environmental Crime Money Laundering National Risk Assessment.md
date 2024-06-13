@@ -50,22 +50,21 @@ crimes.</p>
 <ol data-tight="true" class="tight">
 <li>
 <p>Environmental crimes and the laundering of their proceeds endanger the
-environment and have a far-reaching impact.</p>
+environment and have a <strong>far-reaching impact</strong>.</p>
 </li>
 <li>
-<p>Criminals could launder proceeds from environmental goods though layering,
-under the guise of loans or payments, and using cash deposits, electronic
-payments, and third-party wire transfers.</p>
+<p><strong>Criminals could launder proceeds from environmental goods</strong>  <strong>though layering,</strong> under
+the guise of loans or payments, and using cash deposits, electronic payments,
+and third-party wire transfers.</p>
 </li>
 <li>
-<p>Criminals may use shell companies to hide beneficial owners to launder
-proceeds from environmental crimes such as illegal mining.</p>
+<p><strong>Criminals may use shell companies to hide beneficial owners to launder proceeds</strong> from
+environmental crimes such as illegal mining.</p>
 </li>
 <li>
 <p>Proceeds from environmental crimes, or from corruption, bribery, or tax
 evasion linked to environmental crimes, may be used to purchase precious
-stones, precious metals, or precious products (PSPM) to hide the illicit
-origin of these funds.</p>
+stones, precious metals, or precious products (PSPM) to <strong>hide the illicit origin of these funds</strong>.</p>
 </li>
 </ol>
 <p><strong>What can you do?</strong>
