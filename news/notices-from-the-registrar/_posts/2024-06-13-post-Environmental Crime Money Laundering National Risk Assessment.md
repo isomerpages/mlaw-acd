@@ -45,11 +45,9 @@ refers to mining activity that is undertaken without state permission or
 with state permission obtained through corruption.</p>
 <p>Corruption, bribery and tax evasion offences may also be linked to environmental
 crimes.</p>
-<h4><strong>Why are environmental crimes a concern?</strong>&nbsp;</h4>
-<ol data-tight="true" class="tight">
-<li>
+<p><strong>Why are environmental crimes a concern?</strong>&nbsp;</p>
 <p>Some of the key concerns highlighted in the report are:</p>
-</li>
+<ol data-tight="true" class="tight">
 <li>
 <p>Environmental crimes and the laundering of their proceeds endanger the
 environment and have a far-reaching impact.</p>
@@ -70,7 +68,8 @@ stones, precious metals, or precious products (PSPM) to hide the illicit
 origin of these funds.</p>
 </li>
 </ol>
-<h4><strong>What can you do?</strong></h4>
+<p><strong>What can you do?</strong>
+</p>
 <p>Regulated Dealers should take reference from the Env Crimes ML NRA in
 assessing your environmental crimes ML risks and enhance your controls
 as appropriate. You are encouraged to :</p>
