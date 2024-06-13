@@ -37,7 +37,7 @@ width: 30%;
 
 | Document | Uploaded |
 | --- | --- |
-| [Environmental Crimes Money Laundering National Risk Assessment](https://cms.isomer.gov.sg/files/Env_Crimes_ML_NRA___Final.pdf){:target="_blank"} | Jun 2024 |
+| [Environmental Crimes Money Laundering National Risk Assessment](/files/Env_Crimes_ML_NRA___Final.pdf){:target="_blank"} | Jun 2024 |
 | [GST Missing Trader Fraud Involving Precious Metals](https://www.iras.gov.sg/who-we-are/what-we-do/annual-reports-and-publications/taxbytes-iras/gst/gst-missing-trader-fraud-involving-precious-metals){:target="_blank"} | Oct 2023 |
 | [2023 Industry Engagement Session](/files/2023%20industry%20engagement%20session_20230510.pdf){:target="_blank"} | Jul 2023 |
 | [National Strategy for Countering the Financing of Terrorism (CFT)](/files/National%20Strategy%20for%20Countering%20the%20Financing%20of%20Terrorism.pdf){:target="_blank"} | Oct 2022 |
