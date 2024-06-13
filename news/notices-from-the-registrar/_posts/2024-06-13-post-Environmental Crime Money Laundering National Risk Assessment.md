@@ -87,5 +87,6 @@ to guard against the Env Crimes ML risk that your business may be abused,
 where relevant.</p>
 </li>
 </ol>
-<p>Click <strong><u>here </u></strong>for the full Env Crimes ML NRA Report.</p>
+<p>Click <a href="/files/Env_Crimes_ML_NRA___Final.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> for
+the full Env Crimes ML NRA Report.</p>
 <p></p>
