@@ -64,7 +64,8 @@ environmental crimes such as illegal mining.</p>
 <li>
 <p>Proceeds from environmental crimes, or from corruption, bribery, or tax
 evasion linked to environmental crimes, may be used to purchase precious
-stones, precious metals, or precious products (<strong>PSPM</strong>) to <strong>hide the illicit origin of these funds</strong>.</p>
+stones, precious metals, or precious products ("<strong>PSPM</strong>")
+to <strong>hide the illicit origin of these funds</strong>.</p>
 </li>
 </ol>
 <p><strong>What can you do?</strong>
