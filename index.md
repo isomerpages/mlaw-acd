@@ -2,7 +2,7 @@
 layout: homepage
 title: Ministry of Law - ACD
 permalink: /
-notification: <b> <a href="https://go.ov.sg/mypal"> Semi-Annual Return
+notification: <b> <a href="https://go.gov.sg/mypal"> Semi-Annual Return
   submission is now open. Please submit it through <i>my</i>Pal</a></b>
 sections:
   - hero:
