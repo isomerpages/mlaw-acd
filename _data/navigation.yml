@@ -16,7 +16,7 @@ links:
         url: https://sso.agc.gov.sg/Act/PSPMPMLTFPFA2019?ViewType=Sl
         external: true
       - title: Parliamentary Speech
-        url: https://sprs.parl.gov.sg/search/sprs3topic?reportid=bill-349
+        url: https://sprs.parl.gov.sg/search/#/sprs3topic?reportid=bill-349
         external: true
       - title: Notices from the Registrar
         url: /news/notices-from-the-registrar/

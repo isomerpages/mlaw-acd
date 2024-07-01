@@ -2,18 +2,16 @@
 layout: homepage
 title: Ministry of Law - ACD
 permalink: /
-notification: <b> <a
-  href="https://acd.mlaw.gov.sg/news/notices-from-the-registrar/amendments-to-the-pspm-act-1-may-2024/">
-  Amendments to PSPM Act and Subsidiary Legislation with effect from 1 May 2024
-  (latest!) </a></b>
+notification: <b> <a href="https://go.gov.sg/mypal"> Semi-Annual Return
+  submission is now open. Please submit it through <i>my</i>Pal</a></b>
 sections:
   - hero:
       title: Regulatory Regime for Precious Stones and Precious Metals Dealers
       subtitle: Anti-Money Laundering / Countering the Financing of Terrorism Division
         (ACD)
       background: /images/bullion1.jpg
-      button: DOWNLOAD YOUR<br>COMPLIANCE TOOLKIT
-      url: https://acd.mlaw.gov.sg/files/Compliance_Toolkit_for_PSMD_20240501.pdf
+      button: SUBMIT SEMI-ANNUAL RETURN<br>VIA MYPAL
+      url: https://go.gov.sg/mypal
       key_highlights:
         - title: Renewal
           description: Overview of renewal process
