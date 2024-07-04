@@ -11,8 +11,8 @@ The Ministry of Law ("**MinLaw**") has appointed the professional services firm,
 You may have received a notification email from MinLaw on your participation in the CRP. Please refer to the list of reviewers cleared by MinLaw as of 14 June 2024.
 
 **Information of Reviewers**
-<br>1. Arivalagan Kantha Rupan<br>2. Chew Shao Yi Schmeichel<br>3. Chiam Dawn Yuan Yun<br>4. Choo, Yen Lin<br>5. Claire Foo Xin Hui<br>6. Clifford Guok Khor Huat<br>7. Fang Ian Shengyu<br>8.	Kannan, Yegammai<br>9. Koh Xuan Kai
-<br>10.	Lee Zhi Xin<br>11. Lek Jing Ting
-<br>12.	Lim Shiya, Cheranne<br>13.	Lim Siew Kim<br>14. Mohan Srisuriya<br>15. Nicholas Koh Ngee Hao<br>16. Nathan Khoo Peng Yang
-<br>17.	Samuel Ang Yue Xuan<br>18.	Toh Mark Michael Wing Yue
-<br>19.	Toh Tricia<br>20. Wong, Andrew Yee Hern
+<br>1. Arivalagan Kantha Rupan<br>2. Chew Shao Yi Schmeichel<br>3. Chiam Dawn Yuan Yun<br>4. Choo, Yen Lin<br>5. Claire Foo Xin Hui<br>6. Clifford Guok Khor Huat<br>7. Fang Ian Shengyu<br>8. Hannah Nyanavoli<br>9.	Kannan, Yegammai<br>10. Koh Xuan Kai
+<br>11.	Lee Zhi Xin<br>12. Lek Jing Ting
+<br>13.	Lim Shiya, Cheranne<br>14.	Lim Siew Kim<br>15. Mohan Srisuriya<br>16. Nicholas Koh Ngee Hao<br>17. Nathan Khoo Peng Yang
+<br>18.	Samuel Ang Yue Xuan<br>19.	Toh Mark Michael Wing Yue
+<br>20.	Toh Tricia<br>21. Wong, Andrew Yee Hern
