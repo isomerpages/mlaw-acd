@@ -15,8 +15,8 @@ that the Financial Action Task Force (“<strong>FATF</strong>”) has issued
 statements dated 28 June 2024 on:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><em> </em>Counter-measures against the Democratic People’s Republic of
-Korea (“<strong>DPRK</strong>”) and Iran;</p>
+<p>Counter-measures against the Democratic People’s Republic of Korea (“<strong>DPRK</strong>”)
+and Iran;</p>
 </li>
 <li>
 <p>Enhanced due diligence measures against Myanmar; and</p>
@@ -44,13 +44,47 @@ or terrorism financing.</p>
 </ul>
 <p>Full details can be found at: <a href="https://www.fatf-gafi.org/content/fatf-gafi/en/publications/High-risk-and-other-monitored-jurisdictions/Call-for-action-june-2024.html" rel="noopener noreferrer nofollow" target="_blank">https://www.fatf-gafi.org/content/fatf-gafi/en/publications/High-risk-and-other-monitored-jurisdictions/Call-for-action-june-2024.html</a>
 </p>
-<p>&lt;span style="font-weight:bold;text-decoration:underline"&gt; Jurisdictions
-under Increased Monitoring&lt;/span&gt;&lt;br&gt;</p>
+<p><strong><u>Jurisdictions under Increased Monitoring</u></strong>
+</p>
 <p>Regulated dealers are also expected to take the List of Jurisdictions
 under Increased Monitoring into consideration when preparing and updating
-their risk assessment and mitigation plans and perform ECDD measures, when
-necessary. The latest list removed Barbados, Gibraltar, Uganda and UAE
-and included Kenya and Namibia.&lt;br&gt;&lt;br&gt;</p>
+their risk assessment and mitigation plans and perform enhanced customer
+due diligence measures, when necessary. The latest list removed Jamaica
+and Turkiye, and included Monaco and Venezue.</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Jurisdiction with strategic deficiencies</strong>
+</p>
+<p>Bulgaria</p>
+<p>Burkina Faso</p>
+<p>Cameroon</p>
+<p>Croatia</p>
+<p>Democratic Republic of Congo</p>
+<p>Haiti</p>
+<p>Kenya</p>
+<p>Mali</p>
+<p>Monaco (new)</p>
+<p>Mozambique</p>
+<p>Namibia</p>
+<p>Nigeria</p>
+<p>Philippines</p>
+<p>Senegal</p>
+<p>South Africa</p>
+<p>South Sudan</p>
+<p>Syria</p>
+<p>Tanzania</p>
+<p>Venezuela (new)</p>
+<p>Vietnam</p>
+<p>Yemen</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>&lt;table class="tg" style="border-collapse:collapse;border-spacing:0"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th
 style="border-color:black;border-style:solid;border-width:1px;font-family:Arial,
 sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px
@@ -77,6 +111,5 @@ sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px
 <p>&lt;span style="font-weight:normal"&gt;Türkiye&lt;/span&gt;&lt;br&gt;</p>
 <p>&lt;span style="font-weight:normal"&gt;Vietnam&lt;/span&gt;&lt;br&gt;</p>
 <p>&lt;span style="font-weight:normal"&gt;Yemen&lt;/span&gt;&lt;br&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;/table&gt;</p>
-<p>Full details can be found at:&lt;br&gt;&lt;a target="_blank" href="
-<a href="https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/Increased-monitoring-february-2024.html&quot;>https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/Increased-monitoring-february-2024.html</a><br>" rel="noopener noreferrer nofollow" target="_blank">https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/Increased-monitoring-february-2024.html"&gt;https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/Increased-monitoring-february-2024.html&lt;/a&gt;&lt;br&gt;</a>
+<p>Full details can be found at: <a href="https://www.fatf-gafi.org/content/fatf-gafi/en/publications/High-risk-and-other-monitored-jurisdictions/increased-monitoring-june-2024.html" rel="noopener noreferrer nofollow" target="_blank">https://www.fatf-gafi.org/content/fatf-gafi/en/publications/High-risk-and-other-monitored-jurisdictions/increased-monitoring-june-2024.html</a>
 </p>
