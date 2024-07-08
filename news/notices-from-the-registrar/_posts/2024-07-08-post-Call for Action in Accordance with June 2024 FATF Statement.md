@@ -85,31 +85,6 @@ and Turkiye, and included Monaco and Venezuela.</p>
 </tr>
 </tbody>
 </table>
-<p>&lt;table class="tg" style="border-collapse:collapse;border-spacing:0"&gt;&lt;thead&gt;&lt;tr&gt;&lt;th
-style="border-color:black;border-style:solid;border-width:1px;font-family:Arial,
-sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px
-5px;text-align:left;vertical-align:top;word-break:normal"&gt;</p>
-<p>&lt;span style="font-weight:bold"&gt;Jurisdiction with strategic deficiencies&lt;/span&gt;&lt;br&gt;</p>
-<p>&lt;span style="font-weight:normal"&gt;Bulgaria&lt;/span&gt;&lt;br&gt;</p>
-<p>&lt;span style="font-weight:normal"&gt;Burkina Faso&lt;/span&gt;&lt;br&gt;</p>
-<p>&lt;span style="font-weight:normal"&gt;Cameroon&lt;/span&gt;&lt;br&gt;</p>
-<p>&lt;span style="font-weight:normal"&gt;Croatia&lt;/span&gt;&lt;br&gt;</p>
-<p>&lt;span style="font-weight:normal"&gt;Democratic Republic of Congo&lt;/span&gt;&lt;br&gt;</p>
-<p>&lt;span style="font-weight:normal"&gt;Haiti&lt;/span&gt;&lt;br&gt;</p>
-<p>&lt;span style="font-weight:normal"&gt;Jamaica&lt;/span&gt;&lt;br&gt;</p>
-<p>&lt;span style="font-weight:normal"&gt;Kenya &lt;i&gt;(new)&lt;/i&gt;&lt;/span&gt;&lt;br&gt;</p>
-<p>&lt;span style="font-weight:normal"&gt;Mali&lt;/span&gt;&lt;br&gt;</p>
-<p>&lt;span style="font-weight:normal"&gt;Mozambique&lt;/span&gt;&lt;br&gt;</p>
-<p>&lt;span style="font-weight:normal"&gt;Namibia &lt;i&gt;(new)&lt;/i&gt;&lt;/span&gt;&lt;br&gt;</p>
-<p>&lt;span style="font-weight:normal"&gt;Nigeria&lt;/span&gt;&lt;br&gt;</p>
-<p>&lt;span style="font-weight:normal"&gt;Philippines&lt;/span&gt;&lt;br&gt;</p>
-<p>&lt;span style="font-weight:normal"&gt;Senegal&lt;/span&gt;&lt;br&gt;</p>
-<p>&lt;span style="font-weight:normal"&gt;South Africa&lt;/span&gt;&lt;br&gt;</p>
-<p>&lt;span style="font-weight:normal"&gt;South Sudan&lt;/span&gt;&lt;br&gt;</p>
-<p>&lt;span style="font-weight:normal"&gt;Syria&lt;/span&gt;&lt;br&gt;</p>
-<p>&lt;span style="font-weight:normal"&gt;Tanzania&lt;/span&gt;&lt;br&gt;</p>
-<p>&lt;span style="font-weight:normal"&gt;Türkiye&lt;/span&gt;&lt;br&gt;</p>
-<p>&lt;span style="font-weight:normal"&gt;Vietnam&lt;/span&gt;&lt;br&gt;</p>
-<p>&lt;span style="font-weight:normal"&gt;Yemen&lt;/span&gt;&lt;br&gt;&lt;/th&gt;&lt;/tr&gt;&lt;/thead&gt;&lt;/table&gt;</p>
+<p></p>
 <p>Full details can be found at: <a href="https://www.fatf-gafi.org/content/fatf-gafi/en/publications/High-risk-and-other-monitored-jurisdictions/increased-monitoring-june-2024.html" rel="noopener noreferrer nofollow" target="_blank">https://www.fatf-gafi.org/content/fatf-gafi/en/publications/High-risk-and-other-monitored-jurisdictions/increased-monitoring-june-2024.html</a>
 </p>
