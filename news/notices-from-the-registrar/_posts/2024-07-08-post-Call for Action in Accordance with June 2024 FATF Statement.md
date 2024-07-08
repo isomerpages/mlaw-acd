@@ -37,7 +37,7 @@ Regulated dealers are also expected to take the List of Jurisdictions under Incr
 	<span style="font-weight:normal">Mali</span><br>
 	<span style="font-weight:normal">Monaco <i>(new)</i></span><br>
 <span style="font-weight:normal">Mozambique</span><br>
-		<span style="font-weight:normal">Namibia <i>(new)</i></span><br>
+		<span style="font-weight:normal">Namibia </span><br>
 <span style="font-weight:normal">Nigeria</span><br>
 <span style="font-weight:normal">Philippines</span><br>
 <span style="font-weight:normal">Senegal</span><br>
