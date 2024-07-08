@@ -11,7 +11,7 @@ variant: markdown
 
 Dear Regulated Dealer,
 
-The Registrar of Regulated Dealers hereby notifies all regulated dealers that the Financial Action Task Force (“**FATF**”) has issued statements dated 28 July 2024 on:
+The Registrar of Regulated Dealers hereby notifies all regulated dealers that the Financial Action Task Force (“**FATF**”) has issued statements dated 28 June 2024 on:
 * Countermeasures against the Democratic People’s Republic of Korea (“**DPRK**”) and Iran;
 * Enhanced due diligence measures against Myanmar; and
 * List of Jurisdictions under Increased Monitoring.
