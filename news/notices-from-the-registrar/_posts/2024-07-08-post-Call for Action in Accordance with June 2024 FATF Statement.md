@@ -15,7 +15,7 @@ that the Financial Action Task Force (“<strong>FATF</strong>”) has issued
 statements dated 28 June 2024 on:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Counter-measures against the Democratic People’s Republic of Korea (“<strong>DPRK</strong>”)
+<p>Countermeasures against the Democratic People’s Republic of Korea (“<strong>DPRK</strong>”)
 and Iran;</p>
 </li>
 <li>
@@ -50,7 +50,7 @@ or terrorism financing.</p>
 under Increased Monitoring into consideration when preparing and updating
 their risk assessment and mitigation plans and perform enhanced customer
 due diligence measures, when necessary. The latest list removed Jamaica
-and Turkiye, and included Monaco and Venezue.</p>
+and Turkiye, and included Monaco and Venezuela.</p>
 <table style="minWidth: 25px">
 <colgroup>
 <col>
