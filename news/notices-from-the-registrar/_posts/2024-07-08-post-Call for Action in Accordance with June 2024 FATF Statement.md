@@ -20,7 +20,7 @@ Accordingly, under regulation 7(1) of the Precious Stones and Precious Metals (P
 * The customer, or the person on whose behalf the customer is acting on, is from or in DPRK, Iran, Myanmar, or a foreign country or territory identified to have inadequate measures to prevent money laundering or terrorism financing; or
 * The transaction relates to DPRK, Iran, Myanmar, or a foreign country or territory identified to have inadequate measures to prevent money laundering or terrorism financing.
 
-Full details can be found at:<br><a href="https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/Call-for-action-february-2024.html" target="_blank">https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/Call-for-action-february-2024.html</a><br><br>
+Full details can be found at:<br><a href="https://www.fatf-gafi.org/content/fatf-gafi/en/publications/High-risk-and-other-monitored-jurisdictions/Call-for-action-june-2024.html" target="_blank">https://www.fatf-gafi.org/content/fatf-gafi/en/publications/High-risk-and-other-monitored-jurisdictions/Call-for-action-june-2024.html </a><br><br>
 
 <span style="font-weight:bold;text-decoration:underline"> Jurisdictions under Increased Monitoring</span><br>
 
@@ -48,4 +48,4 @@ Regulated dealers are also expected to take the List of Jurisdictions under Incr
 <span style="font-weight:normal">Venezuela <i>(new)</i></span><br>
 	<span style="font-weight:normal">Vietnam</span><br>
 <span style="font-weight:normal">Yemen</span><br></th></tr></thead></table>
-Full details can be found at:<br><a href="https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/Increased-monitoring-february-2024.html" target="_blank">https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/Increased-monitoring-february-2024.html</a><br>
+Full details can be found at:<br><a href="https://www.fatf-gafi.org/content/fatf-gafi/en/publications/High-risk-and-other-monitored-jurisdictions/increased-monitoring-june-2024.html" target="_blank">https://www.fatf-gafi.org/content/fatf-gafi/en/publications/High-risk-and-other-monitored-jurisdictions/increased-monitoring-june-2024.html</a><br>
