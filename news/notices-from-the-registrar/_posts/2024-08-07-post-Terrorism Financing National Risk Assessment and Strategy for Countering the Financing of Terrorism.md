@@ -98,7 +98,6 @@ against TF.</p>
 <p>Registered dealers should take reference from the TF NRA in assessing
 your TF risks and enhance your controls as appropriate. You are encouraged
 to:</p>
-<p>&nbsp;</p>
 <ol data-tight="true" class="tight">
 <li>
 <p><strong>Be alert to the potential vulnerabilities</strong>&nbsp;outlined
