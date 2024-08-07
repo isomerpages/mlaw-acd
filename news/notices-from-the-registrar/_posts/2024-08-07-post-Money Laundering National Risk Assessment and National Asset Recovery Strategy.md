@@ -127,4 +127,5 @@ against the ML risks that your business may be abused, where relevant.</p>
 </ol>
 <p></p>
 <p>Please refer to the link<strong><u> </u></strong>for the full <a href="/files/Money_Laundering_National_Risk_Assessment_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">ML NRA</a> and
-NARS reports.</p>
+<a href="/files/National_Asset_Recovery_Strategy_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">NARS</a>reports.</p>
+<p></p>
