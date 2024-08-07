@@ -64,9 +64,10 @@ assessed as presenting <strong>medium-high ML risk</strong>. PSMDs are more
 vulnerable to ML risk due to the following factors:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Precious stones and precious metals (PSPM) generally possess <strong>high intrinsic value</strong> in
-a relatively compact form that potentially maintains or increases in value
-over time, which makes it attractive to money launderers;</p>
+<p>Precious stones and precious metals ("<strong>PSPM</strong>") generally
+possess <strong>high intrinsic value</strong> in a relatively compact form
+that potentially maintains or increases in value over time, which makes
+it attractive to money launderers;</p>
 </li>
 <li>
 <p>PSPMs facilitate the <strong>anonymity of ownership</strong>;</p>
@@ -125,4 +126,4 @@ against the ML risks that your business may be abused, where relevant.</p>
 </li>
 </ol>
 <p></p>
-<p>Click <strong><u>here </u></strong> for the full ML NRA and NARS Reports.</p>
+<p>Click <strong><u>here </u></strong>for the full ML NRA and NARS Reports.</p>
