@@ -131,5 +131,5 @@ submit a copy of the report to the Registrar.</p>
 <p></p>
 </li>
 </ol>
-<p>Click <strong><u>here </u></strong><em>&lt;link to the reports when uploaded on ACD website&gt;</em> for
-the full TF NRA and NSCFT reports.</p>
+<p>Click <strong><u>here </u></strong>for the full TF NRA and NSCFT reports.</p>
+<p></p>
