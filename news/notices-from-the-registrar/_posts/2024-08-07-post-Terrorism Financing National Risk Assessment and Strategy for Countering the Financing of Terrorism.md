@@ -52,9 +52,10 @@ assessed as presenting <strong>medium-low TF risk. </strong>PSMDs are more
 vulnerable to TF risk due to the following factors:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Precious stones and precious metals (PSPM) generally possess <strong>high intrinsic value</strong> in
-a relatively compact form that tend to maintain or increase in value over
-time, which potentially makes them attractive to terrorist financiers.</p>
+<p>Precious stones and precious metals ("<strong>PSPM</strong>") generally
+possess <strong>high intrinsic value</strong> in a relatively compact form
+that tend to maintain or increase in value over time, which potentially
+makes them attractive to terrorist financiers.</p>
 </li>
 <li>
 <p>There remain <strong>varied levels of awareness of TF risks and AML/CFT controls</strong> and
