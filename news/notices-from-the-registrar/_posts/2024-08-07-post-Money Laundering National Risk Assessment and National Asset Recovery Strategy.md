@@ -88,19 +88,20 @@ to <strong>hide their identity.</strong>
 the following <strong>four pillars</strong>:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Detect suspicious and criminal activities by tracing the illicit funds;</p>
+<p><strong>Detect</strong> suspicious and criminal activities by tracing the
+illicit funds;</p>
 </li>
 <li>
-<p>Deprive criminals of their ill-gotten proceeds through prompt seizure
-and confiscation;</p>
+<p><strong>Deprive</strong> criminals of their ill-gotten proceeds through
+prompt seizure and confiscation;</p>
 </li>
 <li>
-<p>Deliver maximum recovery of assets for forfeiture and restitution to victims;
-and</p>
+<p><strong>Deliver</strong> maximum recovery of assets for forfeiture and
+restitution to victims; and</p>
 </li>
 <li>
-<p>Deter criminals from using Singapore to hide, move, or enjoy their illicit
-assets.</p>
+<p><strong>Deter</strong> criminals from using Singapore to hide, move, or
+enjoy their illicit assets.</p>
 </li>
 </ol>
 <p><strong>What can you do?</strong>&nbsp;</p>
