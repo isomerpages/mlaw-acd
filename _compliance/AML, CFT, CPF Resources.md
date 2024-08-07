@@ -37,6 +37,8 @@ width: 30%;
 
 | Document | Uploaded |
 | --- | --- |
+| [National Strategy for Countering the Financing of Terrorism Financing](/files/National_Strategy_for_Countering_the_Financing_of_Terrorism_2024.pdf){:target="_blank"} | Jul 2024 |
+| [Terrorism Financing National Risk Assessment](/files/Terrorism_Financing_National_Risk_Assessment_2024.pdf){:target="_blank"} | Jul 2024 |
 | [National Asset Recovery Strategy](/files/National_Asset_Recovery_Strategy_2024.pdf){:target="_blank"} | Jun 2024 |
 | [Money Laundering National Risk Assessment](/files/Money_Laundering_National_Risk_Assessment_2024.pdf){:target="_blank"} | Jun 2024 |
 | [Environmental Crimes Money Laundering National Risk Assessment](/files/Env_Crimes_ML_NRA___Final.pdf){:target="_blank"} | Jun 2024 |
