@@ -130,5 +130,6 @@ submit a copy of the report to the Registrar.</p>
 <p></p>
 </li>
 </ol>
-<p>Click <strong><u>here </u></strong>for the full TF NRA and NSCFT reports.</p>
+<p>Please refer to the link for the full <a href="/files/Terrorism_Financing_National_Risk_Assessment_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">TF NRA</a> and
+<a href="/files/National_Strategy_for_Countering_the_Financing_of_Terrorism_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">NSCFT</a>reports.</p>
 <p></p>
