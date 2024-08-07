@@ -37,6 +37,7 @@ width: 30%;
 
 | Document | Uploaded |
 | --- | --- |
+| [National Asset Recovery Strategy](/files/National_Asset_Recovery_Strategy_2024.pdf){:target="_blank"} | Jun 2024 |
 | [Money Laundering National Risk Assessment](/files/Money_Laundering_National_Risk_Assessment_2024.pdf){:target="_blank"} | Jun 2024 |
 | [Environmental Crimes Money Laundering National Risk Assessment](/files/Env_Crimes_ML_NRA___Final.pdf){:target="_blank"} | Jun 2024 |
 | [GST Missing Trader Fraud Involving Precious Metals](https://www.iras.gov.sg/who-we-are/what-we-do/annual-reports-and-publications/taxbytes-iras/gst/gst-missing-trader-fraud-involving-precious-metals){:target="_blank"} | Oct 2023 |
