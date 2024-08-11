@@ -5,8 +5,8 @@ date: 2022-10-11
 layout: post
 description: ""
 image: ""
+variant: markdown
 ---
-
 Dear Regulated Dealer,
 
 #### **National Strategy for Countering the Financing of Terrorism**
