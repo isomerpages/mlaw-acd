@@ -58,7 +58,7 @@ domestic ML threat)</p>
 </p>
 </li>
 </ul>
-<p>According to the ML NRA 2024, the <strong>precious stones and precious metals dealers ("PSMD") sector</strong> is
+<p>According to the ML NRA 2024, the <strong>precious stones and precious metals dealers ("<strong>PSMD</strong>") sector</strong> is
 assessed as presenting <strong>medium-high ML risk</strong>. PSMDs are more
 vulnerable to ML risk due to the following factors:</p>
 <ul data-tight="true" class="tight">
