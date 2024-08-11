@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-<p>Dear Registered Dealer,</p>
+<p>Dear Regulated Dealer,</p>
 <p>As part of Singapore’s continuing efforts to maintain the effectiveness
 of its anti-money laundering and countering the financing of terrorism
 ("<strong>AML/CFT</strong>") regime, and to keep pace with best practices
@@ -16,7 +16,7 @@ Singapore had published its updated Money Laundering National Risk Assessment
 ("<strong>ML NRA</strong>") and National Asset Recovery Strategy ("<strong>NARS</strong>")
 in June 2024.</p>
 <p>To support this effort, ACD has prepared the following key highlights
-from the ML NRA and the NARS for registered dealers to note and take action.</p>
+from the ML NRA and the NARS for regulated dealers to note and take action.</p>
 <p></p>
 <p><strong><u>ML NRA</u></strong>
 </p>
@@ -58,7 +58,7 @@ domestic ML threat)</p>
 </p>
 </li>
 </ul>
-<p>According to the ML NRA 2024, the <strong>precious stones and precious metals dealers (PSMD) sector</strong> is
+<p>According to the ML NRA 2024, the <strong>precious stones and precious metals dealers ("PSMD") sector</strong> is
 assessed as presenting <strong>medium-high ML risk</strong>. PSMDs are more
 vulnerable to ML risk due to the following factors:</p>
 <ul data-tight="true" class="tight">
@@ -105,7 +105,7 @@ enjoy their illicit assets.</p>
 </li>
 </ol>
 <p><strong>What can you do?</strong>&nbsp;</p>
-<p>Registered Dealers should take reference from the ML NRA in assessing
+<p>Regulated Dealers should take reference from the ML NRA in assessing
 your ML risks and enhance your controls as appropriate. You are encouraged
 to:</p>
 <p></p>
