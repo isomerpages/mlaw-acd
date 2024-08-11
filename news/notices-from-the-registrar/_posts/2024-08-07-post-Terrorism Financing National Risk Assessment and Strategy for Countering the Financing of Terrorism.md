@@ -108,7 +108,7 @@ alternative to monies and could be used to move or raise funds for terrorism.</p
 <li>
 <p><strong>Take the appropriate risk mitigation</strong>&nbsp;measures which
 include the following: </p><p>
-	(a) Remain <strong>vigilant </strong> when conducting transactions or establishing business relationships; </p><p>(b) Conduct customer due diligence which includes <strong> screening customer names </strong> against the list of designated individuals and entities; </p><p> (c) Make a suspicious Transaction Report ("<strong>STR</strong>") to the police immediately if you have information about transactions or proposed transactions related to designated terrorists; and </p><p>(d) Freeze any assets or property belonging to designated terrorists within 24 hours. </p><p>
+	(a) Remain <strong>vigilant </strong> when conducting transactions or establishing business relationships; </p><p>(b) Conduct customer due diligence which includes <strong> screening customer names </strong> against the list of designated individuals and entities; </p><p> (c) Make a Suspicious Transaction Report ("<strong>STR</strong>") to the police immediately if you have information about transactions or proposed transactions related to designated terrorists; and </p><p>(d) Freeze any assets or property belonging to designated terrorists within 24 hours. </p><p>
 	</p><p></p>
 </li>
 <li>
