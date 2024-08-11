@@ -8,7 +8,7 @@ description: ""
 image: ""
 variant: markdown
 ---
-<p>Dear Registered Dealer,</p>
+<p>Dear Regulated Dealer,</p>
 <p>As part of Singapore’s continuing efforts to maintain the effectiveness
 of its anti-money laundering and countering the financing of terrorism
 ("<strong>AML/CFT</strong>") regime, and to keep pace with best practices
@@ -17,7 +17,7 @@ Singapore had published its updated Terrorism Financing National Risk Assessment
 ("<strong>TF NRA</strong>") and National Strategy for Countering the Financing
 of Terrorism ("<strong>NSCFT</strong>") in July 2024.</p>
 <p>To support this effort, ACD has prepared the following key highlights
-from the TF NRA and the NSCFT for registered dealers to note and take action.</p>
+from the TF NRA and the NSCFT for regulated dealers to note and take action.</p>
 <p><strong><u>TF NRA</u></strong>
 </p>
 <p>Singapore’s 2024 TF NRA presents an updated overview of Singapore’s TF
@@ -39,7 +39,7 @@ groups, heightens Singapore’s vulnerability to TF threats.</p>
 </p>
 </li>
 <li>
-<p><strong>Digital payment token (DPT) service providers (or virtual asset service providers)</strong>
+<p><strong>Digital payment token ("<strong>DPT</strong>") service providers (or virtual asset service providers)</strong>
 </p>
 </li>
 <li>
@@ -90,7 +90,7 @@ funds for terrorism activities, both locally and abroad.</p>
 for the PSMD sector, including the requirement to conduct CDD for PSPM
 transactions involving payment received in DPT above SGD 20,000, and the
 screening module within <em>my</em> Precious Stones and Precious Metals Dealer’s
-Portal (<strong><em>my</em>Pal</strong>) to aid PSMDs in screening for
+Portal ("<strong><em>my</em>Pal</strong>") to aid PSMDs in screening for
 designated individuals and entities to comply with targeted financial sanctions
 against TF.</p>
 <p><strong>What can you do?</strong>
