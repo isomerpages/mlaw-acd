@@ -16,10 +16,10 @@ Singapore had published its updated Money Laundering National Risk Assessment
 ("<strong>ML NRA</strong>") and National Asset Recovery Strategy ("<strong>NARS</strong>")
 in June 2024.</p>
 <p>To support this effort, ACD has prepared the following key highlights
-from the ML NRA and the NARS for regulated dealers to note and take action.</p>
-<p></p>
-<p><strong><u>ML NRA</u></strong>
-</p>
+from the ML NRA and the NARS for regulated dealers to note and take action.
+</p><p></p>
+
+##### **<u>ML NRA</u>**
 <p>Singapore’s ML NRA consolidates the ML risks observed by Singapore law
 enforcement agencies and supervisory authorities, as well as feedback from
 private sector entities and counterpart foreign authorities.</p>
@@ -104,7 +104,8 @@ restitution to victims; and</p>
 enjoy their illicit assets.</p>
 </li>
 </ol>
-<p><strong>What can you do?</strong>&nbsp;</p>
+
+##### **What can you do?**
 <p>Regulated Dealers should take reference from the ML NRA in assessing
 your ML risks and enhance your controls as appropriate. You are encouraged
 to:</p>
