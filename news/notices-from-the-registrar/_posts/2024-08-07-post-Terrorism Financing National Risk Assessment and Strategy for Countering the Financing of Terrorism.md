@@ -18,8 +18,8 @@ Singapore had published its updated Terrorism Financing National Risk Assessment
 of Terrorism ("<strong>NSCFT</strong>") in July 2024.</p>
 <p>To support this effort, ACD has prepared the following key highlights
 from the TF NRA and the NSCFT for regulated dealers to note and take action.</p>
-<p><strong><u>TF NRA</u></strong>
-</p>
+
+##### **<u>TF NRA</u>**
 <p>Singapore’s 2024 TF NRA presents an updated overview of Singapore’s TF
 risk environment and identifies the latest key TF threats and vulnerabilities
 stemming from global, regional, and domestic developments.</p>
@@ -93,8 +93,8 @@ screening module within <em>my</em> Precious Stones and Precious Metals Dealer�
 Portal ("<strong><em>my</em>Pal</strong>") to aid PSMDs in screening for
 designated individuals and entities to comply with targeted financial sanctions
 against TF.</p>
-<p><strong>What can you do?</strong>
-</p>
+
+##### **What can you do?**
 <p>Registered dealers should take reference from the TF NRA in assessing
 your TF risks and enhance your controls as appropriate. You are encouraged
 to:</p>
