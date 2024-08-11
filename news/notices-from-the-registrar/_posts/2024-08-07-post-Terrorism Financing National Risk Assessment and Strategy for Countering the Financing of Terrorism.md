@@ -95,7 +95,7 @@ designated individuals and entities to comply with targeted financial sanctions
 against TF.</p>
 
 ##### **What can you do?**
-<p>Registered dealers should take reference from the TF NRA in assessing
+<p>Regulated dealers should take reference from the TF NRA in assessing
 your TF risks and enhance your controls as appropriate. You are encouraged
 to:</p>
 <ol data-tight="true" class="tight">
