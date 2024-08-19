@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Ministry of Law - ACD
+title: Anti-Money Laundering / Countering the Financing of Terrorism Division
 permalink: /
 notification: <b> <a
   href="https://acd.mlaw.gov.sg/news/notices-from-the-registrar/june-2024-fatf-statement/">
@@ -67,4 +67,8 @@ sections:
       title: Latest News
       subtitle: News for Regulated Dealers
       button: More Information on ACD news
+description: ACD is a Division in the Ministry of Law in charge of supervising
+  the precious stones and precious metals sector and mitigating Singapore's
+  exposure to ML/TF risks.
+image: /images/isomer-logo.svg
 ---
