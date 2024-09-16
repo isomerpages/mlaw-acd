@@ -3,9 +3,9 @@ layout: homepage
 title: Anti-Money Laundering / Countering the Financing of Terrorism Division
 permalink: /
 notification: '<b><a
-  href="https://acd.mlaw.gov.sg/news/notices-from-the-registrar/ml-national-risk-assessment-and-asset-recovery-strategy/">
-  Read More: Money Laundering National Risk Assessment and National Asset
-  Recovery Strategy</a></b>'
+  href="https://acd.mlaw.gov.sg/news/notices-from-the-registrar/terrorism-financing-national-risk-assessment/">
+  Read More: Terrorism Financing National Risk Assessment and Strategy for
+  Countering the Financing of Terrorism</a></b>'
 sections:
   - hero:
       title: Regulatory Regime for Precious Stones and Precious Metals Dealers
