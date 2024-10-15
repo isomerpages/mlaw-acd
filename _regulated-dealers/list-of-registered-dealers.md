@@ -11,7 +11,7 @@ Report possible unregistered dealers to the Anti-Money Laundering/Countering the
         
 **Suspension/ Cancellation of Registered Dealers**
 
-Under section 10(1) of the Precious Stones and Precious Metals (Prevention of Money Laundering, Terrorism Financing and Proliferation Financing) Act 2019 (“**PSPM Act**”), regulatory action may be taken by the Registrar of Regulated Dealers against registered dealers in circumstances where the PSPM Act and/or its regulations is contravened; or where it is contrary to the public interest for the dealer to continue carrying on the business of regulated dealing or business as an intermediary in Singapore. This List is of the dealers whose registrations were suspended and/or cancelled by the Registrar in the aforesaid circumstances.
+Under section 10(1) of the Precious Stones and Precious Metals (Prevention of Money Laundering, Terrorism Financing and Proliferation Financing) Act 2019 (“**PSPM Act**”), regulatory action may be taken by the Registrar of Regulated Dealers (the "**Registrar**") against registered dealers in circumstances where the PSPM Act and/or its regulations is contravened; or where it is contrary to the public interest for the dealer to continue carrying on the business of regulated dealing or business as an intermediary in Singapore. This List is of the dealers whose registrations were suspended and/or cancelled by the Registrar in the aforesaid circumstances.
 
 **List of dealers whose registrations were suspended/cancelled by the Registrar**
 
@@ -79,7 +79,7 @@ Under section 10(1) of the Precious Stones and Precious Metals (Prevention of Mo
 
 #### <a id="What is Covered Under the Regulations?"></a> What is Covered Under the Regulations?
 
-Registered dealers are regulated by the Registrar of Regulated Dealers ("**the Registrar**") **<u>for anti-money laundering, countering the financing of terrorism and countering proliferation financing </u>** ("**AML/CFT/CPF**") purposes in their business of regulated dealing<sup>2</sup> or business as an intermediary for regulated dealing under the PSPM Act.  
+Registered dealers are regulated by the Registrar **<u>for anti-money laundering, countering the financing of terrorism and countering proliferation financing </u>** ("**AML/CFT/CPF**") purposes in their business of regulated dealing<sup>2</sup> or business as an intermediary for regulated dealing under the PSPM Act.  
 
 Registered dealers are to ensure that their websites, representations and publicity materials do not cause the public to misconstrue that the Registrar is regulating them beyond AML/CFT/CPF matters. Please visit [here](/regulation-coverage/) for information on the use of public statements relating to the registration as a regulated dealer and the Ministry of Law logo.  
  
