@@ -8,74 +8,97 @@ Click [here](/files/list%20of%20registered%20dealers.pdf){:target="_blank"} to v
 
 Report possible unregistered dealers to the Anti-Money Laundering/Countering the Financing of Terrorism Division ("**ACD**") [here](https://www.go.gov.sg/contactminlaw){:target="_blank"}.
 
-        
-**Suspension/ Cancellation of Registered Dealers**
+#### <a id="Suspension / Cancellation of Registered Dealers"></a> Suspension / Cancellation of Registered Dealers        
+
 
 Under section 10(1) of the Precious Stones and Precious Metals (Prevention of Money Laundering, Terrorism Financing and Proliferation Financing) Act 2019 (“**PSPM Act**”), regulatory action may be taken by the Registrar of Regulated Dealers (the "**Registrar**") against registered dealers in circumstances where the PSPM Act and/or its regulations is contravened; or where it is contrary to the public interest for the dealer to continue carrying on the business of regulated dealing or business as an intermediary in Singapore. This List is of the dealers whose registrations were suspended and/or cancelled by the Registrar in the aforesaid circumstances.
+
 
 **List of dealers whose registrations were suspended/cancelled by the Registrar**
 
 <table style="border-collapse:collapse;mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:121.85pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="162"><p class="MsoNormal"><b><span style="mso-ansi-language:EN-GB" lang="EN-GB">Name</span></b></p></td><td style="width:77.0pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="103"><p class="MsoNormal"><b><span style="mso-ansi-language:EN-GB" lang="EN-GB">UEN</span></b></p></td><td style="width:94.95pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="127"><p class="MsoNormal"><b><span style="mso-ansi-language:EN-GB" lang="EN-GB">Registration Number</span></b></p></td><td style="width:209.9pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="280"><p class="MsoNormal"><b><span style="mso-ansi-language:EN-GB" lang="EN-GB">Regulatory Action</span></b></p></td><td style="width:132.9pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="177"><p class="MsoNormal"><b><span style="mso-ansi-language:EN-GB" lang="EN-GB">Period of Suspension/ Cancellation date</span></b></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:121.85pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="162"><p class="MsoNormal"><span style="mso-ansi-language:EN-GB" lang="EN-GB">HOROGON LUXE</span></p></td><td style="width:77.0pt;border-top:none;border-left:
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="162"><p class="MsoNormal"><b><span style="font-size:10.0pt;mso-ansi-language:
+  EN-GB" lang="EN-GB">Name</span></b></p></td><td style="width:77.0pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="103"><p class="MsoNormal"><b><span style="font-size:10.0pt;mso-ansi-language:
+  EN-GB" lang="EN-GB">UEN</span></b></p></td><td style="width:94.95pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="127"><p class="MsoNormal"><b><span style="font-size:10.0pt;mso-ansi-language:
+  EN-GB" lang="EN-GB">Registration Number</span></b></p></td><td style="width:209.9pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="280"><p class="MsoNormal"><b><span style="font-size:10.0pt;mso-ansi-language:
+  EN-GB" lang="EN-GB">Regulatory Action</span></b></p></td><td style="width:132.9pt;border:solid windowtext 1.0pt;
+  border-left:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="177"><p class="MsoNormal"><b><span style="font-size:10.0pt;mso-ansi-language:
+  EN-GB" lang="EN-GB">Period of Suspension/ Cancellation date</span></b></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:121.85pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="162"><p class="MsoNormal"><span style="font-size:10.0pt;mso-ansi-language:
+  EN-GB" lang="EN-GB">HOROGON LUXE</span></p></td><td style="width:77.0pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="103"><p class="MsoNormal"><span style="mso-ansi-language:EN-GB" lang="EN-GB">53445476C</span></p></td><td style="width:94.95pt;border-top:none;border-left:
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="103"><p class="MsoNormal"><span style="font-size:10.0pt;mso-ansi-language:
+  EN-GB" lang="EN-GB">53445476C</span></p></td><td style="width:94.95pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="127"><p class="MsoNormal"><span style="mso-ansi-language:EN-GB" lang="EN-GB">PS20220002475</span></p></td><td style="width:209.9pt;border-top:none;border-left:
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="127"><p class="MsoNormal"><span style="font-size:10.0pt;mso-ansi-language:
+  EN-GB" lang="EN-GB">PS20220002475</span></p></td><td style="width:209.9pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="280"><p class="MsoNormal"><span style="mso-ansi-language:EN-GB" lang="EN-GB">Cancellation of registration pursuant to section 10(1)(e) of the PSPM Act as the registered dealer is no longer a fit and proper person within the meaning of the PSPM Act</span></p></td><td style="width:132.9pt;border-top:none;border-left:
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="280"><p class="MsoNormal"><span style="font-size:10.0pt;mso-ansi-language:
+  EN-GB" lang="EN-GB">Cancellation of registration pursuant to section 10(1)(e) of the PSPM Act as the registered dealer is no longer a fit and proper person within the meaning of the PSPM Act</span></p></td><td style="width:132.9pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="177"><p class="MsoNormal"><span style="mso-ansi-language:EN-GB" lang="EN-GB">9 October 2024</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:121.85pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="162"><p class="MsoNormal"><span style="mso-ansi-language:EN-GB" lang="EN-GB">ARIHANT JEWELLERS PTE. LTD.</span></p></td><td style="width:77.0pt;border-top:none;border-left:
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="177"><p class="MsoNormal"><span style="font-size:10.0pt;mso-ansi-language:
+  EN-GB" lang="EN-GB">9 October 2024</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:121.85pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="162"><p class="MsoNormal"><span style="font-size:10.0pt;mso-ansi-language:
+  EN-GB" lang="EN-GB">ARIHANT JEWELLERS PTE. LTD.</span></p></td><td style="width:77.0pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="103"><p class="MsoNormal"><span style="mso-ansi-language:EN-GB" lang="EN-GB">201836832C</span></p></td><td style="width:94.95pt;border-top:none;border-left:
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="103"><p class="MsoNormal"><span style="font-size:10.0pt;mso-ansi-language:
+  EN-GB" lang="EN-GB">201836832C</span></p></td><td style="width:94.95pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="127"><p class="MsoNormal"><span style="mso-ansi-language:EN-GB" lang="EN-GB">PS20190000879</span></p></td><td style="width:209.9pt;border-top:none;border-left:
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="127"><p class="MsoNormal"><span style="font-size:10.0pt;mso-ansi-language:
+  EN-GB" lang="EN-GB">PS20190000879</span></p></td><td style="width:209.9pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="280"><p class="MsoNormal"><span style="mso-ansi-language:EN-GB" lang="EN-GB">Cancellation of registration pursuant to section 10(1)(d) of the PSPM Act as the registered dealer is neither carrying on the business of regulated dealing nor business as an intermediary in Singapore&nbsp;</span></p></td><td style="width:132.9pt;border-top:none;border-left:
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="280"><p class="MsoNormal"><span style="font-size:10.0pt;mso-ansi-language:
+  EN-GB" lang="EN-GB">Cancellation of registration pursuant to section 10(1)(d) of the PSPM Act as the registered dealer is neither carrying on the business of regulated dealing nor business as an intermediary in Singapore&nbsp;</span></p></td><td style="width:132.9pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="177"><p class="MsoNormal"><span style="mso-ansi-language:EN-GB" lang="EN-GB">3 October 2024</span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:121.85pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="162"><p class="MsoNormal"><span style="mso-ansi-language:EN-GB" lang="EN-GB">TRADENATION PTE. LTD.</span></p></td><td style="width:77.0pt;border-top:none;border-left:
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="177"><p class="MsoNormal"><span style="font-size:10.0pt;mso-ansi-language:
+  EN-GB" lang="EN-GB">3 October 2024</span></p></td></tr><tr style="mso-yfti-irow:3"><td style="width:121.85pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="162"><p class="MsoNormal"><span style="font-size:10.0pt;mso-ansi-language:
+  EN-GB" lang="EN-GB">TRADENATION PTE. LTD.</span></p></td><td style="width:77.0pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="103"><p class="MsoNormal"><span style="mso-ansi-language:EN-GB" lang="EN-GB">202118785Z</span></p></td><td style="width:94.95pt;border-top:none;border-left:
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="103"><p class="MsoNormal"><span style="font-size:10.0pt;mso-ansi-language:
+  EN-GB" lang="EN-GB">202118785Z</span></p></td><td style="width:94.95pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="127"><p class="MsoNormal"><span style="mso-ansi-language:EN-GB" lang="EN-GB">PS20220002525</span></p></td><td style="width:209.9pt;border-top:none;border-left:
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="127"><p class="MsoNormal"><span style="font-size:10.0pt;mso-ansi-language:
+  EN-GB" lang="EN-GB">PS20220002525</span></p></td><td style="width:209.9pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="280"><p class="MsoNormal"><span style="mso-ansi-language:EN-GB" lang="EN-GB">Cancellation of registration pursuant to section 10(1)(e) of the PSPM Act as the registered dealer is no longer a fit and proper person and 10(1)(f) as it is not in the public interest for the registered dealer to continue to carry on the business of regulated dealing or business as an intermediary in Singapore</span></p></td><td style="width:132.9pt;border-top:none;border-left:
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="280"><p class="MsoNormal"><span style="font-size:10.0pt;mso-ansi-language:
+  EN-GB" lang="EN-GB">Cancellation of registration pursuant to section 10(1)(e) of the PSPM Act as the registered dealer is no longer a fit and proper person and 10(1)(f) as it is not in the public interest for the registered dealer to continue to carry on the business of regulated dealing or business as an intermediary in Singapore</span></p></td><td style="width:132.9pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="177"><p class="MsoNormal"><span style="mso-ansi-language:EN-GB" lang="EN-GB">6 January 2023</span></p></td></tr><tr style="mso-yfti-irow:4"><td style="width:121.85pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="162"><p class="MsoNormal"><span style="mso-ansi-language:EN-GB" lang="EN-GB">TRADENATION PTE. LTD.<span style="background:yellow;mso-highlight:yellow"></span></span></p></td><td style="width:77.0pt;border-top:none;border-left:
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="177"><p class="MsoNormal"><span style="font-size:10.0pt;mso-ansi-language:
+  EN-GB" lang="EN-GB">6 January 2023</span></p></td></tr><tr style="mso-yfti-irow:4"><td style="width:121.85pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="162"><p class="MsoNormal"><span style="font-size:10.0pt;mso-ansi-language:
+  EN-GB" lang="EN-GB">GREEN SURPLUS PTE. LTD.</span></p></td><td style="width:77.0pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="103"><p class="MsoNormal"><span style="mso-ansi-language:EN-GB" lang="EN-GB">202118785Z<span style="background:yellow;mso-highlight:yellow"></span></span></p></td><td style="width:94.95pt;border-top:none;border-left:
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="103"><p class="MsoNormal"><span style="font-size:10.0pt;mso-ansi-language:
+  EN-GB" lang="EN-GB">201925118H</span></p></td><td style="width:94.95pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="127"><p class="MsoNormal"><span style="mso-ansi-language:EN-GB" lang="EN-GB">PS20220002525<span style="background:yellow;mso-highlight:yellow"></span></span></p></td><td style="width:209.9pt;border-top:none;border-left:
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="127"><p class="MsoNormal"><span style="font-size:10.0pt;mso-ansi-language:
+  EN-GB" lang="EN-GB">PS20190001517</span></p></td><td style="width:209.9pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="280"><p class="MsoNormal"><span style="mso-ansi-language:EN-GB" lang="EN-GB">Suspension of registration pursuant to section 10(1)(e) of the PSPM Act as the registered dealer is no longer a fit and proper person and 10(1)(f) as it is not in the public interest for the registered dealer to continue to carry on the business of regulated dealing or business as an intermediary in Singapore<span style="background:yellow;mso-highlight:yellow"></span></span></p></td><td style="width:132.9pt;border-top:none;border-left:
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="280"><p class="MsoNormal"><span style="font-size:10.0pt;mso-ansi-language:
+  EN-GB" lang="EN-GB">Cancellation of registration pursuant to section 10(1)(d) of the PSPM Act as the registered dealer is neither carrying on the business of regulated dealing nor business as an intermediary in Singapore&nbsp;</span></p></td><td style="width:132.9pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="177"><p class="MsoNormal"><span style="mso-ansi-language:EN-GB" lang="EN-GB">6 July 2022 to 5 January 2023<span style="background:yellow;mso-highlight:yellow"></span></span></p></td></tr><tr style="mso-yfti-irow:5"><td style="width:121.85pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="162"><p class="MsoNormal"><span style="mso-ansi-language:EN-GB" lang="EN-GB">GREEN SURPLUS PTE. LTD.</span></p></td><td style="width:77.0pt;border-top:none;border-left:
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="177"><p class="MsoNormal"><span style="font-size:10.0pt;mso-ansi-language:
+  EN-GB" lang="EN-GB">8 October 2022</span></p></td></tr><tr style="mso-yfti-irow:5;mso-yfti-lastrow:yes"><td style="width:121.85pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="162"><p class="MsoNormal"><span style="font-size:10.0pt;mso-ansi-language:
+  EN-GB" lang="EN-GB">TRIWAYS UNIGLOBAL PTE. LTD.<span style="background:yellow;mso-highlight:
+  yellow"></span></span></p></td><td style="width:77.0pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="103"><p class="MsoNormal"><span style="mso-ansi-language:EN-GB" lang="EN-GB">201925118H</span></p></td><td style="width:94.95pt;border-top:none;border-left:
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="103"><p class="MsoNormal"><span style="font-size:10.0pt;mso-ansi-language:
+  EN-GB" lang="EN-GB">201538406K<span style="background:yellow;mso-highlight:yellow"></span></span></p></td><td style="width:94.95pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="127"><p class="MsoNormal"><span style="mso-ansi-language:EN-GB" lang="EN-GB">PS20190001517</span></p></td><td style="width:209.9pt;border-top:none;border-left:
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="127"><p class="MsoNormal"><span style="font-size:10.0pt;mso-ansi-language:
+  EN-GB" lang="EN-GB">PS20190000653<span style="background:yellow;mso-highlight:yellow"></span></span></p></td><td style="width:209.9pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="280"><p class="MsoNormal"><span style="mso-ansi-language:EN-GB" lang="EN-GB">Cancellation of registration pursuant to section 10(1)(d) of the PSPM Act as the registered dealer is neither carrying on the business of regulated dealing nor business as an intermediary in Singapore&nbsp;</span></p></td><td style="width:132.9pt;border-top:none;border-left:
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="280"><p class="MsoNormal"><span style="font-size:10.0pt;mso-ansi-language:
+  EN-GB" lang="EN-GB">Cancellation of registration pursuant to section 10(1)(d) of the PSPM Act as the registered dealer is neither carrying on the business of regulated dealing nor business as an intermediary in Singapore<span style="background:
+  yellow;mso-highlight:yellow"></span></span></p></td><td style="width:132.9pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="177"><p class="MsoNormal"><span style="mso-ansi-language:EN-GB" lang="EN-GB">8 October 2022</span></p></td></tr><tr style="mso-yfti-irow:6;mso-yfti-lastrow:yes"><td style="width:121.85pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="162"><p class="MsoNormal"><span style="mso-ansi-language:EN-GB" lang="EN-GB">TRIWAYS UNIGLOBAL PTE. LTD.<span style="background:yellow;mso-highlight:yellow"></span></span></p></td><td style="width:77.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="103"><p class="MsoNormal"><span style="mso-ansi-language:EN-GB" lang="EN-GB">201538406K<span style="background:yellow;mso-highlight:yellow"></span></span></p></td><td style="width:94.95pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="127"><p class="MsoNormal"><span style="mso-ansi-language:EN-GB" lang="EN-GB">PS20190000653<span style="background:yellow;mso-highlight:yellow"></span></span></p></td><td style="width:209.9pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="280"><p class="MsoNormal"><span style="mso-ansi-language:EN-GB" lang="EN-GB">Cancellation of registration pursuant to section 10(1)(d) of the PSPM Act as the registered dealer is neither carrying on the business of regulated dealing nor business as an intermediary in Singapore<span style="background:yellow;
-  mso-highlight:yellow"></span></span></p></td><td style="width:132.9pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="177"><p class="MsoNormal"><span style="mso-ansi-language:EN-GB" lang="EN-GB">11 August 2022<span style="background:yellow;mso-highlight:yellow"></span></span></p></td></tr></tbody></table>
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="177"><p class="MsoNormal"><span style="font-size:10.0pt;mso-ansi-language:
+  EN-GB" lang="EN-GB">11 August 2022<span style="background:yellow;mso-highlight:yellow"></span></span></p></td></tr></tbody></table>
 
 #### <a id="What is Covered Under the Regulations?"></a> What is Covered Under the Regulations?
 
