@@ -11,7 +11,7 @@ Report possible unregistered dealers to the Anti-Money Laundering/Countering the
         
 **Suspension/ Cancellation of Registered Dealers**
 
-Under section 10(1) of the PSPM Act 2019 (“PSPM Act”), regulatory action may be taken by the Registrar of Regulated Dealers against registered dealers in circumstances where the PSPM Act and/or its regulations is contravened; or where it is contrary to the public interest for the dealer to continue carrying on the business of regulated dealing or business as an intermediary in Singapore. This List is of the dealers whose registrations were suspended and/or cancelled by the Registrar in the aforesaid circumstances.
+Under section 10(1) of the Precious Stones and Precious Metals (Prevention of Money Laundering, Terrorism Financing and Proliferation Financing) Act 2019 (“**PSPM Act**”), regulatory action may be taken by the Registrar of Regulated Dealers against registered dealers in circumstances where the PSPM Act and/or its regulations is contravened; or where it is contrary to the public interest for the dealer to continue carrying on the business of regulated dealing or business as an intermediary in Singapore. This List is of the dealers whose registrations were suspended and/or cancelled by the Registrar in the aforesaid circumstances.
 
 **List of dealers whose registrations were suspended/cancelled by the Registrar**
 
