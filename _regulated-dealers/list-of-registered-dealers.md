@@ -9,7 +9,6 @@ Click [here](/files/list%20of%20registered%20dealers.pdf){:target="_blank"} to v
 Report possible unregistered dealers to the Anti-Money Laundering/Countering the Financing of Terrorism Division ("**ACD**") [here](https://www.go.gov.sg/contactminlaw){:target="_blank"}.
 
         
-
 **Suspension/ Cancellation of Registered Dealers**
 
 Under section 10(1) of the PSPM Act 2019 (“PSPM Act”), regulatory action may be taken by the Registrar of Regulated Dealers against registered dealers in circumstances where the PSPM Act and/or its regulations is contravened; or where it is contrary to the public interest for the dealer to continue carrying on the business of regulated dealing or business as an intermediary in Singapore. This List is of the dealers whose registrations were suspended and/or cancelled by the Registrar in the aforesaid circumstances.
