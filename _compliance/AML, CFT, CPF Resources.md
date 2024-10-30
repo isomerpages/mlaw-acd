@@ -37,6 +37,8 @@ width: 30%;
 
 | Document | Uploaded |
 | --- | --- |
+| [High-risk and other monitored jurisdictions (FATF)](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html){:target="_blank"} | Oct 2024 |
+| [Methodology for assessing compliance with the FATF Recommendations and the effectiveness of AML/CFT (FATF)](https://www.fatf-gafi.org/en/publications/Mutualevaluations/Fatf-methodology.html){:target="_blank"} | Oct 2024 |
 | [MinLaw Industry Compliance and Engagement 2024 (MICE 2024)](/files/MICE_2024.pdf){:target="_blank"} | Aug 2024 |
 | [National Strategy for Countering the Financing of Terrorism](/files/National_Strategy_for_Countering_the_Financing_of_Terrorism_2024.pdf){:target="_blank"} | Jul 2024 |
 | [Terrorism Financing National Risk Assessment](/files/Terrorism_Financing_National_Risk_Assessment_2024.pdf){:target="_blank"} | Jul 2024 |
@@ -57,8 +59,6 @@ width: 30%;
 | [Singapore National Risk Assessment Report 2013](/images/Singapore%20NRA%20Report%202013_24032015.pdf){:target="_blank"} | Apr 2019 |
 | [Money Laundering/Terrorist Financing through trade in diamonds (FATF)](https://www.fatf-gafi.org/media/fatf/documents/reports/ML-TF-through-trade-in-diamonds.pdf){:target="_blank"} | Apr 2019 |
 | [Money Laundering/Terrorist Financing risks associated with gold (FATF)](https://www.fatf-gafi.org/content/dam/fatf-gafi/reports/ML-TF-risks-vulnerabilities-associated-with-gold.pdf){:target="_blank"} | Apr 2019 |
-| [Methodology for assessing compliance with the FATF Recommendations and the effectiveness of AML/CFT (FATF)](http://www.fatf-gafi.org/publications/mutualevaluations/documents/fatf-methodology.html){:target="_blank"} | Apr 2019 |
-| [High-risk and other monitored jurisdictions (FATF)](https://www.fatf-gafi.org/countries/#high-risk){:target="_blank"} | Apr 2019 |
 | [40 Recommendations (FATF)](http://www.fatf-gafi.org/publications/fatfrecommendations/documents/fatf-recommendations.html){:target="_blank"} | Apr 2019 |
 | [Guidance on the Risk-Based Approach for Dealers in Precious Metals and Stones (FATF)](https://www.fatf-gafi.org/en/publications/Fatfrecommendations/Fatfguidanceontherisk-basedapproachfordealersinpreciousmetalsandstones.html){:target="_blank"} | Apr 2019 |
 
