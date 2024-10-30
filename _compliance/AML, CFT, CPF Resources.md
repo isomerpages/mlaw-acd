@@ -38,7 +38,7 @@ width: 30%;
 | Document | Uploaded |
 | --- | --- |
 | [High-risk and other monitored jurisdictions (FATF)](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html){:target="_blank"} | Oct 2024 |
-| [Methodology for assessing compliance with the FATF Recommendations and the effectiveness of AML/CFT (FATF)](https://www.fatf-gafi.org/en/publications/Mutualevaluations/Fatf-methodology.html){:target="_blank"} | Aug 2024 |
+| [Methodology for assessing compliance with the FATF Recommendations and the effectiveness of AML/CFT (FATF)](https://www.fatf-gafi.org/en/publications/Mutualevaluations/Fatf-methodology.html){:target="_blank"} | Oct 2024 |
 | [MinLaw Industry Compliance and Engagement 2024 (MICE 2024)](/files/MICE_2024.pdf){:target="_blank"} | Aug 2024 |
 | [National Strategy for Countering the Financing of Terrorism](/files/National_Strategy_for_Countering_the_Financing_of_Terrorism_2024.pdf){:target="_blank"} | Jul 2024 |
 | [Terrorism Financing National Risk Assessment](/files/Terrorism_Financing_National_Risk_Assessment_2024.pdf){:target="_blank"} | Jul 2024 |
