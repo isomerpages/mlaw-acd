@@ -33,23 +33,23 @@ Regulated dealers are also expected to take the List of Jurisdictions under Incr
 	<span style="font-weight:normal">Bulgaria</span><br>
 <span style="font-weight:normal">Burkina Faso</span><br>
 	<span style="font-weight:normal">Cameroon</span><br>
-	
+	<span style="font-weight:normal">Côte d'Ivoire <i>(new)</i></span><br>
 <span style="font-weight:normal">Croatia</span><br>	
 <span style="font-weight:normal">Democratic Republic of Congo</span><br>
 <span style="font-weight:normal">Haiti</span><br>
 	<span style="font-weight:normal">Kenya </span><br>
+	<span style="font-weight:normal">Lebanon <i>(new)</i></span><br>
 	<span style="font-weight:normal">Mali</span><br>
-	<span style="font-weight:normal">Monaco <i>(new)</i></span><br>
+	<span style="font-weight:normal">Monaco </span><br>
 <span style="font-weight:normal">Mozambique</span><br>
 		<span style="font-weight:normal">Namibia </span><br>
 <span style="font-weight:normal">Nigeria</span><br>
 <span style="font-weight:normal">Philippines</span><br>
-<span style="font-weight:normal">Senegal</span><br>
 <span style="font-weight:normal">South Africa</span><br>
 <span style="font-weight:normal">South Sudan</span><br>
 <span style="font-weight:normal">Syria</span><br>
 	<span style="font-weight:normal">Tanzania</span><br>
-<span style="font-weight:normal">Venezuela <i>(new)</i></span><br>
+<span style="font-weight:normal">Venezuela </span><br>
 	<span style="font-weight:normal">Vietnam</span><br>
 <span style="font-weight:normal">Yemen</span><br></th></tr></thead></table>
 Full details can be found at:<br><a href="https://www.fatf-gafi.org/content/fatf-gafi/en/publications/High-risk-and-other-monitored-jurisdictions/increased-monitoring-june-2024.html" target="_blank">https://www.fatf-gafi.org/content/fatf-gafi/en/publications/High-risk-and-other-monitored-jurisdictions/increased-monitoring-june-2024.html</a><br>
