@@ -5,7 +5,7 @@ date: 2024-11-20
 layout: post
 description: ""
 image: ""
-variant: markdown
+variant: tiptap
 ---
 <p>Dear Regulated Dealer,</p>
 <p>The identification, assessment and understanding of risks underpin the
