@@ -19,22 +19,22 @@ with the industry. To maintain the effectiveness of Singapore’s AML/CFT/CPF
 regime, and support and enhance the industry’s collective risk awareness,
 Singapore published the following risk assessments and strategies on 30
 October 2024:</p>
-<p>i.	<strong>Proliferation Financing National Risk Assessment and Counter-PF Strategy (“PF NRA and CPF Strategy”)</strong>,
+<p>i. <strong>Proliferation Financing National Risk Assessment and Counter-PF Strategy (“PF NRA and CPF Strategy”)</strong>,
 which updates and deepens Singapore’s PF risk understanding, taking into
 consideration observations by relevant Singapore authorities, international
 typologies and feedback from the private sector.</p>
-<p>ii.	<strong>Legal Persons Risk Assessment (“LPRA”), Legal Arrangements Risk Assessment (“LARA”), and Virtual Assets Risk Assessment (“VARA”)</strong>,
+<p>ii. <strong>Legal Persons Risk Assessment (“LPRA”), Legal Arrangements Risk Assessment (“LARA”), and Virtual Assets Risk Assessment (“VARA”)</strong>,
 which are thematic risk assessments that complement Singapore’s updated
 ML NRA and TF NRA published on 20 June 2024 and 1 July 2024 respectively.
 These thematic risk assessments provide a more targeted and in-depth understanding
 of Singapore’s key threats and vulnerabilities in these specific risk areas
 and are particularly relevant to sectors that have been referenced in the
 reports.</p>
-<p>iii.	<strong>National Anti-Money Laundering Strategy (“National AML Strategy”)</strong>,
+<p>iii. <strong>National Anti-Money Laundering Strategy (“National AML Strategy”)</strong>,
 which sets out the strategic approach to address ML risks and will guide
 Singapore’s risk-targeted actions to combat ML amidst rapidly changing
 risks, trends and criminal typologies.</p>
-<p>iv.	<strong>Law Enforcement Strategy to Combat ML</strong>, which supports
+<p>iv. <strong>Law Enforcement Strategy to Combat ML</strong>, which supports
 the National AML Strategy, articulates the shared commitment by law enforcement
 agencies to combat ML and addresses the key ML threats identified in the
 2024 ML NRA.</p>
@@ -62,13 +62,13 @@ owners with little or no substantial business operations in Singapore.</p>
 ascertained the sectors with greater exposure to these threats. According
 to the PF NRA and CPF Strategy, the <strong>precious stones and precious metals dealers (“PSMD”) sector</strong>  <strong>is assessed to be a sector to watch</strong>.
 The PSMD sector:</p>
-<p>i.	<strong>Is exposed to key PF threats</strong> as PSMDs provide an alternative
+<p>i. <strong>Is exposed to key PF threats</strong> as PSMDs provide an alternative
 method for United Nations Security Council (“<strong>UNSC</strong>”)-designated
 individuals and entities to surreptitiously move financial resources across
 international borders, with UNSC-designated individuals and entities engaging
 such dealers to transport gold and diamonds to obtain foreign exchanges
 to finance their transactions; and</p>
-<p>ii.	<strong>Has a varied level of PF risk awareness </strong>due to it
+<p>ii. <strong>Has a varied level of PF risk awareness </strong>due to it
 being one of the more recently AML/CFT-regulated sectors in Singapore –
 though this has improved over time.</p>
 <p><strong>VARA</strong>
@@ -102,3 +102,5 @@ dealer, your <strong>risk assessment</strong> should:</p>
 risks; and</p>
 <p>iii. Form the basis for your implementation of relevant risk-focused AML/CFT/CPF
 controls and mitigation measures.</p>
+<p>9 Click <a href="https://acd.mlaw.gov.sg/aml-cft-cpf-resources/" rel="noopener nofollow" target="_blank">here</a> to
+access the Singapore’s risk assessments and national strategies.</p>
