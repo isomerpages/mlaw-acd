@@ -44,7 +44,7 @@ below. (<u>Note</u>: Registered Dealers should take reference from <strong><u>al
 Singapore’s risk assessments and national strategies in identifying, assessing
 and understanding your ML/TF/PF risks, assessing your AML/CFT/CPF controls
 and enhance your controls as appropriate.)</p>
-<h4><strong>PF NRA and CPF Strategy</strong></h4>
+<h5><strong>PF NRA and CPF Strategy</strong></h5>
 <p>3 Singapore’s PF NRA and CPF Strategy consolidates the PF risks observed
 by Singapore authorities, private sector players and foreign experts –
 recognising that Singapore’s status as an international financial centre
@@ -70,7 +70,7 @@ to finance their transactions; and</p>
 <p>ii. <strong>Has a varied level of PF risk awareness </strong>due to it
 being one of the more recently AML/CFT-regulated sectors in Singapore –
 though this has improved over time.</p>
-<h4><strong>VARA</strong></h4>
+<h5><strong>VARA</strong></h5>
 <p>6 Given the fast pace of developments within the virtual assets space,
 Singapore is cognisant of the importance of keeping abreast of emerging
 risks. Due to <strong>virtual assets’ higher inherent risks</strong>, Singapore
@@ -86,7 +86,7 @@ of Money Laundering and Terrorism Financing) Regulations 2019, <strong>PSMDs are
 On the whole, threats raised in international reports and observed by law
 enforcement agencies and the industry have also not revealed a nexus between
 virtual assets and PSMDs.</p>
-<h4><strong>What Can You Do?</strong></h4>
+<h5><strong>What Can You Do?</strong></h5>
 <p>8 Regulated Dealers should take into account the relevant ML/TF/PF risks
 and threats identified within Singapore’s risk assessments (including the
 above risk assessments and the updated ML and TF National Risk Assessments
