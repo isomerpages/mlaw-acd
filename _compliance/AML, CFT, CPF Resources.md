@@ -37,6 +37,12 @@ width: 30%;
 
 | Document | Uploaded |
 | --- | --- |
+| [Money Laundering and Terrorism Financing Risk Assessment of Legal Arrangements](/files/Money_Laundering_and_Terrorism_Financing_Risk_Assessment_of_Legal_Arrangements.pdf){:target="_blank"} | Nov 2024 |
+| [Money Laundering and Terrorism Financing Risk Assessment of Legal Persons](/files/Money_Laundering_and_Terrorism_Financing_Risk_Assessment_of_Legal_Persons.pdf){:target="_blank"} | Nov 2024 |
+| [Proliferation Financing (PF) National Risk Assessment and Counter-PF Strategy](/files/Proliferation_Financing_National_Risk_Assessment_and_Counter_PF_Strategy.pdf){:target="_blank"} | Nov 2024 |
+| [Singapore's Law Enforcement Strategy to Combat Money Laundering](/files/Singapore_Law_Enforcement_Strategy_to_Combat_Money_Laundering.pdf){:target="_blank"} | Nov 2024 |
+| [Singapore National Anti-Money Laundering Strategy](/files/Singapore_National_Anti_Money_Laundering_Strategy.pdf){:target="_blank"} | Nov 2024 |
+| [Virtual Assets Risk Assessment](/files/Virtual_Assets_Risk_Assessment.pdf){:target="_blank"} | Nov 2024 |
 | [High-risk and other monitored jurisdictions (FATF)](https://www.fatf-gafi.org/en/countries/black-and-grey-lists.html){:target="_blank"} | Oct 2024 |
 | [Methodology for assessing compliance with the FATF Recommendations and the effectiveness of AML/CFT (FATF)](https://www.fatf-gafi.org/en/publications/Mutualevaluations/Fatf-methodology.html){:target="_blank"} | Oct 2024 |
 | [MinLaw Industry Compliance and Engagement 2024 (MICE 2024)](/files/MICE_2024.pdf){:target="_blank"} | Aug 2024 |
