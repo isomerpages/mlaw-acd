@@ -61,7 +61,7 @@ front companies and accounts in third countries;</p>
 owners with little or no substantial business operations in Singapore.</p>
 <p>5 Having identified Singapore’s key PF threats, the PF NRA and CPF Strategy
 ascertained the sectors with greater exposure to these threats. According
-to the PF NRA and CPF Strategy, the <strong>precious stones and precious metals dealers (“PSMD”) sector</strong>  <strong>is assessed to be a sector to watch</strong>.
+to the PF NRA and CPF Strategy, the <strong>PSMD sector</strong>  <strong>is assessed to be a sector to watch</strong>.
 The PSMD sector:</p>
 <p>i. <strong>Is exposed to key PF threats</strong> as PSMDs provide an alternative
 method for United Nations Security Council (“<strong>UNSC</strong>”)-designated
