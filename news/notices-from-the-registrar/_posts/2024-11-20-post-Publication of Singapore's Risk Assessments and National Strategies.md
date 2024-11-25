@@ -13,8 +13,9 @@ effectiveness of Singapore’s efforts in anti-money laundering (“<strong>AML<
 countering the financing of terrorism (“<strong>CFT</strong>”) and countering
 proliferation financing (“<strong>CPF</strong>”). As part of Singapore’s
 efforts to keep pace with changing risks, trends and typologies, Singapore
-monitors our ML, terrorism financing (“<strong>TF</strong>”) and PF risks
-through close coordination across government agencies and in collaboration
+monitors our money laundering ("<strong>ML</strong>"), terrorism financing
+(“<strong>TF</strong>”) and proliferation financing ("<strong>PF</strong>")
+risks through close coordination across government agencies and in collaboration
 with the industry. To maintain the effectiveness of Singapore’s AML/CFT/CPF
 regime, and support and enhance the industry’s collective risk awareness,
 Singapore published the following risk assessments and strategies on 30
