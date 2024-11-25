@@ -40,7 +40,8 @@ the National AML Strategy, articulates the shared commitment by law enforcement
 agencies to combat ML and addresses the key ML threats identified in the
 2024 ML NRA.</p>
 <p>2 Further information on the (i) PF NRA and CPF Strategy and (ii) VARA,
-which make reference to and/or are relevant to the PSMD sector are highlighted
+which make reference to and/or are relevant to the precious stones and
+precious metals dealers ("<strong>PSMD</strong>") sector are highlighted
 below. (<u>Note</u>: Registered Dealers should take reference from <strong><u>all</u></strong> of
 Singapore’s risk assessments and national strategies in identifying, assessing
 and understanding your ML/TF/PF risks, assessing your AML/CFT/CPF controls
