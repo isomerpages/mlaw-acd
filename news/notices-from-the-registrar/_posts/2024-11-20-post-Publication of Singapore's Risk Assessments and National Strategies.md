@@ -86,12 +86,12 @@ which may carry inherent risks due to the features of DPTs themselves.
 Notwithstanding, under the Precious Stones and Precious Metals (Prevention
 of Money Laundering and Terrorism Financing) Regulations 2019, <strong>PSMDs are required to conduct customer due diligence on the person before entering into the transaction if the payment in DPTs exceeds S$20,000</strong>.
 On the whole, threats raised in international reports and observed by law
-enforcement agencies and the industry have also not revealed a nexus between
-virtual assets and PSMDs.</p>
+enforcement agencies and the industry have also <u>not</u> revealed a nexus
+between virtual assets and PSMDs.</p>
 <h5><strong>What Can You Do?</strong></h5>
 <p>8 Regulated Dealers should take into account the relevant ML/TF/PF risks
 and threats identified within Singapore’s risk assessments (including the
-above risk assessments and the updated ML and TF National Risk Assessments
+above risk assessments and the <u>updated</u> ML and TF National Risk Assessments
 published on 20 June 2024 and 1 July 2024 respectively) to identify, assess
 and understand ML/TF/PF risks, and assess the effectiveness of your AML/CFT/CPF
 controls and ongoing monitoring of customers and transactions. As a regulated
