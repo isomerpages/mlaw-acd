@@ -39,7 +39,7 @@ risks, trends and criminal typologies.</p>
 the National AML Strategy, articulates the shared commitment by law enforcement
 agencies to combat ML and addresses the key ML threats identified in the
 2024 ML NRA.</p>
-<p>2 Further information on the (i) PF NRA and CPF Strategy and (ii) VARA,
+<p>Further information on the (i) PF NRA and CPF Strategy and (ii) VARA,
 which make reference to and/or are relevant to the precious stones and
 precious metals dealers ("<strong>PSMD</strong>") sector are highlighted
 below. (<u>Note</u>: Registered Dealers should take reference from <strong><u>all</u></strong> of
@@ -47,11 +47,11 @@ Singapore’s risk assessments and national strategies in identifying, assessing
 and understanding your ML/TF/PF risks, assessing your AML/CFT/CPF controls
 and enhance your controls as appropriate.)</p>
 <h5><strong>PF NRA and CPF Strategy</strong></h5>
-<p>3 Singapore’s PF NRA and CPF Strategy consolidates the PF risks observed
+<p>Singapore’s PF NRA and CPF Strategy consolidates the PF risks observed
 by Singapore authorities, private sector players and foreign experts –
 recognising that Singapore’s status as an international financial centre
 and key trading and transhipment hub makes us susceptible to PF risks.</p>
-<p>4 Amongst other things, Singapore authorities have observed the <strong>misuse of legal persons</strong> for
+<p>Amongst other things, Singapore authorities have observed the <strong>misuse of legal persons</strong> for
 PF purposes, such as the:</p>
 <p>i. Use of Singapore operating companies, including those which are long-established,
 to trade with sanctioned entities with <strong>transactions layered</strong> through
@@ -59,7 +59,7 @@ front companies and accounts in third countries;</p>
 <p>ii. Setting up of separate legal persons to <strong>ringfence sanctioned activities</strong>;</p>
 <p>iii. Use of <strong>shell companies</strong> set up by foreign beneficial
 owners with little or no substantial business operations in Singapore.</p>
-<p>5 Having identified Singapore’s key PF threats, the PF NRA and CPF Strategy
+<p>Having identified Singapore’s key PF threats, the PF NRA and CPF Strategy
 ascertained the sectors with greater exposure to these threats. According
 to the PF NRA and CPF Strategy, the <strong>PSMD sector</strong>  <strong>is assessed to be a sector to watch</strong>.
 The PSMD sector:</p>
@@ -73,15 +73,15 @@ to finance their transactions; and</p>
 being one of the more recently AML/CFT-regulated sectors in Singapore –
 though this has improved over time.</p>
 <h5><strong>VARA</strong></h5>
-<p>6 Given the fast pace of developments within the virtual assets space,
-Singapore is cognisant of the importance of keeping abreast of emerging
-risks. Due to <strong>virtual assets’ higher inherent risks</strong>, Singapore
-continues to pay attention to these emerging risks to ensure that our AML/CFT/CPF
+<p>Given the fast pace of developments within the virtual assets space, Singapore
+is cognisant of the importance of keeping abreast of emerging risks. Due
+to <strong>virtual assets’ higher inherent risks</strong>, Singapore continues
+to pay attention to these emerging risks to ensure that our AML/CFT/CPF
 regime addresses these risks. The findings of the VARA complement existing
 risk assessments published and seek to provide deeper insights into specific
 risk areas and enable the industry to adopt a more targeted approach to
 address the relevant risks.</p>
-<p>7 According to the VARA, <strong>PSMDs could be exposed to ML/TF/PF risks arising from the acceptance of digital payment tokens (“DPTs”)</strong>,
+<p>According to the VARA, <strong>PSMDs could be exposed to ML/TF/PF risks arising from the acceptance of digital payment tokens (“DPTs”)</strong>,
 which may carry inherent risks due to the features of DPTs themselves.
 Notwithstanding, under the Precious Stones and Precious Metals (Prevention
 of Money Laundering and Terrorism Financing) Regulations 2019, <strong>PSMDs are required to conduct customer due diligence on the person before entering into the transaction if the payment in DPTs exceeds S$20,000</strong>.
@@ -89,7 +89,7 @@ On the whole, threats raised in international reports and observed by law
 enforcement agencies and the industry have also <u>not</u> revealed a nexus
 between virtual assets and PSMDs.</p>
 <h5><strong>What Can You Do?</strong></h5>
-<p>8 Regulated Dealers should take into account the relevant ML/TF/PF risks
+<p>Regulated Dealers should take into account the relevant ML/TF/PF risks
 and threats identified within Singapore’s risk assessments (including the
 above risk assessments and the <u>updated</u> ML and TF National Risk Assessments
 published on 20 June 2024 and 1 July 2024 respectively) to identify, assess
@@ -101,5 +101,5 @@ dealer, your <strong>risk assessment</strong> should:</p>
 risks; and</p>
 <p>iii. Form the basis for your implementation of relevant risk-focused AML/CFT/CPF
 controls and mitigation measures.</p>
-<p>9 Click <a href="https://acd.mlaw.gov.sg/aml-cft-cpf-resources/" rel="noopener nofollow" target="_blank">here</a> to
+<p>Click <a href="https://acd.mlaw.gov.sg/aml-cft-cpf-resources/" rel="noopener nofollow" target="_blank">here</a> to
 access the Singapore’s risk assessments and national strategies.</p>
