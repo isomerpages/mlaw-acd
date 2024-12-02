@@ -3,9 +3,9 @@ layout: homepage
 title: Anti-Money Laundering / Countering the Financing of Terrorism Division
 permalink: /
 notification: "<b><a
-  href=\"https://acd.mlaw.gov.sg/publication-of-singapore-risk-assessments-and-\
-  national-strategies/\"> Read More: Publication of Singapore's Risk Assessments
-  and National Strategies</a></b>"
+  href=\"https://acd.mlaw.gov.sg/news/notices-from-the-registrar/publication-of\
+  -singapore-risk-assessments-and-national-strategies/\"> Read More: Publication
+  of Singapore's Risk Assessments and National Strategies</a></b>"
 sections:
   - hero:
       title: Regulatory Regime for Precious Stones and Precious Metals Dealers
