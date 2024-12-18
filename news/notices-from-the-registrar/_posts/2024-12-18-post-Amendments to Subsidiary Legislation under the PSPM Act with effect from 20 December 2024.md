@@ -63,9 +63,8 @@ will commence on <u>20 December 2024</u>.</p>
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="342"><p class="MsoNormal"><span style="mso-ansi-language:EN" lang="EN">Regulation 21A <span style="mso-ansi-language:
   EN" lang="EN"></span></span></p></td></tr></tbody></table>	
 	
-</p>
-<p>&nbsp;</p>
-<p>Regulated dealers may also refer to the FAQ section on the Ministry of
+
+</p><p>Regulated dealers may also refer to the FAQ section on the Ministry of
 Law’s website for more information on the amendments to the PMLTF Regulations.&nbsp;</p>
 <p>Anti-Money Laundering/Countering the Financing of Terrorism Division</p>
 <p>Ministry of Law</p>
