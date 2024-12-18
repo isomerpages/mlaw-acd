@@ -60,23 +60,8 @@ will commence on <u>20 December 2024</u>.</p>
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="728"><p class="MsoNormal"><span style="mso-ansi-language:EN" lang="EN">Prescribe the circumstances in which the Registrar uses to determine if a registered dealer is carrying on the business of regulated dealing or as an intermediary in Singapore </span></p></td><td style="width:256.8pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="342"><p class="MsoNormal"><span style="mso-ansi-language:EN" lang="EN">Regulation 21A </span></p></td></tr><tr style="mso-yfti-irow:9"><td style="width:29.2pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="39"><p style="text-align:center" align="center" class="MsoNormal">9</p></td><td style="width:545.75pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="728"><p class="MsoNormal">Allow the Registrar to cancel or suspend the registration of PSMDs that are not conducting regulated dealing and/or fall under prescribed circumstances<span style="mso-ansi-language:EN" lang="EN"></span></p></td><td style="width:256.8pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="342"><p class="MsoNormal"><span style="mso-ansi-language:EN" lang="EN">Section 10 of PSPM Act</span></p></td></tr><tr style="mso-yfti-irow:10"><td style="width:29.2pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="39"><p style="text-align:center" align="center" class="MsoNormal">10</p></td><td style="width:545.75pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="728"><p class="MsoNormal">Provide that the registration of a registered PSMD lapses if the PSMD, as an entity, is wound up or otherwise dissolved, or if the PSMD, as a sole proprietor, dies<span style="mso-ansi-language:EN" lang="EN"></span></p></td><td style="width:256.8pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="342"><p class="MsoNormal"><span style="mso-ansi-language:EN" lang="EN">Section 9A of PSPM Act</span></p></td></tr><tr style="mso-yfti-irow:11;mso-yfti-lastrow:yes"><td style="width:29.2pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="39"><p style="text-align:center" align="center" class="MsoNormal">11</p></td><td style="width:545.75pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="728"><p class="MsoNormal">Prescribe methods of service of documents, in particular through digital means, required or authorised by the Act to be served on any person<span style="mso-ansi-language:EN" lang="EN"></span></p></td><td style="width:256.8pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="342"><p class="MsoNormal">Section 36A, 36B, 39<span style="mso-ansi-language:
-  EN" lang="EN"></span></p></td></tr></tbody></table>	
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="342"><p class="MsoNormal"><span style="mso-ansi-language:EN" lang="EN">Regulation 21A <span style="mso-ansi-language:
+  EN" lang="EN"></span></span></p></td></tr></tbody></table>	
 	
 </p>
 <p>&nbsp;</p>
