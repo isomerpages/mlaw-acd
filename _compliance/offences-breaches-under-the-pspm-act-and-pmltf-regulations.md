@@ -111,7 +111,7 @@ variant: markdown
 </tbody>
 </table>
 
-**Table 2** - [Offences under Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations 2019](https://sso.agc.gov.sg//SL/PSPMPMLTFPFA2019-S306-2019?DocDate=20240430){:target="_blank"}
+**Table 2** - [Offences under Precious Stones and Precious Metals (Prevention of Money Laundering, Terrorism Financing and Proliferation Financing) Regulations 2019](https://sso.agc.gov.sg//SL/PSPMPMLTFPFA2019-S306-2019?DocDate=20240430){:target="_blank"}
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;

@@ -22,7 +22,7 @@ Please click [here](https://acd.mlaw.gov.sg/news/notices-from-the-registrar/repo
 
 #### <a id="Duty to Notify Registrar of Change in Particulars and Circumstances"></a> Duty to Notify Registrar of Change in Particulars and Circumstances
 
-Pursuant to the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations 2019 (“**PMLTF Regulations**”), registered dealers have the duty to notify the Registrar of Regulated Dealers of change in particulars and circumstances.
+Pursuant to the Precious Stones and Precious Metals (Prevention of Money Laundering, Terrorism Financing and Proliferation Financing) Regulations 2019 (“**PMLTF Regulations**”), registered dealers have the duty to notify the Registrar of Regulated Dealers of change in particulars and circumstances.
 
 The notification is to be submitted in **GoBusiness Dashboard** via an amendment application. You need to tick the checkbox (for each section that you wish to amend) in order to update your records with MinLaw. Refer to the table below for more details on how to submit the amendment application.
 
