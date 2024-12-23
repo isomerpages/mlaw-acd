@@ -64,7 +64,7 @@ will commence on <u>20 December 2024</u>.</p>
   EN" lang="EN"></span></span></p></td></tr></tbody></table>	
 	
 
-</p><p>Regulated dealers may also refer to the FAQ section on the Ministry of
+</p><p>Regulated dealers may also refer to the [FAQ section](https://console.apac.sabio.cloud/FAQ/index.aspx?p=64759355) on the Ministry of
 Law’s website for more information on the amendments to the PMLTF Regulations.&nbsp;</p>
 
 Anti-Money Laundering/Countering the Financing of Terrorism Division<br>Ministry of Law
