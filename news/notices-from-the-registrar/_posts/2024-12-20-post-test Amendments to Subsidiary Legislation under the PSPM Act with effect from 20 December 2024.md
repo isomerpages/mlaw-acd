@@ -58,6 +58,6 @@ The key amendments to the PMLTF Regulations are provided below.
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="342"><p class="MsoNormal"><span style="mso-ansi-language:EN" lang="EN">Regulation 21A <span style="mso-ansi-language:
   EN" lang="EN"></span></span></p></td></tr></tbody></table>	
 
-Regulated dealers may also refer to the [FAQ section](https://console.apac.sabio.cloud/FAQ/index.aspx?p=64759355){:target="blank"} for more information on the amendments to the PSPM Act and PMLTF Regulations.
+Regulated dealers may also refer to the [FAQ section](https://console.apac.sabio.cloud/FAQ/index.aspx?p=64759355){:target="blank"} on the Ministry of Law’s website for more information on the amendments to the PMLTF Regulations
 
 Anti-Money Laundering/Countering the Financing of Terrorism Division (“**ACD**”)<br>Ministry of Law
