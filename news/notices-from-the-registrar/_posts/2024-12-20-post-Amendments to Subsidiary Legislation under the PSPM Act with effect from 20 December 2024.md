@@ -8,9 +8,9 @@ description: ""
 image: ""
 variant: markdown
 ---
-The Registrar of Regulated Dealers hereby notifies all regulated dealers that amendments to the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations 2019 (“**PMLTF Regulations**”) under the Precious Stones and Precious Metals (Prevention of Money Laundering, Terrorism Financing and Proliferation Financing) Act 2019 (“**PSPM Act**”) will commence on <u>20 December 2024</u>.
+The Registrar of Regulated Dealers hereby notifies all regulated dealers that amendments to the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations 2019 under the Precious Stones and Precious Metals (Prevention of Money Laundering, Terrorism Financing and Proliferation Financing) Act 2019 (“**PSPM Act**”) will take effect on <u>20 December 2024</u>.
 
-The key amendments to the PMLTF Regulations are provided below.
+The key amendments to the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations 2019 are provided below.
 
 <table style="border-collapse:collapse;mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm" cellpadding="0" cellspacing="0" border="0" class="MsoNormalTable"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes"><td style="width:29.2pt;border:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="39"><p style="text-align:center" align="center" class="MsoNormal"><b><span style="mso-ansi-language:EN" lang="EN">S/N</span></b></p></td><td style="width:545.75pt;border:solid windowtext 1.0pt;
