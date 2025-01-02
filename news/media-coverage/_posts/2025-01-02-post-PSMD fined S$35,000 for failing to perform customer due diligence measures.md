@@ -11,8 +11,8 @@ variant: tiptap
 was fined S$35,000 on 19 November 2024 under the Precious Stones and Precious
 Metals (Prevention of Money Laundering, Terrorism Financing and Proliferation
 Financing) Act (“<strong>PSPM Act</strong>”). The PSMD had sold valuables
-worth more than S$313,000 in total to customers, and over $140,000 of that
-amount was later traced to two Singaporean victims of a malware scam.&nbsp;</p>
+worth more than S$313,000 in total to customers, and over S$140,000 of
+that amount was later traced to two Singaporean victims of a malware scam.&nbsp;</p>
 <p>Two employees of the PSMD had processed the payments without conducting
 the necessary checks, despite having reasons to suspect that the funds
 were linked to money laundering activities. The offences came to light
