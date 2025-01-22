@@ -38,4 +38,4 @@ The following videos and posters provide useful summary to the regulatory requir
 **Posters:**
 * [Entity-Based Requirements Poster (English)](/images/EntityBasedRequirementsPoster.pdf){:target="_blank"}
 * [Transaction-Based Requirements Poster (English)](/images/TransactionBasedRequirementsPoster.pdf){:target="_blank"}
-* [Don't let illicit funds slither in: Protect your business this Lunar New Year! (English)](/files/CNY_2025.pdf){:target="_blank"}
+* [Don't let illicit funds slither in: Protect your business this Lunar New Year! (English)](/images/LNY_2025.png){:target="_blank"}
