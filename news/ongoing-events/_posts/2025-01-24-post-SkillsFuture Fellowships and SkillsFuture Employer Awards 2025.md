@@ -24,7 +24,9 @@ the government.</p>
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/SSG2025_1.png">
 </div><a class="isomer-image-wrapper" href="https://safe.menlosecurity.com/https://programmes.myskillsfuture.gov.sg/Fellowships/ProgrammeDetails.aspx"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/SSG2025_4.png"></a>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/SSG2025_2.png">
+</div><a class="isomer-image-wrapper" href="https://safe.menlosecurity.com/https://programmes.enterprisejobskills.gov.sg/EmployerAwards/ProgrammeDetails.aspx"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/SSG2025_4.png"></a>
 <p></p>
 <p>For more information, you may refer to the following resources if you
 are interested in making applications for the SkillsFuture Fellowships
