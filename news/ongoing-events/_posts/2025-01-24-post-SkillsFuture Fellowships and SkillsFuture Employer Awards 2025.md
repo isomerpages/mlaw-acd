@@ -32,5 +32,10 @@ are interested in making applications for the SkillsFuture Fellowships
 and the SkillsFuture Employer Awards.</p>
 <p><a href="https://acd.mlaw.gov.sg/files/SkillsFuture_Fellowships_FAQ_2025.pdf" rel="noopener nofollow" target="_blank">SkillsFuture Fellowships FAQ</a>
 </p>
+<p><a href="https://www.acd.gov.sg/files/SkillsFuture_Employer_Awards_FAQ_2025.pdf" rel="noopener nofollow" target="_blank">SkillsFuture Employer Awards FAQ</a>
+</p>
 <p></p>
+<p>For enquiries, please contact Singapore National Employers Federation
+(SNEF), the appointed Programme Manager for the awards at <a href="mailto:sfa@snef.org.sg" rel="noopener noreferrer nofollow" target="_blank">sfa@snef.org.sg</a>
+</p>
 <p></p>
