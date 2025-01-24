@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Dear regulated dealers,</p>
+<p>Dear Regulated Dealers,</p>
 <p>The SkillsFuture Fellowships and the SkillsFuture Employer Awards are
 open for applications till 20 Mar 2025. The SkillsFuture Fellowships recognise
 individuals who have developed skills mastery, while the SkillsFuture Employer
