@@ -7,3 +7,11 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Dear regulated dealers,</p>
+<p>The SkillsFuture Fellowships and the SkillsFuture Employer Awards are
+open for applications till 20 Mar 2025. The SkillsFuture Fellowships recognise
+individuals who have developed skills mastery, while the SkillsFuture Employer
+Awards recognise employers who are exemplary in developing their employees
+through their careers. All applications will be evaluated by a panel of
+judges comprising senior representatives from the industry, unions and
+the government.</p>
