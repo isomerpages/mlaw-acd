@@ -30,9 +30,7 @@ the government.</p>
 <p>For more information, you may refer to the following resources if you
 are interested in making applications for the SkillsFuture Fellowships
 and the SkillsFuture Employer Awards.</p>
-<p><a href="/files/SkillsFuture_Fellowships_FAQ_2025.pdf" rel="noopener nofollow" target="_blank">SkillsFuture Fellowships FAQ</a>
-</p>
-<p><a href="/files/SkillsFuture_Employer_Awards_FAQ_2025.pdf" rel="noopener nofollow" target="_blank">SkillsFuture Employer Awards FAQ</a>
+<p><a href="https://acd.mlaw.gov.sg/files/SkillsFuture_Fellowships_FAQ_2025.pdf" rel="noopener nofollow" target="_blank">SkillsFuture Fellowships FAQ</a>
 </p>
 <p></p>
 <p></p>
