@@ -21,9 +21,8 @@ the government.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SSG2025_1.png">
-</div>
-<p></p>
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/SSG2025_1.png">
+</div><a class="isomer-image-wrapper" href="https://safe.menlosecurity.com/https://programmes.myskillsfuture.gov.sg/Fellowships/ProgrammeDetails.aspx"><img style="width: 30%;" height="auto" width="100%" alt="" src="/images/SSG2025_4.png"></a>
 <p></p>
 <p></p>
 <p></p>
