@@ -3,9 +3,9 @@ layout: homepage
 title: Anti-Money Laundering / Countering the Financing of Terrorism Division
 permalink: /
 notification: <b><a
-  href="https://acd.mlaw.gov.sg/news/notices-from-the-registrar/amendments-to-subsidiary-legislation-20-dec-2024/">
-  Amendments to Subsidiary Legislation under the PSPM Act with effect from 20
-  December 2024 (latest!)</a></b>
+  href="https://acd.mlaw.gov.sg/news/ongoing-events/skillsfuture-fellowships-and-skillsfuture-employer-awards-2025/">
+  SkillsFuture Fellowships and SkillsFuture Employer Awards 2025
+  (latest!)</a></b>
 sections:
   - hero:
       title: Regulatory Regime for Precious Stones and Precious Metals Dealers
