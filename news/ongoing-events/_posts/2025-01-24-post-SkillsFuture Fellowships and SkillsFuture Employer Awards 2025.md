@@ -15,3 +15,8 @@ Awards recognise employers who are exemplary in developing their employees
 through their careers. All applications will be evaluated by a panel of
 judges comprising senior representatives from the industry, unions and
 the government.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SSG2025.png">
+</div>
+<p></p>
