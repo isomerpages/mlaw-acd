@@ -7,7 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Dear regulated dealers,</p>
+<p>Dear Regulated Dealer,</p>
 <p>The SkillsFuture Fellowships and the SkillsFuture Employer Awards are
 open for applications till 20 Mar 2025. The SkillsFuture Fellowships recognise
 individuals who have developed skills mastery, while the SkillsFuture Employer
@@ -32,7 +32,7 @@ the government.</p>
 are interested in making applications for the SkillsFuture Fellowships
 and the SkillsFuture Employer Awards.</p>
 <p><a href="https://acd.mlaw.gov.sg/files/SkillsFuture_Fellowships_FAQ_2025.pdf" rel="noopener nofollow" target="_blank">SkillsFuture Fellowships FAQ </a>
-<a href="https://www.acd.gov.sg/files/SkillsFuture_Employer_Awards_FAQ_2025.pdf" rel="noopener nofollow" target="_blank">SkillsFuture Employer Awards FAQ</a>
+<a href="https://acd.mlaw.gov.sg/files/SkillsFuture_Employer_Awards_FAQ_2025.pdf" rel="noopener nofollow" target="_blank">SkillsFuture Employer Awards FAQ</a>
 </p>
 <p></p>
 <p>For enquiries, please contact Singapore National Employers Federation
