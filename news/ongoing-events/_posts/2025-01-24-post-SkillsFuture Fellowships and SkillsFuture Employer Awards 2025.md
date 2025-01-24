@@ -25,3 +25,10 @@ the government.</p>
 </div>
 <p></p>
 <p></p>
+<p></p>
+<p></p>
+<p>For more information, you may refer to the following resources if you
+are interested in making applications for the SkillsFuture Fellowships
+and the SkillsFuture Employer Awards.</p>
+<p></p>
+<p></p>
