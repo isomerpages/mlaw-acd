@@ -52,6 +52,7 @@ width: 30%;
 | [National Asset Recovery Strategy](/files/National_Asset_Recovery_Strategy_2024.pdf){:target="_blank"} | Jun 2024 |
 | [Money Laundering National Risk Assessment](/files/Money_Laundering_National_Risk_Assessment_2024.pdf){:target="_blank"} | Jun 2024 |
 | [Environmental Crimes Money Laundering National Risk Assessment](/files/Env_Crimes_ML_NRA___Final.pdf){:target="_blank"} | Jun 2024 |
+| [GST Missing Trader Fraud Involving Precious Metals](https://www.iras.gov.sg/who-we-are/what-we-do/annual-reports-and-publications/taxbytes-iras/gst/gst-missing-trader-fraud-involving-precious-metals){:target="_blank"} | Oct 2023 |
 | [2023 Industry Engagement Session](/files/2023%20industry%20engagement%20session_20230510.pdf){:target="_blank"} | Jul 2023 |
 | [National Strategy for Countering the Financing of Terrorism (CFT)](/files/National%20Strategy%20for%20Countering%20the%20Financing%20of%20Terrorism.pdf){:target="_blank"} | Oct 2022 |
 | [Singapore Terrorism Threat Assessment Report 2022](https://www.mha.gov.sg/docs/default-source/default-document-library/singapore-terrorism-threat-assessment-report-2022.pdf){:target="_blank"} | Aug 2022 |
