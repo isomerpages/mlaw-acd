@@ -8,7 +8,7 @@ image: ""
 variant: tiptap
 ---
 <p>Dear Regulated Dealer,</p>
-<p><strong>Information and Guidance on Countering the Financing of Terrorism</strong> 
+<p><strong>Information and Guidance on Countering the Financing of Terrorism</strong>
 </p>
 <p></p>
 <ol data-tight="true" class="tight">
@@ -27,8 +27,8 @@ Strategy;</p>
 <p></p>
 </li>
 <li>
-<p>Click here to access the TF National Risk Assessment and CFT National
-Strategy.</p>
+<p>Click <a href="https://cms.isomer.gov.sg/files/Information_and_Guidance_on_Countering_the_Financing_of_Terrorism.pdf" rel="noopener nofollow" target="_blank">here</a> to
+access the TF National Risk Assessment and CFT National Strategy.</p>
 </li>
 </ol>
 <p>Anti-Money Laundering/Countering the Financing of Terrorism Division</p>
