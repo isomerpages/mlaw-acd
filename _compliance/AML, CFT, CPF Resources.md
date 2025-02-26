@@ -37,7 +37,7 @@ width: 30%;
 
 | Document | Uploaded |
 | --- | --- |
-| [Information and Guidance on Countering the Financing of Terrorism](/files/information_and_guidance_on_countering_the_financing_of_terrorism.pdf){:target="_blank"}| Feb 2025 |
+| [Information and Guidance on Countering the Financing of Terrorism](/files/information%20and%20guidance%20on%20countering%20the%20financing%20of%20terrorism.pdf){:target="_blank"}| Feb 2025 |
 | [Money Laundering and Terrorism Financing Risk Assessment of Legal Arrangements](/files/Money_Laundering_and_Terrorism_Financing_Risk_Assessment_of_Legal_Arrangements.pdf){:target="_blank"} | Nov 2024 |
 | [Money Laundering and Terrorism Financing Risk Assessment of Legal Persons](/files/Money_Laundering_and_Terrorism_Financing_Risk_Assessment_of_Legal_Persons.pdf){:target="_blank"} | Nov 2024 |
 | [Proliferation Financing (PF) National Risk Assessment and Counter-PF Strategy](/files/Proliferation_Financing_National_Risk_Assessment_and_Counter_PF_Strategy.pdf){:target="_blank"} | Nov 2024 |
