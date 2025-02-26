@@ -27,7 +27,7 @@ Strategy;</p>
 <p></p>
 </li>
 <li>
-<p>Click <a href="/files/Information_and_Guidance_on_Countering_the_Financing_of_Terrorism.pdf" rel="noopener nofollow" target="_blank">here</a> to
+<p>Click <a href="/files/information and guidance on countering the financing of terrorism.pdf" rel="noopener nofollow" target="_blank">here</a> to
 access the TF National Risk Assessment and CFT National Strategy.</p>
 </li>
 </ol>
