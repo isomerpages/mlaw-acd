@@ -3,8 +3,8 @@ layout: homepage
 title: Anti-Money Laundering / Countering the Financing of Terrorism Division
 permalink: /
 notification: <b><a
-  href="https://acd.mlaw.gov.sg/news/ongoing-events/skillsfuture-fellowships-and-skillsfuture-employer-awards-2025/">
-  SkillsFuture Fellowships and SkillsFuture Employer Awards 2025
+  href="https://acd.mlaw.gov.sg/news/notices-from-the-registrar/information-and-guidance-on-countering-the-financing-of-terrorism/">
+  Information and Guidance on Countering the Financing of Terrorism
   (latest!)</a></b>
 sections:
   - hero:
