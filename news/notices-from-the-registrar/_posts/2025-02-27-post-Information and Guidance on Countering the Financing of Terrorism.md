@@ -25,7 +25,7 @@ and CFT National Strategy;</p>
 <p>v. Other useful CFT resources.</p>
 <p></p>
 
-<p>Click <strong><a href="[Terrorism Financing National Risk Assessment and Strategy for Countering the Financing of Terrorism](https://acd.mlaw.gov.sg/news/notices-from-the-registrar/terrorism-financing-national-risk-assessment/)" rel="noopener nofollow" target="_blank">here</a></strong> to
+<p>Click <strong><a>[here](https://acd.mlaw.gov.sg/news/notices-from-the-registrar/terrorism-financing-national-risk-assessment/){:target="blank"}</a></strong> to
 access the TF National Risk Assessment and CFT National Strategy.</p>
 </ol>
 <p>Anti-Money Laundering/Countering the Financing of Terrorism Division</p>
