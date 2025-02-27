@@ -10,7 +10,7 @@ variant: tiptap
 <p>Dear Regulated Dealer,</p>
 <p><strong>Information and Guidance on Countering the Financing of Terrorism</strong>
 </p>
-<p>The Ministry of Law ("<strong>MinLaw</strong>") has developed <strong><a href="files/information%20and%20guidance%20on%20countering%20the%20financing%20of%20terrorism.pdf" rel="noopener nofollow" target="_blank"><u>the Information and Guidance on Countering the Financing of Terrorism </u></a></strong>(“<strong>CFT</strong>”)
+<p>The Ministry of Law ("<strong>MinLaw</strong>") has developed <a href="/files/information and guidance on countering the financing of terrorism.pdf" rel="noopener nofollow" target="_blank">the Information and Guidance on Countering the Financing of Terroism</a> (“<strong>CFT</strong>”)
 (attached) in conjunction with the Ministry of Home Affairs ("<strong>MHA</strong>")
 to raise regulated dealers’ awareness and understanding of:</p>
 <p>i. Your key (non-exhaustive) obligations and information to note under
