@@ -13,7 +13,7 @@ variant: markdown
 <p></p>
 <ol data-tight="true" class="tight">
 
-	<p>The Ministry of Law ("<strong>MinLaw</strong>) has developed the Information and Guidance on Countering the Financing of Terrorism (“<strong>CFT</strong>”) (attached) in conjunction with the Ministry of Home Affairs ("<strong>MHA</strong>") to raise regulated dealers’ awareness and understanding of:</p>
+	<p>The Ministry of Law ("<strong>MinLaw</strong>) has developed <strong><a href="/files/information and guidance on countering the financing of terrorism.pdf" rel="noopener nofollow" target="_blank"> the Information and Guidance on Countering the Financing of Terrorism </a></strong> (“<strong>CFT</strong>”) (attached) in conjunction with the Ministry of Home Affairs ("<strong>MHA</strong>") to raise regulated dealers’ awareness and understanding of:</p>
 <p></p>
 <p>i. Your key (non-exhaustive) obligations and information to note under
 the Terrorism (Suppression of Financing) Act (“<strong>TSOFA</strong>”)
