@@ -33,4 +33,4 @@ access the TF National Risk Assessment and CFT National Strategy.</p>
 </li>
 </ol>
 <p>Anti-Money Laundering/Countering the Financing of Terrorism Division</p>
-<p>Ministry of Law</p>
+Ministry of Law
