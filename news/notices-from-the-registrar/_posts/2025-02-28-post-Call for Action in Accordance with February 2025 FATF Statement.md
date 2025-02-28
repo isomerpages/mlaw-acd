@@ -7,90 +7,49 @@ description: ""
 image: ""
 variant: markdown
 ---
-<p>Dear Regulated Dealer,</p>
-<p><strong><u>Action by regulated dealers against high-risk jurisdictions</u></strong>
-</p>
-<p>The Registrar of Regulated Dealers hereby notifies all regulated dealers
-that the Financial Action Task Force (“<strong>FATF</strong>”) has issued
-statements dated 21 February 2025&nbsp;on:&nbsp;</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Countermeasures against the Democratic People’s Republic of Korea (“<strong>DPRK</strong>”)
-and Iran;</p>
-</li>
-<li>
-<p>Enhanced due diligence measures against Myanmar; and</p>
-</li>
-<li>
-<p>List of Jurisdictions under Increased Monitoring.</p>
-<p></p>
-</li>
-</ul>
-<p>Accordingly, under regulation 7(1) of the Precious Stones and Precious
-Metals (Prevention of Money Laundering, Terrorism Financing and Proliferation
-Financing) Regulations 2019 (“<strong>PMLTF Regulations</strong>”), regulated
-dealers <strong>must perform enhanced customer due diligence measures</strong> if:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>The customer, or the person on whose behalf the customer is acting on,
-is from or in DPRK, Iran, Myanmar, or a foreign country or territory identified
-to have inadequate measures to prevent money laundering or terrorism financing;
-or</p>
-</li>
-<li>
-<p>The transaction relates to DPRK, Iran, Myanmar, or a foreign country or
-territory identified to have inadequate measures to prevent money laundering
-or terrorism financing.</p>
-</li>
-</ul>
-<p>Full details can be found at: <a rel="noopener noreferrer nofollow" target="_blank">https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/Call-for-action-february-2025.html</a>
-</p>
-<p><strong><u>Jurisdictions under Increased Monitoring</u></strong>
-</p>
-<p>Regulated dealers are also expected to take the List of Jurisdictions
-under Increased Monitoring into consideration when preparing and updating
-their risk assessment and mitigation plans and perform enhanced customer
-due diligence measures, when necessary. The latest list removed Philippines,
-and included Lao People's Democratic Republic and Nepal.</p>
-<table style="minWidth: 25px">
-<colgroup>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Jurisdictions under Increased Monitoring</strong>
-</p>
-<p>Algeria</p>
-<p>Angola</p>
-<p>Bulgaria</p>
-<p>Burkina Faso</p>
-<p>Cameroon</p>
-<p>Côte d'Ivoire</p>
-<p>Croatia</p>
-<p>Democratic Republic of Congo</p>
-<p>Haiti</p>
-<p>Kenya</p>
-<p>Lao People's Democratic Republic (new)</p>
-<p>Lebanon</p>
-<p>Mali</p>
-<p>Monaco</p>
-<p>Mozambique</p>
-<p>Namibia</p>
-<p>Nepal (new)</p>
-<p>Nigeria</p>
-<p>South Africa</p>
-<p>South Sudan</p>
-<p>Syria</p>
-<p>Tanzania</p>
-<p>Venezuela</p>
-<p>Vietnam</p>
-<p>Yemen</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>&nbsp;Full details can be found at: <a rel="noopener noreferrer nofollow" target="_blank">https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/increased-monitoring-february-2025.html</a>
-</p>
-<p></p>
-<p></p>
+**<u>Action by regulated dealers against high-risk jurisdictions</u>**<br>
+
+Dear Regulated Dealer,
+
+The Registrar of Regulated Dealers hereby notifies all regulated dealers that the Financial Action Task Force (“**FATF**”) has issued statements dated 21 February 2025 on:
+* Countermeasures against the Democratic People’s Republic of Korea (“**DPRK**”) and Iran;
+* Enhanced due diligence measures against Myanmar; and
+* List of Jurisdictions under Increased Monitoring.
+    
+Accordingly, under regulation 7(1) of the Precious Stones and Precious Metals (Prevention of Money Laundering, Terrorism Financing and Proliferation Financing) Regulations 2019 ("**PMLTF Regulations**"), regulated dealers **must perform enhanced customer due diligence measures** if:
+* The customer, or the person on whose behalf the customer is acting on, is from or in DPRK, Iran, Myanmar, or a foreign country or territory identified to have inadequate measures to prevent money laundering or terrorism financing; or
+* The transaction relates to DPRK, Iran, Myanmar, or a foreign country or territory identified to have inadequate measures to prevent money laundering or terrorism financing.        
+
+Full details can be found at:<br><a href="https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/Call-for-action-february-2025.html>https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/Call-for-action-february-2025.html</a><br><br>
+
+<span style=" target="_blank"> Jurisdictions under Increased Monitoring<br>
+
+Regulated dealers are also expected to take the List of Jurisdictions under Increased Monitoring into consideration when preparing and updating their risk assessment and mitigation plans and perform enhanced customer due diligence measures, when necessary. The latest list removed Senegal, and included Algeria, Angola, Côte d'Ivoire and Lebanon.<br><br>
+<table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:17px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
+<span style="font-weight:bold">Jurisdictions under Increased Monitoring</span><br>
+	<br>
+	<span style="font-weight:normal">Algeria <i>(new)</i></span><br>
+	<span style="font-weight:normal">Angola <i>(new)</i></span><br>
+	<span style="font-weight:normal">Bulgaria</span><br>
+<span style="font-weight:normal">Burkina Faso</span><br>
+	<span style="font-weight:normal">Cameroon</span><br>
+	<span style="font-weight:normal">Côte d'Ivoire <i>(new)</i></span><br>
+<span style="font-weight:normal">Croatia</span><br>	
+<span style="font-weight:normal">Democratic Republic of Congo</span><br>
+<span style="font-weight:normal">Haiti</span><br>
+	<span style="font-weight:normal">Kenya </span><br>
+	<span style="font-weight:normal">Lebanon <i>(new)</i></span><br>
+	<span style="font-weight:normal">Mali</span><br>
+	<span style="font-weight:normal">Monaco </span><br>
+<span style="font-weight:normal">Mozambique</span><br>
+		<span style="font-weight:normal">Namibia </span><br>
+<span style="font-weight:normal">Nigeria</span><br>
+<span style="font-weight:normal">Philippines</span><br>
+<span style="font-weight:normal">South Africa</span><br>
+<span style="font-weight:normal">South Sudan</span><br>
+<span style="font-weight:normal">Syria</span><br>
+	<span style="font-weight:normal">Tanzania</span><br>
+<span style="font-weight:normal">Venezuela </span><br>
+	<span style="font-weight:normal">Vietnam</span><br>
+<span style="font-weight:normal">Yemen</span><br></th></tr></thead></table>
+Full details can be found at:<br></a><a href="https://www.fatf-gafi.org/content/fatf-gafi/en/publications/High-risk-and-other-monitored-jurisdictions/increased-monitoring-october-2024.html" target="_blank">https://www.fatf-gafi.org/content/fatf-gafi/en/publications/High-risk-and-other-monitored-jurisdictions/increased-monitoring-october-2024.html</a><br>
