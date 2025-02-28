@@ -20,9 +20,7 @@ Accordingly, under regulation 7(1) of the Precious Stones and Precious Metals (P
 * The customer, or the person on whose behalf the customer is acting on, is from or in DPRK, Iran, Myanmar, or a foreign country or territory identified to have inadequate measures to prevent money laundering or terrorism financing; or
 * The transaction relates to DPRK, Iran, Myanmar, or a foreign country or territory identified to have inadequate measures to prevent money laundering or terrorism financing.        
 
-Full details can be found at:<br><a href="https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/Call-for-action-february-2025.html" target="_blank">https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/Call-for-action-february-2025.html
-
-</a>
+Full details can be found at:<br><a href="https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/Call-for-action-february-2025.html" target="_blank">https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/Call-for-action-february-2025.html</a>
 
 <span style="font-weight:bold;text-decoration:underline"> Jurisdictions under Increased Monitoring</span><br>
 
