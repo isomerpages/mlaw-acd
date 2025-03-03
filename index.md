@@ -3,7 +3,7 @@ layout: homepage
 title: Anti-Money Laundering / Countering the Financing of Terrorism Division
 permalink: /
 notification: <b><a
-  href="https://acd.mlaw.gov.sg/news/notices-from-the-registrar/Call-for-Action-in-Accordance-with-February-2025-FATF-Statement/">
+  href="https://acd.mlaw.gov.sg/news/notices-from-the-registrar/call-for-action-in-accordance-with-february-2025-fatf-statement/">
   Feb 2025 FATF Public Statement - Countries/Jurisdiction with Strategic
   Deficiencies (latest!)</a></b>
 sections:
