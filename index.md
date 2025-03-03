@@ -3,9 +3,9 @@ layout: homepage
 title: Anti-Money Laundering / Countering the Financing of Terrorism Division
 permalink: /
 notification: <b><a
-  href="https://acd.mlaw.gov.sg/news/notices-from-the-registrar/information-and-guidance-on-countering-the-financing-of-terrorism/">
-  Information and Guidance on Countering the Financing of Terrorism
-  (latest!)</a></b>
+  href="https://acd.mlaw.gov.sg/news/notices-from-the-registrar/Call-for-Action-in-Accordance-with-February-2025-FATF-Statement/">
+  Feb 2025 FATF Public Statement - Countries/Jurisdiction with Strategic
+  Deficiencies (latest!)</a></b>
 sections:
   - hero:
       title: Regulatory Regime for Precious Stones and Precious Metals Dealers
