@@ -8,8 +8,7 @@ image: ""
 variant: markdown
 ---
 <p>Dear Regulated Dealer</p>
-<p><strong>Additional Guidance on Assessment of Customer Risk, Identification of Material Red Flags, Source of Wealth Establishment and Ongoing Monitoring of Customers and their Transactions</strong>
-</p>
+<strong>Additional Guidance on Assessment of Customer Risk, Identification of Material Red Flags, Source of Wealth Establishment and Ongoing Monitoring of Customers and their Transactions</strong><br>
 <br>To further strengthen the anti-money laundering, countering the financing
 of terrorism and countering proliferation financing (“<strong>AML/CFT/CPF</strong>”)
 controls in the Precious Stones and Precious Metals Dealers (“<strong>PSMD</strong>”)
@@ -49,26 +48,22 @@ reports (“<strong>STRs</strong>”) were filed by the regulated dealers in
 relation to some of these customers.
 <br><br><strong>B. Source of Wealth (“SOW”) establishment</strong>
 <br><br>Apply rigor in assessing the plausibility of SOW, commensurate with the
-level of ML/TF risks<p></p>
-<p><strong>Example of a good practice:</strong>
+level of ML/TF risks
+<br><br><strong>Example of a good practice:</strong><br>
 <br>A regulated dealer noted that the payments for a customer’s jewellery
 were to be received from a third-party company. The regulated dealer enquired
 on the relationship between the customer and the company and requested
 the customer to furnish the company ownership reports to support his claim
-that he owned the company.
-<br>
-<br><strong>C. Ongoing Monitoring Controls and Close Oversight over Higher Risk Accounts</strong>
-<br>Ensure that ongoing monitoring controls consider the customer’s risk profile.
-<br>
+that he owned the company.<br>
+<br><strong>C. Ongoing Monitoring Controls and Close Oversight over Higher Risk Accounts</strong><br>
+<br>Ensure that ongoing monitoring controls consider the customer’s risk profile.<br>
 <br>In addition to the enclosed guidance document, we will also like to bring
 regulated dealers’ attention to the following additional guidance on STR
 filing timelines:
 <br>
-<br><strong>STR Filing Timelines&nbsp;</strong>
+<br><strong>STR Filing Timelines&nbsp;</strong><br>
 <br>STRs should be filed as soon as reasonably practicable upon the establishment
 of suspicion
-<br>
-</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>“As soon as reasonably practicable” should be no longer than 5 business
@@ -79,19 +74,17 @@ days</p>
 filing for higher risk cases; and STRs for targeted financial sanctions/
 sanctions cases are to be filed within 1 business day, if not immediately.
 <br>
-</p>
-</li>
+</p></li>
 </ul>
-<p>The additional guidance above will also be included in the next revised
+The additional guidance above will also be included in the next revised
 copy of the Guidelines for Regulated Dealers that will be published.
 <br>
-</p>
-<p><strong>What Can You Do?</strong>
+<p></p>
+<strong>What Can You Do?</strong><br>
 <br>This set of further guidance does not impose new regulatory requirements
 on regulated dealers.&nbsp;
 <br>
-</p>
-<p>However, regulated dealers should benchmark this guidance against the
+<br>However, regulated dealers should benchmark this guidance against the
 practices and supervisory expectations set out within, in a risk-based
 and proportionate manner, and conduct a gap analysis, taking into account
 the risk profile of their business activities and customers.&nbsp;
@@ -105,5 +98,5 @@ and ensure the effective implementation of follow-up actions, as appropriate.
 <br>Thank you.
 <br>
 <br>Anti-Money Laundering/Countering the Financing of Terrorism Division
-<br>Ministry of Law</p>
+<br>Ministry of Law<p></p>
 <p></p>
