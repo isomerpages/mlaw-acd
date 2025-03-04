@@ -98,4 +98,4 @@ and ensure the effective implementation of follow-up actions, as appropriate.
 <br>Thank you.
 <br>
 <br>Anti-Money Laundering/Countering the Financing of Terrorism Division
-<br>Ministry of Law<p></p>
+<br>Ministry of Law
