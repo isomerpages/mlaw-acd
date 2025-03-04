@@ -13,7 +13,7 @@ variant: markdown
 <p>To further strengthen the anti-money laundering, countering the financing
 of terrorism and countering proliferation financing (“<strong>AML/CFT/CPF</strong>”)
 controls in the Precious Stones and Precious Metals Dealers (“<strong>PSMD</strong>”)
-sector, we have prepared a guidance document which outlines <strong>additional supervisory expectations</strong> for
+sector, we have prepared a <a href="/files/additional_guidance_PSMD.pdf" rel="noopener noreferrer nofollow" target="_blank"> guidance document</a> which outlines <strong>additional supervisory expectations</strong> for
 regulated dealers to the [Guidance Paper issued on 16 Jun 2021](/images/Guidance Paper_20210616.pdf){:target="_blank"}. Observations
 from recent AML/CFT/CPF inspections of regulated dealers have highlighted
 areas where a more robust and consistent approach should be taken in relation
