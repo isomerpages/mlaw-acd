@@ -37,7 +37,7 @@ width: 30%;
 
 | Document | Uploaded |
 | --- | --- |
-| [Additional Guidance on Assessment of Customer Risk, Identification of Material Red Flags, Source of Wealth Establishment, and Ongoing Monitoring](/files/Additional_Guidance_PSMD.pdf)
+| [Additional Guidance on Assessment of Customer Risk, Identification of Material Red Flags, Source of Wealth Establishment, and Ongoing Monitoring](/files/Additional_Guidance_PSMD.pdf){:target="_blank"}| Mar 2025 |
 | [Information and Guidance on Countering the Financing of Terrorism](/files/information%20and%20guidance%20on%20countering%20the%20financing%20of%20terrorism.pdf){:target="_blank"}| Feb 2025 |
 | [Money Laundering and Terrorism Financing Risk Assessment of Legal Arrangements](/files/Money_Laundering_and_Terrorism_Financing_Risk_Assessment_of_Legal_Arrangements.pdf){:target="_blank"} | Nov 2024 |
 | [Money Laundering and Terrorism Financing Risk Assessment of Legal Persons](/files/Money_Laundering_and_Terrorism_Financing_Risk_Assessment_of_Legal_Persons.pdf){:target="_blank"} | Nov 2024 |
