@@ -22,10 +22,9 @@ certain areas.<br>
 <br><strong>A.</strong>  <strong>Assessment of Customer Risk</strong>
 <br><br>Consider money laundering, terrorism financing and proliferation financing
 (“<strong>ML/TF/PF</strong>”) risks emanating from customers with ML/TF/PF
-red flags.
-<br>
+red flags.<br>
 <br><strong>Some examples of material red flags that were followed up by regulated dealers:</strong>
-<p></p>
+
 <ul data-tight="true" class="tight">
 <li>
 <p>A customer who returned on the same day to purchase more gold bars in
