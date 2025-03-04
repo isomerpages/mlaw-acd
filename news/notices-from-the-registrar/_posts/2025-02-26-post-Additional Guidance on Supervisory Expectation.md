@@ -10,7 +10,7 @@ variant: markdown
 <p>Dear Regulated Dealer</p>
 <p><strong>Additional Guidance on Assessment of Customer Risk, Identification of Material Red Flags, Source of Wealth Establishment and Ongoing Monitoring of Customers and their Transactions</strong>
 </p>
-<p>To further strengthen the anti-money laundering, countering the financing
+<br>To further strengthen the anti-money laundering, countering the financing
 of terrorism and countering proliferation financing (“<strong>AML/CFT/CPF</strong>”)
 controls in the Precious Stones and Precious Metals Dealers (“<strong>PSMD</strong>”)
 sector, we have prepared a <a href="/files/Additional_Guidance_PSMD.pdf" rel="noopener noreferrer nofollow" target="_blank"> guidance document</a> which outlines <strong>additional supervisory expectations</strong> for
@@ -18,7 +18,7 @@ regulated dealers to the <a href="/images/Guidance Paper_20210616.pdf" rel="noop
 from recent AML/CFT/CPF inspections of regulated dealers have highlighted
 areas where a more robust and consistent approach should be taken in relation
 to the regulated dealers’ application of their AML/CFT/CPF controls in
-certain areas.</p>
+certain areas.<br>
 <br><strong>A.</strong>  <strong>Assessment of Customer Risk</strong>
 <br><br>Consider money laundering, terrorism financing and proliferation financing
 (“<strong>ML/TF/PF</strong>”) risks emanating from customers with ML/TF/PF
