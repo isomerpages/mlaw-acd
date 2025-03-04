@@ -45,10 +45,10 @@ losses.</p>
 </p>
 </li>
 </ul>
-<p>After performing further due diligence measures, suspicious transaction
+After performing further due diligence measures, suspicious transaction
 reports (“<strong>STRs</strong>”) were filed by the regulated dealers in
-relation to some of these customers.</p>
-<br><strong>B. Source of Wealth (“SOW”) establishment</strong>
+relation to some of these customers.
+<br><br><strong>B. Source of Wealth (“SOW”) establishment</strong>
 <br><br>Apply rigor in assessing the plausibility of SOW, commensurate with the
 level of ML/TF risks<p></p>
 <p><strong>Example of a good practice:</strong>
