@@ -49,7 +49,7 @@ reports (“<strong>STRs</strong>”) were filed by the regulated dealers in
 relation to some of these customers.
 <br><br><strong>B. Source of Wealth (“SOW”) establishment</strong>
 <br><br>Apply rigor in assessing the plausibility of SOW, commensurate with the
-level of ML/TF risks
+level of ML/TF risks.
 <br><br><strong>Example of a good practice:</strong><br>
 <br>A regulated dealer noted that the payments for a customer’s jewellery
 were to be received from a third-party company. The regulated dealer enquired
@@ -64,11 +64,11 @@ filing timelines:
 <br>
 <br><strong>STR Filing Timelines&nbsp;</strong><br>
 <br>STRs should be filed as soon as reasonably practicable upon the establishment
-of suspicion
+of suspicion.
 <ul data-tight="true" class="tight">
 <li>
 <p>“As soon as reasonably practicable” should be no longer than 5 business
-days</p>
+days.</p>
 </li>
 <li>
 <p>This will include some flexibility for exceptions. e.g. Prioritise STR
