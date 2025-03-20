@@ -7,6 +7,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>[Applications <strong>closed</strong> on 20 Mar 2025]</p>
 <p>Dear Regulated Dealer,</p>
 <p>The SkillsFuture Fellowships and the SkillsFuture Employer Awards are
 open for applications till 20 Mar 2025. The SkillsFuture Fellowships recognise
