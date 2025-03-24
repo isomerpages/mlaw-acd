@@ -39,4 +39,4 @@ The following videos and posters provide useful summary to the regulatory requir
 * [Entity-Based Requirements Poster (English)](/images/EntityBasedRequirementsPoster.pdf){:target="_blank"}
 * [Transaction-Based Requirements Poster (English)](/images/TransactionBasedRequirementsPoster.pdf){:target="_blank"}
 * [Don't let illicit funds slither in: Protect your business this Lunar New Year! (English)](/images/LNY_2025.png){:target="_blank"}
-* [High Value, High Risks: Keep Your Transactions Clean and Protect Your Business This Festive Season! (English)](/images/edm 2-2025.png){:target="_blank"}
+* [High Value, High Risk: Keep Your Transactions Clean and Protect Your Business This Festive Season! (English)](/images/edm 2-2025.png){:target="_blank"}
