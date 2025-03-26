@@ -27,30 +27,10 @@ process.</p>
 <li>
 <p>Our approach and our interest in partnership and engagement with the regulated
 community and stakeholders to achieve effective supervisory outcomes. &nbsp;</p>
+<p></p>
 </li>
 </ul>
-<p></p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-i.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The mission and
-objectives of the Anti-Money Laundering/Countering the Financing of Terrorism
-Division (“<strong>ACD</strong>”) of MinLaw, the regulatory oversight functions
-performed to achieve ACD’s objectives, and the principles that underpin
-ACD’s supervisory approach.</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-ii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ACD’s role and
-the considerations that are weighed in ACD’s supervisory process.</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-iii.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Our approach
-and our interest in partnership and engagement with the regulated community
-and stakeholders to achieve effective supervisory outcomes. &nbsp;</p>
-<p></p>
-<p></p>
-<p></p>
-<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This Monograph can be viewed and
-downloaded <u>here</u>
+<p>This Monograph can be viewed and downloaded <u>here. </u>
 </p>
-<p></p>
-<p></p>
-<p></p>
 <p>Anti-Money Laundering/Countering the Financing of Terrorism Division</p>
 <p>Ministry of Law</p>
