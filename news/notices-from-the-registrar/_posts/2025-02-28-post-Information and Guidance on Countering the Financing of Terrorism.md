@@ -24,6 +24,6 @@ and CFT National Strategy;</p>
 <p></p>
 <p>Click <a href="https://acd.mlaw.gov.sg/news/notices-from-the-registrar/terrorism-financing-national-risk-assessment/" rel="noopener nofollow" target="_blank">here</a> to
 access the TF National Risk Assessment and CFT National Strategy.</p>
-<p></p>
+<p>Click here to access the TF (red flag) Indicators.</p>
 <p>Anti-Money Laundering/Countering the Financing of Terrorism Division</p>
 <p>Ministry of Law</p>
