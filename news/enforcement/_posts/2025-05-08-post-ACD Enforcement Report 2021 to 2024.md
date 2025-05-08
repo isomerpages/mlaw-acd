@@ -18,8 +18,7 @@ of the enforcement activities undertaken by ACD between 2021 and 2024.
 The Report also elucidates ACD’s general enforcement principles and some
 of our priorities moving forward.</p>
 <p>&nbsp;2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This Report can be viewed
-and downloaded <u>here</u>  <em>&lt;To upload/embed hyperlink&gt;</em>.</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
+and downloaded <a href="/files/ACD_Enforcement_Report_2021_to_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
+<p></p>
 <p>Anti-Money Laundering/Countering the Financing of Terrorism Division</p>
 <p>Ministry of Law</p>
