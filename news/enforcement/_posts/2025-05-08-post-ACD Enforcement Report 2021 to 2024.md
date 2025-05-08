@@ -20,5 +20,5 @@ of our priorities moving forward.</p>
 <p> This Report can be viewed
 and downloaded <a href="/files/ACD_Enforcement_Report_2021_to_2024.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a>.</p>
 <p></p>
-<p>Anti-Money Laundering/Countering the Financing of Terrorism Division</p>
-Ministry of Law
+Anti-Money Laundering/Countering the Financing of Terrorism Division
+<br>Ministry of Law
