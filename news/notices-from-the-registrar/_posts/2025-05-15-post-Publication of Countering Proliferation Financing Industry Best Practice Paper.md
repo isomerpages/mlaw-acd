@@ -50,9 +50,9 @@ as possible and no later than one business day. &nbsp;</p>
 <p></p>
 </li>
 <li>
-<p><strong>Immediately inform MinLaw</strong> by emailing <a rel="noopener noreferrer nofollow" target="_blank">amlcftcpf@mlaw.gov.sg</a> if
-you have frozen the assets of an individual or entity designated by the
-UNSC, copying the officers-in-charge of your entity and <strong>file an STR as soon as possible and no later than one business day</strong>.</p>
+<p><strong>Immediately inform MinLaw</strong> by emailing <a rel="noopener noreferrer nofollow" target="_blank">amlcftcpf@mlaw.gov.sg</a> if you have
+frozen the assets of an individual or entity designated by the UNSC, copying
+the officers-in-charge of your entity and <strong>file an STR as soon as possible and no later than one business day</strong>.</p>
 <p></p>
 </li>
 <li>
@@ -70,7 +70,7 @@ risk sectors (i.e. banks, digital payment token service providers, corporate
 service providers, remittance agents, maritime insurers, precious stones
 and precious metals dealers, and lawyers).</p>
 <p></p>
-</li>
+<ul data-tight="true" class="tight">
 <li>
 <p>You should assess the extent of your exposure of your customer base and
 activities to Singapore’s key PF threats and relevant PF risk factors as
@@ -84,22 +84,31 @@ measures.</p>
 place robust controls.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<ol start="6" data-tight="true" class="tight">
+<p></p>
+</li>
 <li>
 <p><strong>Subscribe</strong>  <strong>to <a href="https://go.gov.sg/mas-subscription-services" rel="noopener noreferrer nofollow" target="_blank">MAS’ website</a></strong> (by
 selecting “Anti-Money Laundering" under "Regulation Focus Areas”) to be
 updated when there are changes to the UNSC sanctions lists to complement
 existing mechanisms such as subscription to commercial screening databases.</p>
+<p></p>
 </li>
-</ol>
-<p>&nbsp;</p>
-<ol start="7" data-tight="true" class="tight">
 <li>
 <p><strong>Remain sensitive</strong> to rapidly evolving global PF and sanctions
 evasion risks, and take into account sanctions imposed by other jurisdictions
 that could pose reputational, legal and operational risks to<s> </s>your
 entity.</p>
 </li>
-</ol>
+</ul>
+<p>4.&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Click <strong><u>here</u> </strong>for
+the best practice paper.</p>
+<p><sup>1</sup> For more details on ACIP, please refer to: <a rel="noopener noreferrer nofollow" target="_blank">https://www.mas.gov.sg/regulation/anti-money-laundering/amlcft-industry-partnership-acip</a>
+</p>
+<p><sup>2&nbsp; </sup>With respect to dual-use goods and luxury goods, FIs
+and DNFBPs should take into consideration the Strategic Goods (Control)
+Act 2002 and its subsidiary legislation, and Regulation of Imports and
+Exports Regulations.</p>
+<p>&nbsp;</p>
+<p>Anti-Money Laundering/Countering the Financing of Terrorism Division</p>
+<p>Ministry of Law</p>
 <p></p>
