@@ -100,7 +100,7 @@ that could pose reputational, legal and operational risks to<s> </s>your
 entity.</p>
 </li>
 </ul>
-<p>4.&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Click <a href="CPF_Best_Practice_Paper_2025" rel="noopener nofollow" target="_blank">here</a><strong> </strong>for
+<p>4.&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Click <a href="/files/CPF_Best_Practice_Paper_2025.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a><strong> </strong>for
 the best practice paper.</p>
 <p><sup>1</sup> For more details on ACIP, please refer to: <a href="https://www.mas.gov.sg/regulation/anti-money-laundering/amlcft-industry-partnership-acip" rel="noopener noreferrer nofollow" target="_blank">https://www.mas.gov.sg/regulation/anti-money-laundering/amlcft-industry-partnership-acip</a>
 </p>
