@@ -7,7 +7,6 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>MLAW/2025/PS11</p>
 <p>Dear Regulated Dealer,&nbsp;</p>
 <p>The Anti-Money Laundering and Countering the Financing of Terrorism (AML/CFT)
 Industry Partnership (ACIP)<sup>1</sup> Counter-Proliferation Financing
