@@ -3,9 +3,9 @@ layout: homepage
 title: Anti-Money Laundering / Countering the Financing of Terrorism Division
 permalink: /
 notification: Ministry of Law officials will <b>NEVER</b> ask you to transfer
-  money or disclose bank log-in details over a phone call. Call the 24/7
-  ScamShield Helpline at 1799 if you are unsure if something is a scam. Learn
-  about the latest scam updates at scamshield.gov.sg.
+  money or disclose bank log-in details over a phone call. <b>Call the 24/7
+  ScamShield Helpline at 1799</b> if you are unsure if something is a scam.
+  Learn about the latest scam updates at <b>scamshield.gov.sg</b>.
 sections:
   - hero:
       title: Regulatory Regime for Precious Stones and Precious Metals Dealers
