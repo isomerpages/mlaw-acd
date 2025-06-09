@@ -2,6 +2,7 @@
 title: Online Training On Submission Of Semi-Annual Returns
 date: 2021-04-12T00:00:00.000Z
 permalink: /news/past-events/online-training-on-submission-of-semi-annual-returns/
+variant: markdown
 ---
 The Anti-Money Laundering/Countering the Financing of Terrorism Division ("**ACD**") of Ministry of Law is organising online trainings in May 2021 for registered Precious Stones and Precious Metals Dealers ("**PSMD**"), to provide guidance on the submission of semi-annual returns. The training is only available in English. 
 
@@ -17,4 +18,4 @@ Regulated dealers will have to submit the semi-annual returns electronically thr
 
 Please watch this [guidance video](https://youtu.be/Jpcj4iYSOSM){:target="_blank"} to preview <i>my</i>Pal and how to submit the semi-annual return. You may refer to the [instruction guide](/images/Semi-Annual Return Instruction Guide_20220622.pdf){:target="_blank"} for a step-by-step walkthrough (with screenshots) on how to navigate and submit the semi-annual return via <i>my</i>Pal. Please click [here](https://www.go.gov.sg/mypal){:target="_blank"} to access <i>my</i>Pal to complete your submission.
 
-Please refer to the ["**FAQs**"](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx){:target="_blank"} under the Precious Stones and Precious Metals Dealers section for Frequently Asked Questions relating to the regulatory regime. For further queries, please click [here](https://www.go.gov.sg/contactminlaw){:target="_blank"}.
+Please refer to the ["**FAQs**"](https://console.apac.sabio.cloud/FAQ/index.aspx?p=64759355){:target="_blank"} under the Precious Stones and Precious Metals Dealers section for Frequently Asked Questions relating to the regulatory regime. For further queries, please click [here](https://www.go.gov.sg/contactminlaw){:target="_blank"}.
