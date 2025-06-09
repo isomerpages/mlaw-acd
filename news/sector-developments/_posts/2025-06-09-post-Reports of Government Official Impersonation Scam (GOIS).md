@@ -43,9 +43,6 @@ All information will be kept strictly confidential. If you require urgent
 Police assistance, please dial ‘999’.</p>
 <p>Your cooperation is invaluable in preventing such scams and protecting
 vulnerable members of our community.</p>
-<p>Ministry of Law officials will <strong>NEVER </strong>ask you to transfer
-money or disclose bank log-in details over a phone call. Call the 24/7<strong> ScamShield Helpline at 1799</strong> if
-you are unsure if something is a scam. Learn about the latest scam updates
-at <strong><a rel="noopener noreferrer nofollow" target="_blank">scamshield.gov.sg</a></strong> .</p>
+<p></p>
 <p></p>
 <p></p>
