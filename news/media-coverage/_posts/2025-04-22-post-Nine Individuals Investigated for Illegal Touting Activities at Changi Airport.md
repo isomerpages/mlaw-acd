@@ -1,6 +1,6 @@
 ---
 title: Nine Individuals Investigated for Illegal Touting Activities at Changi Airport
-permalink: /news/enforcement/nine-individuals-investigated-for-illegal-touting-activities-at-changi-airport/
+permalink: /news/media-coverage/nine-individuals-investigated-for-illegal-touting-activities-at-changi-airport/
 date: 2025-04-22
 layout: post
 description: ""

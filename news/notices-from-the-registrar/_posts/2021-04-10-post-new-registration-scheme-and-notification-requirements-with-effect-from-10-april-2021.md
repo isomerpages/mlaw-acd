@@ -1,10 +1,10 @@
 ---
-title: 'New Registration Scheme And Notification Requirements With Effect From 10 April 2021'
+title: New Registration Scheme And Notification Requirements With Effect From 10
+  April 2021
 date: 2021-04-10T00:00:00.000Z
 permalink: /news/notices-from-the-registrar/new-registration-scheme-and-notification-requirements-10-apr-2021/
-
+variant: markdown
 ---
-
 **New Registration Scheme** <br>
 
 For new registration and renewal applications submitted from 10 April 2021, the following fees, as set out in Regulation 18 of the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations (“**PMLTF Regulations**”), will apply.
@@ -71,4 +71,4 @@ Regulation 21 of the PMLTF Regulations is amended to simplify the notification r
 
 **Frequently Asked Questions**
  
-We have collated a list of frequently asked questions on the new requirements. Regulated dealers may wish to refer to these FAQs in the [FAQ section](https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx){:target="_blank"}.
+We have collated a list of frequently asked questions on the new requirements. Regulated dealers may wish to refer to these FAQs in the [FAQ section](https://console.apac.sabio.cloud/FAQ/index.aspx?p=64759355){:target="_blank"}.

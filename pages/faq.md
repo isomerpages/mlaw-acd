@@ -2,11 +2,9 @@
 permalink: /faq/
 breadcrumb: FAQ
 title: FAQ
-
+variant: markdown
 ---
-
-
 ### FAQ
 ---
 Have questions? <br>
-<a href="https://va.ecitizen.gov.sg/cfp/customerPages/mlaw/explorefaq.aspx"><img src="/images/mlaw-faq.png"></a>
+<a href="https://console.apac.sabio.cloud/FAQ/index.aspx?p=64759355"><img src="/images/mlaw-faq.png"></a>
