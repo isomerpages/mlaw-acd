@@ -2,10 +2,10 @@
 layout: homepage
 title: Anti-Money Laundering / Countering the Financing of Terrorism Division
 permalink: /
-notification: June 2025 FATF Public Statement - Countries/Jurisdiction with
-  Strategic Deficiencies <a target="_blank"
+notification: <a target="_blank"
   href="https://acd.mlaw.gov.sg/news/notices-from-the-registrar/call-for-action-in-accordance-with-june-2025-fatf-statement/">June
-  2025 FATF Public Statement</a> (latest!)
+  2025 FATF Public Statement - Countries/Jurisdiction with Strategic
+  Deficiencies</a> (latest!)
 sections:
   - hero:
       title: Regulatory Regime for Precious Stones and Precious Metals Dealers
