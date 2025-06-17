@@ -24,12 +24,13 @@ Full details can be found at:<br><a href="https://www.fatf-gafi.org/en/publicati
 
 <span style="font-weight:bold;text-decoration:underline"> Jurisdictions under Increased Monitoring</span><br>
 
-Regulated dealers are also expected to take the List of Jurisdictions under Increased Monitoring into consideration when preparing and updating their risk assessment and mitigation plans and perform enhanced customer due diligence measures, when necessary. The latest list removed Philippines, and included Lao People's Democratic Republic and Nepal.<br><br>
+Regulated dealers are also expected to take the List of Jurisdictions under Increased Monitoring into consideration when preparing and updating their risk assessment and mitigation plans and perform enhanced customer due diligence measures, when necessary. The latest list removed Croatia, Mali and Tanzania, and included Bolivia and Virgin Islands (UK).<br><br>
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:17px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
 <span style="font-weight:bold">Jurisdictions under Increased Monitoring</span><br>
 	<br>
 	<span style="font-weight:normal">Algeria </span><br>
 	<span style="font-weight:normal">Angola </span><br>
+	<span style="font-weight:normal">Bolivia <i>(new)</i></span><br>
 	<span style="font-weight:normal">Bulgaria</span><br>
 <span style="font-weight:normal">Burkina Faso</span><br>
 	<span style="font-weight:normal">Cameroon</span><br>
