@@ -11,18 +11,17 @@ variant: tiptap
 <p><strong><u>The Ministry of Law imposes Composition Sum amounting to S$420,000 on Singapore Precious Metals Exchange Pte Ltd and its Chief Executive Officer</u></strong>
 </p>
 <p></p>
-<p>&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Ministry of Law
-(“<strong>MinLaw</strong>”) has imposed a composition sum amounting to
-S$210,000 on Singapore Precious Metals Exchange Pte. Ltd. (“<strong>SPME</strong>”)
-and another sum amounting to S$210,000 on its chief executive officer (“<strong>CEO</strong>”),
-Victor Foo Seang Kwang (“<strong>Mr Foo</strong>”). These were imposed
-for breaches of anti-money laundering and countering the financing of terrorism
-(“<strong>AML/CFT</strong>”) requirements under the Precious Stones and
-Precious Metals (Prevention of Money Laundering and Terrorism Financing)
-Act 2019 (“<strong>PSPM Act</strong>”) and Precious Stones and Precious
-Metals (Prevention of Money Laundering and Terrorism Financing) Regulations
-2019 (“<strong>PMLTF Regulations</strong>”).</p>
-<p></p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;The
+Ministry of Law (“<strong>MinLaw</strong>”) has imposed a composition sum
+amounting to S$210,000 on Singapore Precious Metals Exchange Pte. Ltd.
+(“SPME”) and another sum amounting to S$210,000 on its chief executive
+officer (“<strong>CEO</strong>”), Victor Foo Seang Kwang (“<strong>Mr Foo</strong>”).
+These were imposed for breaches of anti-money laundering and countering
+the financing of terrorism (“<strong>AML/CFT</strong>”) requirements under
+the Precious Stones and Precious Metals (Prevention of Money Laundering
+and Terrorism Financing) Act 2019 (“<strong>PSPM Act</strong>”) and Precious
+Stones and Precious Metals (Prevention of Money Laundering and Terrorism
+Financing) Regulations 2019 (“<strong>PMLTF Regulations</strong>”).</p>
 <p>2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SPME is a precious
 stones and metals dealer registered under the PSPM Act. Its business activities
 include sales and purchase of gold and silver bullion through its online
@@ -34,20 +33,22 @@ inspection of SPME uncovered serious breaches of the AML/CFT requirements
 under the PSPM Act and PMLTF Regulations between 2019 to 2022, including
 SPME’s failure to:&nbsp;</p>
 <p></p>
-<p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; take appropriate steps to properly identify,
-assess and understand SPME’s money laundering and terrorism financing (“<strong>ML/TF</strong>”)
-risk in relation to its customers;</p>
+<p>(<strong>a</strong>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; take appropriate steps
+to properly identify, assess and understand SPME’s money laundering and
+terrorism financing (“<strong>ML/TF</strong>”) risk in relation to its
+customers;</p>
 <p></p>
-<p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; identify and assess the ML/TF risk in
-relation to the business practice and take appropriate measures to manage
-and mitigate such risks before launching a new business practice;</p>
+<p>(<strong>b</strong>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; identify and assess
+the ML/TF risk in relation to the business practice and take appropriate
+measures to manage and mitigate such risks before launching a new business
+practice;</p>
 <p></p>
-<p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; perform enhanced customer due diligence
-on its customers; and</p>
+<p>(<strong>c</strong>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; perform enhanced customer
+due diligence on its customers; and</p>
 <p></p>
-<p>(d)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; conduct ongoing monitoring of transactions
-to ensure customer profiles are consistent with their gold purchases and
-sales.</p>
+<p>(<strong>d</strong>)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; conduct ongoing monitoring
+of transactions to ensure customer profiles are consistent with their gold
+purchases and sales.</p>
 <p></p>
 <p>4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For
 the above offences, MinLaw has imposed a composition sum amounting to S$210,000
