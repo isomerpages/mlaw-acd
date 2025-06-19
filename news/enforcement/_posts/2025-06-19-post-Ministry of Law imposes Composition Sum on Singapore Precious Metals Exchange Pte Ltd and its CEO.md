@@ -24,7 +24,7 @@ and Precious Stones and Precious Metals (Prevention of Money Laundering
 and Terrorism Financing) Regulations 2019 (“<strong>PMLTF Regulations</strong>”).</p>
 <p>2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SPME is a precious
 stones and metals dealer registered under the PSPM Act. Its business activities
-include sales and purchase of gold and silver bullion through its online
+include the sale and purchase of gold and silver bullion through its online
 store and operation of an online trading platform facilitating direct sales
 of gold and silver bullion between its customers.</p>
 <p></p>
