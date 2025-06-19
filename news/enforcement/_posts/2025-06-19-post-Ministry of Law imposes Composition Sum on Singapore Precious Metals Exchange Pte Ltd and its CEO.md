@@ -74,8 +74,7 @@ The senior management of regulated dealers must ensure that higher-risk
 customers and transactions are identified and subject to robust AML/CFT
 controls.&nbsp; MinLaw will not hesitate to take firm regulatory action
 against regulated dealers that fail to meet the regulatory requirements
-for AML/CFT.</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+for AML/CFT.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p><u>Additional Information:</u>
 </p>
 <p></p>
