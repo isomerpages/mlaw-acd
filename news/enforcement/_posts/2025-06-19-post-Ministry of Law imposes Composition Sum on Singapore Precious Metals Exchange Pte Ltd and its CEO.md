@@ -14,14 +14,14 @@ variant: tiptap
 <p>&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;The
 Ministry of Law (“<strong>MinLaw</strong>”) has imposed a composition sum
 amounting to S$210,000 on Singapore Precious Metals Exchange Pte. Ltd.
-(“SPME”) and another sum amounting to S$210,000 on its chief executive
-officer (“<strong>CEO</strong>”), Victor Foo Seang Kwang (“<strong>Mr Foo</strong>”).
-These were imposed for breaches of anti-money laundering and countering
-the financing of terrorism (“<strong>AML/CFT</strong>”) requirements under
-the Precious Stones and Precious Metals (Prevention of Money Laundering
-and Terrorism Financing) Act 2019 (“<strong>PSPM Act</strong>”) and Precious
-Stones and Precious Metals (Prevention of Money Laundering and Terrorism
-Financing) Regulations 2019 (“<strong>PMLTF Regulations</strong>”).</p>
+(“<strong>SPME</strong>”) and another sum amounting to S$210,000 on its
+chief executive officer (“<strong>CEO</strong>”), Victor Foo Seang Kwang
+(“<strong>Mr Foo</strong>”). These were imposed for breaches of anti-money
+laundering and countering the financing of terrorism (“<strong>AML/CFT</strong>”)
+requirements under the Precious Stones and Precious Metals (Prevention
+of Money Laundering and Terrorism Financing) Act 2019 (“<strong>PSPM Act</strong>”)
+and Precious Stones and Precious Metals (Prevention of Money Laundering
+and Terrorism Financing) Regulations 2019 (“<strong>PMLTF Regulations</strong>”).</p>
 <p>2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SPME is a precious
 stones and metals dealer registered under the PSPM Act. Its business activities
 include sales and purchase of gold and silver bullion through its online
