@@ -65,9 +65,9 @@ and Mr Foo have paid the composition sum. They are in the process of taking
 remedial actions as directed by MinLaw, to address deficiencies related
 to the aforesaid offences.</p>
 <p></p>
-<p>7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A
-separate criminal investigation by the Singapore Police Force’s Commercial
-Affairs Department against SPME is currently ongoing.</p>
+<p>7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Police
+investigations against SPME under Section 5 of the Payment Services Act
+is currently ongoing.</p>
 <p></p>
 <p>8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Regulated
 dealers dealing with customers or transactions that present higher ML/TF
@@ -83,10 +83,10 @@ dealers that fail to meet the regulatory requirements for AML/CFT.&nbsp;&nbsp;&n
 </p>
 <p></p>
 <p>Breaching of customer due diligence-related requirements and failure to
-implement adequate programmes and measures to prevent money laundering
-and terrorism financing are offences punishable under sections 16(6) and
-19(3) of the PSPM Act respectively, where the prescribed fine is not exceeding
-S$100,000 per offence. An officer, who by omission, is party to the commission
-of the same offences, shall be liable on conviction to a fine not exceeding
-S$100,000 for each offence under section 32(2) of PSPM Act. The offence
-is compoundable under section 31(1) of PSPM Act.</p>
+implement adequate programmes and measures to prevent ML/TF are offences
+punishable under sections 16(6) and 19(3) of the PSPM Act respectively,
+where the prescribed fine is not exceeding S$100,000 per offence. An officer,
+who by omission, is party to the commission of the same offences, shall
+be liable on conviction to a fine not exceeding S$100,000 for each offence
+under section 32(2) of PSPM Act. The offence is compoundable under section
+31(1) of PSPM Act.</p>
