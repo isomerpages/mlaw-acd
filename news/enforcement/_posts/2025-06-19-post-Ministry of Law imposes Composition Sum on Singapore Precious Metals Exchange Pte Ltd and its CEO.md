@@ -54,29 +54,28 @@ purchases and sales.</p>
 the above offences, MinLaw has imposed a composition sum amounting to S$210,000
 on SPME.</p>
 <p></p>
-<p>5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Additionally, a composition sum amounting to S$210,000 has also been imposed
-on Mr Foo, as CEO and director of SPME. Investigations found that the key
-breaches are attributable to Mr Foo, for failing to prevent or stop the
-commission of the offences by SPME.&nbsp;</p>
+<p>5&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Additionally,
+a composition sum amounting to S$210,000 has also been imposed on Mr Foo,
+as CEO and director of SPME. Investigations found that the key breaches
+are attributable to Mr Foo, for failing to prevent or stop the commission
+of the offences by SPME.&nbsp;</p>
 <p></p>
-<p>6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-SPME and Mr Foo have paid the composition sum. They are in the process
-of taking remedial actions as directed by MinLaw, to address deficiencies
-related to the aforesaid offences.</p>
+<p>6&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SPME
+and Mr Foo have paid the composition sum. They are in the process of taking
+remedial actions as directed by MinLaw, to address deficiencies related
+to the aforesaid offences.</p>
 <p></p>
-<p>7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-A separate criminal investigation by the Singapore Police Force’s Commercial
+<p>7&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A
+separate criminal investigation by the Singapore Police Force’s Commercial
 Affairs Department against SPME is currently ongoing.</p>
 <p></p>
-<p>8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Regulated dealers dealing with customers or transactions that present higher
-ML/TF risks must take commensurate measures to mitigate such risks.&nbsp;
-The senior management of regulated dealers must ensure that higher-risk
-customers and transactions are identified and subject to robust AML/CFT
-controls.&nbsp; MinLaw will not hesitate to take firm regulatory action
-against regulated dealers that fail to meet the regulatory requirements
-for AML/CFT.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+<p>8&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Regulated
+dealers dealing with customers or transactions that present higher ML/TF
+risks must take commensurate measures to mitigate such risks.&nbsp; The
+senior management of regulated dealers must ensure that higher-risk customers
+and transactions are identified and subject to robust AML/CFT controls.&nbsp;
+MinLaw will not hesitate to take firm regulatory action against regulated
+dealers that fail to meet the regulatory requirements for AML/CFT.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 <p><strong><u>Additional Information:</u></strong>
 </p>
 <p></p>
