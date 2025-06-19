@@ -77,7 +77,7 @@ customers and transactions are identified and subject to robust AML/CFT
 controls.&nbsp; MinLaw will not hesitate to take firm regulatory action
 against regulated dealers that fail to meet the regulatory requirements
 for AML/CFT.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<p><u>Additional Information:</u>
+<p><strong><u>Additional Information:</u></strong>
 </p>
 <p></p>
 <p><strong>Composition of AML/CFT offences</strong>
