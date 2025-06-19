@@ -11,7 +11,7 @@ variant: tiptap
 <p><strong><u>The Ministry of Law imposes Composition Sum amounting to S$420,000 on Singapore Precious Metals Exchange Pte Ltd and its Chief Executive Officer</u></strong>
 </p>
 <p></p>
-<p>1.&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Ministry of Law
+<p>&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Ministry of Law
 (“MinLaw”) has imposed a composition sum amounting to S$210,000 on Singapore
 Precious Metals Exchange Pte. Ltd. (“SPME”) and another sum amounting to
 S$210,000 on its chief executive officer (“CEO”), Victor Foo Seang Kwang
