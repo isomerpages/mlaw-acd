@@ -79,14 +79,15 @@ dealers that fail to meet the regulatory requirements for AML/CFT.&nbsp;&nbsp;&n
 <p><strong><u>Additional Information:</u></strong>
 </p>
 <p></p>
-<p><strong>Composition of AML/CFT offences</strong>
+<p><strong>Composition of ML/TF offences</strong>
 </p>
 <p></p>
 <p>Breaching of customer due diligence-related requirements and failure to
 implement adequate programmes and measures to prevent ML/TF are offences
 punishable under sections 16(6) and 19(3) of the PSPM Act respectively,
-where the prescribed fine is not exceeding S$100,000 per offence. An officer,
-who by omission, is party to the commission of the same offences, shall
-be liable on conviction to a fine not exceeding S$100,000 for each offence
-under section 32(2) of PSPM Act. The offence is compoundable under section
-31(1) of PSPM Act.</p>
+where the prescribed fine is not exceeding S$100,000 per offence. An officer
+who, by omission, is party to the commission of the offences shall be liable
+on conviction to a fine not exceeding S$100,000 for each offence under
+section 32(2) of PSPM Act. The offence is compoundable under section 31(1)
+of PSPM Act.</p>
+<p></p>
