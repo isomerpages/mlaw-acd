@@ -8,7 +8,7 @@ variant: markdown
 
 The Notice for Customers explains that regulated dealers are required to collect identifying information from customers under the regulatory regime. Regulated dealers may wish to consider using the Notice for Customers to educate their customers on the anti-money laundering/countering the financing of terrorism/countering proliferation financing ("**AML/CFT/CPF**") requirements.
 
-<a href="/files/NoticeForCustomersPoster_Eng_May2024.pdf" target="_blank"><img src="/images/NoticeForCustomersPoster_Eng_May2024.jpg"></a>
+<a href="/files/NoticeForCustomersPoster_Eng_Jun25.pdf" target="_blank"><img src="/images/NoticeForCustomersPoster_Eng_Jun25.png"></a>
 
 #### What does it mean to me as a customer?
 You may be required to provide your personal information and identification documents for verification purposes when you purchase the precious stones, precious metals and/or precious products ("**PSPMs**") from regulated dealers. Some common PSPM include diamond and gold jewellery, platinum wedding bands and gold or silver bullion bars. A full list of PSPM is available under our [Regulatory Regime](/regulatory-regime/). By providing these information and documents promptly, you play a part in protecting the precious stones and precious metals dealers sector and Singapore from being misused for criminal activities.
