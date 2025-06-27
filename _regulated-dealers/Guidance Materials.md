@@ -9,7 +9,7 @@ description: ""
 
 #### <a id="Semi-Annual Return Instruction Guide"></a> 1. Semi-Annual Return Instruction Guide
  
-The <a target="_blank" href="/files/semi-annual_return_instruction_guide_20240501.pdf">instruction guide</a> (Published Date: 1 May 2024) and <a target="_blank" href="https://youtu.be/Jpcj4iYSOSM">guidance video</a> provide regulated dealers with a step-by-step walkthrough (with screenshots) on how to navigate and submit the semi-annual return via <a target="_blank" href="https://go.gov.sg/mypal"><i>my</i>Pal</a>. Please click <a target="_blank" href="https://acd.mlaw.gov.sg/other-regulatory-requirements">here</a> for information on the reporting requirement.
+The <a target="_blank" href="/files/semi-annual_return_instruction_guide_20250626.pdf">instruction guide</a> (Published Date: 26 June 2025) and <a target="_blank" href="https://youtu.be/Jpcj4iYSOSM">guidance video</a> provide regulated dealers with a step-by-step walkthrough (with screenshots) on how to navigate and submit the semi-annual return via <a target="_blank" href="https://go.gov.sg/mypal"><i>my</i>Pal</a>. Please click <a target="_blank" href="https://acd.mlaw.gov.sg/other-regulatory-requirements">here</a> for information on the reporting requirement.
 
 #### <a id="Monetary Authority of Singapore's website - Lists of Designated Individuals and Entities"></a> 2. Monetary Authority of Singapore's ("**MAS**") website - Lists of Designated Individuals and Entities
 
@@ -69,4 +69,4 @@ To find out more about your obligations as a regulated dealer on countering terr
 
 The Notice for Customers explains that regulated dealers are required to collect identifying information from customers under the regulatory regime. Regulated dealers may wish to consider using the Notice for Customers to educate their customers on the AML/CFT/CPF requirements.
 
-<a href="/files/NoticeForCustomersPoster_Eng_May2024.pdf" target="_blank"><img src="/images/NoticeForCustomersPoster_Eng_May2024.jpg"></a>
+<a href="/files/NoticeForCustomersPoster_Eng_Jun25.pdf" target="_blank"><img src="/images/NoticeForCustomersPoster_Eng_Jun25.png"></a>
