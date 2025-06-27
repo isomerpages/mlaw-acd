@@ -69,4 +69,4 @@ To find out more about your obligations as a regulated dealer on countering terr
 
 The Notice for Customers explains that regulated dealers are required to collect identifying information from customers under the regulatory regime. Regulated dealers may wish to consider using the Notice for Customers to educate their customers on the AML/CFT/CPF requirements.
 
-<a href="/files/NoticeForCustomersPoster_Eng_May2024.pdf" target="_blank"><img src="/images/NoticeForCustomersPoster_Eng_May2024.jpg"></a>
+<a href="/files/NoticeForCustomersPoster_Eng_Jun25.pdf" target="_blank"><img src="/images/NoticeForCustomersPoster_Eng_Jun25.png"></a>
