@@ -56,9 +56,9 @@ Foreign dealers should refer <a href="#Regulatory Compliance for Foreign Dealers
 
 #### <a id="Regulatory Compliance for Foreign Dealers"></a> Regulatory Compliance for Foreign Dealers
 
-**Poster**: Important for Foreign Dealers to Take Note
+**Poster**: Important for Foreign Dealers to Take Note 1
 
-<a href="/files/FD_20250702.pdf" target="_blank"><img src="/images/FD_20250702.png" style="width: 700px" align="left"> </a><br>
+<a href="/files/FD_20250702.pdf" target="_blank"><img src="/images/FD_20250702.png" style="width: 700px" align="left"> </a><br> 
 
 <br>
 <br>
