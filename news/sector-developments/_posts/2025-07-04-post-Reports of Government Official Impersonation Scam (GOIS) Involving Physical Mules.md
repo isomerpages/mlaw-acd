@@ -36,36 +36,39 @@ victim’s details that were found to be involved in fraudulent activities.</p>
 to another scammer claiming to be a government official (e.g. MAS, SPF,
 Ministry of Law, foreign police). This scammer would accuse victims of
 being involved in criminal activities (e.g. money laundering). The scammers
-would then ask victims to withdraw monies, purchase gold bars or declare
-valuables owned (e.g. jewellery, luxury watches) and meet unknown subjects
-to hand over these valuables for investigation purposes. In some cases,
-victims were instructed to place the valuables in discreet locations for
-unknown subjects to collect.&nbsp; Victims would realise that they had
-been scammed when the scammers become uncontactable or when they seek verification
-with SPF.</p>
+would then ask victims to withdraw monies, <strong>purchase gold bars or declare valuables owned (e.g. jewellery, luxury watches)</strong> and
+meet unknown subjects to hand over these valuables for investigation purposes.
+In some cases, victims were instructed to place the valuables in discreet
+locations for unknown subjects to collect.&nbsp; Victims would realise
+that they had been scammed when the scammers become uncontactable or when
+they seek verification with SPF.</p>
 <p></p>
-<p>To protect your customers, please remain vigilant of suspicious transactions,
+<p><strong>To protect your customers, please remain vigilant of suspicious transactions</strong>,
 such as:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Elderly customers making unusually large purchases (e.g. jewellery, luxury
-watches)</p>
+<p><strong>Elderly customers making unusually large purchases (e.g. jewellery, luxury watches)</strong>
+</p>
 </li>
 <li>
-<p>Customers appearing distressed or receiving phone calls while making purchases</p>
+<p><strong>Customers appearing distressed or receiving phone calls while making purchases</strong>
+</p>
 </li>
 <li>
-<p>Customers refusing to provide information on the reason for the purchases</p>
+<p><strong>Customers refusing to provide information on the reason for the purchases</strong>
+</p>
 </li>
 <li>
-<p>Customers appearing to be in a hurry to complete the transactions</p>
+<p><strong>Customers appearing to be in a hurry to complete the transactions</strong>
+</p>
 </li>
 <li>
-<p>Customers seeking to complete the transactions without giving due consideration
-to what they are purchasing (e.g. value, design)</p>
+<p><strong>Customers seeking to complete the transactions without giving due consideration to what they are purchasing (e.g. value, design)</strong>
+</p>
 </li>
 <li>
-<p>Customers refusing to provide information on the reason for the purchases</p>
+<p><strong>Customers refusing to provide information on the reason for the purchases</strong>
+</p>
 </li>
 </ul>
 <p></p>
