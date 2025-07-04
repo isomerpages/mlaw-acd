@@ -41,20 +41,32 @@ with SPF.</p>
 <p></p>
 <p>To protect your customers, please remain vigilant of suspicious transactions,
 such as:</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Elderly
-customers making unusually large purchases (e.g. jewellery, luxury watches)</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Customers
-appearing distressed or receiving phone calls while making purchases</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Customers
-refusing to provide information on the reason for the purchases</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Customers
-appearing to be in a hurry to complete the transactions</p>
-<p>•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Customers
-seeking to complete the transactions without giving due consideration to
-what they are purchasing (e.g. value, design)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Elderly customers making unusually large purchases (e.g. jewellery, luxury
+watches)</p>
+</li>
+<li>
+<p>Customers appearing distressed or receiving phone calls while making purchases</p>
+</li>
+<li>
+<p>Customers refusing to provide information on the reason for the purchases</p>
+</li>
+<li>
+<p>Customers appearing to be in a hurry to complete the transactions</p>
+</li>
+<li>
+<p>Customers seeking to complete the transactions without giving due consideration
+to what they are purchasing (e.g. value, design)</p>
+</li>
+<li>
+<p>Customers refusing to provide information on the reason for the purchases</p>
+</li>
+</ul>
 <p></p>
-<p>&lt;for ACD website, Infographic to be inserted here; for email, infographic
-to be attached&gt;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Beware_of_Impersonation_Scam.png">
+</div>
 <p></p>
 <p>If you observe any suspicious behaviour, please alert your nearest Neighbourhood
 Police Centre. If you have any information relating to such crimes or if
