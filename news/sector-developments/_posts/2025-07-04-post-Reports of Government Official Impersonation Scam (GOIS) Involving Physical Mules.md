@@ -79,7 +79,7 @@ such as:</p>
 <p>If you observe any suspicious behaviour, please alert your nearest Neighbourhood
 Police Centre. If you have any information relating to such crimes or if
 you are in doubt, please call the Police Hotline at 1800-255-0000, or submit
-it online at <a rel="noopener noreferrer nofollow" target="_blank">www.police.gov.sg/i-witness</a>.
+it online at <a href="https://www.police.gov.sg/i-witness" rel="noopener noreferrer nofollow" target="_blank">www.police.gov.sg/i-witness</a>.
 All information will be kept strictly confidential. If you require urgent
 Police assistance, please dial ‘999’.</p>
 <p></p>
