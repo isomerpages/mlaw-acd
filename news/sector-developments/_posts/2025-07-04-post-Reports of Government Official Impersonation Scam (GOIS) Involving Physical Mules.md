@@ -18,10 +18,10 @@ financial institutions (e.g. NTUC, UnionPay) or government agencies (e.g.
 ICA).</p>
 <p></p>
 <p>The scammers would claim that victims had:</p>
-<p>i. conducted banking or financial transactions;
-<br>ii. outstanding premiums associated with a new or expiring insurance policy
-under victim’s name; or
-<br>iii. phone numbers (or other personal/banking information) registered
+<p>(i) conducted banking or financial transactions;
+<br>(ii) outstanding premiums associated with a new or expiring insurance
+policy under victim’s name; or
+<br>(iii) phone numbers (or other personal/banking information) registered
 under victim’s details that were found to be involved in fraudulent activities.</p>
 <p></p>
 <p>When victims denied performing such transactions, they would be transferred
