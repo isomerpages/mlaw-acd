@@ -73,13 +73,7 @@ Foreign dealers should refer <a href="#Regulatory Compliance for Foreign Dealers
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 **Who are foreign dealers?**<br>
 Foreign dealer means a regulated dealer that -<br>
