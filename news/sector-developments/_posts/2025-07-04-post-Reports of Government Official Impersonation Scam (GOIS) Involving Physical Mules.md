@@ -20,10 +20,8 @@ ICA).</p>
 <p>The scammers would claim that victims had:</p>
 <p></p>
 <p>1.&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;conducted banking or financial transactions;</p>
-<p></p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; outstanding premiums associated with
 a new or expiring insurance policy under victim’s name; or</p>
-<p></p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; phone numbers (or other personal/banking
 information) registered under victim’s details that were found to be involved
 in fraudulent activities.</p>
@@ -44,16 +42,12 @@ such as:</p>
 <p></p>
 <p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Elderly customers making unusually large purchases (e.g. jewellery, luxury watches)</strong>
 </p>
-<p></p>
 <p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Customers appearing distressed or receiving phone calls while making purchases</strong>
 </p>
-<p></p>
 <p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Customers refusing to provide information on the reason for the purchases</strong>
 </p>
-<p></p>
 <p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Customers appearing to be in a hurry to complete the transactions</strong>
 </p>
-<p></p>
 <p>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Customers seeking to complete the transactions without giving due consideration to what they are purchasing (e.g. value, design)</strong>
 </p>
 <p>&nbsp;</p>
