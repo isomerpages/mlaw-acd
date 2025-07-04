@@ -58,10 +58,6 @@ such as:</p>
 <p><strong>Customers seeking to complete the transactions without giving due consideration to what they are purchasing (e.g. value, design)</strong>
 </p>
 </li>
-<li>
-<p><strong>Customers refusing to provide information on the reason for the purchases</strong>
-</p>
-</li>
 </ul>
 <p></p>
 <div class="isomer-image-wrapper">
