@@ -56,7 +56,7 @@ Foreign dealers should refer <a href="#Regulatory Compliance for Foreign Dealers
 
 #### <a id="Regulatory Compliance for Foreign Dealers"></a> Regulatory Compliance for Foreign Dealers
 
-**Poster**: Important for Foreign Dealers to Take Note 1
+**Poster**: Important for Foreign Dealers to Take Note 2
 
 <a href="/files/FD_20250702.pdf" target="_blank"><img src="/images/FD_20250702.png" style="width: 700px" align="left"> </a><br> 
 
@@ -73,9 +73,6 @@ Foreign dealers should refer <a href="#Regulatory Compliance for Foreign Dealers
 <br>
 <br>
 <br>
-<br>
-<br>
-
 
 **Who are foreign dealers?**<br>
 Foreign dealer means a regulated dealer that -<br>
