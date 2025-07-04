@@ -18,19 +18,11 @@ financial institutions (e.g. NTUC, UnionPay) or government agencies (e.g.
 ICA).</p>
 <p></p>
 <p>The scammers would claim that victims had:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p>conducted banking or financial transactions;</p>
-</li>
-<li>
-<p>outstanding premiums associated with a new or expiring insurance policy
+<p>i. conducted banking or financial transactions;</p>
+<p>ii. outstanding premiums associated with a new or expiring insurance policy
 under victim’s name; or</p>
-</li>
-<li>
-<p>phone numbers (or other personal/banking information) registered under
-victim’s details that were found to be involved in fraudulent activities.</p>
-</li>
-</ol>
+<p>iii. phone numbers (or other personal/banking information) registered
+under victim’s details that were found to be involved in fraudulent activities.</p>
 <p></p>
 <p>When victims denied performing such transactions, they would be transferred
 to another scammer claiming to be a government official (e.g. MAS, SPF,
