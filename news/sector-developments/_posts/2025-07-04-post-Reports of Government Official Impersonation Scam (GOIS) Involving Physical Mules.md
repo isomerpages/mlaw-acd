@@ -10,9 +10,9 @@ variant: tiptap
 ---
 <p>Dear Regulated Dealers</p>
 <p>We would like to alert you to the Police’s reminder for vigilance against
-government official impersonation scams (GOIS) involving physical collection
-of monies or gold bars from scam victims. Since June 2025, at least 80
-cases were reported with total losses amounting to at least $6.7 million.
+<a rel="noopener nofollow" target="_blank">government official impersonation scams (GOIS) involving physical collection
+of monies or gold bars from scam victims.</a>Since June 2025, at least
+80 cases were reported with total losses amounting to at least $6.7 million.
 In this scam variant, victims would receive unsolicited calls from scammers
 impersonating officials from banks (e.g. DBS, Maybank), financial institutions
 (e.g. NTUC, UnionPay) or government agencies (e.g. ICA).</p>
