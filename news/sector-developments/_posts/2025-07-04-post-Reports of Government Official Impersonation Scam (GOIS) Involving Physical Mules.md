@@ -8,7 +8,7 @@ description: ""
 image: ""
 variant: tiptap
 ---
-<p>Dear Regulated Dealers</p>
+<p>Dear Regulated Dealers 1</p>
 <p></p>
 <p>We would like to alert you to the Police’s reminder for vigilance against <strong><a href="https://www.police.gov.sg/media-room/news/20250702_police_advisory_on_government_official_impersonation_scams_involving_physical_collection" rel="noopener noreferrer nofollow" target="_blank">government official impersonation scams (GOIS) involving physical collection of monies or gold bars from scam victims</a></strong>.
 Since June 2025, at least 80 cases were reported with total losses amounting
