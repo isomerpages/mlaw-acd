@@ -30,7 +30,7 @@ sections:
           url: /news/notices-from-the-registrar/
   - infobar:
       title: Information for Regulated Dealers
-      description: Begin your AML/CFT journey with the guidances provided below
+      description: Find out more about AML/CFT/CPF from the guidance provided below
   - infopic:
       title: A Regulated Dealer’s Guide
       subtitle: Interactive guide
