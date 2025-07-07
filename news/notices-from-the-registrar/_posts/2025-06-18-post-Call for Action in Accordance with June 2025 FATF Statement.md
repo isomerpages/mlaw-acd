@@ -9,7 +9,7 @@ variant: markdown
 ---
 **<u>Action by regulated dealers against high-risk jurisdictions</u>**<br>
 
-Dear Regulated Dealer,
+Dear Regulated Dealer, 1
 
 The Registrar of Regulated Dealers hereby notifies all regulated dealers that the Financial Action Task Force (“**FATF**”) has issued statements dated 13 June 2025 on:
 * Countermeasures against the Democratic People’s Republic of Korea (“**DPRK**”) and Iran;
