@@ -29,7 +29,7 @@ sections:
           description: Stay informed of the latest announcements
           url: /news/notices-from-the-registrar/
   - infobar:
-      title: Journey of a Regulated Dealer
+      title: Information for Regulated Dealers
       description: Begin your AML/CFT journey with the guidances provided below
   - infopic:
       title: Key information for regulated dealers
