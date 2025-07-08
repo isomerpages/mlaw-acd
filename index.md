@@ -29,16 +29,16 @@ sections:
           description: Stay informed of the latest announcements
           url: /news/notices-from-the-registrar/
   - infobar:
-      title: Journey of a Regulated Dealer
-      description: Begin your AML/CFT journey with the guidances provided below
+      title: Information for Regulated Dealers
+      description: Find out more about AML/CFT/CPF from the guidance provided below
   - infopic:
-      title: Key information for regulated dealers
+      title: A Regulated Dealer’s Guide
       subtitle: Interactive guide
       description: An interactive guide to help regulated dealers comply with the
         AML/CFT/CPF regulatory requirements under the PSPM Act.
-      button: Click here to start your journey
-      url: /files/Journey.pdf
-      image: /images/Journey1.png
+      button: CLICK HERE TO ACCESS THE GUIDE
+      url: /files/regulated_dealer_guide_20250702.pdf
+      image: /images/RD_Guide.png
       alt: Interactive Guide
   - infopic:
       title: Fulfil Entity-Based Requirements
