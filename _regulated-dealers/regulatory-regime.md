@@ -56,7 +56,7 @@ Foreign dealers should refer <a href="#Regulatory Compliance for Foreign Dealers
 
 #### <a id="Regulatory Compliance for Foreign Dealers"></a> Regulatory Compliance for Foreign Dealers
 
-**Brochure**: Guide for Foreign Dealers of Precious Stones, Precious Metals and Precious Products 7
+**Brochure**: Guide for Foreign Dealers of Precious Stones, Precious Metals and Precious Products 8
 
 
 <a href="/images/FD1_20250702.png" target="_blank"><img src="/images/FD1_20250702.png" style="width: 700px" align="left"> </a>
@@ -86,7 +86,9 @@ Foreign dealers should refer <a href="#Regulatory Compliance for Foreign Dealers
 <br>
 <br>
 <br>
-
+<br>
+<br>
+<br>
 
 **Who are foreign dealers?**<br>
 Foreign dealer means a regulated dealer that -<br>
