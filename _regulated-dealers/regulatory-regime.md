@@ -58,6 +58,7 @@ Foreign dealers should refer <a href="#Regulatory Compliance for Foreign Dealers
 
 **Brochure**: Guide for Foreign Dealers of Precious Stones, Precious Metals and Precious Products
 
+
 <a href="/images/FD1_20250702.png" target="_blank"><img src="/images/FD1_20250702.png" style="width: 700px" align="left"> </a> 
 
 <a href="/images/FD2_20250702.png" target="_blank"><img src="/images/FD2_20250702.png" style="width: 700px" align="left"> </a>
