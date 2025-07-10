@@ -37,6 +37,7 @@ width: 30%;
 
 | Document | Uploaded |
 | --- | --- |
+| [MICE 2025](/files/MICE_20250530.pdf){:target="_blank"}| Jul 2025 |
 | [List of TF Indicators](/files/list%20of%20tf%20indicators.pdf){:target="_blank"}| Apr 2025 |
 | [Additional Guidance on Assessment of Customer Risk, Identification of Material Red Flags, Source of Wealth Establishment, and Ongoing Monitoring](/files/Additional_Guidance_PSMD.pdf){:target="_blank"}| Mar 2025 |
 | [Information and Guidance on Countering the Financing of Terrorism](/files/information%20and%20guidance%20on%20countering%20the%20financing%20of%20terrorism.pdf){:target="_blank"}| Feb 2025 |
