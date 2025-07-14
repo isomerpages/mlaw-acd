@@ -1,7 +1,7 @@
 ---
 title: Reports of Government Official Impersonation Scam (GOIS) Involving
   Physical Mules
-permalink: /news/sector-developments/reports-of-gois-involving-physical-mules/
+permalink: /news/scam-advisories/reports-of-gois-involving-physical-mules/
 date: 2025-07-07
 layout: post
 description: ""
@@ -10,7 +10,7 @@ variant: tiptap
 ---
 <p>Dear Regulated Dealers</p>
 <p></p>
-<p>We would like to alert you to the Police’s reminder for vigilance against <strong><a href="https://www.police.gov.sg/media-room/news/20250702_police_advisory_on_government_official_impersonation_scams_involving_physical_collection" rel="noopener noreferrer nofollow" target="_blank">government official impersonation scams (GOIS) involving physical collection of monies or gold bars from scam victims</a></strong>.
+<p>We would like to alert you to the Police’s reminder for vigilance against <strong><a href="https://www.police.gov.sg/media-room/news/20250702_police_advisory_on_government_official_impersonation_scams_involving_physical_collection" rel="noopener noreferrer nofollow" target="_blank">government official impersonation scams ("GOIS") involving physical collection of monies or gold bars from scam victims</a></strong>.
 Since June 2025, at least 80 cases were reported with total losses amounting
 to at least $6.7 million. In this scam variant, victims would receive unsolicited
 calls from scammers impersonating officials from banks (e.g. DBS, Maybank),

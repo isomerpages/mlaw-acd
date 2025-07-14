@@ -1,6 +1,6 @@
 ---
 title: Reports of Government Official Impersonation Scam (GOIS)
-permalink: /news/sector-developments/reports-of-government-official-impersonation-scam-gois/
+permalink: /news/scam-advisories/reports-of-government-official-impersonation-scam-gois/
 date: 2025-06-09
 layout: post
 description: ""
@@ -10,7 +10,7 @@ variant: tiptap
 <p>Dear Regulated Dealers</p>
 <p>The police seek your support in combating scams. Since early March 2025,
 the police have received several reports of Government Official Impersonation
-Scam (GOIS) featuring the impersonation of banks and government officials.
+Scam ("GOIS") featuring the impersonation of banks and government officials.
 The victim is convinced to hand his/her cash, jewellery, and/or bank cards
 to an agent of a supposed “Police Officer” for investigation purposes.
 In some instances, the victim is instructed to purchase gold bars before
