@@ -13,7 +13,7 @@ variant: tiptap
 <p>We would like to draw your attention to a concerning rise in cases where
 mules or victims were instructed to buy gold bars or jewellery in Government
 Official Impersonation Scams (“<strong>GOIS</strong>”). As highlighted
-in our previous advisories dated <u>9 June 2025</u> and <u>7 July 2025</u>,
+in our previous advisories dated <u>9 June 2025</u> and <u>4 July 2025</u>,
 at least 80 GOIS cases have been reported since June 2025, resulting in
 losses of at least $6.7 million.</p>
 <p></p>
