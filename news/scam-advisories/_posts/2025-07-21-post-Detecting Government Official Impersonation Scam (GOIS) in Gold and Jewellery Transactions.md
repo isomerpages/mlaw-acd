@@ -13,9 +13,9 @@ variant: tiptap
 <p>We would like to draw your attention to a concerning rise in cases where
 mules or victims were instructed to buy gold bars or jewellery in Government
 Official Impersonation Scams (“<strong>GOIS</strong>”). As highlighted
-in our previous advisories dated <u>9 June 2025</u> and <u>4 July 2025</u>,
-at least 80 GOIS cases have been reported since June 2025, resulting in
-losses of at least $6.7 million.</p>
+in our previous advisories dated 9 June 2025 and 4 July 2025, at least
+80 GOIS cases have been reported since June 2025, resulting in losses of
+at least $6.7 million.</p>
 <p></p>
 <p>Amid these worrying trends, we are encouraged by a recent case in which
 MoneyMax Jewellery Pte. Ltd.’s vigilant staff successfully thwarted a scam
@@ -72,7 +72,7 @@ reason</p>
 </li>
 </ul>
 <p></p>
-<p>If you or your staff encounter customers which exhibit the above red flags,
+<p>If you or your staff encounter customers who exhibit the above red flags,
 the following actions may be considered:</p>
 <ul data-tight="true" class="tight">
 <li>
