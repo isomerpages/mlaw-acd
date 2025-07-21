@@ -72,7 +72,7 @@ reason</p>
 </li>
 </ul>
 <p></p>
-<p>If you or your staff encounter customers which exhibit the above red flags,
+<p>If you or your staff encounter customers who exhibit the above red flags,
 the following actions may be considered:</p>
 <ul data-tight="true" class="tight">
 <li>
