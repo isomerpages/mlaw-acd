@@ -32,7 +32,7 @@ Under section 10(1) of the Precious Stones and Precious Metals (Prevention of Mo
   EN-GB" lang="EN-GB">Suspension of registration pursuant to section 10(1)(f) of the PSPM Act as it is not in the public interest for the registered dealer to continue to carry on the business of regulated dealing or business as an intermediary in Singapore</span></p></td><td style="width:132.9pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
   padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="177"><p class="MsoNormal"><span style="font-size:10.0pt;mso-ansi-language:
-  EN-GB" lang="EN-GB">13 August 2025</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:190.9pt;border:solid windowtext 1.0pt;
+  EN-GB" lang="EN-GB">13 August 2025 to 12 February 2026</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:190.9pt;border:solid windowtext 1.0pt;
   border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="255"><p class="MsoNormal"><span style="font-size:10.0pt;mso-ansi-language:
   EN-GB" lang="EN-GB">JOTHI'S GOLD JEWELLERY PTE. LTD.<br>201012088D<br>PS20190001651</span></p><p class="MsoNormal"><span style="font-size:10.0pt;mso-ansi-language:
   </span></p><p class=" lang="EN-GB"><span style="font-size:10.0pt;mso-ansi-language:
