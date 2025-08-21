@@ -24,7 +24,17 @@ Under section 10(1) of the Precious Stones and Precious Metals (Prevention of Mo
   border-left:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="177"><p class="MsoNormal"><b><span style="font-size:10.0pt;mso-ansi-language:
   EN-GB" lang="EN-GB">Period of Suspension/ Cancellation date</span></b></p></td></tr><tr style="mso-yfti-irow:1"><td style="width:190.9pt;border:solid windowtext 1.0pt;
   border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="255"><p class="MsoNormal"><span style="font-size:10.0pt;mso-ansi-language:
-  EN-GB" lang="EN-GB">KEEPSAKE BY RYO LLP<br>T16LL0254J<br>PS20190000023</span></p><p class="MsoNormal"><span style="font-size:10.0pt;mso-ansi-language:
+	EN-GB" lang="EN-GB">DEENA BULLIONS PTE. LTD.<br>201822396E<br>PS20200001991</span></p><p class="MsoNormal"><span style="font-size:10.0pt;mso-ansi-language:
+  </span></p><p class=" lang="EN-GB"><span style="font-size:10.0pt;mso-ansi-language:
+  EN-GB" lang="EN-GB"></span></span></p></td><td style="width:312.8pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="417"><p class="MsoNormal"><span style="font-size:10.0pt;mso-ansi-language:
+  EN-GB" lang="EN-GB">Suspension of registration pursuant to section 10(1)(d) of the PSPM Act as the registered dealer is neither carrying on the business of regulated dealing nor business as an intermediary in Singapore</span></p></td><td style="width:132.9pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="177"><p class="MsoNormal"><span style="font-size:10.0pt;mso-ansi-language:
+  EN-GB" lang="EN-GB">15 August 2025</span></p></td></tr><tr style="mso-yfti-irow:2"><td style="width:190.9pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="255"><p class="MsoNormal"><span style="font-size:10.0pt;mso-ansi-language:
+	EN-GB" lang="EN-GB">KEEPSAKE BY RYO LLP<br>T16LL0254J<br>PS20190000023</span></p><p class="MsoNormal"><span style="font-size:10.0pt;mso-ansi-language:
   </span></p><p class=" lang="EN-GB"><span style="font-size:10.0pt;mso-ansi-language:
   EN-GB" lang="EN-GB"></span></span></p></td><td style="width:312.8pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
