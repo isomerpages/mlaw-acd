@@ -13,4 +13,4 @@ The OBW aims to enable the **compliance officer** of registered dealers to:
 
 We would like to thank all participants for their support of this event from September 2019 to June 2020. Please stay tuned to our website for any upcoming events organised by us.
 
-Please refer to the ["**FAQs**"](https://console.apac.sabio.cloud/FAQ/index.aspx?p=64759355){:target="_blank"} under the Precious Stones and Precious Metals Dealers section for Frequently Asked Questions relating to the regulatory regime. For further queries, please click [here](https://www.go.gov.sg/contactminlaw){:target="_blank"}.
+Please refer to the ["**FAQs**"](https://ask.gov.sg/mlaw){:target="_blank"} under the Precious Stones and Precious Metals Dealers section for Frequently Asked Questions relating to the regulatory regime. For further queries, please click [here](https://www.go.gov.sg/contactminlaw){:target="_blank"}.

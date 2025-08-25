@@ -71,4 +71,4 @@ Regulation 21 of the PMLTF Regulations is amended to simplify the notification r
 
 **Frequently Asked Questions**
  
-We have collated a list of frequently asked questions on the new requirements. Regulated dealers may wish to refer to these FAQs in the [FAQ section](https://console.apac.sabio.cloud/FAQ/index.aspx?p=64759355){:target="_blank"}.
+We have collated a list of frequently asked questions on the new requirements. Regulated dealers may wish to refer to these FAQs in the [FAQ section](https://ask.gov.sg/mlaw){:target="_blank"}.
