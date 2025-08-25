@@ -18,4 +18,4 @@ A [guidance video](https://www.youtube.com/watch?v=i6at7WyPxRs){:target="blank"}
 
 **Frequently Asked Questions**
 
-We have collated a list of frequently asked questions on how to use the screening function. Regulated dealers may wish to refer to these FAQs in the [FAQ section](https://console.apac.sabio.cloud/FAQ/index.aspx?p=64759355){:target="blank"}.
+We have collated a list of frequently asked questions on how to use the screening function. Regulated dealers may wish to refer to these FAQs in the [FAQ section](https://ask.gov.sg/mlaw){:target="blank"}.
