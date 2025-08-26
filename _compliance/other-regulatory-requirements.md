@@ -18,7 +18,7 @@ Regulated dealers will have to submit the semi-annual returns electronically thr
 
 Please watch this [guidance video](https://youtu.be/Jpcj4iYSOSM){:target="_blank"} to preview <i>my</i>Pal and how to submit the semi-annual return. You may refer to the [instruction guide](/files/semi-annual_return_instruction_guide_20250626.pdf){:target="_blank"} for a step-by-step walkthrough (with screenshots) on how to navigate and submit the semi-annual return via <i>my</i>Pal. Please click [here](https://www.go.gov.sg/mypal){:target="_blank"} to access <i>my</i>Pal to complete your submission.
  
-Please click [here](https://acd.mlaw.gov.sg/news/notices-from-the-registrar/reporting-requirement-for-regulated-dealers-with-effect-from-1-january-2021){:target="_blank"} to view the notice on the reporting requirement issued by the Registrar. You may also refer to the [FAQs](https://console.apac.sabio.cloud/FAQ/index.aspx?p=64759355){:target="_blank"} for more information on the reporting requirement.
+Please click [here](https://acd.mlaw.gov.sg/news/notices-from-the-registrar/reporting-requirement-for-regulated-dealers-with-effect-from-1-january-2021){:target="_blank"} to view the notice on the reporting requirement issued by the Registrar. You may also refer to the [FAQs](https://ask.gov.sg/mlaw){:target="_blank"} for more information on the reporting requirement.
 
 #### <a id="Duty to Notify Registrar of Change in Particulars and Circumstances"></a> Duty to Notify Registrar of Change in Particulars and Circumstances
 
@@ -49,6 +49,6 @@ A registered dealer may also be asked to keep relevant documents and information
 
 #### <a id="Notices from the Registrar"></a> Notices from the Registrar
 
-The Registrar of Regulated Dealers regularly issues notices to all regulated dealers with respect to measures for the prevention of ML/TF/PF. These include [Guidelines](/files/guidelines%20for%20regulated%20dealers_20240502_v4_0.pdf){:target="_blank"} (Published Date: 2 May 2024) to help regulated dealers understand their regulatory requirements and publications by the Financial Action Task Force ("**FATF**").
+The Registrar of Regulated Dealers regularly issues notices to all regulated dealers with respect to measures for the prevention of ML/TF/PF. These include [Guidelines](/files/guidelines_for_regulated_dealers__250825_v4_1.pdf){:target="_blank"} (Published Date: 25 Aug 2025) to help regulated dealers understand their regulatory requirements and publications by the Financial Action Task Force ("**FATF**").
 
 Please click [here](/news/notices-from-the-registrar/){:target="_blank"} to view the notices issued by the Registrar.
