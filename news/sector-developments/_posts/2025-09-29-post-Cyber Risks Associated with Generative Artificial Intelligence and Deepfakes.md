@@ -12,11 +12,11 @@ variant: tiptap
 <p>In light of rapidly evolving cyber threats and the recent surge in deepfake-related
 incidents globally, including impersonation scams and fraudulent activities,
 the Monetary Authority of Singapore (“<strong>MAS</strong>”) has published
-two papers concerning cyber risks associated with <a href="https://www.mas.gov.sg/regulation/circulars/cyber-risks-associated-with-generative-artificial-intelligence" rel="noopener nofollow" target="_blank">generative artificial intelligence (“GenAI”)</a> and
-<a href="https://www.mas.gov.sg/regulation/circulars/cyber-risks-associated-with-deepfakes" rel="noopener nofollow" target="_blank">deepfakes</a>. These papers aim to increase awareness by providing an
-overview of the cyber threats associated with GenAI and deepfakes, the
-risk implications and possible mitigation measures that could be taken
-to address the risks.</p>
+two papers concerning cyber risks associated with <a href="https://www.mas.gov.sg/regulation/circulars/cyber-risks-associated-with-generative-artificial-intelligence" rel="noopener nofollow" target="_blank">generative artificial intelligence (“</a><strong><a href="https://www.mas.gov.sg/regulation/circulars/cyber-risks-associated-with-generative-artificial-intelligence" rel="noopener nofollow" target="_blank">GenAI</a></strong>
+<a href="https://www.mas.gov.sg/regulation/circulars/cyber-risks-associated-with-generative-artificial-intelligence" rel="noopener nofollow" target="_blank">”)</a>and <a href="https://www.mas.gov.sg/regulation/circulars/cyber-risks-associated-with-deepfakes" rel="noopener nofollow" target="_blank">deepfakes</a>.
+These papers aim to increase awareness by providing an overview of the
+cyber threats associated with GenAI and deepfakes, the risk implications
+and possible mitigation measures that could be taken to address the risks.</p>
 <p>Regulated dealers should be cognisant of the evolving cyber developments
 and their risk implications, and are encouraged to review the two papers
 and – where applicable – implement the recommended (appropriate) risk mitigation
