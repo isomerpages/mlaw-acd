@@ -12,8 +12,8 @@ variant: tiptap
 <p>In light of rapidly evolving cyber threats and the recent surge in deepfake-related
 incidents globally, including impersonation scams and fraudulent activities,
 the Monetary Authority of Singapore (“<strong>MAS</strong>”) has published
-two papers concerning cyber risks associated with <a href="https://www.mas.gov.sg/regulation/circulars/cyber-risks-associated-with-generative-artificial-intelligence" rel="noopener nofollow" target="_blank">generative artificial intelligence (“</a><strong><a href="https://www.mas.gov.sg/regulation/circulars/cyber-risks-associated-with-generative-artificial-intelligence" rel="noopener nofollow" target="_blank">GenAI</a></strong>
-<a href="https://www.mas.gov.sg/regulation/circulars/cyber-risks-associated-with-generative-artificial-intelligence" rel="noopener nofollow" target="_blank">”) and deepfakes</a>. These papers aim to increase awareness by providing
+two papers concerning cyber risks associated with <a href="https://www.mas.gov.sg/regulation/circulars/cyber-risks-associated-with-deepfakes" rel="noopener nofollow" target="_blank">generative artificial intelligence (“</a><strong><a href="https://www.mas.gov.sg/regulation/circulars/cyber-risks-associated-with-deepfakes" rel="noopener nofollow" target="_blank">GenAI</a></strong>
+<a href="https://www.mas.gov.sg/regulation/circulars/cyber-risks-associated-with-deepfakes" rel="noopener nofollow" target="_blank">”) and deepfakes</a>. These papers aim to increase awareness by providing
 an overview of the cyber threats associated with GenAI and deepfakes, the
 risk implications and possible mitigation measures that could be taken
 to address the risks.</p>
@@ -29,14 +29,14 @@ Criminals may – amongst other things – abuse GenAI to circumvent customer
 due diligence (“<strong>CDD</strong>”) / enhanced customer due diligence
 (“<strong>ECDD</strong>”) measures performed by your staff. Regulated dealers
 should note the:-</p>
-<p>•	<strong>Emerging attack vectors</strong> such as AI-generated scams and
+<p>• <strong>Emerging attack vectors</strong> such as AI-generated scams and
 fraud risks (e.g. identify theft) affecting CDD/ECDD processes;</p>
-<p>•	<strong>Risks identified</strong> across various business aspects (i.e.
+<p>• <strong>Risks identified</strong> across various business aspects (i.e.
 people, process and technology) such as unauthorised access to customer
 data, manipulation of transaction records, and injection of false identities
 or beneficial ownership information via AI-created (forged) documentation,
 data manipulation and bypassing of data system guardrails; and</p>
-<p>•	<strong>Possible mitigation measures</strong> such as the strengthening
+<p>• <strong>Possible mitigation measures</strong> such as the strengthening
 of data security and governance, enhancing front-line (retail) and compliance
 staff awareness of GenAI-enabled threats, implementing anomaly detection
 controls, and promptly reviewing transactional or customer onboarding activity
@@ -52,15 +52,15 @@ are at elevated risk of deepfake or AI-enabled compromise of your anti-money
 laundering, countering the financing of terrorism and countering proliferation
 financing (“<strong>AML/CFT/CPF</strong>”) processes and measures. Regulated
 dealers should note that the:-</p>
-<p>•	<strong>Techniques </strong>include AI-powered impersonation, fake instructions
+<p>• <strong>Techniques </strong>include AI-powered impersonation, fake instructions
 for payment or to access sensitive customer information, and altered video
 or call content submitted for remote identification and verification of
 customers’ identity in response to CDD/ECDD checks;</p>
-<p>•	<strong>Vulnerable areas</strong> include non-face-to-face transactions
+<p>• <strong>Vulnerable areas</strong> include non-face-to-face transactions
 and CDD/ECDD performed, transaction authorisations, and ongoing customer
 verification – including those involving high-risk customers and/or customers
 outside of Singapore; and</p>
-<p>•	<strong>Possible risk mitigation measures</strong> include (where applicable)
+<p>• <strong>Possible risk mitigation measures</strong> include (where applicable)
 conducting robust documentary, call and/or video verification, implementing
 deepfake detection tools, strengthening processes and controls for high-risk
 transactions and educating staff on red flags and on deepfake and GenAI-enabled
