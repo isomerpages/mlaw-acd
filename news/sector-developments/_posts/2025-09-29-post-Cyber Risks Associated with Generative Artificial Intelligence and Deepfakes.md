@@ -81,10 +81,10 @@ not limited to GenAI and deepfake technologies – and (ii) are in alignment
 with AML/CFT/CPF requirements.</p>
 <p>Click <a href="https://www.mas.gov.sg/regulation/circulars/cyber-risks-associated-with-generative-artificial-intelligence" rel="noopener nofollow" target="_blank">here</a> to
 access “MAS/TCRS/2024/05: Cyber Risks Associated with Generative Artificial
-Intelligence”.</p>
-<p>Click <a href="https://www.mas.gov.sg/regulation/circulars/cyber-risks-associated-with-deepfakes" rel="noopener nofollow" target="_blank">here</a> to
+Intelligence”.
+<br>Click <a href="https://www.mas.gov.sg/regulation/circulars/cyber-risks-associated-with-deepfakes" rel="noopener nofollow" target="_blank">here</a> to
 access “MAS/TCRS/2025/06: Cyber Risks Associated with Deepfakes”.</p>
 <p></p>
-<p>Anti-Money Laundering/Countering the Financing of Terrorism Division</p>
-<p>Ministry of Law</p>
+<p>Anti-Money Laundering/Countering the Financing of Terrorism Division
+<br>Ministry of Law</p>
 <p></p>
