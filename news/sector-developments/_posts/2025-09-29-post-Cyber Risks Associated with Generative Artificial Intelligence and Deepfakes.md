@@ -30,13 +30,13 @@ due diligence (“<strong>CDD</strong>”) / enhanced customer due diligence
 (“<strong>ECDD</strong>”) measures performed by your staff. Regulated dealers
 should note the:-</p>
 <p>• <strong>Emerging attack vectors</strong> such as AI-generated scams and
-fraud risks (e.g. identify theft) affecting CDD/ECDD processes;</p>
-<p>• <strong>Risks identified</strong> across various business aspects (i.e.
+fraud risks (e.g. identify theft) affecting CDD/ECDD processes;
+<br>• <strong>Risks identified</strong> across various business aspects (i.e.
 people, process and technology) such as unauthorised access to customer
 data, manipulation of transaction records, and injection of false identities
 or beneficial ownership information via AI-created (forged) documentation,
-data manipulation and bypassing of data system guardrails; and</p>
-<p>• <strong>Possible mitigation measures</strong> such as the strengthening
+data manipulation and bypassing of data system guardrails; and
+<br>• <strong>Possible mitigation measures</strong> such as the strengthening
 of data security and governance, enhancing front-line (retail) and compliance
 staff awareness of GenAI-enabled threats, implementing anomaly detection
 controls, and promptly reviewing transactional or customer onboarding activity
@@ -55,12 +55,12 @@ dealers should note that the:-</p>
 <p>• <strong>Techniques </strong>include AI-powered impersonation, fake instructions
 for payment or to access sensitive customer information, and altered video
 or call content submitted for remote identification and verification of
-customers’ identity in response to CDD/ECDD checks;</p>
-<p>• <strong>Vulnerable areas</strong> include non-face-to-face transactions
+customers’ identity in response to CDD/ECDD checks;
+<br>• <strong>Vulnerable areas</strong> include non-face-to-face transactions
 and CDD/ECDD performed, transaction authorisations, and ongoing customer
 verification – including those involving high-risk customers and/or customers
-outside of Singapore; and</p>
-<p>• <strong>Possible risk mitigation measures</strong> include (where applicable)
+outside of Singapore; and
+<br>• <strong>Possible risk mitigation measures</strong> include (where applicable)
 conducting robust documentary, call and/or video verification, implementing
 deepfake detection tools, strengthening processes and controls for high-risk
 transactions and educating staff on red flags and on deepfake and GenAI-enabled
