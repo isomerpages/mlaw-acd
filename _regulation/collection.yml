@@ -1,0 +1,6 @@
+collections:
+  regulation:
+    output: true
+    order:
+      - Guidelines for Regulated Dealers.md
+      - guidance-papers.md

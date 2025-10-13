@@ -1,0 +1,12 @@
+collections:
+  compliance:
+    output: true
+    order:
+      - entity-based-requirements.md
+      - transaction-based-requirements.md
+      - other-regulatory-requirements.md
+      - Red Flag Indicators.md
+      - AML, CFT and CPF Supervisory Expectations.md
+      - offences-breaches-under-the-pspm-act-and-pmltf-regulations.md
+      - compliance-review-programme.md
+      - AML, CFT, CPF Resources.md
