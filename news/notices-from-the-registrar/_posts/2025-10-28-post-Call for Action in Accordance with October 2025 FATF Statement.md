@@ -30,7 +30,7 @@ Regulated dealers are also expected to take the List of Jurisdictions under Incr
 	<br>
 	<span style="font-weight:normal">Algeria </span><br>
 	<span style="font-weight:normal">Angola </span><br>
-	<span style="font-weight:normal">Bolivia <i>(new)</i></span><br>
+	<span style="font-weight:normal">Bolivia </span><br>
 	<span style="font-weight:normal">Bulgaria</span><br>
 	<span style="font-weight:normal">Cameroon</span><br>
 	<span style="font-weight:normal">Côte d'Ivoire </span><br>	
