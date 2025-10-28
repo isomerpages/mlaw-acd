@@ -17,7 +17,7 @@ The Registrar of Regulated Dealers hereby notifies all regulated dealers that th
 * List of Jurisdictions under Increased Monitoring.
     
 Accordingly, under regulation 7(1) of the Precious Stones and Precious Metals (Prevention of Money Laundering, Terrorism Financing and Proliferation Financing) Regulations 2019 ("**PMLTFPF Regulations**"), regulated dealers **must perform enhanced customer due diligence measures** if:
-* The customer, or the person on whose behalf the customer is acting on, is from or in DPRK, Iran, Myanmar, or a foreign country or territory identified to have inadequate measures to prevent money laundering or terrorism financing or proliferation financing; or
+* The customer, or the person on whose behalf the customer is acting on, is from or in DPRK, Iran, Myanmar, or a foreign country or territory identified to have inadequate measures to prevent money laundering, terrorism financing or proliferation financing; or
 * The transaction relates to DPRK, Iran, Myanmar, or a foreign country or territory identified to have inadequate measures to prevent money laundering, terrorism financing or proliferation financing.        
 
 Full details can be found at:<br><a href="https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/Call-for-action-october-2025.html" target="_blank">https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/Call-for-action-october-2025.html</a><br>
