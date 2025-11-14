@@ -14,7 +14,7 @@ As part of the application to become a registered dealer, the dealer must regist
 <b>Temporary Outlets</b><br>
 1\.  Apart from the registered place(s) of business, some registered dealers may temporarily conduct the regulated activity at another location for a short period of time. Examples of such temporary outlets may include push cart operators, night market stall operators, booths at trade shows, or booths at shopping centre atriums.
 
-2\.  If the registered dealer intends to carry on or carries on the regulated activity at the location for a total of <u>more than 90 days within a calendar year (i.e. from 1 January to 31 December)</u>, the outlet is not considered a temporary outlet and the registered dealer is required to register this location as a place of business in addition to the dealer’s registered place(s) of business. This means that:
+2\.  If the registered dealer intends to carry on or carries on the regulated activity at the location for a total of <u>more than 90 days in a year </u>, the outlet is not considered a temporary outlet and the registered dealer is required to register this location as a place of business in addition to the dealer’s registered place(s) of business. This means that:
 
 (a)	At least 14 days before commencing any regulated activity at that place of business, the registered dealer must notify the Registrar (see [instructions](https://acd.mlaw.gov.sg/other-regulatory-requirements/){:target="_blank"}). After notifying the Registrar, the registered dealer is also required to register this location as an additional place of business under its licence by submitting an amendment application via [GoBusiness Dashboard](https://www.go.gov.sg/GoBusiness-login){:target="_blank"}. <br>
 
