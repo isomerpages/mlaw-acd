@@ -8,7 +8,6 @@ image: ""
 variant: tiptap
 ---
 <p>Dear Regulated Dealers</p>
-<p><strong>NEWS RELEASE ON THE ARREST OF PERSONS WHO IMPERSONATED GOVERNMENT OFFICIALS</strong>&nbsp;</p>
 <p>On 4 September 2025, Ministry of Law (“<strong>MinLaw</strong>”) and the
 Singapore Police Force (“<strong>SPF</strong>”)&nbsp;<a href="https://www.mlaw.gov.sg/advisory-on-scammers-impersonating-officers-from-the-ministry-of-law/" rel="noopener noreferrer nofollow" target="_blank">alerted members of the public to scammers impersonating officers from MinLaw</a>.&nbsp;
 We would like to share the SPF news release on 9 November 2025&nbsp;regarding
