@@ -102,7 +102,7 @@ cards or passports</p>
 <p><strong>We</strong>  <strong>strongly encourage you to ensure that your frontline staff are familiar with these indicators and appropriate response actions.</strong>
 </p>
 <p><strong>If you observe any suspicious behaviour, please alert your nearest Neighbourhood Police Centre.</strong>  <strong>If you have information relating to such crimes or are in doubt, call the Police Hotline at&nbsp;1800-255-0000, or submit it online at&nbsp;</strong>
-<a rel="noopener noreferrer nofollow" target="_blank">https://www.police.gov.sg/i-witness</a>. For urgent assistance, dial 999.
+<a href="https://www.police.gov.sg/i-witness" rel="noopener nofollow" target="_blank">https://www.police.gov.sg/i-witness</a>. For urgent assistance, dial 999.
 All information will be kept strictly confidential.</p>
 <p>Your continued vigilance and cooperation are invaluable in preventing
 scams and protecting vulnerable members of our community.</p>
