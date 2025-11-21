@@ -23,17 +23,22 @@ The following videos and posters provide useful summary to the regulatory requir
 <u> Video 5: Entity-Based Requirements</u>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/l6R8ovdrn4g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 * [English](https://youtu.be/l6R8ovdrn4g){:target="_blank"}
-* [Chinese](https://youtu.be/mFkp6e6eAEY){:target="_blank"}
+* [Mandarin](https://youtu.be/mFkp6e6eAEY){:target="_blank"}
 
 <u> Video 6: Transaction-Based Requirements</u>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g6HGL8SHrQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 * [English](https://youtu.be/g6HGL8SHrQY){:target="_blank"}
-* [Chinese](https://youtu.be/CpUUhEWT59Q){:target="_blank"}
+* [Mandarin](https://youtu.be/CpUUhEWT59Q){:target="_blank"}
 * [Malay](https://youtu.be/7ESKY_2SfXU){:target="_blank"}
 * [Tamil](https://youtu.be/oUAsmTT7Odw){:target="_blank"}
   
 <u> Video 7: Must-Know for Foreign Dealers</u>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KRS30HOmjyk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<u> Video 8: Filing a Suspicious Transaction Report (STR)</u>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YBnbZbDelbc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+* [English](https://youtu.be/YBnbZbDelbc){:target="_blank"}
+* [Mandarin](https://youtu.be/UQIM6a3Sdq8){:target="_blank"}
   
 **Posters:**
 * [Entity-Based Requirements Poster (English)](/images/EntityBasedRequirementsPoster.pdf){:target="_blank"}
