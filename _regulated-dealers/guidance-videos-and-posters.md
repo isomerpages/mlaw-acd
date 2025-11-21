@@ -36,7 +36,7 @@ The following videos and posters provide useful summary to the regulatory requir
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KRS30HOmjyk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 <u> Video 8: Filing a Suspicious Transaction Report (STR)</u>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6HGL8SHrQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YBnbZbDelbc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 * [English](https://youtu.be/YBnbZbDelbc){:target="_blank"}
 * [Mandarin](https://youtu.be/UQIM6a3Sdq8){:target="_blank"}
   
