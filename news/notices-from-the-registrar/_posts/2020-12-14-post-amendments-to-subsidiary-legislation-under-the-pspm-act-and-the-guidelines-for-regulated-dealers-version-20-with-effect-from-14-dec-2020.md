@@ -7,7 +7,7 @@ variant: markdown
 ---
 The Registrar of Regulated Dealers hereby notifies all regulated dealers that amendments to the following subsidiary legislation under the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019 (“**PSPM Act**”) will commence on **14 Dec 2020**:
  
-* [Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations 2019](https://sso.agc.gov.sg/SL/PSPMPMLTFA2019-S306-2019?DocDate=20201207){:target="_blank"}; and
+* [Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations 2019](https://sso.agc.gov.sg//SL/PSPMPMLTFPFA2019-RG2){:target="_blank"}; and
  
 * [Precious Stones and Precious Metals (Exempt Persons) Order 2019](https://sso.agc.gov.sg/SL/PSPMPMLTFA2019-S307-2019?DocDate=20201207){:target="_blank"}.
  
