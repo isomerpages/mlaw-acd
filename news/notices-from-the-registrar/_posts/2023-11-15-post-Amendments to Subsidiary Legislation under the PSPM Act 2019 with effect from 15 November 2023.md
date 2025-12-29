@@ -20,7 +20,7 @@ The Registrar of Regulated Dealers hereby notifies all regulated dealers that am
 <table class="tg">
     <tbody><tr>
     <th class="tg-exjp"><span style="font-weight:bold;text-decoration:underline">View PMLTF Regulations</span><br>
-<a href="https://sso.agc.gov.sg/SL/PSPMPMLTFA2019-S306-2019?DocDate=20231110" target="_blank">Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations 2019</a>
+<a href="https://sso.agc.gov.sg//SL/PSPMPMLTFPFA2019-RG2" target="_blank">Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations 2019</a>
 </th></tr></tbody></table>
 			
 The key amendments to the PMLTF Regulations are:
