@@ -1,5 +1,5 @@
 ---
 layout: contact_us
-permalink: /contact-us-old/
+permalink: /about-us/contact-us/
 title: Contact Us
 ---
