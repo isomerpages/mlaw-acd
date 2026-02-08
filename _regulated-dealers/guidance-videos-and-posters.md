@@ -41,6 +41,7 @@ The following videos and posters provide useful summary to the regulatory requir
 * [Mandarin](https://youtu.be/UQIM6a3Sdq8){:target="_blank"}
   
 **Posters:**
+* [Gallop Into The New Year With Vigilance And Robust Controls Against Financial Crime (English)](/images/edm 1-2026.png){:target="_blank"}
 * [Shine Bright, Deal Right: Guard Against Illicit Transactions This Festive Season (English)](/images/edm 4-2025.png){:target="_blank"}
 * [Don't Let Illicit Transactions Tarnish Your Shine: Be Watchful This Festive Season! (English)](/images/edm 3-2025.png){:target="_blank"}
 * [High Value, High Risk: Keep Your Transactions Clean and Protect Your Business This Festive Season! (English)](/images/edm 2-2025.png){:target="_blank"}
