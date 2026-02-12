@@ -10,12 +10,12 @@ variant: tiptap
 ---
 <p>Pursuant to section 35(1) of the Precious Stones and Precious Metals (Prevention
 of Money Laundering, Terrorism Financing and Proliferation Financing) Act
-2019 ("PSPM Act"), the Registrar hereby amends the Guidelines for Regulated
-Dealers in the precious stones and precious metals dealers (“PSMD”) sector
-on anti-money laundering/countering the financing of terrorism/countering
-proliferation financing (“Guidelines”) from version 4.1 to 5.0 with effect
-from 12 February 2026.</p>
-<p>The main amendments to the Guidelines are:</p>
+2019, the Registrar hereby amends the Guidelines for Regulated Dealers
+in the precious stones and precious metals dealers (“<strong>PSMD</strong>”)
+sector on anti-money laundering/countering the financing of terrorism/countering
+proliferation financing (“<strong>Guidelines</strong>”) from version 4.1
+to 5.0 with effect from <strong>12 February 2026</strong>.</p>
+<p>The <u>main amendments</u> to the Guidelines are:</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -76,7 +76,7 @@ or legal arrangement.</p>
 <p>Annex E – Sample CDD Forms</p>
 </li>
 <li>
-<p>Annex F – Sample ECDD Form</p>
+<p>Annex F – Sample ECDD Forms</p>
 </li>
 </ul>
 <p></p>
@@ -248,7 +248,11 @@ Monitoring of Customers and their Transactions.</p>
 <p>Addition of the list of offences/breaches under the PSPM Act and Regulations.</p>
 </td>
 <td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Annex I</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
