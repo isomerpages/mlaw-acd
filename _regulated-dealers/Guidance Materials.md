@@ -47,7 +47,7 @@ Download and open the <a target="_blank" href="/files/compliance_toolkit_for_psm
 
 #### <a id="Guidance Paper on Strengthening AML/CFT Controls in the Precious Stones and Precious Metals (PSPM) Sector"></a>6. Guidance Paper on Strengthening AML/CFT Controls in the Precious Stones and Precious Metals (PSPM) Sector
 
-MinLaw conducted a series of inspections and compliance reviews of regulated dealers targeted at assessing their level of compliance with the PSPM Act and PMLTF Regulations.
+MinLaw conducted a series of inspections and compliance reviews of regulated dealers targeted at assessing their level of compliance with the PSPM Act and PMLTFPF Regulations.
 
 The <a target="_blank" href="/images/Guidance Paper_20210616.pdf">Guidance Paper</a> (Published Date: Jun 2021) sets out the key findings and MinLaw’s supervisory expectations of effective AML/CFT controls in the precious stones and precious metals dealer ("**PSMD**") Sector. 
 
