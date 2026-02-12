@@ -139,7 +139,7 @@ variant: markdown
 <tbody>
   <tr>
     <td class="tg-0lax">Notification of change in place of business</td>
-    <td class="tg-0lax">Reg 20(3)</td>
+    <td class="tg-0lax">Reg 20(4)</td>
     <td class="tg-0lax">Non-compliance with requirements to notify change in place of business</td>
     <td class="tg-0lax">Fine not exceeding $20,000</td>
   </tr>
