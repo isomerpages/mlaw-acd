@@ -41,7 +41,7 @@ Regulated dealers are required to keep records of the customer due diligence ("*
 
 #### <a id="Compliance Toolkit for Regulated Dealers"></a>5. Compliance Toolkit for Regulated Dealers
 
-The Compliance Toolkit aims to guide and facilitate regulated dealers' compliance with the various requirements under the PSPM Act and the PMLTF Regulations. It serves as a quick guide relating to applications, notifications, regulatory submissions and compliance. 
+The Compliance Toolkit aims to guide and facilitate regulated dealers' compliance with the various requirements under the PSPM Act and the PMLTFPF Regulations. It serves as a quick guide relating to applications, notifications, regulatory submissions and compliance. 
 
 Download and open the <a target="_blank" href="/files/compliance_toolkit_for_psmd_20250701.pdf">Compliance Toolkit</a> (Published Date: 1 July 2025) with a PDF reader on desktop to open the thumbnails. 
 
