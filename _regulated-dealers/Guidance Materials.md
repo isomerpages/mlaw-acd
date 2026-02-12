@@ -20,7 +20,7 @@ The screening function in <a target="_blank" href="https://go.gov.sg/mypal"><i>m
 #### <a id="Guidelines for Regulated Dealers"></a>3. Guidelines for Regulated Dealers
 
 The <a target="_blank" href="/files/guidelines_for_regulated_dealers_130226_v5.pdf">Guidelines for Regulated Dealers in the Precious Stones and Precious Metals Dealers Sector on Anti-Money Laundering/Countering the Financing of Terrorism/Countering Proliferation Financing ("**Guidelines**")</a> (Published Date: 13 Feb 2026) are meant to help regulated dealers understand the regulatory requirements under the Precious Stones and Precious Metals (Prevention of Money Laundering, Terrorism Financing and Proliferation Financing) Act 2019 ("**PSPM Act**") and Precious Stones and Precious Metals (Prevention of Money Laundering, Terrorism Financing and Proliferation Financing) Regulations 2019 ("**PMLTFPF Regulations**").<a href="#footnote1"></a><br><br> 
-The Guidelines also provide <a target="_blank" href="/files/Guidelines for Regulated Dealers_Annexes_20260212.docx">sample forms and checklists<sup>1</sup></a> to assist regulated dealers in meeting their regulatory obligations.  <b>However, regulated dealers remain responsible for ensuring that their Anti-Money Laundering/Countering the Financing of Terrorism/Countering Proliferation Financing ("**AML/CFT/CPF**") measures are appropriately designed for their business and commensurate with their money laundering/terrorism financing/proliferation financing ("**ML/TF/PF**") risk exposure.</b><br><br>
+The Guidelines also provide <a target="_blank" href="/files/Guidelines for Regulated Dealers_Annexes_20260213.docx">sample forms and checklists<sup>1</sup></a> to assist regulated dealers in meeting their regulatory obligations.  <b>However, regulated dealers remain responsible for ensuring that their Anti-Money Laundering/Countering the Financing of Terrorism/Countering Proliferation Financing ("**AML/CFT/CPF**") measures are appropriately designed for their business and commensurate with their money laundering/terrorism financing/proliferation financing ("**ML/TF/PF**") risk exposure.</b><br><br>
 
 
 <style type="text/css">
@@ -37,7 +37,7 @@ The Guidelines also provide <a target="_blank" href="/files/Guidelines for Regul
 
 #### <a id="Sample forms for CDD and ECDD"></a>4. Sample forms for CDD and ECDD
 
-Regulated dealers are required to keep records of the customer due diligence ("**CDD**") and enhanced customer due diligence ("**ECDD**") performed. The <a target="_blank" href="/files/Sample CDD and ECDD Form_20260212_v5.docx">sample forms</a> are extracted from the Guidelines and available in Microsoft Word document format for ease of editing. <br>
+Regulated dealers are required to keep records of the customer due diligence ("**CDD**") and enhanced customer due diligence ("**ECDD**") performed. The <a target="_blank" href="/files/Sample CDD and ECDD Form_20260213_v5.docx">sample forms</a> are extracted from the Guidelines and available in Microsoft Word document format for ease of editing. <br>
 
 #### <a id="Compliance Toolkit for Regulated Dealers"></a>5. Compliance Toolkit for Regulated Dealers
 
