@@ -37,7 +37,7 @@ The Guidelines also provide <a target="_blank" href="/files/Guidelines for Regul
 
 #### <a id="Sample forms for CDD and ECDD"></a>4. Sample forms for CDD and ECDD
 
-Regulated dealers are required to keep records of the customer due diligence ("**CDD**") and enhanced customer due diligence ("**ECDD**") performed. The <a target="_blank" href="/files/Sample CDD and ECDD Form_20240502_v4.0.docx">sample forms</a> are extracted from the Guidelines and available in Microsoft Word document format for ease of editing. <br>
+Regulated dealers are required to keep records of the customer due diligence ("**CDD**") and enhanced customer due diligence ("**ECDD**") performed. The <a target="_blank" href="/files/Sample CDD and ECDD Form_20260212_v5.docx">sample forms</a> are extracted from the Guidelines and available in Microsoft Word document format for ease of editing. <br>
 
 #### <a id="Compliance Toolkit for Regulated Dealers"></a>5. Compliance Toolkit for Regulated Dealers
 
