@@ -44,11 +44,11 @@ Regulated dealers are required to periodically review the adequacy of informatio
 
 Regulated dealers are required to keep relevant documents and information for a period of 5 years after the date of transaction, or the date that the information or supporting document is obtained.
 
-A registered dealer may also be asked to keep relevant documents and information for a prescribed period after ceasing to be a registered dealer. If the registered dealer is found to have dispose records during the period of the registration, the registered dealer will be liable for enforcement action against them. With effect from 1 May 2024, regulated dealers that cease registration as regulated dealers, are still subject to this record keeping requirement and must continue to keep these documents and information for the 5 year period.
+A registered dealer may also be asked to keep relevant documents and information for a prescribed period after ceasing to be a registered dealer. If the registered dealer is found to have disposed records during the period of the registration, the registered dealer will be liable for enforcement action against them. With effect from 1 May 2024, regulated dealers that cease registration as regulated dealers, are still subject to this record keeping requirement and must continue to keep these documents and information for the 5 year period.
 
 
 #### <a id="Notices from the Registrar"></a> Notices from the Registrar
 
-The Registrar of Regulated Dealers regularly issues notices to all regulated dealers with respect to measures for the prevention of ML/TF/PF. These include [Guidelines](/files/guidelines_for_regulated_dealers__250825_v4_1.pdf){:target="_blank"} (Published Date: 25 Aug 2025) to help regulated dealers understand their regulatory requirements and publications by the Financial Action Task Force ("**FATF**").
+The Registrar of Regulated Dealers regularly issues notices to all regulated dealers with respect to measures for the prevention of ML/TF/PF. These include [Guidelines](/files/guidelines_for_regulated_dealers__120226_v5.pdf){:target="_blank"} (Published Date: 12 Feb 2026) to help regulated dealers understand their regulatory requirements and publications by the Financial Action Task Force ("**FATF**").
 
 Please click [here](/news/notices-from-the-registrar/){:target="_blank"} to view the notices issued by the Registrar.
