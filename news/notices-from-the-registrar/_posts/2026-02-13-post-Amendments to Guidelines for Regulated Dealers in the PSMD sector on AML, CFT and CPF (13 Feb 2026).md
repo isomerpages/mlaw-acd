@@ -14,7 +14,7 @@ of Money Laundering, Terrorism Financing and Proliferation Financing) Act
 in the precious stones and precious metals dealers (“<strong>PSMD</strong>”)
 sector on anti-money laundering/countering the financing of terrorism/countering
 proliferation financing (“<strong>Guidelines</strong>”) from version 4.1
-to 5.0 with effect from <strong>12 February 2026</strong>.</p>
+to 5.0 with effect from <strong>13 February 2026</strong>.</p>
 <p>The <u>main amendments</u> to the Guidelines are:</p>
 <table style="minWidth: 75px">
 <colgroup>
