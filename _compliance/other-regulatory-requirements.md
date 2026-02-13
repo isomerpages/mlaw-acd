@@ -22,7 +22,7 @@ Please click [here](https://acd.mlaw.gov.sg/news/notices-from-the-registrar/repo
 
 #### <a id="Duty to Notify Registrar of Change in Particulars and Circumstances"></a> Duty to Notify Registrar of Change in Particulars and Circumstances
 
-Pursuant to the Precious Stones and Precious Metals (Prevention of Money Laundering, Terrorism Financing and Proliferation Financing) Regulations 2019 (“**PMLTF Regulations**”), registered dealers have the duty to notify the Registrar of Regulated Dealers of change in particulars and circumstances.
+Pursuant to the Precious Stones and Precious Metals (Prevention of Money Laundering, Terrorism Financing and Proliferation Financing) Regulations 2019 (“**PMLTFPF Regulations**”), registered dealers have the duty to notify the Registrar of Regulated Dealers of change in particulars and circumstances.
 
 The notification is to be submitted in **GoBusiness Dashboard** via an amendment application. You need to tick the checkbox (for each section that you wish to amend) in order to update your records with MinLaw. Refer to the table below for more details on how to submit the amendment application.
 
@@ -44,11 +44,11 @@ Regulated dealers are required to periodically review the adequacy of informatio
 
 Regulated dealers are required to keep relevant documents and information for a period of 5 years after the date of transaction, or the date that the information or supporting document is obtained.
 
-A registered dealer may also be asked to keep relevant documents and information for a prescribed period after ceasing to be a registered dealer. If the registered dealer is found to have dispose records during the period of the registration, the registered dealer will be liable for enforcement action against them. With effect from 1 May 2024, regulated dealers that cease registration as regulated dealers, are still subject to this record keeping requirement and must continue to keep these documents and information for the 5 year period.
+A registered dealer may also be asked to keep relevant documents and information for a prescribed period after ceasing to be a registered dealer. If the registered dealer is found to have disposed records during the period of the registration, the registered dealer will be liable for enforcement action against them. With effect from 1 May 2024, regulated dealers that cease registration as regulated dealers, are still subject to this record keeping requirement and must continue to keep these documents and information for the 5 year period.
 
 
 #### <a id="Notices from the Registrar"></a> Notices from the Registrar
 
-The Registrar of Regulated Dealers regularly issues notices to all regulated dealers with respect to measures for the prevention of ML/TF/PF. These include [Guidelines](/files/guidelines_for_regulated_dealers__250825_v4_1.pdf){:target="_blank"} (Published Date: 25 Aug 2025) to help regulated dealers understand their regulatory requirements and publications by the Financial Action Task Force ("**FATF**").
+The Registrar of Regulated Dealers regularly issues notices to all regulated dealers with respect to measures for the prevention of ML/TF/PF. These include [Guidelines](/files/guidelines_for_regulated_dealers_130226_v5.pdf){:target="_blank"} (Published Date: 13 Feb 2026) to help regulated dealers understand their regulatory requirements and publications by the Financial Action Task Force ("**FATF**").
 
 Please click [here](/news/notices-from-the-registrar/){:target="_blank"} to view the notices issued by the Registrar.

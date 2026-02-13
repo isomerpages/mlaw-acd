@@ -9,7 +9,7 @@ description: ""
 
 #### <a id="Semi-Annual Return Instruction Guide"></a> 1. Semi-Annual Return Instruction Guide
  
-The <a target="_blank" href="/files/semi-annual_return_instruction_guide_20251222.pdf">instruction guide</a> (Published Date: 22 December 2025) and <a target="_blank" href="https://youtu.be/Jpcj4iYSOSM">guidance video</a> provide regulated dealers with a step-by-step walkthrough (with screenshots) on how to navigate and submit the semi-annual return via <a target="_blank" href="https://go.gov.sg/mypal"><i>my</i>Pal</a>. Please click <a target="_blank" href="https://acd.mlaw.gov.sg/other-regulatory-requirements">here</a> for information on the reporting requirement.
+The <a target="_blank" href="/files/semi-annual_return_instruction_guide_20251222.pdf">instruction guide</a> (Published Date: 22 Dec 2025) and <a target="_blank" href="https://youtu.be/Jpcj4iYSOSM">guidance video</a> provide regulated dealers with a step-by-step walkthrough (with screenshots) on how to navigate and submit the semi-annual return via <a target="_blank" href="https://go.gov.sg/mypal"><i>my</i>Pal</a>. Please click <a target="_blank" href="https://acd.mlaw.gov.sg/other-regulatory-requirements">here</a> for information on the reporting requirement.
 
 #### <a id="Monetary Authority of Singapore's website - Lists of Designated Individuals and Entities"></a> 2. Monetary Authority of Singapore's ("**MAS**") website - Lists of Designated Individuals and Entities
 
@@ -19,8 +19,8 @@ The screening function in <a target="_blank" href="https://go.gov.sg/mypal"><i>m
 
 #### <a id="Guidelines for Regulated Dealers"></a>3. Guidelines for Regulated Dealers
 
-The <a target="_blank" href="/files/guidelines_for_regulated_dealers__250825_v4_1.pdf">Guidelines for Regulated Dealers in the Precious Stones and Precious Metals Dealers Sector on Anti-Money Laundering/Countering the Financing of Terrorism/Countering Proliferation Financing ("**Guidelines**")</a> (Published Date: 25 Aug 2025) are meant to help regulated dealers understand the regulatory requirements under the Precious Stones and Precious Metals (Prevention of Money Laundering, Terrorism Financing and Proliferation Financing) Act 2019 ("**PSPM Act**") and Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Regulations 2019 ("**PMLTF Regulations**").<a href="#footnote1"></a><br><br> 
-The Guidelines also provide <a target="_blank" href="/files/Guidelines for regulated dealers_Annexes_20250821.docx">sample forms and checklists<sup>1</sup></a> to assist regulated dealers in meeting their regulatory obligations.  <b>However, regulated dealers remain responsible for ensuring that their Anti-Money Laundering/Countering the Financing of Terrorism/Countering Proliferation Financing ("**AML/CFT/CPF**") measures are appropriately designed for their business and commensurate with their money laundering/terrorism financing/proliferation financing ("**ML/TF/PF**") risk exposure.</b><br><br>
+The <a target="_blank" href="/files/guidelines_for_regulated_dealers_130226_v5.pdf">Guidelines for Regulated Dealers in the Precious Stones and Precious Metals Dealers Sector on Anti-Money Laundering/Countering the Financing of Terrorism/Countering Proliferation Financing ("**Guidelines**")</a> (Published Date: 13 Feb 2026) are meant to help regulated dealers understand the regulatory requirements under the Precious Stones and Precious Metals (Prevention of Money Laundering, Terrorism Financing and Proliferation Financing) Act 2019 ("**PSPM Act**") and Precious Stones and Precious Metals (Prevention of Money Laundering, Terrorism Financing and Proliferation Financing) Regulations 2019 ("**PMLTFPF Regulations**").<a href="#footnote1"></a><br><br> 
+The Guidelines also provide <a target="_blank" href="/files/Guidelines for Regulated Dealers_Annexes_20260213.docx">sample forms and checklists<sup>1</sup></a> to assist regulated dealers in meeting their regulatory obligations.  <b>However, regulated dealers remain responsible for ensuring that their Anti-Money Laundering/Countering the Financing of Terrorism/Countering Proliferation Financing ("**AML/CFT/CPF**") measures are appropriately designed for their business and commensurate with their money laundering/terrorism financing/proliferation financing ("**ML/TF/PF**") risk exposure.</b><br><br>
 
 
 <style type="text/css">
@@ -37,17 +37,17 @@ The Guidelines also provide <a target="_blank" href="/files/Guidelines for regul
 
 #### <a id="Sample forms for CDD and ECDD"></a>4. Sample forms for CDD and ECDD
 
-Regulated dealers are required to keep records of the customer due diligence ("**CDD**") and enhanced customer due diligence ("**ECDD**") performed. The <a target="_blank" href="/files/Sample CDD and ECDD Form_20240502_v4.0.docx">sample forms</a> are extracted from the Guidelines and available in Microsoft Word document format for ease of editing. <br>
+Regulated dealers are required to keep records of the customer due diligence ("**CDD**") and enhanced customer due diligence ("**ECDD**") performed. The <a target="_blank" href="/files/Sample CDD and ECDD Form_20260213_v5.docx">sample forms</a> are extracted from the Guidelines and available in Microsoft Word document format for ease of editing. <br>
 
 #### <a id="Compliance Toolkit for Regulated Dealers"></a>5. Compliance Toolkit for Regulated Dealers
 
-The Compliance Toolkit aims to guide and facilitate regulated dealers' compliance with the various requirements under the PSPM Act and the PMLTF Regulations. It serves as a quick guide relating to applications, notifications, regulatory submissions and compliance. 
+The Compliance Toolkit aims to guide and facilitate regulated dealers' compliance with the various requirements under the PSPM Act and the PMLTFPF Regulations. It serves as a quick guide relating to applications, notifications, regulatory submissions and compliance. 
 
 Download and open the <a target="_blank" href="/files/compliance_toolkit_for_psmd_20250701.pdf">Compliance Toolkit</a> (Published Date: 1 July 2025) with a PDF reader on desktop to open the thumbnails. 
 
 #### <a id="Guidance Paper on Strengthening AML/CFT Controls in the Precious Stones and Precious Metals (PSPM) Sector"></a>6. Guidance Paper on Strengthening AML/CFT Controls in the Precious Stones and Precious Metals (PSPM) Sector
 
-MinLaw conducted a series of inspections and compliance reviews of regulated dealers targeted at assessing their level of compliance with the PSPM Act and PMLTF Regulations.
+MinLaw conducted a series of inspections and compliance reviews of regulated dealers targeted at assessing their level of compliance with the PSPM Act and PMLTFPF Regulations.
 
 The <a target="_blank" href="/images/Guidance Paper_20210616.pdf">Guidance Paper</a> (Published Date: Jun 2021) sets out the key findings and MinLaw’s supervisory expectations of effective AML/CFT controls in the precious stones and precious metals dealer ("**PSMD**") Sector. 
 
