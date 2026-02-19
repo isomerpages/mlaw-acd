@@ -41,7 +41,7 @@ The following videos and posters provide useful summary to the regulatory requir
 * [Mandarin](https://youtu.be/UQIM6a3Sdq8){:target="_blank"}
   
 **Posters:**
-* [Did You Know? Filing A Suspicious Transaction Report (English)](/files/Did_You_Know_STR_Filing.pdf){:target="_blank"}
+* [[Did You Know?] Filing A Suspicious Transaction Report (English)](/files/Did_You_Know_STR_Filing.pdf){:target="_blank"}
 * [Gallop Into The New Year With Vigilance And Robust Controls Against Financial Crime (English)](/images/edm 1-2026.png){:target="_blank"}
 * [Shine Bright, Deal Right: Guard Against Illicit Transactions This Festive Season (English)](/images/edm 4-2025.png){:target="_blank"}
 * [Don't Let Illicit Transactions Tarnish Your Shine: Be Watchful This Festive Season! (English)](/images/edm 3-2025.png){:target="_blank"}
