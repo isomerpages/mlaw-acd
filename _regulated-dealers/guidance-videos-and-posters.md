@@ -41,6 +41,10 @@ The following videos and posters provide useful summary to the regulatory requir
 * [Mandarin](https://youtu.be/UQIM6a3Sdq8){:target="_blank"}
   
 **Posters:**
+* [Government Officials Impersonation Scam (English_Landscape)](/images/gois 1-2026.jpg){:target="_blank"}
+* [Government Officials Impersonation Scam (English_Portrait)](/images/gois 2-2026.jpg){:target="_blank"}
+* [Government Officials Impersonation Scam (Mandarin_Landscape)](/images/gois 3-2026.jpg){:target="_blank"}
+* [Government Officials Impersonation Scam (Mandarin_Portrait)](/images/gois 4-2026.jpg){:target="_blank"}
 * [[Did You Know?] Filing A Suspicious Transaction Report (English)](/files/Did_You_Know_STR_Filing.pdf){:target="_blank"}
 * [Gallop Into The New Year With Vigilance And Robust Controls Against Financial Crime (English)](/images/edm 1-2026.png){:target="_blank"}
 * [Shine Bright, Deal Right: Guard Against Illicit Transactions This Festive Season (English)](/images/edm 4-2025.png){:target="_blank"}
