@@ -24,7 +24,7 @@ uncontactable or when they sought verification from the relevant agencies.
 Please see <strong><a href="https://www.police.gov.sg/Media-Hub/News/2026/02/20260220_police_advisory_on_government_officials_impersonation_scams" rel="noopener nofollow" target="_blank">Police Advisory On Government Officials Impersonation Scams Involving Physical Collection Of Valuables Such As Gold And Luxury Watches</a></strong> for
 more information.</p>
 <p>Regulated dealers play an important role in preventing scams and protecting
-vulnerable members of our community. We strongly encourage you <strong>to ensure that your front-line staff are familiar with the scam indicators and response actions</strong> shared
+vulnerable members of our community. We strongly encourage you to<strong> ensure that your front-line staff are familiar with the scam indicators and response actions</strong> shared
 in earlier advisories [Click <a href="https://acd.mlaw.gov.sg/news/scam-advisories/" rel="noopener nofollow" target="_blank">here</a> to access
 past scam advisories]. To alert your customers to scams, we encourage you
 to prominently display anti-scam posters (see download links below) from
