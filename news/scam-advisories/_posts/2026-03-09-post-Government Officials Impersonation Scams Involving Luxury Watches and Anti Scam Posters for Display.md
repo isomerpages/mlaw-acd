@@ -31,10 +31,14 @@ by the Police, at appropriate locations in your shopfront or on your website
 to raise customer awareness about these scam variants.</p>
 <p><u>Anti-scam Infographics</u>
 </p>
-<p>• Government Officials Impersonation Scam (English_Landscape)</p>
-<p>• Government Officials Impersonation Scam (English_Portrait)</p>
-<p>• Government Officials Impersonation Scam (Mandarin_Landscape)</p>
-<p>• Government Officials Impersonation Scam (Mandarin_Portrait)</p>
+<p>• <a href="https://acd.mlaw.gov.sg/images/gois%201-2026.jpg" rel="noopener nofollow" target="_blank">Government Officials Impersonation Scam (English_Landscape)</a>
+</p>
+<p>• <a href="https://acd.mlaw.gov.sg/images/gois%202-2026.jpg" rel="noopener nofollow" target="_blank">Government Officials Impersonation Scam (English_Portrait)</a>
+</p>
+<p>• <a href="https://acd.mlaw.gov.sg/images/gois%203-2026.jpg" rel="noopener nofollow" target="_blank">Government Officials Impersonation Scam (Mandarin_Landscape)</a>
+</p>
+<p>• <a href="https://acd.mlaw.gov.sg/images/gois%204-2026.jpg" rel="noopener nofollow" target="_blank">Government Officials Impersonation Scam (Mandarin_Portrait)</a>
+</p>
 <p>We also encourage you to take note of the latest crime statistics in the
 <a href="https://www.police.gov.sg/Media-Hub/Police-Life/2026/02/Scams-and-Cybercrime-Fell-by-Almost-a-Quarter-in-2025" rel="noopener nofollow" target="_blank">Annual Scam and Cybercrime Brief 2025</a>, which was released by the Police
 on 25 February 2026 as part of their ongoing public education efforts.
