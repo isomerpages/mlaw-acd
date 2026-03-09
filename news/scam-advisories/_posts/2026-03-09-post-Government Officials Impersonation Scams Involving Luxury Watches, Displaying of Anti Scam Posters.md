@@ -10,8 +10,7 @@ variant: tiptap
 ---
 <p>Dear Regulated Dealers</p>
 <p>We would like to draw your attention to a new variant of Government Officials
-Impersonation Scams ("<strong>GOIS</strong>") involving involving luxury
-watches..</p>
+Impersonation Scams ("<strong>GOIS</strong>") involving luxury watches..</p>
 <p>Similar to previous GOIS scams, victims received unsolicited calls from
 scammers impersonating representatives from insurance and financial institutions,
 or retailers claiming that the victims had outstanding insurance premiums
