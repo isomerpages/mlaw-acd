@@ -17,7 +17,8 @@ or retailers claiming that the victims had outstanding insurance premiums
 or had performed bank card transactions. When victims denied the claims,
 they were transferred to scammers impersonating government officials from
 the Ministry of Law or Monetary Authority of Singapore and be accused of
-money laundering. <strong>In this scam variant, instead of gold bars, victims were instructed to hand over luxury watches to unknown subjects for purported "investigation purposes"</strong>.
+money laundering.</p>
+<p><strong>In this scam variant, instead of gold bars, victims were instructed to hand over luxury watches to unknown subjects for purported "investigation purposes"</strong>.
 Victims only realised that they had been scammed when the scammers became
 uncontactable or when they sought verification from the relevant agencies.
 Please see <strong><a href="https://www.police.gov.sg/Media-Hub/News/2026/02/20260220_police_advisory_on_government_officials_impersonation_scams" rel="noopener nofollow" target="_blank">Police Advisory On Government Officials Impersonation Scams Involving Physical Collection Of Valuables Such As Gold And Luxury Watches</a></strong> for
