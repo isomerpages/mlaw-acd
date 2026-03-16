@@ -41,6 +41,7 @@ The following videos and posters provide useful summary to the regulatory requir
 * [Mandarin](https://youtu.be/UQIM6a3Sdq8){:target="_blank"}
   
 **Posters:**
+* [Be Alert, Stay Compliant: Guard Against Financial Crime This Festive Season! (English)](/images/edm 2-2026.png){:target="_blank"}
 * [Government Officials Impersonation Scam (English_Landscape)](/images/gois 1-2026.jpg){:target="_blank"}
 * [Government Officials Impersonation Scam (English_Portrait)](/images/gois 2-2026.jpg){:target="_blank"}
 * [Government Officials Impersonation Scam (Mandarin_Landscape)](/images/gois 3-2026.jpg){:target="_blank"}
