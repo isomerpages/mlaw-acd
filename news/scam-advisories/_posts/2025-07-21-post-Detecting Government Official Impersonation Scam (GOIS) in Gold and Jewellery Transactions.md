@@ -21,7 +21,7 @@ at least $6.7 million.</p>
 MoneyMax Jewellery Pte. Ltd.’s vigilant staff successfully thwarted a scam
 attempt. As a result of the staff's alertness and keen observation, the
 Police were able to intervene swiftly and prevent monetary loss of $20,900
-to a scam victim. Click <a href="https://www.police.gov.sg/Media-Room/News/20250714_staff_of_moneymax_presented_with_community_partnership_award_at_woodlands_police_division" rel="noopener nofollow" target="_blank">here</a> to
+to a scam victim. Click <a href="https://www.police.gov.sg/media-hub/news/2025/07/20250714_staff_of_moneymax_presented_with_community_partnership_award_at_woodlands_police_division" rel="noopener nofollow" target="_blank">here</a> to
 access the Police press release on 14 July 2025 regarding its recognition
 of MoneyMax Jewellery Pte. Ltd. staff’s contribution towards detecting
 and preventing a case of GOIS.</p>
