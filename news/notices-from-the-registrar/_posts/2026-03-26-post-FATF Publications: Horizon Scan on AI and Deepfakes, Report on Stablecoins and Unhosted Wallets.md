@@ -104,7 +104,7 @@ a timely manner if circumstances exist that require the regulated dealer
 to do so.
 <br>
 <br>Click <a href="https://www.fatf-gafi.org/content/fatf-gafi/en/publications/Methodsandtrends/horizon-scan-ai-deepfake.html" rel="noopener nofollow" target="_blank">here</a> and
-<a href="https://www.fatf-gafi.org/content/fatf-gafi/en/publications/Virtualassets/targeted-report-stablecoins-unhosted-wallets.html" rel="noopener nofollow" target="_blank">here</a>to access the FATF Reports. These publications are also uploaded
+<a href="https://www.fatf-gafi.org/content/fatf-gafi/en/publications/Virtualassets/targeted-report-stablecoins-unhosted-wallets.html" rel="noopener nofollow" target="_blank">here</a>access the FATF Reports. These publications are also uploaded
 at the ACD website <a href="https://go.gov.sg/minlawacd" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/minlawacd</a> in the
 “Compliance” section, under “AML/CFT/CPF Resources”.
 <br>
