@@ -79,8 +79,8 @@ but not limited to GenAI and deepfake technologies.
 <br>
 <br>Regulated dealers may also refer to earlier papers published by the Monetary
 Authority of Singapore (“<strong>MAS</strong>”) concerning cyber risks
-associated with <a href="https://www.mas.gov.sg/regulation/circulars/cyber-risks-associated-with-generative-artificial-intelligence" rel="noopener nofollow" target="_blank">generative artificial intelligence (“</a><strong><a href="https://www.mas.gov.sg/regulation/circulars/cyber-risks-associated-with-generative-artificial-intelligence" rel="noopener nofollow" target="_blank">GenAI</a></strong>
-<a href="https://www.mas.gov.sg/regulation/circulars/cyber-risks-associated-with-generative-artificial-intelligence" rel="noopener nofollow" target="_blank">”)</a>and <a href="https://www.mas.gov.sg/regulation/circulars/cyber-risks-associated-with-deepfakes" rel="noopener nofollow" target="_blank">deepfakes</a>.
+associated with <a href="https://www.mas.gov.sg/regulation/circulars/cyber-risks-associated-with-generative-artificial-intelligence" rel="noopener nofollow" target="_blank">generative artificial intelligence (“GenAI”)</a> and
+<a href="https://www.mas.gov.sg/regulation/circulars/cyber-risks-associated-with-deepfakes" rel="noopener nofollow" target="_blank">deepfakes</a>.
 <br>
 <br>Regulated dealers are also reminded of:</p>
 <p>• The obligation under section 16 of the Precious Stones and Precious
