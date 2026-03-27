@@ -37,6 +37,8 @@ width: 30%;
 
 | Document | Uploaded |
 | --- | --- |
+| [Horizon Scan on Artificial Intelligence and Deepfakes (FATF)](/files/Horizon_Scan_AI_and_Deepfakes.pdf){:target="_blank"}| Mar 2026 |
+| [Targeted Report on Stablecoins and Unhosted Wallets (FATF)](/files/targeted_report_on_stablecoins_and_unhosted_wallets.pdf){:target="_blank"}| Mar 2026 |
 | [MICE 2025](/files/MICE_20250530.pdf){:target="_blank"}| Jul 2025 |
 | [List of TF Indicators](/files/list%20of%20tf%20indicators.pdf){:target="_blank"}| Apr 2025 |
 | [Additional Guidance on Assessment of Customer Risk, Identification of Material Red Flags, Source of Wealth Establishment, and Ongoing Monitoring](/files/Additional_Guidance_PSMD.pdf){:target="_blank"}| Mar 2025 |
