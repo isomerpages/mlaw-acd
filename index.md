@@ -32,6 +32,13 @@ sections:
       title: Information for Regulated Dealers
       description: Find out more about AML/CFT/CPF from the guidance provided below
   - infopic:
+      title: Anti-Scam Guide
+      id: infopic
+      description: A go-to guide for Anti-Scam Measures
+      button: CLICK HERE TO ACCESS THE GUIDE
+      url: /files/code_of_practice_20260402.pdf
+      alt: Image alt text
+  - infopic:
       title: A Regulated Dealer’s Guide
       subtitle: Interactive guide
       description: An interactive guide to help regulated dealers comply with the
