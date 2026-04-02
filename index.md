@@ -40,6 +40,13 @@ sections:
       alt: Scam Tactics
       image: /images/scam_tactics.jpg
   - infopic:
+      title: Code of Practice
+      id: infopic
+      description: Measures to combat scam-related money laundering cases.
+      button: CLICK HERE TO ACCESS THE CODE
+      url: /files/code_of_practice_20260402.pdf
+      alt: Image alt text
+  - infopic:
       title: A Regulated Dealer’s Guide
       subtitle: Interactive guide
       description: An interactive guide to help regulated dealers comply with the
