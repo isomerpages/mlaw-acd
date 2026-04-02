@@ -32,6 +32,15 @@ sections:
       title: Information for Regulated Dealers
       description: Find out more about AML/CFT/CPF from the guidance provided below
   - infopic:
+      title: Code of Practice ("CoP")
+      id: infopic
+      description: Measures for precious stones and precious metals dealers to combat
+        scam-related money laundering cases.
+      button: CLICK HERE TO ACCESS THE COP
+      url: /files/code_of_practice_20260402.pdf
+      alt: Image alt text
+      image: /images/scam_tactics20260402.jpg
+  - infopic:
       title: A Regulated Dealer’s Guide
       subtitle: Interactive guide
       description: An interactive guide to help regulated dealers comply with the
