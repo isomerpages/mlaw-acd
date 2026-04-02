@@ -37,7 +37,8 @@ sections:
       description: A go-to guide for Anti-Scam Measures
       button: CLICK HERE TO ACCESS THE GUIDE
       url: /files/code_of_practice_20260402.pdf
-      alt: Image alt text
+      alt: Scam Tactics
+      image: /images/scam_tactics.jpg
   - infopic:
       title: A Regulated Dealer’s Guide
       subtitle: Interactive guide
