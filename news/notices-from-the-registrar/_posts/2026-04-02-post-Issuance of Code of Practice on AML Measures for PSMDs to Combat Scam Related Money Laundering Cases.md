@@ -14,7 +14,7 @@ of Money Laundering, Terrorism Financing and Proliferation Financing) Act
 2019 (“PSPM Act”), the Registrar of Regulated Dealers (the “Registrar”)
 hereby issues the Code of Practice: Anti Money Laundering Measures for
 Precious Stones and Precious Metals Dealers to Combat Scam-related Money
-Laundering Cases (the “CoP”). Click here to access the CoP.</p>
+Laundering Cases (the “CoP”). Click <a href="" rel="noopener nofollow" target="_blank">here</a> to access the CoP.</p>
 <p>The CoP has been developed in response to the evolving scam landscape
 in Singapore, where Precious Stones and Precious Metals Dealers (“PSMDs”)
 have increasingly been exploited by scammers as part of scam typologies
@@ -35,8 +35,7 @@ and its subsidiary legislation and sets out guidance on:</p>
 <p>b) Frontline response measures where potential scam indicators are identified;
 and</p>
 <p>c) Recording-keeping practices.</p>
-<p>5. The CoP adopts a structured A.C.T. framework, which requires PSMDs
-to:</p>
+<p>The CoP adopts a structured A.C.T. framework, which requires PSMDs to:</p>
 <p>a) Add immediate intervention by asking the customer for reasons behind
 the purchase;</p>
 <p>b) Check for the customer’s behaviour using the various anti-scam information;
