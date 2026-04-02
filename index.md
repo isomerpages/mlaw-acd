@@ -32,9 +32,9 @@ sections:
       title: Information for Regulated Dealers
       description: Find out more about AML/CFT/CPF from the guidance provided below
   - infopic:
-      title: Anti-Scam Guide
+      title: Code of Practice
       id: infopic
-      description: A go-to guide for Anti-Scam Measures
+      description: Measures to combat scam-related money laundering cases.
       button: CLICK HERE TO ACCESS THE GUIDE
       url: /files/code_of_practice_20260402.pdf
       alt: Scam Tactics
