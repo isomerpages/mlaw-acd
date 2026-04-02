@@ -48,5 +48,5 @@ or customer behaviour present heightened scam risk, and PSMDs may implement
 additional internal anti-scam measures beyond those specified in this CoP.</p>
 <p>Your continued vigilance and cooperation are invaluable in preventing
 scams and protecting vulnerable members of our community.</p>
-<p>Anti Money Laundering/Countering the Financing of Terrorism Division</p>
-<p>Ministry of Law</p>
+<p>Anti‑Money Laundering/Countering the Financing of Terrorism Division
+<br>Ministry of Law</p>
