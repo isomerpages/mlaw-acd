@@ -19,8 +19,7 @@ dealer is notified of the imposition of the conditions of registration.</p>
 </div>
 <p>Step 3: Click on to the link stated on the directory for Submission of
 Appeals.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Step_3___Appeal_Submission.png">
 </div>
-<p></p>
+<p>Step 4:</p>
