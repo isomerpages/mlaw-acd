@@ -22,4 +22,18 @@ Appeals.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Step_3___Appeal_Submission.png">
 </div>
-<p>Step 4:</p>
+<p>Step 4: Under the Main Category, select "Precious Stones and Precious
+Metals Dealers Matter" and then select "Appeal" for the Sub-Category.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Step_4___Appeal_Submission.png">
+</div>
+<p></p>
+<p>Step 5: Submit the appeal after all the information has been filled up
+in sections 2, 3 and 4.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Step_5___Appeal_Submission.png">
+</div>
+<p></p>
+<p></p>
+<p></p>
