@@ -28,7 +28,7 @@ width: 30%;
 | 2 |Submit a change in your company details | <a href="https://www.bizfile.gov.sg">ACRA<sup>1</sup></a>{:target="_blank"}  | [Duty to Notify Registrar of Change in Particulars and Circumstances](/other-regulatory-requirements/){:target="_blank"} |
 | 3 | Submit a Cash Transaction Report ("**CTR**") or Suspicious Transaction Report ("**STR"**) | <a href="https://www.police.gov.sg/sonar">SONAR<sup>2</sup></a>{:target="_blank"}  | [Transaction-Based Requirements](/transaction-based-requirements/){:target="_blank"} |
 | 4 | Submit semi-annual return and access monitoring lists | <a href="https://www.go.gov.sg/mypal"><i>my</i>Pal</a>{:target="_blank"}  | [Reporting Requirements](/other-regulatory-requirements/#Reporting%20Requirement){:target="_blank"} |
-| 5 | Submission of Appeals | <a href="https://eservices.mlaw.gov.sg/enquiry/">Contact Us @ OneMinLaw</a>{:target="_blank"}  | [Appeals Submission Guide](/submission-of-appeals/){:target="_blank"} |
+
 
 <br>
 <style type="text/css">
