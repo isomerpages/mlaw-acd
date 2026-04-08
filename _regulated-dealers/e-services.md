@@ -29,6 +29,7 @@ width: 30%;
 | 3 | Submit a Cash Transaction Report ("**CTR**") or Suspicious Transaction Report ("**STR"**) | <a href="https://www.police.gov.sg/sonar">SONAR<sup>2</sup></a>{:target="_blank"}  | [Transaction-Based Requirements](/transaction-based-requirements/){:target="_blank"} |
 | 4 | Submit semi-annual return and access monitoring lists | <a href="https://www.go.gov.sg/mypal"><i>my</i>Pal</a>{:target="_blank"}  | [Reporting Requirements](/other-regulatory-requirements/#Reporting%20Requirement){:target="_blank"} |
 
+
 <br>
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
