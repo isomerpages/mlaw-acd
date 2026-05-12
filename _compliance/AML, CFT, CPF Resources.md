@@ -37,7 +37,7 @@ width: 30%;
 
 | Document | Uploaded |
 | --- | --- |
-| [Singapore’s 2026 Mutual Evaluation Report (FATF)”.](/files/singapore’s_2026_mutual_evaluation_report_(fatf).pdf){:target="_blank"}| May 2026 |
+| [Singapore’s 2026 Mutual Evaluation Report (FATF)](/files/singapore’s_2026_mutual_evaluation_report_(fatf).pdf){:target="_blank"}| May 2026 |
 | [Horizon Scan on Artificial Intelligence and Deepfakes (FATF)](/files/Horizon_Scan_AI_and_Deepfakes.pdf){:target="_blank"}| Mar 2026 |
 | [Targeted Report on Stablecoins and Unhosted Wallets (FATF)](/files/targeted_report_on_stablecoins_and_unhosted_wallets.pdf){:target="_blank"}| Mar 2026 |
 | [MICE 2025](/files/MICE_20250530.pdf){:target="_blank"}| Jul 2025 |
