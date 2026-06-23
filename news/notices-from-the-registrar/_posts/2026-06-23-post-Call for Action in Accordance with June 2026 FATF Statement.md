@@ -51,4 +51,5 @@ Regulated dealers are also expected to take the List of Jurisdictions under Incr
 	<span style="font-weight:normal">Virgin Islands (UK) </span><br>
 <span style="font-weight:normal">Yemen</span><br></span></th></tr></thead></table>
 	
+
 Full details can be found at:<br></a>
