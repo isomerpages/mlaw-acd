@@ -20,9 +20,9 @@ Accordingly, under regulation 7(1) of the Precious Stones and Precious Metals (P
 * The customer, or the person on whose behalf the customer is acting on, is from or in DPRK, Iran, Myanmar, or a foreign country or territory identified to have inadequate measures to prevent money laundering, terrorism financing or proliferation financing; or
 * The transaction relates to DPRK, Iran, Myanmar, or a foreign country or territory identified to have inadequate measures to prevent money laundering, terrorism financing or proliferation financing.        
 
-Full details can be found at:<br><a href="https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/call-for-action-june-2026.html</a><br>
+Full details can be found at: [https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/call-for-action-june-2026.html](https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/call-for-action-june-2026.html)
 
-<span style=" target="_blank"> Jurisdictions under Increased Monitoring<br>
+<span style="font-weight:bold;text-decoration:underline"> Jurisdictions under Increased Monitoring</span><br>
 
 Regulated dealers are also expected to take the List of Jurisdictions under Increased Monitoring into consideration when preparing and updating their risk assessment and mitigation plans and perform enhanced customer due diligence measures, when necessary. The latest list removed Algeria and Namibia and included Bosnia and Herzegovina and Iraq.<br><br>
 <table style="border-collapse:collapse;border-spacing:0" class="tg"><thead><tr><th style="border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:17px;font-weight:normal;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal">
@@ -51,4 +51,4 @@ Regulated dealers are also expected to take the List of Jurisdictions under Incr
 	<span style="font-weight:normal">Virgin Islands (UK) </span><br>
 <span style="font-weight:normal">Yemen</span><br></span></th></tr></thead></table>
 	
-Full details can be found at: [https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/increased-monitoring-june-2026.html](https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/increased-monitoring-june-2026.html)</a>
+Full details can be found at: [https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/increased-monitoring-june-2026.html](https://www.fatf-gafi.org/en/publications/High-risk-and-other-monitored-jurisdictions/increased-monitoring-june-2026.html)
