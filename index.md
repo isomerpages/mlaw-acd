@@ -2,11 +2,13 @@
 layout: homepage
 title: Anti-Money Laundering / Countering the Financing of Terrorism Division
 permalink: /
-notification: Government officials will <b>NEVER</b> ask you to transfer money
-  or disclose bank log-in details over a phone call. Call the 24/7 ScamShield
-  Helpline at 1799 if you are unsure if something is a scam. For more
-  information, visit <a target="_blank"
-  href="https://www.scamshield.gov.sg">www.scamshield.gov.sg</a>.
+notification: 'Maintenance Notice: Our website will be unavailable on 25 June
+  2026 from 8pm - 12am. We apologise for any inconvenience caused. Government
+  officials will <b>NEVER</b> ask you to transfer money or disclose bank log-in
+  details over a phone call. Call the 24/7 ScamShield Helpline at 1799 if you
+  are unsure if something is a scam. For more information, visit <a
+  target="_blank"
+  href="https://www.scamshield.gov.sg">www.scamshield.gov.sg</a>.'
 sections:
   - hero:
       title: Regulatory Regime for Precious Stones and Precious Metals Dealers
