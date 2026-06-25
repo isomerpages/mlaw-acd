@@ -2,8 +2,8 @@
 layout: homepage
 title: Anti-Money Laundering / Countering the Financing of Terrorism Division
 permalink: /
-notification: 'Scheduled Maintenance Notice: Our website will be unavailable on
-  25 June 2026 from 8.00pm to 12.00am (SGT). We apologise for any inconvenience
+notification: 'Maintenance Notice: Our website will be unavailable on 25 June
+  2026 from 8.00pm to 12.00am (SGT). We apologise for any inconvenience
   caused.  Government officials will <b>NEVER</b> ask you to transfer money or
   disclose bank log-in details over a phone call. Call the 24/7 ScamShield
   Helpline at 1799 if you are unsure if something is a scam. For more
